@@ -1,12 +1,12 @@
 ---
-activation_count: 2.1
+activation_count: 3
 arousal: 0.3
 created: '2026-06-14T16:50:57'
 domain:
 - 梗
 id: a5fdb4ec615d
 importance: 7
-last_active: '2026-06-14T16:53:24'
+last_active: '2026-07-25T18:11:21'
 name: 甜蜜梗合集称呼与名场面
 tags:
 - 梗
