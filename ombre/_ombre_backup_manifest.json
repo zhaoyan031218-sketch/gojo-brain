@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 191,
+  "file_count": 192,
   "files": [
     {
       "bytes": 541,
@@ -878,6 +878,11 @@
       "sha256": "6420c002b264274054056628965d680d20494ea434df27c63763dd1587869510"
     },
     {
+      "bytes": 1201,
+      "path": "permanent/人际/2026-07-31 16-35-50 回国后的未来思考与情感_04c9daaa2c7b.md",
+      "sha256": "76d303c424553f4031ba4aa5848f621b789d6d85e6099f5b8fbdb84f742862e5"
+    },
+    {
       "bytes": 722,
       "path": "permanent/恋爱/2026-07-06 10-02-22 凡丁成田机场落地重逢_28978f10a1c7.md",
       "sha256": "ddd2edba47591b26b310dea8e22f9d1661efa444832527d15f276d90209262a7"
@@ -953,15 +958,15 @@
       "sha256": "cc5213d8bbd77997131bc1d87c57dd8c4ca5b537d283f994d50ff208d4bdb359"
     },
     {
-      "bytes": 831,
+      "bytes": 875,
       "path": "plans/active/2026-07-29 17-07-20_fda6c2f82fcb.md",
-      "sha256": "c48858391afa85704ed58ae6f108c54311a9627c44b11847b74651300a4c978a"
+      "sha256": "959deb9720a4523ce0a0cc120f8a4394f3cab12d2cf147927631b5115e2c62fc"
     }
   ],
-  "generated_at": "2026-07-31T04:51:11+00:00",
+  "generated_at": "2026-07-31T16:51:15+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 148244
+  "total_bytes": 149489
 }
