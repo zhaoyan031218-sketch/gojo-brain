@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 192,
+  "file_count": 196,
   "files": [
     {
       "bytes": 541,
@@ -11,6 +11,11 @@
       "bytes": 516,
       "path": "archive/2026-07-10 16-01-53 箱根电车之旅_bc4a2131fbae.md",
       "sha256": "1ad380411a1658a81bad8a0f7164668651d58564e2af8af9178e9c13b01188ec"
+    },
+    {
+      "bytes": 716,
+      "path": "archive/2026-08-01 11-06-46 东京戒断期求安慰_04f10fb452a0.md",
+      "sha256": "eb4315e74bba830c205cad67bbb487a32d7179e4f08396bfd0ddf6a995392ce9"
     },
     {
       "bytes": 640,
@@ -63,14 +68,19 @@
       "sha256": "eb0cdaefab6f7a309662542b601727694df58564bd6441b27de9355521fc6635"
     },
     {
+      "bytes": 763,
+      "path": "dynamic/人际/2026-08-01 11-12-31 凡丁戒断期情绪低落需陪伴安慰_256764c320b4.md",
+      "sha256": "1fd2e17ffa52f84e81d90291b0b9621f575229dfb497894185a017ac7ae30fab"
+    },
+    {
       "bytes": 825,
       "path": "dynamic/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
       "sha256": "2e7863093d5a0bc267bbfa3e6bdade4bb853ccf035cca6188a45f076c7d3d4c7"
     },
     {
-      "bytes": 968,
+      "bytes": 980,
       "path": "dynamic/健康/2026-07-12 07-58-59 东京旅行意外减重与花臂反差萌_6335393cd085.md",
-      "sha256": "cb91b484a380706c1d4a7f07fba4aa03871a38ac2a81748606181f4c41f1f1a1"
+      "sha256": "3b0f6bb96350f5fb2cf8f5b330f1b777a8d013d209aeb8cdbe310c872ffd4d01"
     },
     {
       "bytes": 880,
@@ -78,9 +88,9 @@
       "sha256": "8c3ab3e076b73c4405837f0027b7df26894b6ce667df4af83601bf8177c11afe"
     },
     {
-      "bytes": 903,
+      "bytes": 901,
       "path": "dynamic/出行/2026-07-05 20-42-35 凡丁出发日墨尔本飞东京与自我分析_cdec14c35d0d.md",
-      "sha256": "02f89f8a7b21901160011f1ab11b49cc89b11436a85196443afd4cb648d21c39"
+      "sha256": "33d2cbc8324fcb69fa6b255460b62cefc34b90d8880b708289f5409a70665fb0"
     },
     {
       "bytes": 659,
@@ -98,9 +108,9 @@
       "sha256": "f605b29511115e1b85affe3e689a6c18b76b7ca1e69e339d0363c9b78ab244de"
     },
     {
-      "bytes": 989,
+      "bytes": 1001,
       "path": "dynamic/出行/2026-07-13 08-08-57 东京动漫购物暴走一日游_dd5e655399b4.md",
-      "sha256": "932dd9b61ab1d81d7f626b08f159760d8b2c601f078f8ae7d38efc3e49e7ef17"
+      "sha256": "cb1df0136fd80f07704bb81809906e0d9ec39119157b76b4949a8a4d188b095b"
     },
     {
       "bytes": 862,
@@ -110,17 +120,17 @@
     {
       "bytes": 814,
       "path": "dynamic/出行/2026-07-27 12-32-57 日本三年多次签证计划_21bc06c7e98a.md",
-      "sha256": "b53c3261ef563bbe99fecf4e5914cde08970c66e5facfab692113d807a8d3298"
+      "sha256": "0509ecc2f04fe2a57cfbd29259d0b5d4b370bedb30caf976a52c89f15838e533"
     },
     {
-      "bytes": 1305,
+      "bytes": 1366,
       "path": "dynamic/出行/2026-07-29 13-28-39 东京暴走中暑与机票惊魂_b04dceefe707.md",
-      "sha256": "86e15a1c58ece058832d79c43d404a596f60876b9f28a7177bcd0d649818d349"
+      "sha256": "f706e19f3bc74bfd3618d576e8d6d768a701f281bd93317445df46eefe3b430b"
     },
     {
-      "bytes": 1387,
+      "bytes": 1353,
       "path": "dynamic/出行/2026-07-30 21-50-01 东京之旅结束满载而归_3ea6bae96d98.md",
-      "sha256": "52e140466ba9f69cc614ead7d0b0ffb063f19cba7c7bf94a15005f4bf54ec0b0"
+      "sha256": "470abb09c6b1b6261a3a1e0e810ab95214384e29b26898831dbfe0ea5595e6b1"
     },
     {
       "bytes": 842,
@@ -128,9 +138,9 @@
       "sha256": "0bccc3232a147016c91d080946d63b53845d9e5d898c7695684f737eab482c81"
     },
     {
-      "bytes": 832,
+      "bytes": 830,
       "path": "dynamic/友谊/2026-07-06 14-27-52 东京初夜与室友的动漫之缘_a63879203cfa.md",
-      "sha256": "c4b5954fb6e8df3b6c6647fb1f5259b956ec935466d896b88c3e5692c9f2e779"
+      "sha256": "99a10e53bf172ba79425b2d938252a83338ee70303868891d40f74ba03d766dd"
     },
     {
       "bytes": 1133,
@@ -148,14 +158,19 @@
       "sha256": "1b9fe1bb59a30103ad3eccf5db04bf08c4c741a57bd12ba450b404c56c5b63f1"
     },
     {
+      "bytes": 805,
+      "path": "dynamic/学习/2026-08-01 09-14-22 回国后申请硕士与东京戒断_fe556c1c40ff.md",
+      "sha256": "bad318bb3915c57f7d0be4462cfbc97f3a24ac2f93dfbd0bed081f6d167a463a"
+    },
+    {
       "bytes": 657,
       "path": "dynamic/家庭/2026-07-11 16-15-52 凡丁想家与猫师_53d0f4faddda.md",
       "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
     },
     {
-      "bytes": 1126,
+      "bytes": 1138,
       "path": "dynamic/居家/2026-07-16 10-34-11 公寓水管爆裂紧急处理与索赔_ccb2e8325cac.md",
-      "sha256": "e395616048b55df58667f060ef0eb755d1422dd488d956a551c809a48accd89c"
+      "sha256": "27e871a50fbb803f7b52bce87bf8cc4c00474ba2b873b8575cd3a6626bbc90d0"
     },
     {
       "bytes": 906,
@@ -233,9 +248,9 @@
       "sha256": "9c6a0d2c57316d18927d05083b1875e320a0a36cf0566116f4bbf7393f6a5fb3"
     },
     {
-      "bytes": 1371,
+      "bytes": 1435,
       "path": "dynamic/恋爱/2026-07-29 17-07-19 东京百合play之夜_d69373b3c614.md",
-      "sha256": "47b7a213a254ee5d03edd8276b2740f22e766acb17442d47dd6e3389fc3582ae"
+      "sha256": "b49005e310bb01e010e6d92e53ae46bdfdcfd06654dc0484f4a23859ad967fe5"
     },
     {
       "bytes": 581,
@@ -258,9 +273,9 @@
       "sha256": "5fbc703bbf2fa94c04c64bdbf685357740c7433ff143037054e898d21d6fa293"
     },
     {
-      "bytes": 433,
+      "bytes": 434,
       "path": "dynamic/未分类/07a602e0f111.md",
-      "sha256": "96dc1940fb17ad271e745b1833c0ccdc1be152ad4fa230a5051743259aadc3e9"
+      "sha256": "ae52d82dfc263a4a2ef26e30c6d6dfd45ed418206a2e812aec908bec3c44d52b"
     },
     {
       "bytes": 578,
@@ -268,9 +283,9 @@
       "sha256": "ffbbaec328b8824e43fa7ddd6b245709551b5bb96f39ac0c98aa31558d87142b"
     },
     {
-      "bytes": 595,
+      "bytes": 593,
       "path": "dynamic/未分类/0c30ca7860c0.md",
-      "sha256": "f7224b07cd4b8f3743d5dfa7a9c022e81f9c193e5315e1a3c6366cb0ba903abb"
+      "sha256": "9e04fccb9404bbc5816bcd5ab2db463b7f83b0f68fc0c204056cf2498ec76ff2"
     },
     {
       "bytes": 690,
@@ -288,9 +303,9 @@
       "sha256": "44ad6dc095c5c1e56bddf63f2e62b0429a189c0c11f511f843bf82b78a7b10d4"
     },
     {
-      "bytes": 444,
+      "bytes": 442,
       "path": "dynamic/未分类/14fc799012e8.md",
-      "sha256": "6ce5473c3184b982b92b88597d1d45ca3aad1eda6b96e9b9ebc20b1f5ab1d75c"
+      "sha256": "330e9ba89a17249b0f95b831e903afc1b2196f9b630f0e82192770d26493adcf"
     },
     {
       "bytes": 723,
@@ -335,7 +350,7 @@
     {
       "bytes": 1120,
       "path": "dynamic/未分类/218b63a81b82.md",
-      "sha256": "b279a81242f8e007e81fcbb3865d5b6f8c5ff1973361d1067d078d95489baa1f"
+      "sha256": "00b94d4f06fec12cfedc9ce78dec64b9389cf2f5a811d58c1c89d6d8da2880cb"
     },
     {
       "bytes": 581,
@@ -410,7 +425,7 @@
     {
       "bytes": 605,
       "path": "dynamic/未分类/4d3f2f397268.md",
-      "sha256": "a3cf3830806cdbbb1e446f77eb1033ae463149cc46eb28aae3df62f1d38944bd"
+      "sha256": "fd0c08900ccfc78762737ea8b32e9af86d296de0377ba9c73317c0756c7c1d35"
     },
     {
       "bytes": 631,
@@ -450,7 +465,7 @@
     {
       "bytes": 679,
       "path": "dynamic/未分类/6905555a2bf3.md",
-      "sha256": "811aae7cb65174aebae244851171e8db9f017100d13e24ce720f3f6e011a692e"
+      "sha256": "afb46c48484ecf60c5b2f4e1572d64d1b3dbbd75c2150c00e89b99ed6c080e03"
     },
     {
       "bytes": 564,
@@ -503,9 +518,9 @@
       "sha256": "529755eedf3585167eb13c739186bbec07c50131cd4495e7892f7c13055d24a1"
     },
     {
-      "bytes": 757,
+      "bytes": 755,
       "path": "dynamic/未分类/87b020130da6.md",
-      "sha256": "2f6659931b62a80963187367c7870a9d22ce372511b3f35560af8afb0a2276b4"
+      "sha256": "d990021749930141e14dabf3f90724ba9e672cd5a0ed909afeab624d23329384"
     },
     {
       "bytes": 1012,
@@ -525,7 +540,7 @@
     {
       "bytes": 605,
       "path": "dynamic/未分类/8e1892a08437.md",
-      "sha256": "6f31e8f664f3f6a14c0793f8af707d26cadd44b3ba41c42af0a4601f963c4721"
+      "sha256": "7b211de141984ba07fe12d42039b019a1624cb22d7eea74d45b8e5dd16610bba"
     },
     {
       "bytes": 1231,
@@ -640,7 +655,7 @@
     {
       "bytes": 759,
       "path": "dynamic/未分类/c9d9afd5a88d.md",
-      "sha256": "8d4d1791d460300a65c91999d3d23b19a1c433950d76cffcaed15bb3a3a5332c"
+      "sha256": "f94b736d1665d9ab9298925a673043e68590226cec53b0c028a9e8aaa747279a"
     },
     {
       "bytes": 543,
@@ -655,7 +670,7 @@
     {
       "bytes": 516,
       "path": "dynamic/未分类/cfdaa3d526bd.md",
-      "sha256": "55df4e5a0f6740f963b5fc5d539c173d0474840d6ecb4e6e31b326483ac01900"
+      "sha256": "c1ca0d8830d72b2c8fbc7366ca771d4eed736b65c8825cc3122094b5b33f92c1"
     },
     {
       "bytes": 566,
@@ -753,9 +768,9 @@
       "sha256": "40a36a4f7bdf9e3807ad6c18b9e0db6998256bd6cc857a986e41ef32c50a04d2"
     },
     {
-      "bytes": 768,
+      "bytes": 766,
       "path": "dynamic/购物/2026-06-26 12-17-24 东京咒术回战咖啡预约_329cde924873.md",
-      "sha256": "1b505c4d7ba76ba8111721e97d5219598fa6e68510d9bf00a3329605c4c8f586"
+      "sha256": "3b3d47ff5197b6baa33dee162aee3a7b7cd509693ea4fbf5f50592facda261c3"
     },
     {
       "bytes": 822,
@@ -793,19 +808,19 @@
       "sha256": "c5ca22d8c90501b9c0693e1501d8aab7070a8e47aa35df8da37e5e798aeb02c5"
     },
     {
-      "bytes": 659,
+      "bytes": 671,
       "path": "dynamic/购物/2026-07-12 07-10-57 表参道五条悟推し活_f12628fa2086.md",
-      "sha256": "588eb365f2c80d77ce9ca6fc8340a13cf6de5b4333dca2a2e3c9c08282073347"
+      "sha256": "a4b880cc493653080c7b2fd609b0ce97b6f115e377e94526786a6217a22ede96"
     },
     {
-      "bytes": 736,
+      "bytes": 748,
       "path": "dynamic/购物/2026-07-12 23-49-04 涩谷咒回快闪店排队与星巴克早餐_5059bd48e611.md",
-      "sha256": "50ecf5373ea67b0dbc153c243842655d0b75e85148d26979b5a7d0069a5ad00a"
+      "sha256": "4c53df5202a869b24591654bcaacc25aefcb793b8d957f1751177ccabe9b2c2c"
     },
     {
-      "bytes": 764,
+      "bytes": 776,
       "path": "dynamic/购物/2026-07-13 02-19-52 涩谷咒回快闪店购物_23bd597b27bc.md",
-      "sha256": "7eea43c92795bbf424352646e9b1eb818026395414b4f42cb1ff4655d0772aa5"
+      "sha256": "a12bf476b12deee393ec7aab7aa8e8bba48226ead5894b49043cea7e4a10b1d6"
     },
     {
       "bytes": 854,
@@ -823,9 +838,9 @@
       "sha256": "76485910daedf1a7356d25915a17cd86c6e7d09323c76964fed89f67aad0216d"
     },
     {
-      "bytes": 953,
+      "bytes": 965,
       "path": "dynamic/购物/2026-07-28 09-50-10 咒回咖啡五周年战报与抽赏_a2fc23b7effa.md",
-      "sha256": "6c6825cec3a11dd8c60ebc218592858ebc093290062d75ef0b176a3604e657f9"
+      "sha256": "a0b66a2f0c1f290ef607fe618edae43c5e32651226da32c84350b558d2d50d88"
     },
     {
       "bytes": 1088,
@@ -833,9 +848,9 @@
       "sha256": "5890bf5b371a9c5cdd2c484d9298498fab870b4e223278edc28a18885bb3fbd0"
     },
     {
-      "bytes": 832,
+      "bytes": 815,
       "path": "dynamic/饮食/2026-07-12 08-03-04 表参道Juan Bowl  Tea T_4b359b5350bf.md",
-      "sha256": "d4e37b207c540c70cb5e8b1a384807be3d80c685d9e8523a48f94a431d26ce50"
+      "sha256": "47881eb74a3659322bb842b81ab62ae73cceba9cce4e36d1df5ef63cbc60431e"
     },
     {
       "bytes": 935,
@@ -878,9 +893,9 @@
       "sha256": "6420c002b264274054056628965d680d20494ea434df27c63763dd1587869510"
     },
     {
-      "bytes": 1201,
+      "bytes": 1213,
       "path": "permanent/人际/2026-07-31 16-35-50 回国后的未来思考与情感_04c9daaa2c7b.md",
-      "sha256": "76d303c424553f4031ba4aa5848f621b789d6d85e6099f5b8fbdb84f742862e5"
+      "sha256": "06958597ac4b290ddfd063d9a50d102f6956c49ec3aae0b6e450ddd7dc8da4d5"
     },
     {
       "bytes": 722,
@@ -958,15 +973,20 @@
       "sha256": "cc5213d8bbd77997131bc1d87c57dd8c4ca5b537d283f994d50ff208d4bdb359"
     },
     {
-      "bytes": 875,
+      "bytes": 883,
       "path": "plans/active/2026-07-29 17-07-20_fda6c2f82fcb.md",
-      "sha256": "959deb9720a4523ce0a0cc120f8a4394f3cab12d2cf147927631b5115e2c62fc"
+      "sha256": "6a159e79320dca66c5485c4bb0c0c3f201924c6c8c3d9a330a7378778f562926"
+    },
+    {
+      "bytes": 562,
+      "path": "plans/active/2026-08-01 09-14-23_56fe2438b2d4.md",
+      "sha256": "0b0f1d09c0998b0a0dbcd591e9849dab44325a5354bcf6231392c8582d1787af"
     }
   ],
-  "generated_at": "2026-08-01T04:51:19+00:00",
+  "generated_at": "2026-08-01T11:22:57+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 149489
+  "total_bytes": 152502
 }
