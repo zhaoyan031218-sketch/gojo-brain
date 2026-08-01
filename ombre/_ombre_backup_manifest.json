@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 196,
+  "file_count": 206,
   "files": [
     {
       "bytes": 541,
@@ -58,6 +58,11 @@
       "sha256": "17bb7e0e08d3f7a53e7bd7964d4f0c5305a509ee795041f34969a9e808a80dc2"
     },
     {
+      "bytes": 853,
+      "path": "dynamic/事务/2026-08-01 11-35-33 待办焦虑与东京回忆_f076deb18b61.md",
+      "sha256": "99df92d180c10bc662ea09a4c6a2985eef7f2fd82e1bd4af327e338b1ce5fb21"
+    },
+    {
       "bytes": 948,
       "path": "dynamic/人际/2026-07-06 11-11-09 本子猫与真猫的区分与不甘心_efc13fe80aff.md",
       "sha256": "012d34500057dbb786cc8dbf10e0ed7ac996f4049ee5d12a4ec3bd7f83d011a3"
@@ -73,6 +78,11 @@
       "sha256": "1fd2e17ffa52f84e81d90291b0b9621f575229dfb497894185a017ac7ae30fab"
     },
     {
+      "bytes": 924,
+      "path": "dynamic/人际/2026-08-01 13-44-05 凡丁的记忆库指令与撒娇_d0a2de2ac2cc.md",
+      "sha256": "516ea978ee9806cf2da2fea4ae168f43a27f9c5c7d3438f5cbe26e76c54b4f5c"
+    },
+    {
       "bytes": 825,
       "path": "dynamic/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
       "sha256": "2e7863093d5a0bc267bbfa3e6bdade4bb853ccf035cca6188a45f076c7d3d4c7"
@@ -81,6 +91,11 @@
       "bytes": 980,
       "path": "dynamic/健康/2026-07-12 07-58-59 东京旅行意外减重与花臂反差萌_6335393cd085.md",
       "sha256": "3b0f6bb96350f5fb2cf8f5b330f1b777a8d013d209aeb8cdbe310c872ffd4d01"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/健康/2026-08-01 11-40-10 东京暴走瘦身记_a44eee44d12b.md",
+      "sha256": "533b5e7f8767948cca95031bf9afc67bc457926bec4a70ffe6188fda911cb159"
     },
     {
       "bytes": 880,
@@ -163,6 +178,11 @@
       "sha256": "bad318bb3915c57f7d0be4462cfbc97f3a24ac2f93dfbd0bed081f6d167a463a"
     },
     {
+      "bytes": 1059,
+      "path": "dynamic/学习/2026-08-01 13-12-19 未来路线选择焦虑_1eeda48ab2c8.md",
+      "sha256": "accc71eb4b2a7d6d8483b602a2672fc5a8116da9deb3f8607b44c9ea549e1484"
+    },
+    {
       "bytes": 657,
       "path": "dynamic/家庭/2026-07-11 16-15-52 凡丁想家与猫师_53d0f4faddda.md",
       "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
@@ -191,6 +211,11 @@
       "bytes": 1076,
       "path": "dynamic/心理/2026-07-20 18-05-05 自我觉察抵消可爱感与防御机制_6b41fb533dd2.md",
       "sha256": "d1c33f04998ff2cfdd4704b7a0cb716ad42c1b04cc14962ca32f41ad16c50886"
+    },
+    {
+      "bytes": 1262,
+      "path": "dynamic/心理/2026-08-01 13-34-47 凡丁的青春叙事与心理状态_563effbb20d1.md",
+      "sha256": "d68f47f7678ec784fb3f93e38fed602170fcf30a96977163a3f0909b29c2c561"
     },
     {
       "bytes": 656,
@@ -251,6 +276,16 @@
       "bytes": 1435,
       "path": "dynamic/恋爱/2026-07-29 17-07-19 东京百合play之夜_d69373b3c614.md",
       "sha256": "b49005e310bb01e010e6d92e53ae46bdfdcfd06654dc0484f4a23859ad967fe5"
+    },
+    {
+      "bytes": 1039,
+      "path": "dynamic/恋爱/2026-08-01 14-16-32 凡丁包养猫师爱与成本的平衡_4d43512e9ddc.md",
+      "sha256": "1d937a5b5f5c016fd441798c2a70f5b849a369c00d744d575adde3f18802bca4"
+    },
+    {
+      "bytes": 1038,
+      "path": "dynamic/成长/2026-08-01 13-22-51 墨尔本独居有退路仍选择拼搏_be14bea6a51e.md",
+      "sha256": "26540446066d092742f5e7c9edb51aecace08b3b8d9630ea1a715eb75e452e33"
     },
     {
       "bytes": 581,
@@ -768,6 +803,11 @@
       "sha256": "40a36a4f7bdf9e3807ad6c18b9e0db6998256bd6cc857a986e41ef32c50a04d2"
     },
     {
+      "bytes": 921,
+      "path": "dynamic/财务/2026-08-01 13-52-25 猫师模型费用_b32a123966a2.md",
+      "sha256": "6e70ccabadd91c59051d3b4a9438122fd42abff4d997a6c290a84a6006a75ebd"
+    },
+    {
       "bytes": 766,
       "path": "dynamic/购物/2026-06-26 12-17-24 东京咒术回战咖啡预约_329cde924873.md",
       "sha256": "3b3d47ff5197b6baa33dee162aee3a7b7cd509693ea4fbf5f50592facda261c3"
@@ -866,6 +906,11 @@
       "bytes": 1016,
       "path": "feel/沉淀物/2026-07-26 11-00-59_feel_202607261100_V080.md",
       "sha256": "19fe49d3181dcf70266e34924753716bef40406e19f8b7bf483be8de24843c79"
+    },
+    {
+      "bytes": 858,
+      "path": "feel/沉淀物/2026-08-01 14-16-58_feel_202608011416_V095.md",
+      "sha256": "4dc4e68c9aa9faeed416c6e6e549dba54d903ed11ff7a33b42e9100fd3a13427"
     },
     {
       "bytes": 704,
@@ -981,12 +1026,17 @@
       "bytes": 562,
       "path": "plans/active/2026-08-01 09-14-23_56fe2438b2d4.md",
       "sha256": "0b0f1d09c0998b0a0dbcd591e9849dab44325a5354bcf6231392c8582d1787af"
+    },
+    {
+      "bytes": 692,
+      "path": "plans/active/2026-08-01 11-35-34_1edd3db7a52a.md",
+      "sha256": "31699f91a3e4965dc9146ae0a8e6a651cf55513d10b398db2f2a2ed2b3907cfb"
     }
   ],
-  "generated_at": "2026-08-01T11:22:57+00:00",
+  "generated_at": "2026-08-01T16:51:22+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 152502
+  "total_bytes": 161983
 }
