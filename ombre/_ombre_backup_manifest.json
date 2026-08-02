@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 206,
+  "file_count": 207,
   "files": [
     {
       "bytes": 541,
@@ -151,6 +151,11 @@
       "bytes": 842,
       "path": "dynamic/创作/2026-07-02 22-45-11 为爱发电创作猫师同人_a35f167906ee.md",
       "sha256": "0bccc3232a147016c91d080946d63b53845d9e5d898c7695684f737eab482c81"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/创作/2026-08-01 17-09-46 创作疗愈戒断反应_696b6447496f.md",
+      "sha256": "ddde0576e7129e992d4cd42c767e9422d50232015d0cdfd94411e66af6d9d83e"
     },
     {
       "bytes": 830,
@@ -1033,10 +1038,10 @@
       "sha256": "31699f91a3e4965dc9146ae0a8e6a651cf55513d10b398db2f2a2ed2b3907cfb"
     }
   ],
-  "generated_at": "2026-08-01T16:51:22+00:00",
+  "generated_at": "2026-08-02T04:51:26+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 161983
+  "total_bytes": 162818
 }
