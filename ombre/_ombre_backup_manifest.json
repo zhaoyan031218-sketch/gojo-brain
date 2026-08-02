@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 207,
+  "file_count": 209,
   "files": [
     {
       "bytes": 541,
@@ -188,6 +188,11 @@
       "sha256": "accc71eb4b2a7d6d8483b602a2672fc5a8116da9deb3f8607b44c9ea549e1484"
     },
     {
+      "bytes": 1054,
+      "path": "dynamic/学习/2026-08-02 15-00-52 移民与职业规划中学教师之路_6ded8344d5ed.md",
+      "sha256": "ac7722425f1665098f113080586f7bbbfeceeea84083864575db56d45804f462"
+    },
+    {
       "bytes": 657,
       "path": "dynamic/家庭/2026-07-11 16-15-52 凡丁想家与猫师_53d0f4faddda.md",
       "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
@@ -196,6 +201,11 @@
       "bytes": 1138,
       "path": "dynamic/居家/2026-07-16 10-34-11 公寓水管爆裂紧急处理与索赔_ccb2e8325cac.md",
       "sha256": "27e871a50fbb803f7b52bce87bf8cc4c00474ba2b873b8575cd3a6626bbc90d0"
+    },
+    {
+      "bytes": 1083,
+      "path": "dynamic/居家/2026-08-02 09-54-45 整理东京带回的本子与搬家焦虑_88ae8701d2fb.md",
+      "sha256": "0431a398a24fd87b78241f7830c54cbcc7033d5b89df8bfe31de2e370456bf6e"
     },
     {
       "bytes": 906,
@@ -618,9 +628,9 @@
       "sha256": "f5ec48ff9c78620435cadd0d91acf320124085caaf236734d5b2850885158a86"
     },
     {
-      "bytes": 981,
+      "bytes": 556,
       "path": "dynamic/未分类/9825276bd940.md",
-      "sha256": "3789b425afa055bc07b1e72db9aa41a8f46b595a200c7d49a5d210d2e974d4c4"
+      "sha256": "39d701f178e2437bdd4682911978ee5c901ee8dbe8de1fec1dd48a28ee3cac01"
     },
     {
       "bytes": 687,
@@ -1038,10 +1048,10 @@
       "sha256": "31699f91a3e4965dc9146ae0a8e6a651cf55513d10b398db2f2a2ed2b3907cfb"
     }
   ],
-  "generated_at": "2026-08-02T04:51:26+00:00",
+  "generated_at": "2026-08-02T16:51:31+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 162818
+  "total_bytes": 164530
 }
