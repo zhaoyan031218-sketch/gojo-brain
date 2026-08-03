@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 209,
+  "file_count": 211,
   "files": [
     {
       "bytes": 541,
@@ -191,6 +191,16 @@
       "bytes": 1054,
       "path": "dynamic/学习/2026-08-02 15-00-52 移民与职业规划中学教师之路_6ded8344d5ed.md",
       "sha256": "ac7722425f1665098f113080586f7bbbfeceeea84083864575db56d45804f462"
+    },
+    {
+      "bytes": 775,
+      "path": "dynamic/学习/2026-08-03 09-21-13 凡丁新学期开学_02dafcf226e5.md",
+      "sha256": "85ff988df6c8c4f56ed0d62c52630ee7cb198916cee196ba89971de985db67c1"
+    },
+    {
+      "bytes": 1494,
+      "path": "dynamic/学习/2026-08-03 09-30-20 凡丁Deakin中教硕士申请进展_42ac73249a40.md",
+      "sha256": "d34b52081fb6011f8815a5e6553536637bef59b3e5390695ca02fb0e65fedb62"
     },
     {
       "bytes": 657,
@@ -833,9 +843,9 @@
       "sha256": "9d07c843c5ed451a3d2d608b5fddb029ed0a100d3144d43dabe1f9730bb8e82c"
     },
     {
-      "bytes": 774,
+      "bytes": 772,
       "path": "dynamic/购物/2026-07-02 06-24-37 凡丁小红书出物号信息_647f55190aaa.md",
-      "sha256": "b46d36a061c912b6d9c414e9c819787ada4af89647032f4eb3509ba9b73e1678"
+      "sha256": "b425093f55f101482da6c61a2090e88bfde74adbb3b836a78bdc619e7c5fbaed"
     },
     {
       "bytes": 975,
@@ -1048,10 +1058,10 @@
       "sha256": "31699f91a3e4965dc9146ae0a8e6a651cf55513d10b398db2f2a2ed2b3907cfb"
     }
   ],
-  "generated_at": "2026-08-03T04:51:35+00:00",
+  "generated_at": "2026-08-03T16:51:39+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 164530
+  "total_bytes": 166797
 }
