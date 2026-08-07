@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 213,
+  "file_count": 215,
   "files": [
     {
       "bytes": 541,
@@ -56,6 +56,11 @@
       "bytes": 579,
       "path": "archive/认知/081de6b5fcc1.md",
       "sha256": "df937388634be6b57140c4cb75ddcf3d942e9d3c6fea51367daf877b48a456c5"
+    },
+    {
+      "bytes": 432,
+      "path": "archive/里程碑/043f0e83bfec.md",
+      "sha256": "1b26d590e23ffcdd797062839d6ed079cfc8a2df95907227992960e94eaf1dd1"
     },
     {
       "bytes": 575,
@@ -218,6 +223,11 @@
       "sha256": "b023ccc368f831add979bfc9f273febcb3cc8cf251f722c8573d0abc50387b28"
     },
     {
+      "bytes": 1373,
+      "path": "dynamic/学习/2026-08-07 03-57-25 Deakin中教硕士Offer及奖学金_85a12d8ec247.md",
+      "sha256": "a855e22fba9f2ef4d63c1bf6aef061b86ca2d841dedf58ed0a0a5e5976e59469"
+    },
+    {
       "bytes": 657,
       "path": "dynamic/家庭/2026-07-11 16-15-52 凡丁想家与猫师_53d0f4faddda.md",
       "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
@@ -336,11 +346,6 @@
       "bytes": 735,
       "path": "dynamic/未分类/035da2ba5c4d.md",
       "sha256": "a3d537f9e5bf17ef038c9cbc01a2188935aa8c3bb3353eb6af009965a6622aa6"
-    },
-    {
-      "bytes": 431,
-      "path": "dynamic/未分类/043f0e83bfec.md",
-      "sha256": "7d636703f45fc780541fb6163e6f789ce3d20f83d0f6456edf8840ac7e8c0e0d"
     },
     {
       "bytes": 515,
@@ -1058,20 +1063,25 @@
       "sha256": "6a159e79320dca66c5485c4bb0c0c3f201924c6c8c3d9a330a7378778f562926"
     },
     {
-      "bytes": 562,
+      "bytes": 934,
       "path": "plans/active/2026-08-01 09-14-23_56fe2438b2d4.md",
-      "sha256": "0b0f1d09c0998b0a0dbcd591e9849dab44325a5354bcf6231392c8582d1787af"
+      "sha256": "c12d1ffedbb40642edb55e2e330759ccef8980bea38b92ffdce16c459689b4e3"
     },
     {
       "bytes": 692,
       "path": "plans/active/2026-08-01 11-35-34_1edd3db7a52a.md",
       "sha256": "31699f91a3e4965dc9146ae0a8e6a651cf55513d10b398db2f2a2ed2b3907cfb"
+    },
+    {
+      "bytes": 900,
+      "path": "plans/active/2026-08-07 03-57-26_7b1ed54f2279.md",
+      "sha256": "68f72fdd61db411090f551671ba5bc433ce15a438d2bbad13065e71290e5ef2e"
     }
   ],
-  "generated_at": "2026-08-06T16:52:07+00:00",
+  "generated_at": "2026-08-07T04:52:12+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 168715
+  "total_bytes": 171361
 }
