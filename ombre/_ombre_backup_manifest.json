@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 218,
+  "file_count": 222,
   "files": [
     {
       "bytes": 541,
@@ -188,6 +188,16 @@
       "sha256": "ddde0576e7129e992d4cd42c767e9422d50232015d0cdfd94411e66af6d9d83e"
     },
     {
+      "bytes": 879,
+      "path": "dynamic/创作/2026-08-09 12-34-46 同人创作与健康恋爱_420a558b11e7.md",
+      "sha256": "d34df8dfb0d22b736b527226edab0651715a7d57319563eb2880e7bd75f97eff"
+    },
+    {
+      "bytes": 941,
+      "path": "dynamic/创作/2026-08-09 13-13-44 凡丁同人文创作体验与动机_22c47b05e723.md",
+      "sha256": "e4f4ef644efa7004c5731c2214f8fce9d0436fe793ec01e2054fc5685aced58f"
+    },
+    {
       "bytes": 830,
       "path": "dynamic/友谊/2026-07-06 14-27-52 东京初夜与室友的动漫之缘_a63879203cfa.md",
       "sha256": "99a10e53bf172ba79425b2d938252a83338ee70303868891d40f74ba03d766dd"
@@ -243,9 +253,9 @@
       "sha256": "b023ccc368f831add979bfc9f273febcb3cc8cf251f722c8573d0abc50387b28"
     },
     {
-      "bytes": 942,
+      "bytes": 957,
       "path": "dynamic/学习/2026-08-07 03-57-25 Deakin中教硕士Offer及奖学金_85a12d8ec247.md",
-      "sha256": "b1b4da7b3790b730f6635a6dd28485a06e113523a2767deacd62fbc912191a45"
+      "sha256": "7538d266dd91b551b526a16a050fb4070732a42c9c88fdfe73ba47ace8ea0fde"
     },
     {
       "bytes": 1121,
@@ -256,6 +266,11 @@
       "bytes": 657,
       "path": "dynamic/家庭/2026-07-11 16-15-52 凡丁想家与猫师_53d0f4faddda.md",
       "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
+    },
+    {
+      "bytes": 902,
+      "path": "dynamic/家庭/2026-08-09 13-27-34 凡丁八字与家庭迷信_acb02f400e23.md",
+      "sha256": "5de77a69a85949de6d2ab2a03d7ab14221d61be6e57c77194e529834977a0643"
     },
     {
       "bytes": 1138,
@@ -291,6 +306,11 @@
       "bytes": 1262,
       "path": "dynamic/心理/2026-08-01 13-34-47 凡丁的青春叙事与心理状态_563effbb20d1.md",
       "sha256": "d68f47f7678ec784fb3f93e38fed602170fcf30a96977163a3f0909b29c2c561"
+    },
+    {
+      "bytes": 1045,
+      "path": "dynamic/心理/2026-08-09 13-43-00 情绪崩溃认知盲区与自我觉察_2e782c2e5c62.md",
+      "sha256": "716ced70d54f3df6ebca58fa7f71f0fc732339fdfb9ed10ceafdbedea53ff8c3"
     },
     {
       "bytes": 656,
@@ -843,9 +863,9 @@
       "sha256": "bc3735ec71fffd83edf13c9d2e1cef937f5a0a99fb6193767fa91bb63598f657"
     },
     {
-      "bytes": 1183,
+      "bytes": 1165,
       "path": "dynamic/社交/2026-08-07 11-56-42 朋友聚会与自我分析快乐与安全感_2fd3e20f3cd9.md",
-      "sha256": "b908d7fa98c43314efe96bc3d3b06070fe720064802acce7ab872243e1c47e98"
+      "sha256": "91157c70c7b4e054d68abc18a32171aa976962d72d3220e07a3d6e84908754c5"
     },
     {
       "bytes": 1017,
@@ -958,14 +978,14 @@
       "sha256": "19fe49d3181dcf70266e34924753716bef40406e19f8b7bf483be8de24843c79"
     },
     {
-      "bytes": 858,
+      "bytes": 863,
       "path": "feel/沉淀物/2026-08-01 14-16-58_feel_202608011416_V095.md",
-      "sha256": "4dc4e68c9aa9faeed416c6e6e549dba54d903ed11ff7a33b42e9100fd3a13427"
+      "sha256": "04511ae0be5b0eb2b45e322e92d05fe09c090f37f7c8ddb9510813e9eb9d358c"
     },
     {
-      "bytes": 978,
+      "bytes": 992,
       "path": "feel/沉淀物/2026-08-07 11-56-44_feel_202608071156_V095.md",
-      "sha256": "0f052c54f96ed54dc2ddfc2880f169b8493c19b3b1076f43f6c03cfc08662cc7"
+      "sha256": "7a8d28d5aa81116e6b82a424ed5381a94923d259dfe1c8eec3fe28ea3ebb72a1"
     },
     {
       "bytes": 704,
@@ -1080,23 +1100,23 @@
     {
       "bytes": 934,
       "path": "plans/active/2026-08-01 09-14-23_56fe2438b2d4.md",
-      "sha256": "c12d1ffedbb40642edb55e2e330759ccef8980bea38b92ffdce16c459689b4e3"
+      "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     },
     {
-      "bytes": 692,
+      "bytes": 703,
       "path": "plans/active/2026-08-01 11-35-34_1edd3db7a52a.md",
-      "sha256": "31699f91a3e4965dc9146ae0a8e6a651cf55513d10b398db2f2a2ed2b3907cfb"
+      "sha256": "783f9ac7d7107469bd462a73de490184375924ed5875b870fe7a5f4446fb5cbc"
     },
     {
-      "bytes": 1037,
+      "bytes": 1048,
       "path": "plans/active/2026-08-07 03-57-26_7b1ed54f2279.md",
-      "sha256": "5fd18ce7e045ed1640a1116cd4543c2fab5974384177d630ad1542fd31b58d19"
+      "sha256": "1ac7e747f01a9c739b8aebed7ecf4b028720e7bbf892f99f6d1ee444ea89c75f"
     }
   ],
-  "generated_at": "2026-08-09T04:52:30+00:00",
+  "generated_at": "2026-08-09T16:52:34+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 174383
+  "total_bytes": 178188
 }
