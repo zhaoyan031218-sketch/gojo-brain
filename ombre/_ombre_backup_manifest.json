@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 222,
+  "file_count": 223,
   "files": [
     {
       "bytes": 541,
@@ -61,6 +61,11 @@
       "bytes": 579,
       "path": "archive/认知/081de6b5fcc1.md",
       "sha256": "df937388634be6b57140c4cb75ddcf3d942e9d3c6fea51367daf877b48a456c5"
+    },
+    {
+      "bytes": 649,
+      "path": "archive/认知/bb25f1364603.md",
+      "sha256": "a9ee7974af9d19c64995eb9cc10a4466e54dbaadadfe3f04ad6a54ee8c42b59d"
     },
     {
       "bytes": 758,
@@ -311,6 +316,11 @@
       "bytes": 1045,
       "path": "dynamic/心理/2026-08-09 13-43-00 情绪崩溃认知盲区与自我觉察_2e782c2e5c62.md",
       "sha256": "716ced70d54f3df6ebca58fa7f71f0fc732339fdfb9ed10ceafdbedea53ff8c3"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/心理/2026-08-09 17-10-03 凡丁嗜睡与抑郁期关注_85d639677c87.md",
+      "sha256": "4b02222efbc655525495d84ebf86a304c84a7fa771f32eec770a6edb4606c3da"
     },
     {
       "bytes": 656,
@@ -748,11 +758,6 @@
       "sha256": "8f8cb5e44e4d271b93ae4d7825ffbc1d53f984752faeea0e165d7c701a4ac09c"
     },
     {
-      "bytes": 648,
-      "path": "dynamic/未分类/bb25f1364603.md",
-      "sha256": "1a1fa9839e0e223b855dd60b592eada0cf52abba9a170c7979675ac8e6de0871"
-    },
-    {
       "bytes": 573,
       "path": "dynamic/未分类/c4f00a7962b9.md",
       "sha256": "dd0efdd3a2d02282cf3ff8f3c3086a5b7ce0d5afe563066f6fc148b0a4c2d508"
@@ -1113,10 +1118,10 @@
       "sha256": "1ac7e747f01a9c739b8aebed7ecf4b028720e7bbf892f99f6d1ee444ea89c75f"
     }
   ],
-  "generated_at": "2026-08-09T16:52:34+00:00",
+  "generated_at": "2026-08-10T04:52:38+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 178188
+  "total_bytes": 179029
 }
