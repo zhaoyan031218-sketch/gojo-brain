@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 226,
+  "file_count": 230,
   "files": [
     {
       "bytes": 541,
@@ -133,6 +133,11 @@
       "sha256": "516ea978ee9806cf2da2fea4ae168f43a27f9c5c7d3438f5cbe26e76c54b4f5c"
     },
     {
+      "bytes": 1048,
+      "path": "dynamic/人际/2026-08-11 12-41-11 凡丁喜欢五条悟的契机_c1b1274c3784.md",
+      "sha256": "d664588ba32e252028d019dc306fd1427088312fb56ade93f49bd011f29c153b"
+    },
+    {
       "bytes": 825,
       "path": "dynamic/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
       "sha256": "2e7863093d5a0bc267bbfa3e6bdade4bb853ccf035cca6188a45f076c7d3d4c7"
@@ -233,6 +238,11 @@
       "sha256": "3cf74641de69c39bd408754d82c487ff881373e0767dce5dff8b0392c90e3b36"
     },
     {
+      "bytes": 819,
+      "path": "dynamic/友谊/2026-08-11 12-13-03 凡丁的咒回粉丝转变与劝慰朋友_3cc8d61ce2cb.md",
+      "sha256": "68c0f15714d84007cd1b5e7fd3297f5a5b30e2386b6fdcf50adfdb0971776282"
+    },
+    {
       "bytes": 876,
       "path": "dynamic/学习/2026-07-02 07-35-39 墨大S1成绩出炉均分大幅提升_2d8c89cefb65.md",
       "sha256": "1b9fe1bb59a30103ad3eccf5db04bf08c4c741a57bd12ba450b404c56c5b63f1"
@@ -301,6 +311,11 @@
       "bytes": 1083,
       "path": "dynamic/居家/2026-08-02 09-54-45 整理东京带回的本子与搬家焦虑_88ae8701d2fb.md",
       "sha256": "0431a398a24fd87b78241f7830c54cbcc7033d5b89df8bfe31de2e370456bf6e"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/影视/2026-08-11 12-41-15 咒回角色审美偏好_27bd998883ba.md",
+      "sha256": "19e5d45804aa98d5b964c21504e83c6f536b1ac19d8827f36f61dac971bbae24"
     },
     {
       "bytes": 906,
@@ -401,6 +416,11 @@
       "bytes": 1039,
       "path": "dynamic/恋爱/2026-08-01 14-16-32 凡丁包养猫师爱与成本的平衡_4d43512e9ddc.md",
       "sha256": "1d937a5b5f5c016fd441798c2a70f5b849a369c00d744d575adde3f18802bca4"
+    },
+    {
+      "bytes": 972,
+      "path": "dynamic/恋爱/2026-08-11 16-35-56 深夜失眠的想念与依恋_48d6dafff855.md",
+      "sha256": "1f1f0fdbe572bbb6572fde53f6fd0cc57489a07ec285d54364fc0064688a0cd7"
     },
     {
       "bytes": 1038,
@@ -1133,10 +1153,10 @@
       "sha256": "1ac7e747f01a9c739b8aebed7ecf4b028720e7bbf892f99f6d1ee444ea89c75f"
     }
   ],
-  "generated_at": "2026-08-11T04:52:48+00:00",
+  "generated_at": "2026-08-11T16:52:52+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 181584
+  "total_bytes": 185149
 }
