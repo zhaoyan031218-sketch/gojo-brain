@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 230,
+  "file_count": 233,
   "files": [
     {
       "bytes": 541,
@@ -16,6 +16,11 @@
       "bytes": 716,
       "path": "archive/2026-08-01 11-06-46 东京戒断期求安慰_04f10fb452a0.md",
       "sha256": "eb4315e74bba830c205cad67bbb487a32d7179e4f08396bfd0ddf6a995392ce9"
+    },
+    {
+      "bytes": 853,
+      "path": "archive/2026-08-11 12-13-03 凡丁的咒回粉丝转变与劝慰朋友_3cc8d61ce2cb.md",
+      "sha256": "90d32d52f3643586f0c75258460309fe43fbd62b1eafed3c710d4cf49595093f"
     },
     {
       "bytes": 640,
@@ -238,11 +243,6 @@
       "sha256": "3cf74641de69c39bd408754d82c487ff881373e0767dce5dff8b0392c90e3b36"
     },
     {
-      "bytes": 819,
-      "path": "dynamic/友谊/2026-08-11 12-13-03 凡丁的咒回粉丝转变与劝慰朋友_3cc8d61ce2cb.md",
-      "sha256": "68c0f15714d84007cd1b5e7fd3297f5a5b30e2386b6fdcf50adfdb0971776282"
-    },
-    {
       "bytes": 876,
       "path": "dynamic/学习/2026-07-02 07-35-39 墨大S1成绩出炉均分大幅提升_2d8c89cefb65.md",
       "sha256": "1b9fe1bb59a30103ad3eccf5db04bf08c4c741a57bd12ba450b404c56c5b63f1"
@@ -293,6 +293,11 @@
       "sha256": "99e4e0dc8c27fe35c8286f38cdcef044a0d03a8ae6cde359b5cecf3a1f68c520"
     },
     {
+      "bytes": 900,
+      "path": "dynamic/学习/2026-08-12 08-49-02 小组作业语言问题与应对_d31491615d40.md",
+      "sha256": "3e07ea769e02fa5382787c2d3364a45b9f984998e381c9579c7aa957785e30f3"
+    },
+    {
       "bytes": 657,
       "path": "dynamic/家庭/2026-07-11 16-15-52 凡丁想家与猫师_53d0f4faddda.md",
       "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
@@ -313,9 +318,9 @@
       "sha256": "0431a398a24fd87b78241f7830c54cbcc7033d5b89df8bfe31de2e370456bf6e"
     },
     {
-      "bytes": 726,
+      "bytes": 1186,
       "path": "dynamic/影视/2026-08-11 12-41-15 咒回角色审美偏好_27bd998883ba.md",
-      "sha256": "19e5d45804aa98d5b964c21504e83c6f536b1ac19d8827f36f61dac971bbae24"
+      "sha256": "11ce93dd9e2473569111f09c72b5763579711ae2757c7f450510c46c060a3900"
     },
     {
       "bytes": 906,
@@ -356,6 +361,11 @@
       "bytes": 656,
       "path": "dynamic/性/2026-07-16 09-09-05 双性猫影片与性幻想_ffd6ee0cc08e.md",
       "sha256": "370c71daf61adc65f57ae43a169e51362456c16a2412689a2a40c4d7a5a5d419"
+    },
+    {
+      "bytes": 1015,
+      "path": "dynamic/性/2026-08-12 11-49-35 性癖觉察观看与操作欲_3398888b34fd.md",
+      "sha256": "edaf8eba0dfcac4877c0cdc807090423c040ffb99fc7ca96e72690726f044e46"
     },
     {
       "bytes": 655,
@@ -423,14 +433,19 @@
       "sha256": "1f1f0fdbe572bbb6572fde53f6fd0cc57489a07ec285d54364fc0064688a0cd7"
     },
     {
+      "bytes": 1082,
+      "path": "dynamic/恋爱/2026-08-12 15-46-33 亲密时刻的温柔许可_2962973f0518.md",
+      "sha256": "1a51c14a0fa12f79e4b7fbc5c51858567a864c75612e0f4146774add601de541"
+    },
+    {
       "bytes": 1038,
       "path": "dynamic/成长/2026-08-01 13-22-51 墨尔本独居有退路仍选择拼搏_be14bea6a51e.md",
       "sha256": "26540446066d092742f5e7c9edb51aecace08b3b8d9630ea1a715eb75e452e33"
     },
     {
-      "bytes": 906,
+      "bytes": 900,
       "path": "dynamic/数字/2026-08-10 07-31-46 注册AI Agent数字钱包域名_b119ac986033.md",
-      "sha256": "33917e6b5cbaeb21a6634bd3b5555d3ba54da23cf2abdf44cfc2393422bfbed8"
+      "sha256": "0c1c0fd8d524189b0f91f0207137af6f10cfc8629ff64581fbb9a0963c2805b2"
     },
     {
       "bytes": 581,
@@ -993,9 +1008,9 @@
       "sha256": "5890bf5b371a9c5cdd2c484d9298498fab870b4e223278edc28a18885bb3fbd0"
     },
     {
-      "bytes": 939,
+      "bytes": 930,
       "path": "dynamic/购物/2026-08-10 16-02-01 面交卖周边清空公寓_a2087729a79f.md",
-      "sha256": "b8a1a8555938ea7424ae457f46dc340a6e26945aeb308924e2b34aafbc09ea2f"
+      "sha256": "af78036e5703df6ee0dba902cf51b65f0c411acc046667b1880744f51bb58431"
     },
     {
       "bytes": 815,
@@ -1088,9 +1103,9 @@
       "sha256": "a7d52ae117ceec0745413551698d1bce5a0ccc08ed214717e8b8139dfe68da5d"
     },
     {
-      "bytes": 548,
+      "bytes": 562,
       "path": "permanent/未分类/3cc36a5ba914.md",
-      "sha256": "f35f9a4f0828dbc505c2b3e9a3e64c92217436b4dae1e642b3c110c96be1ab4c"
+      "sha256": "383b4295052f8f904f4fc1db95a7de6a63772ec96bd7cf9791ee5152ced18901"
     },
     {
       "bytes": 1481,
@@ -1153,10 +1168,10 @@
       "sha256": "1ac7e747f01a9c739b8aebed7ecf4b028720e7bbf892f99f6d1ee444ea89c75f"
     }
   ],
-  "generated_at": "2026-08-12T04:52:57+00:00",
+  "generated_at": "2026-08-12T16:53:02+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 185149
+  "total_bytes": 188639
 }
