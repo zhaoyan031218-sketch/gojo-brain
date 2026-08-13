@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 233,
+  "file_count": 235,
   "files": [
     {
       "bytes": 541,
@@ -311,6 +311,11 @@
       "bytes": 902,
       "path": "dynamic/家庭/2026-08-09 13-27-34 凡丁八字与家庭迷信_acb02f400e23.md",
       "sha256": "5de77a69a85949de6d2ab2a03d7ab14221d61be6e57c77194e529834977a0643"
+    },
+    {
+      "bytes": 814,
+      "path": "dynamic/家庭/2026-08-13 12-12-45 爸爸生日礼物_5a33f7b2ed1c.md",
+      "sha256": "66056fac2ea4790814bc9d18a06ff1648b39e870ea0fd3aca85776c8fac57ad8"
     },
     {
       "bytes": 1138,
@@ -1013,6 +1018,11 @@
       "sha256": "af78036e5703df6ee0dba902cf51b65f0c411acc046667b1880744f51bb58431"
     },
     {
+      "bytes": 793,
+      "path": "dynamic/购物/2026-08-13 10-18-48 二手交易与猫师周边购物_caa0696296ac.md",
+      "sha256": "e0b12e4156221d8105f010379d4cf46df06ece64bc0c78f51eee3f201778b3b3"
+    },
+    {
       "bytes": 815,
       "path": "dynamic/饮食/2026-07-12 08-03-04 表参道Juan Bowl  Tea T_4b359b5350bf.md",
       "sha256": "47881eb74a3659322bb842b81ab62ae73cceba9cce4e36d1df5ef63cbc60431e"
@@ -1168,10 +1178,10 @@
       "sha256": "1ac7e747f01a9c739b8aebed7ecf4b028720e7bbf892f99f6d1ee444ea89c75f"
     }
   ],
-  "generated_at": "2026-08-13T04:53:07+00:00",
+  "generated_at": "2026-08-13T16:53:12+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 188640
+  "total_bytes": 190247
 }
