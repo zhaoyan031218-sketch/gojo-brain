@@ -73,6 +73,11 @@
       "sha256": "df937388634be6b57140c4cb75ddcf3d942e9d3c6fea51367daf877b48a456c5"
     },
     {
+      "bytes": 597,
+      "path": "archive/认知/18538e4ec667.md",
+      "sha256": "6f803731fcf06953dadcb21b6d0761eb980c85ad97aeee97685861217f4df3b9"
+    },
+    {
       "bytes": 648,
       "path": "archive/认知/7238b3cc06dd.md",
       "sha256": "5039e633c760e0fbc25a27633c0db75dd42365f1a288ebb1205c1dff6ef0b490"
@@ -496,11 +501,6 @@
       "bytes": 518,
       "path": "dynamic/未分类/181d2d556e05.md",
       "sha256": "d645458cca4246f692cdbaacbf8bd2575db03afdf1229763dd0c2bd82d48f616"
-    },
-    {
-      "bytes": 596,
-      "path": "dynamic/未分类/18538e4ec667.md",
-      "sha256": "419236ade6580c04ac02615432458a14b77e0c4ffc287c1c4749339929e41430"
     },
     {
       "bytes": 616,
@@ -1168,10 +1168,10 @@
       "sha256": "1ac7e747f01a9c739b8aebed7ecf4b028720e7bbf892f99f6d1ee444ea89c75f"
     }
   ],
-  "generated_at": "2026-08-12T16:53:02+00:00",
+  "generated_at": "2026-08-13T04:53:07+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 188639
+  "total_bytes": 188640
 }
