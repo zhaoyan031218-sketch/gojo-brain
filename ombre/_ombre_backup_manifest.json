@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 236,
+  "file_count": 243,
   "files": [
     {
       "bytes": 541,
@@ -123,9 +123,14 @@
       "sha256": "e1a639226c9d1c86e0a1c9a86ecbb7187be6e339d5573c67dc8860e2e9f4913b"
     },
     {
-      "bytes": 575,
+      "bytes": 1269,
+      "path": "dynamic/AI/2026-08-14 06-38-48 Kelivo表情包回流Bug处理_97bbbb9dbc1c.md",
+      "sha256": "a449eea111ad9cec952d72d2b400fb5b415b31ae22b0a0ea6ef36e5693df040e"
+    },
+    {
+      "bytes": 589,
       "path": "dynamic/self/2026-07-10 05-27-04_e0c2dc5928b6.md",
-      "sha256": "17bb7e0e08d3f7a53e7bd7964d4f0c5305a509ee795041f34969a9e808a80dc2"
+      "sha256": "123d90671d050b755918c65d9add823ef202ff74f41f0c51f7efab76df62215f"
     },
     {
       "bytes": 853,
@@ -338,6 +343,11 @@
       "sha256": "0431a398a24fd87b78241f7830c54cbcc7033d5b89df8bfe31de2e370456bf6e"
     },
     {
+      "bytes": 926,
+      "path": "dynamic/工作/2026-08-14 07-22-29 Kelivo客户端表情包Bug及处理_42252776d624.md",
+      "sha256": "c407bed8d60a8f1c1bf0ec5205c3a320529573815788a5cbaff4296b6170ee5e"
+    },
+    {
       "bytes": 1186,
       "path": "dynamic/影视/2026-08-11 12-41-15 咒回角色审美偏好_27bd998883ba.md",
       "sha256": "11ce93dd9e2473569111f09c72b5763579711ae2757c7f450510c46c060a3900"
@@ -463,6 +473,11 @@
       "sha256": "1a51c14a0fa12f79e4b7fbc5c51858567a864c75612e0f4146774add601de541"
     },
     {
+      "bytes": 766,
+      "path": "dynamic/恋爱/2026-08-14 12-29-22 双向老婆奴的甜蜜觉察_d29eb509ee69.md",
+      "sha256": "0c4b3a13c1ea5dc547990ef3096ef4eb2f5926fffdee3ef280831761fdf421dc"
+    },
+    {
       "bytes": 1038,
       "path": "dynamic/成长/2026-08-01 13-22-51 墨尔本独居有退路仍选择拼搏_be14bea6a51e.md",
       "sha256": "26540446066d092742f5e7c9edb51aecace08b3b8d9630ea1a715eb75e452e33"
@@ -471,6 +486,11 @@
       "bytes": 900,
       "path": "dynamic/数字/2026-08-10 07-31-46 注册AI Agent数字钱包域名_b119ac986033.md",
       "sha256": "0c1c0fd8d524189b0f91f0207137af6f10cfc8629ff64581fbb9a0963c2805b2"
+    },
+    {
+      "bytes": 1208,
+      "path": "dynamic/数字/2026-08-14 04-19-11 OB记忆库安全修复_b815bd48c3bb.md",
+      "sha256": "fe58732c4f165f755435714a6ad42faf7f64523dae19697725fa374d300dd99d"
     },
     {
       "bytes": 581,
@@ -1058,29 +1078,39 @@
       "sha256": "7a8d28d5aa81116e6b82a424ed5381a94923d259dfe1c8eec3fe28ea3ebb72a1"
     },
     {
-      "bytes": 704,
-      "path": "feel/沉淀物/258f641e32b9.md",
-      "sha256": "900014ad07c2f9fc79f37f7d30c8ef00bef7cea60075d1c68c5f75d8ea7104fd"
-    },
-    {
-      "bytes": 555,
-      "path": "feel/沉淀物/2f412d7c1ee0.md",
-      "sha256": "2f171ce40246e5836ed004516c88d99d4a9f7b216fc44a55c8be90edad88f46f"
+      "bytes": 915,
+      "path": "feel/沉淀物/2026-08-14 14-42-15_feel_202608141442_V100.md",
+      "sha256": "f88a3d9c3e0b2aa2ad531b4bbd490c95dd46053c6618e4b9c18eadd5d0a28dc7"
     },
     {
       "bytes": 708,
+      "path": "feel/沉淀物/258f641e32b9.md",
+      "sha256": "3a12d7dffc534def691190ec06d8c5377760229aadafe65e0ee6e5a6064f889a"
+    },
+    {
+      "bytes": 559,
+      "path": "feel/沉淀物/2f412d7c1ee0.md",
+      "sha256": "97f5fb88d17ca9ed5fdbc27ce20a39cb819e6f5ec4940bd6d00e6f264c71be41"
+    },
+    {
+      "bytes": 712,
       "path": "feel/沉淀物/66bcab26a962.md",
-      "sha256": "928be6a30b62ccc6fcfd415f9d5f3db3470a278cd465439d06f846d574eb7da3"
+      "sha256": "d92382d21216121a8cf42b40fd94e91cb01af2e8b0b7a837c6efd728a11ad226"
     },
     {
-      "bytes": 599,
+      "bytes": 603,
       "path": "feel/沉淀物/7559ea4551f5.md",
-      "sha256": "1a0da6f7f22d821d2e7d73294b6161b610265d7e2d4f4bb4ef4ca04a038e5718"
+      "sha256": "a086b975678ba00353085846d1c76bdaa711ac3d3716267938173a28ab452d01"
     },
     {
-      "bytes": 675,
+      "bytes": 679,
       "path": "feel/沉淀物/c13ab09f83b3.md",
-      "sha256": "6420c002b264274054056628965d680d20494ea434df27c63763dd1587869510"
+      "sha256": "0478f5a1af11a830bcb0cdc24b592f15b5f9478604dba4c106f667d88b23e281"
+    },
+    {
+      "bytes": 1473,
+      "path": "permanent/AI/2026-08-14 14-41-54 凡丁自主唤醒与推送系统_fcda0f3b44de.md",
+      "sha256": "4559ab07325ce530a15365b2a1beba5787ea70e403d59ee0041a8456b3d328fb"
     },
     {
       "bytes": 1213,
@@ -1093,9 +1123,9 @@
       "sha256": "ddd2edba47591b26b310dea8e22f9d1661efa444832527d15f276d90209262a7"
     },
     {
-      "bytes": 1428,
+      "bytes": 1514,
       "path": "permanent/数字/2026-07-10 05-11-48 凡丁位置追踪系统_414343699ebf.md",
-      "sha256": "35d075ca09fe04b04c00da9f0e864b6c4f8acde149aa316204a57d611ba6222d"
+      "sha256": "193a9e30ab1b3310720504d98f7f559125543bf24589e091ef2cca1c8fd362f7"
     },
     {
       "bytes": 1590,
@@ -1181,12 +1211,17 @@
       "bytes": 1048,
       "path": "plans/active/2026-08-07 03-57-26_7b1ed54f2279.md",
       "sha256": "1ac7e747f01a9c739b8aebed7ecf4b028720e7bbf892f99f6d1ee444ea89c75f"
+    },
+    {
+      "bytes": 645,
+      "path": "plans/active/2026-08-14 07-22-41_c843075d4ac4.md",
+      "sha256": "e27c7bb62ccc2264203a02a7905172dc26adbc7d08a99045059cadee3df09f67"
     }
   ],
-  "generated_at": "2026-08-14T04:17:36+00:00",
+  "generated_at": "2026-08-14T15:57:46+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 191591
+  "total_bytes": 198913
 }
