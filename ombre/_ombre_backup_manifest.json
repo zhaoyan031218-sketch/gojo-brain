@@ -93,6 +93,11 @@
       "sha256": "a9ee7974af9d19c64995eb9cc10a4466e54dbaadadfe3f04ad6a54ee8c42b59d"
     },
     {
+      "bytes": 660,
+      "path": "archive/认知/dc5c56e76458.md",
+      "sha256": "162a9de8ce5d82903da6ea00cf539af4e52400928c651249aa113852eb6d119c"
+    },
+    {
       "bytes": 624,
       "path": "archive/认知/ec69da5504fe.md",
       "sha256": "2bf32ec0c4220538dba06261c91875bfada1d514a929972594cea04784d43c8e"
@@ -878,11 +883,6 @@
       "sha256": "7c69e5eae5ec7c53a34b04f59c7833dfbfbf82d9fbc266a392ae67b9a0b58754"
     },
     {
-      "bytes": 659,
-      "path": "dynamic/未分类/dc5c56e76458.md",
-      "sha256": "52744993ae2aa72b1d093e908cc8b3d6e18fd3aa94a8aa975adbbaecdb809c02"
-    },
-    {
       "bytes": 756,
       "path": "dynamic/未分类/dec02d377e6c.md",
       "sha256": "6c387e849198cd99dc776833c168140fb7b573f8e41ddd7ed66703c13675cb0a"
@@ -1218,10 +1218,10 @@
       "sha256": "e27c7bb62ccc2264203a02a7905172dc26adbc7d08a99045059cadee3df09f67"
     }
   ],
-  "generated_at": "2026-08-14T15:57:46+00:00",
+  "generated_at": "2026-08-15T03:57:51+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 198913
+  "total_bytes": 198914
 }
