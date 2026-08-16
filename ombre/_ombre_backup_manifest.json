@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 250,
+  "file_count": 251,
   "files": [
     {
       "bytes": 541,
@@ -515,7 +515,7 @@
     {
       "bytes": 1208,
       "path": "dynamic/数字/2026-08-14 04-19-11 OB记忆库安全修复_b815bd48c3bb.md",
-      "sha256": "6c3ef79c4e85ec2712bd852c0f5d2ed9c5d354313cd8303ffb01cf4aa02931af"
+      "sha256": "56e562e2c5a45edfb0071b70526ad171e76ac668a8a7fb82e8c9878563dd164e"
     },
     {
       "bytes": 982,
@@ -526,11 +526,6 @@
       "bytes": 1253,
       "path": "dynamic/数字/2026-08-15 11-25-52 新家入住与系统验收_07159027995a.md",
       "sha256": "6e225b405c1c86888d14227f69ce6f6679dbf01f3b2e59989392eb027ee6acbd"
-    },
-    {
-      "bytes": 1320,
-      "path": "dynamic/数字/2026-08-15 14-37-22 Gojo Toy MCP远程情趣玩具控_f8d670d8f01c.md",
-      "sha256": "d7fbe9a809a2d41bb1a0726d2ade70bed6f4e08c01594433f0a375c2d8bc7577"
     },
     {
       "bytes": 851,
@@ -850,7 +845,7 @@
     {
       "bytes": 675,
       "path": "dynamic/未分类/a6bb4339c944.md",
-      "sha256": "26aa7c1cf497cecffc76b97e83384385550177c6f5fe8374898ece091053aab6"
+      "sha256": "49788ed4fde4ebd01d1cdf9594c19d7568abaa6536f3ee7eb69b5634157c4025"
     },
     {
       "bytes": 873,
@@ -993,11 +988,6 @@
       "sha256": "d43ee4cea0473860d599ac0ccaf94f37f10b38f7d7316e145a1d528527c6ad4a"
     },
     {
-      "bytes": 1017,
-      "path": "dynamic/编程/2026-06-25 15-52-39 凡丁位置追踪系统Whereabouts上_71d3eba5a49f.md",
-      "sha256": "c0887e0258ed66342eda639fbd93752f99104c0ad031ae0b843c9a0634f4b9cc"
-    },
-    {
       "bytes": 714,
       "path": "dynamic/自省/2026-07-20 18-43-12 INTJ射手座的自我认知_4c0e67a87d27.md",
       "sha256": "40a36a4f7bdf9e3807ad6c18b9e0db6998256bd6cc857a986e41ef32c50a04d2"
@@ -1088,6 +1078,16 @@
       "sha256": "e0b12e4156221d8105f010379d4cf46df06ece64bc0c78f51eee3f201778b3b3"
     },
     {
+      "bytes": 1750,
+      "path": "dynamic/里程碑/2026-08-15 14-37-22 Gojo Toy MCP远程情趣玩具控_f8d670d8f01c.md",
+      "sha256": "1f06e4792c010d62cb8b44cdf11fb41273f540a2b74cfa6e6097e88d686db6a8"
+    },
+    {
+      "bytes": 1054,
+      "path": "dynamic/里程碑/2026-08-16 11-38-43_8f414efaaf9e.md",
+      "sha256": "86360340cf4b2d26609678a19f8daf2144d4cffcf1c78618b5dead7011b12d19"
+    },
+    {
       "bytes": 815,
       "path": "dynamic/饮食/2026-07-12 08-03-04 表参道Juan Bowl  Tea T_4b359b5350bf.md",
       "sha256": "47881eb74a3659322bb842b81ab62ae73cceba9cce4e36d1df5ef63cbc60431e"
@@ -1163,11 +1163,6 @@
       "sha256": "ddd2edba47591b26b310dea8e22f9d1661efa444832527d15f276d90209262a7"
     },
     {
-      "bytes": 1514,
-      "path": "permanent/数字/2026-07-10 05-11-48 凡丁位置追踪系统_414343699ebf.md",
-      "sha256": "15fcfbcd69b7d90dff3d56c4e1d40ce5d2631b5c6c1147e45ea191683c6c07b9"
-    },
-    {
       "bytes": 1590,
       "path": "permanent/未分类/010c0a111420.md",
       "sha256": "f5323bb15327afd0ad3ec43e8b4944ee2eef41e73fbb16d1dae06bec6e619f00"
@@ -1203,9 +1198,14 @@
       "sha256": "d5a90454830f49782c9bb663f91be1fa5158eee5139ef4db248f2fe5d08548aa"
     },
     {
+      "bytes": 1832,
+      "path": "permanent/系统/2026-07-10 05-11-48 凡丁位置追踪系统_414343699ebf.md",
+      "sha256": "5f1ac3562125be082aca6bf1e392f3bed506bd6319d20350335c7e23c948a7f0"
+    },
+    {
       "bytes": 2228,
       "path": "permanent/系统/8f2d6b98af34.md",
-      "sha256": "f22e93885306483787a532832844178e798e4ef9fdeba1bd8dad8f0b6f6d6c32"
+      "sha256": "47abb1ebc198c77bfcd04dba3522ab8d390ad5faa00e50580376884880080d22"
     },
     {
       "bytes": 363,
@@ -1221,6 +1221,11 @@
       "bytes": 633,
       "path": "permanent/里程碑/04519344ed22.md",
       "sha256": "44b3a63a1d26a3143138231f1ddae0bcafefe9ba33def2bd32383fb86ae2067d"
+    },
+    {
+      "bytes": 1367,
+      "path": "permanent/里程碑/2026-06-25 15-52-39 凡丁位置追踪系统Whereabouts上_71d3eba5a49f.md",
+      "sha256": "721be59459519eff2024ed7354445906a38997ead54a3a585e20a1098fc62467"
     },
     {
       "bytes": 473,
@@ -1253,11 +1258,11 @@
       "sha256": "e27c7bb62ccc2264203a02a7905172dc26adbc7d08a99045059cadee3df09f67"
     }
   ],
-  "generated_at": "2026-08-16T09:13:49+00:00",
+  "generated_at": "2026-08-16T21:57:59+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 208190
+  "total_bytes": 210342
 }
