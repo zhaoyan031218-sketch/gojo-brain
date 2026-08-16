@@ -78,6 +78,11 @@
       "sha256": "d9b3ce26dc8ae71c0e720e89abc8a0d138385e18ef8eb215096994726d8ec290"
     },
     {
+      "bytes": 1300,
+      "path": "archive/系统/2026-08-14 06-38-48 Kelivo表情包回流Bug处理_97bbbb9dbc1c.md",
+      "sha256": "c51e9b00dea19c37b33792c52f988440d0aaf61d297ed2ba68370ed568e68275"
+    },
+    {
       "bytes": 579,
       "path": "archive/认知/081de6b5fcc1.md",
       "sha256": "df937388634be6b57140c4cb75ddcf3d942e9d3c6fea51367daf877b48a456c5"
@@ -141,11 +146,6 @@
       "bytes": 481,
       "path": "archive/里程碑/af89ddcec0ce.md",
       "sha256": "e1a639226c9d1c86e0a1c9a86ecbb7187be6e339d5573c67dc8860e2e9f4913b"
-    },
-    {
-      "bytes": 1269,
-      "path": "dynamic/AI/2026-08-14 06-38-48 Kelivo表情包回流Bug处理_97bbbb9dbc1c.md",
-      "sha256": "c3096cbd6c8e2857862b8c0142cca4cdfe8bb6878377222e050b191a03245611"
     },
     {
       "bytes": 589,
@@ -1253,10 +1253,11 @@
       "sha256": "e27c7bb62ccc2264203a02a7905172dc26adbc7d08a99045059cadee3df09f67"
     }
   ],
-  "generated_at": "2026-08-16T03:58:01+00:00",
+  "generated_at": "2026-08-16T09:13:49+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 208159
+  "source_refs_complete": true,
+  "total_bytes": 208190
 }
