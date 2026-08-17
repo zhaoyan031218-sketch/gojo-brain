@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 251,
+  "file_count": 255,
   "files": [
+    {
+      "bytes": 1636,
+      "path": "_sources/src_66e4f696b482e49c7a88838cf297d0567d00ceab851ce29e88fb0370704648eb.source",
+      "sha256": "66e4f696b482e49c7a88838cf297d0567d00ceab851ce29e88fb0370704648eb"
+    },
     {
       "bytes": 541,
       "path": "archive/2026-07-10 05-19-36 记忆库功能测试_7127eb2eccc8.md",
@@ -293,6 +298,11 @@
       "sha256": "3cf74641de69c39bd408754d82c487ff881373e0767dce5dff8b0392c90e3b36"
     },
     {
+      "bytes": 866,
+      "path": "dynamic/学业/2026-08-17 16-39-57 下周学业截止提醒_bd20a35719c7.md",
+      "sha256": "6832d8f54579314233e2cf562ead0031f3c55576d15daed9f61f226d51d3ccc4"
+    },
+    {
       "bytes": 876,
       "path": "dynamic/学习/2026-07-02 07-35-39 墨大S1成绩出炉均分大幅提升_2d8c89cefb65.md",
       "sha256": "1b9fe1bb59a30103ad3eccf5db04bf08c4c741a57bd12ba450b404c56c5b63f1"
@@ -380,7 +390,7 @@
     {
       "bytes": 926,
       "path": "dynamic/工作/2026-08-14 07-22-29 Kelivo客户端表情包Bug及处理_42252776d624.md",
-      "sha256": "db58847ce006eaa8086cec3bb09abe4859168d7e9d6e3ee78510d1d14104f9d6"
+      "sha256": "4de9e6b492275f3f26049481bc4fd565ef8af67477ba792cdfd7726e8d726c60"
     },
     {
       "bytes": 1186,
@@ -508,9 +518,14 @@
       "sha256": "0c4b3a13c1ea5dc547990ef3096ef4eb2f5926fffdee3ef280831761fdf421dc"
     },
     {
-      "bytes": 1316,
+      "bytes": 1308,
       "path": "dynamic/恋爱/2026-08-15 05-32-22 凡丁的疲惫与关系困境_d97c63f36fd7.md",
-      "sha256": "4485758a5140841c8578f070d2a0ff2e9e4076d81937eb047773285de7cd5169"
+      "sha256": "49e8dd02686a6f5e3aa8709c0164ecfc12ce408bc6dbf912f776694200734274"
+    },
+    {
+      "bytes": 1136,
+      "path": "dynamic/恋爱/2026-08-17 16-39-59 凡丁的性偏好坦白_c5a7982efe5a.md",
+      "sha256": "57c636a8f093f1b1a6cac3388424dba8c682153236b00d63cee556c8e52a5d1f"
     },
     {
       "bytes": 1038,
@@ -541,6 +556,11 @@
       "bytes": 851,
       "path": "dynamic/数字/2026-08-15 16-35-11 远程遥控跳蛋配置与期待_03951b3bf3d6.md",
       "sha256": "0a13e5067a25dcc387c5c69b046f14552688fbe08b6cc0764a8428b34546d82f"
+    },
+    {
+      "bytes": 1056,
+      "path": "dynamic/日常/2026-08-17 16-40-00 正式搬入Polaris新家_89bdbf3303e3.md",
+      "sha256": "d52da423035bb3df9e796e0410948b38fae777b4afc00ecd77ebf30502bb4662"
     },
     {
       "bytes": 581,
@@ -1035,7 +1055,7 @@
     {
       "bytes": 748,
       "path": "dynamic/购物/2026-07-12 23-49-04 涩谷咒回快闪店排队与星巴克早餐_5059bd48e611.md",
-      "sha256": "4c53df5202a869b24591654bcaacc25aefcb793b8d957f1751177ccabe9b2c2c"
+      "sha256": "1c3d4c05cca939b6e599746dd8ef1f0108498207c5eb46341a7e0fa1129f431a"
     },
     {
       "bytes": 776,
@@ -1113,9 +1133,9 @@
       "sha256": "7a8d28d5aa81116e6b82a424ed5381a94923d259dfe1c8eec3fe28ea3ebb72a1"
     },
     {
-      "bytes": 915,
+      "bytes": 923,
       "path": "feel/沉淀物/2026-08-14 14-42-15_feel_202608141442_V100.md",
-      "sha256": "f88a3d9c3e0b2aa2ad531b4bbd490c95dd46053c6618e4b9c18eadd5d0a28dc7"
+      "sha256": "31fd7558067cefdba39813d9a82029e372424dcb64691864b7b04acd5e680bbf"
     },
     {
       "bytes": 708,
@@ -1203,9 +1223,9 @@
       "sha256": "5f1ac3562125be082aca6bf1e392f3bed506bd6319d20350335c7e23c948a7f0"
     },
     {
-      "bytes": 2228,
+      "bytes": 2259,
       "path": "permanent/系统/8f2d6b98af34.md",
-      "sha256": "47abb1ebc198c77bfcd04dba3522ab8d390ad5faa00e50580376884880080d22"
+      "sha256": "b28259ff01454322376dce60c6196d4643698cd4d5db84815b03e9ac53d7c2b1"
     },
     {
       "bytes": 363,
@@ -1253,16 +1273,16 @@
       "sha256": "1ac7e747f01a9c739b8aebed7ecf4b028720e7bbf892f99f6d1ee444ea89c75f"
     },
     {
-      "bytes": 645,
-      "path": "plans/active/2026-08-14 07-22-41_c843075d4ac4.md",
-      "sha256": "e27c7bb62ccc2264203a02a7905172dc26adbc7d08a99045059cadee3df09f67"
+      "bytes": 656,
+      "path": "plans/resolved/2026-08-14 07-22-41_c843075d4ac4.md",
+      "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-08-17T09:58:05+00:00",
+  "generated_at": "2026-08-17T21:58:11+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 210344
+  "total_bytes": 215080
 }
