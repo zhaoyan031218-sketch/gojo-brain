@@ -103,9 +103,19 @@
       "sha256": "2f980dd625df36c8a926385fe0cb97b66901aa7527a7752761c80d88008742d0"
     },
     {
+      "bytes": 560,
+      "path": "archive/认知/2b45c6028d6f.md",
+      "sha256": "0809153c2c26fe705926b55b82000ae59e7efcb4ab6101d33fe7c751c5bd8567"
+    },
+    {
       "bytes": 648,
       "path": "archive/认知/7238b3cc06dd.md",
       "sha256": "5039e633c760e0fbc25a27633c0db75dd42365f1a288ebb1205c1dff6ef0b490"
+    },
+    {
+      "bytes": 522,
+      "path": "archive/认知/a04a944bf671.md",
+      "sha256": "438a1d609b18cfc75bd1b795e4517974166f4730311d2ece059c70f3c4010455"
     },
     {
       "bytes": 649,
@@ -623,11 +633,6 @@
       "sha256": "099ad5ca7d2e3c6bf66aced93bc5c3622a8f985b881624470ab5e0d189562086"
     },
     {
-      "bytes": 559,
-      "path": "dynamic/未分类/2b45c6028d6f.md",
-      "sha256": "bbcc795b638ad76dee5f71f66674479e9251fea7479d31cfbfc700b9ca7ec7da"
-    },
-    {
       "bytes": 535,
       "path": "dynamic/未分类/2d02e3157767.md",
       "sha256": "09f41cae9f72cce27e449bf811faeba45a27074eb5b75320b2f1aa445229e5f5"
@@ -831,11 +836,6 @@
       "bytes": 687,
       "path": "dynamic/未分类/9f32e4c1d43e.md",
       "sha256": "a541f00141e4a0f7689d32355962f60e0e06f1807547c4258b40d8aa0a405b6b"
-    },
-    {
-      "bytes": 521,
-      "path": "dynamic/未分类/a04a944bf671.md",
-      "sha256": "89b5a574dbdc33994c03baf9fb23f1dda47552fab706d0dafae61fd46e80c4b7"
     },
     {
       "bytes": 1212,
@@ -1258,11 +1258,11 @@
       "sha256": "e27c7bb62ccc2264203a02a7905172dc26adbc7d08a99045059cadee3df09f67"
     }
   ],
-  "generated_at": "2026-08-16T21:57:59+00:00",
+  "generated_at": "2026-08-17T09:58:05+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojobrain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 210342
+  "total_bytes": 210344
 }
