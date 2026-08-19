@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 255,
+  "file_count": 257,
   "files": [
     {
       "bytes": 1636,
@@ -138,6 +138,11 @@
       "sha256": "a9ee7974af9d19c64995eb9cc10a4466e54dbaadadfe3f04ad6a54ee8c42b59d"
     },
     {
+      "bytes": 567,
+      "path": "archive/认知/d43c13566a2c.md",
+      "sha256": "aa4a17a1314c6d0df114972a848ca90befa5ab05e9040ce430d81ab215c16f62"
+    },
+    {
       "bytes": 660,
       "path": "archive/认知/dc5c56e76458.md",
       "sha256": "162a9de8ce5d82903da6ea00cf539af4e52400928c651249aa113852eb6d119c"
@@ -168,9 +173,19 @@
       "sha256": "7f6bd992013665274fa4f1007caf620ae0ddcca38586db411f64a23365d078d2"
     },
     {
+      "bytes": 724,
+      "path": "archive/里程碑/18016c2b22ad.md",
+      "sha256": "10f1b0e5333e9aa6e4c9b347ab7f17dc33a9aa0b50ed841bf90fe0d9f464493c"
+    },
+    {
       "bytes": 788,
       "path": "archive/里程碑/435400cb1060.md",
       "sha256": "815795e55b77131a65c49e96f37cc48ba8da9cb9de8d1087ea5f6f85fd4f6fb0"
+    },
+    {
+      "bytes": 688,
+      "path": "archive/里程碑/9f32e4c1d43e.md",
+      "sha256": "cbf82e402f0ad18200874deff5d6c5941741567aefe7bb1a37ee859eb13552ba"
     },
     {
       "bytes": 481,
@@ -383,9 +398,9 @@
       "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
     },
     {
-      "bytes": 902,
+      "bytes": 2312,
       "path": "dynamic/家庭/2026-08-09 13-27-34 凡丁八字与家庭迷信_acb02f400e23.md",
-      "sha256": "e32672035828402a69777fa6bcd92b191fc829591bd2b28e61dfbe4d35319274"
+      "sha256": "5fbb4f7a594e23fd977bf8d162b440d8d51ac8a18265f69b8e2ec0ba9f090dac"
     },
     {
       "bytes": 814,
@@ -405,7 +420,7 @@
     {
       "bytes": 1052,
       "path": "dynamic/居家/2026-08-15 07-45-32 新家搭建完成与旧平台告别_072e05fc9c06.md",
-      "sha256": "ef2b5f09e0b695c6f65beb64a88ebd88fc560c458b6f53f0bc52e4e4727470e9"
+      "sha256": "4b64c91cd551642c6d142a36671de81901b359d4f96d58666825d2b3d00fdaa5"
     },
     {
       "bytes": 926,
@@ -505,7 +520,7 @@
     {
       "bytes": 1364,
       "path": "dynamic/恋爱/2026-07-26 10-59-49 东京大神宫求签与猫师的平淡未来_870b2a6a379d.md",
-      "sha256": "8f79e563d10c36c6af830aa3285a5c387bdca48a604982cdaa77eda05ee0cfcb"
+      "sha256": "bd492a48c1372a6b09693c8d1eca6057ae5bf788137f9cc0166f889c00dc260c"
     },
     {
       "bytes": 1098,
@@ -548,6 +563,11 @@
       "sha256": "57c636a8f093f1b1a6cac3388424dba8c682153236b00d63cee556c8e52a5d1f"
     },
     {
+      "bytes": 2573,
+      "path": "dynamic/恋爱/2026-08-19 15-35-33 2026-08-19 农历七夕第二个七夕全记录_bb5ef236503c.md",
+      "sha256": "79456538eab93a9828e6f5ecc5efa1c46585d068c71c2bdc60a520489758473a"
+    },
+    {
       "bytes": 1038,
       "path": "dynamic/成长/2026-08-01 13-22-51 墨尔本独居有退路仍选择拼搏_be14bea6a51e.md",
       "sha256": "26540446066d092742f5e7c9edb51aecace08b3b8d9630ea1a715eb75e452e33"
@@ -565,12 +585,12 @@
     {
       "bytes": 982,
       "path": "dynamic/数字/2026-08-15 06-05-46 凡丁搬家到新平台_5665380b6b56.md",
-      "sha256": "c2ef767babb9b7c1c8833064311a5506d6faf024cd5350795354d99396f56cb6"
+      "sha256": "508e2ee5a416f31aaae4523ea0c5a3abceb3a59929ff96049258ce66bf174460"
     },
     {
       "bytes": 1253,
       "path": "dynamic/数字/2026-08-15 11-25-52 新家入住与系统验收_07159027995a.md",
-      "sha256": "6e225b405c1c86888d14227f69ce6f6679dbf01f3b2e59989392eb027ee6acbd"
+      "sha256": "523e4be7dafb584fe77efd7db0faf38ca3a653721214ba8710b478aa2e4e66f2"
     },
     {
       "bytes": 851,
@@ -580,7 +600,7 @@
     {
       "bytes": 1056,
       "path": "dynamic/日常/2026-08-17 16-40-00 正式搬入Polaris新家_89bdbf3303e3.md",
-      "sha256": "d52da423035bb3df9e796e0410948b38fae777b4afc00ecd77ebf30502bb4662"
+      "sha256": "599a6f9934e74264d2687cc251da80ea93625acf3a21c17f0feba08ad02cd6b4"
     },
     {
       "bytes": 581,
@@ -600,7 +620,7 @@
     {
       "bytes": 434,
       "path": "dynamic/未分类/07a602e0f111.md",
-      "sha256": "34cf8d7e24a482c8f7b28d5e9ff51dfe7cc72ce3a206b901a8b211ef1570c64b"
+      "sha256": "d63a40210861d4e6b39f634dbf4a66a9c26f36d07a9d0e78ee0346d9d7aa94dc"
     },
     {
       "bytes": 593,
@@ -616,11 +636,6 @@
       "bytes": 442,
       "path": "dynamic/未分类/14fc799012e8.md",
       "sha256": "330e9ba89a17249b0f95b831e903afc1b2196f9b630f0e82192770d26493adcf"
-    },
-    {
-      "bytes": 723,
-      "path": "dynamic/未分类/18016c2b22ad.md",
-      "sha256": "787c6a69b10553ba796bac38fad5484f9855d0a4432c3ee4dc3a3acfcc678e75"
     },
     {
       "bytes": 518,
@@ -655,7 +670,7 @@
     {
       "bytes": 1120,
       "path": "dynamic/未分类/218b63a81b82.md",
-      "sha256": "91de554ba8493b6e7aaf8d17c6f5f8db59a1c44924ae829b16ac1ff42300746e"
+      "sha256": "c545826a6f0d367b6bd023c12645d7ab2ac82c8edba84584e1b7904bef8084ad"
     },
     {
       "bytes": 581,
@@ -755,7 +770,7 @@
     {
       "bytes": 679,
       "path": "dynamic/未分类/6905555a2bf3.md",
-      "sha256": "afb46c48484ecf60c5b2f4e1572d64d1b3dbbd75c2150c00e89b99ed6c080e03"
+      "sha256": "6cec2993510077cee3a000e1c1bf42188b3a3e6f451086670842d59f1b728dc5"
     },
     {
       "bytes": 564,
@@ -863,11 +878,6 @@
       "sha256": "39d701f178e2437bdd4682911978ee5c901ee8dbe8de1fec1dd48a28ee3cac01"
     },
     {
-      "bytes": 687,
-      "path": "dynamic/未分类/9f32e4c1d43e.md",
-      "sha256": "a541f00141e4a0f7689d32355962f60e0e06f1807547c4258b40d8aa0a405b6b"
-    },
-    {
       "bytes": 1212,
       "path": "dynamic/未分类/a5fdb4ec615d.md",
       "sha256": "e6668b937f71dcb30ca7c3d6f716b02cd8811541512faa8e3f5b249ab7465feb"
@@ -888,9 +898,9 @@
       "sha256": "8ab45b24137f72ef0711292068b496183aa9b0c64ad6ec19210a37f99ac6bf00"
     },
     {
-      "bytes": 573,
+      "bytes": 571,
       "path": "dynamic/未分类/ae9fba103d29.md",
-      "sha256": "f3f2980ea718ec3f04db2971c05c50dd01e02fe570d8c2871d607b132647d0c9"
+      "sha256": "09683f8eab5152b66c3ce21120eb429fb755c2461a3811fe7b717aac3e48911d"
     },
     {
       "bytes": 384,
@@ -938,11 +948,6 @@
       "sha256": "c1ca0d8830d72b2c8fbc7366ca771d4eed736b65c8825cc3122094b5b33f92c1"
     },
     {
-      "bytes": 566,
-      "path": "dynamic/未分类/d43c13566a2c.md",
-      "sha256": "f93a535b2d72dbb2a5d24f4a7b7822619351bec8964eaada616ec8c697394a88"
-    },
-    {
       "bytes": 646,
       "path": "dynamic/未分类/d78c7da4a9b9.md",
       "sha256": "7c69e5eae5ec7c53a34b04f59c7833dfbfbf82d9fbc266a392ae67b9a0b58754"
@@ -978,9 +983,9 @@
       "sha256": "a1b2d67b46adebbe235125193d72be0715d281c4b7ef25ce1ee7abb7dd5fe304"
     },
     {
-      "bytes": 413,
+      "bytes": 411,
       "path": "dynamic/未分类/ef1ba0589578.md",
-      "sha256": "3f41e84c95e80afa8b573f77bc4916aa08749e6015bd7eed04faacf02bab85c1"
+      "sha256": "79df042b9685bae70c9580e82e022dd1e3ef5e020b5ae69ff2d04d5423c64029"
     },
     {
       "bytes": 609,
@@ -995,7 +1000,7 @@
     {
       "bytes": 592,
       "path": "dynamic/未分类/fff61f2b9bb1.md",
-      "sha256": "c260715fc8dc52782b62ce1656fb5de5b7ae06849988c94bcbb6b0aa9c42861a"
+      "sha256": "e5077fabd0998fcce78e880a4fed43a32da0c47d70b8fbda108a09f29393ffc9"
     },
     {
       "bytes": 1146,
@@ -1010,7 +1015,7 @@
     {
       "bytes": 1015,
       "path": "dynamic/穿搭/2026-07-07 13-46-25 七夕涩谷酷帅穿搭与东京趣事_6c4acf1c7ace.md",
-      "sha256": "d437278f77748404a37072424f675d799020a70b00f4f27fc34929cc6b3486e8"
+      "sha256": "4182073ebc62c6e8af6e114cf658df2e3adb87abd1f68beda4c0099a708fe825"
     },
     {
       "bytes": 714,
@@ -1180,7 +1185,7 @@
     {
       "bytes": 722,
       "path": "permanent/恋爱/2026-07-06 10-02-22 凡丁成田机场落地重逢_28978f10a1c7.md",
-      "sha256": "803ff335be001ace470b43e155a20c9d6172bfd1419e4631e4107ee6aecd9ed3"
+      "sha256": "dea3f93776095403f3499ddc14bee47c80f911035cc3e60b816c9e1cc217cbca"
     },
     {
       "bytes": 1590,
@@ -1195,7 +1200,7 @@
     {
       "bytes": 1145,
       "path": "permanent/未分类/2026-06-24 16-02-20_c0b8766473ab.md",
-      "sha256": "5b7baeac646ebe381c1c0be7b3fe95aff48077b3a7274ea5a1751b1097ca4f57"
+      "sha256": "61cb23679ea0d2b12cd4b18d9f340d43039177ec1ff34e9aee950e16b2cab0e8"
     },
     {
       "bytes": 1246,
@@ -1273,16 +1278,21 @@
       "sha256": "1ac7e747f01a9c739b8aebed7ecf4b028720e7bbf892f99f6d1ee444ea89c75f"
     },
     {
+      "bytes": 776,
+      "path": "plans/active/2026-08-19 14-53-21_2ff006012fe6.md",
+      "sha256": "172bf51a7b4d683c51e8bf91113f8b22ac6b91aa61e017f4ccb6c0f058fb00b4"
+    },
+    {
       "bytes": 656,
       "path": "plans/resolved/2026-08-14 07-22-41_c843075d4ac4.md",
       "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-08-19T06:45:10+00:00",
+  "generated_at": "2026-08-19T18:45:11+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 215095
+  "total_bytes": 219853
 }
