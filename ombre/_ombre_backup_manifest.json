@@ -53,6 +53,11 @@
       "sha256": "562063df2544f202d7534a2e98f92e127c0018264422ad2d730498b66eb40170"
     },
     {
+      "bytes": 544,
+      "path": "archive/待续/ca063d026f92.md",
+      "sha256": "af48cf6aac4891d490d6fd9c79c2a82d99e6f868a47d50e10fcc070279feb4ec"
+    },
+    {
       "bytes": 475,
       "path": "archive/待续/dd26e90f88ed.md",
       "sha256": "2dff57c4be3f1e23240667aba1686788e48926479e07fde02c86f0e138879ba0"
@@ -96,6 +101,11 @@
       "bytes": 1300,
       "path": "archive/系统/2026-08-14 06-38-48 Kelivo表情包回流Bug处理_97bbbb9dbc1c.md",
       "sha256": "c51e9b00dea19c37b33792c52f988440d0aaf61d297ed2ba68370ed568e68275"
+    },
+    {
+      "bytes": 516,
+      "path": "archive/认知/0650cbec8bcf.md",
+      "sha256": "b9a4055c1572b4d791c6bb4c9ce0ed565c3ed54331fb0b443950533e0187f1fa"
     },
     {
       "bytes": 579,
@@ -151,6 +161,11 @@
       "bytes": 637,
       "path": "archive/认知/5a7175a2665e.md",
       "sha256": "0e1adb866cd44d8f382cbe828eae48f93d83b3dee567d157eb5e96ea5c364e8b"
+    },
+    {
+      "bytes": 565,
+      "path": "archive/认知/6ab2371436ee.md",
+      "sha256": "1c88b20615a528f6cdc6a35bf1a9d0dcd05f6b7ba72d6fb6b1550fa2f244ee10"
     },
     {
       "bytes": 648,
@@ -236,6 +251,11 @@
       "bytes": 481,
       "path": "archive/里程碑/af89ddcec0ce.md",
       "sha256": "e1a639226c9d1c86e0a1c9a86ecbb7187be6e339d5573c67dc8860e2e9f4913b"
+    },
+    {
+      "bytes": 424,
+      "path": "archive/里程碑/edc7d84b1dcf.md",
+      "sha256": "c05d92df3fdffc7b4e6de26bdcd80b6a24858e3da934b9720329bc6f8bafe6b8"
     },
     {
       "bytes": 840,
@@ -698,11 +718,6 @@
       "sha256": "a3d537f9e5bf17ef038c9cbc01a2188935aa8c3bb3353eb6af009965a6622aa6"
     },
     {
-      "bytes": 515,
-      "path": "dynamic/未分类/0650cbec8bcf.md",
-      "sha256": "5fbc703bbf2fa94c04c64bdbf685357740c7433ff143037054e898d21d6fa293"
-    },
-    {
       "bytes": 434,
       "path": "dynamic/未分类/07a602e0f111.md",
       "sha256": "d63a40210861d4e6b39f634dbf4a66a9c26f36d07a9d0e78ee0346d9d7aa94dc"
@@ -795,7 +810,7 @@
     {
       "bytes": 605,
       "path": "dynamic/未分类/4d3f2f397268.md",
-      "sha256": "fd0c08900ccfc78762737ea8b32e9af86d296de0377ba9c73317c0756c7c1d35"
+      "sha256": "85bfc41f8ca3a3b4d76697111ec53f477b34c29f74ec12201231d14cfcc0971f"
     },
     {
       "bytes": 458,
@@ -826,11 +841,6 @@
       "bytes": 679,
       "path": "dynamic/未分类/6905555a2bf3.md",
       "sha256": "6cec2993510077cee3a000e1c1bf42188b3a3e6f451086670842d59f1b728dc5"
-    },
-    {
-      "bytes": 564,
-      "path": "dynamic/未分类/6ab2371436ee.md",
-      "sha256": "342d09c380a2526fbd2b4ebc58b8e1dbc3fe1c14c3e7a271efe44df41ad836d6"
     },
     {
       "bytes": 1334,
@@ -988,11 +998,6 @@
       "sha256": "f94b736d1665d9ab9298925a673043e68590226cec53b0c028a9e8aaa747279a"
     },
     {
-      "bytes": 543,
-      "path": "dynamic/未分类/ca063d026f92.md",
-      "sha256": "5d96cb95c175d7ec6db4931fff3b9d39d1540eca9f5773a700ecda57914dd599"
-    },
-    {
       "bytes": 919,
       "path": "dynamic/未分类/caae502f16ed.md",
       "sha256": "911ffbb896312e1635464e149def0cb2faf61f6a04b2d4836cf82217937103f7"
@@ -1021,11 +1026,6 @@
       "bytes": 643,
       "path": "dynamic/未分类/eb46b7426b47.md",
       "sha256": "feb7bd2e2bd1720c696aa10bd03f9c52fdbc4bfe2c60cdd9e19629df922383a4"
-    },
-    {
-      "bytes": 423,
-      "path": "dynamic/未分类/edc7d84b1dcf.md",
-      "sha256": "a8cc5b4a9ec97cb86122b63305e4259d493a4296b5ef20e91bc97fc596a99667"
     },
     {
       "bytes": 896,
@@ -1338,11 +1338,11 @@
       "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-08-23T06:45:56+00:00",
+  "generated_at": "2026-08-23T18:46:01+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 230249
+  "total_bytes": 230253
 }
