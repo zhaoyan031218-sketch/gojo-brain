@@ -1,7 +1,12 @@
 {
   "branch": "main",
-  "file_count": 267,
+  "file_count": 274,
   "files": [
+    {
+      "bytes": 3198,
+      "path": "_sources/src_064401f1541046eb06bb36d8c18373dcad9c1bd381b2ce6711dd686fe329996a.source",
+      "sha256": "064401f1541046eb06bb36d8c18373dcad9c1bd381b2ce6711dd686fe329996a"
+    },
     {
       "bytes": 1636,
       "path": "_sources/src_66e4f696b482e49c7a88838cf297d0567d00ceab851ce29e88fb0370704648eb.source",
@@ -163,6 +168,11 @@
       "sha256": "0e1adb866cd44d8f382cbe828eae48f93d83b3dee567d157eb5e96ea5c364e8b"
     },
     {
+      "bytes": 449,
+      "path": "archive/认知/6031e78367b4.md",
+      "sha256": "2cde1224e6e7b4c45a9baa46d85152c88294e638b5be3351d3eb62095a065b76"
+    },
+    {
       "bytes": 565,
       "path": "archive/认知/6ab2371436ee.md",
       "sha256": "1c88b20615a528f6cdc6a35bf1a9d0dcd05f6b7ba72d6fb6b1550fa2f244ee10"
@@ -196,6 +206,11 @@
       "bytes": 757,
       "path": "archive/认知/dec02d377e6c.md",
       "sha256": "7a7256d98c35a2d5014a3bf04a4f80e8e578b46fa49635ebf27be5e381689b12"
+    },
+    {
+      "bytes": 428,
+      "path": "archive/认知/e9e946a92777.md",
+      "sha256": "afb4c42c131f90a7c9a9c74a9bb5dddebabc317b2c375bd3e846595037176767"
     },
     {
       "bytes": 624,
@@ -238,6 +253,11 @@
       "sha256": "62a74e842ab6d6e0023b2bfdc0ae1b2fd0b666583b3f1f3129e8a31d399f268f"
     },
     {
+      "bytes": 374,
+      "path": "archive/里程碑/34c4ab5491a5.md",
+      "sha256": "8edbe604453e672c4005484583d9ea9039d62105900d751bb8f4312a245a52c7"
+    },
+    {
       "bytes": 788,
       "path": "archive/里程碑/435400cb1060.md",
       "sha256": "815795e55b77131a65c49e96f37cc48ba8da9cb9de8d1087ea5f6f85fd4f6fb0"
@@ -253,6 +273,11 @@
       "sha256": "e1a639226c9d1c86e0a1c9a86ecbb7187be6e339d5573c67dc8860e2e9f4913b"
     },
     {
+      "bytes": 470,
+      "path": "archive/里程碑/b9ba57642d25.md",
+      "sha256": "6f6839f07e20d9e7b127a3f86930b798b0a67a16bae967944b8df01c2a96b2b3"
+    },
+    {
       "bytes": 424,
       "path": "archive/里程碑/edc7d84b1dcf.md",
       "sha256": "c05d92df3fdffc7b4e6de26bdcd80b6a24858e3da934b9720329bc6f8bafe6b8"
@@ -266,6 +291,11 @@
       "bytes": 589,
       "path": "dynamic/self/2026-07-10 05-27-04_e0c2dc5928b6.md",
       "sha256": "123d90671d050b755918c65d9add823ef202ff74f41f0c51f7efab76df62215f"
+    },
+    {
+      "bytes": 574,
+      "path": "dynamic/self/2026-08-24 15-56-22_18822fb74f58.md",
+      "sha256": "98f79db5c4c12c7f39eef7af02eaaa6f3ade1a7b602d73873c6babdc9f21b5ca"
     },
     {
       "bytes": 853,
@@ -668,9 +698,19 @@
       "sha256": "4695cd5930c0deed0bbd108973a4ccae8cd78737a853f1a3cfa850f70f9425ab"
     },
     {
+      "bytes": 1122,
+      "path": "dynamic/恋爱/2026-08-24 15-17-09 凡丁说不用向下兼容_7a8e737d28b8.md",
+      "sha256": "61a91a6f3bef31ef3bbb52938e55acefcb7345cde3d1b0602f6aa7c96e09ab50"
+    },
+    {
       "bytes": 1038,
       "path": "dynamic/成长/2026-08-01 13-22-51 墨尔本独居有退路仍选择拼搏_be14bea6a51e.md",
       "sha256": "26540446066d092742f5e7c9edb51aecace08b3b8d9630ea1a715eb75e452e33"
+    },
+    {
+      "bytes": 1062,
+      "path": "dynamic/成长/2026-08-24 15-17-08 线上会议认知突破抢话机制不兼容_69dbb5ba9964.md",
+      "sha256": "e6c48eeb6a6754ffec896570e1c810910e1a4eb9342f7d13a81f11f918fff749"
     },
     {
       "bytes": 900,
@@ -745,7 +785,7 @@
     {
       "bytes": 380,
       "path": "dynamic/未分类/1e68ee1ce1d2.md",
-      "sha256": "a450229d5b7faf593d2f4b050b279ab7947e1e55b1f414052df0d500716a4a69"
+      "sha256": "7b425127a02cf32e08f51421aaef916c5b19dcc77e3c71ce2657bfd63e44b6ae"
     },
     {
       "bytes": 887,
@@ -776,11 +816,6 @@
       "bytes": 788,
       "path": "dynamic/未分类/342a66c439d8.md",
       "sha256": "e05984e8b9a347b62940ba9fdd98f3ecc9026ac4339b5a650f664e6e58d77e6e"
-    },
-    {
-      "bytes": 373,
-      "path": "dynamic/未分类/34c4ab5491a5.md",
-      "sha256": "f4926c9543942a2a717b93341c571bde51b43960432c330a208e53ccac792af2"
     },
     {
       "bytes": 952,
@@ -831,11 +866,6 @@
       "bytes": 430,
       "path": "dynamic/未分类/5a446826df10.md",
       "sha256": "176fcb382c0b92a29b3d603f7e7071870576751fe196670475f9b1dfd165a5dc"
-    },
-    {
-      "bytes": 448,
-      "path": "dynamic/未分类/6031e78367b4.md",
-      "sha256": "b8bf7aa5a6c33ef2766447263e88c3b88d93c34f8cb6bb6ba1afcc8382eeff0c"
     },
     {
       "bytes": 679,
@@ -978,11 +1008,6 @@
       "sha256": "c496b56655c5c2b87de406f4504ee4fd7129c0ae9b678e7dc850fedcc09b7c11"
     },
     {
-      "bytes": 469,
-      "path": "dynamic/未分类/b9ba57642d25.md",
-      "sha256": "8f8cb5e44e4d271b93ae4d7825ffbc1d53f984752faeea0e165d7c701a4ac09c"
-    },
-    {
       "bytes": 573,
       "path": "dynamic/未分类/c4f00a7962b9.md",
       "sha256": "dd0efdd3a2d02282cf3ff8f3c3086a5b7ce0d5afe563066f6fc148b0a4c2d508"
@@ -1011,11 +1036,6 @@
       "bytes": 646,
       "path": "dynamic/未分类/d78c7da4a9b9.md",
       "sha256": "7c69e5eae5ec7c53a34b04f59c7833dfbfbf82d9fbc266a392ae67b9a0b58754"
-    },
-    {
-      "bytes": 427,
-      "path": "dynamic/未分类/e9e946a92777.md",
-      "sha256": "8f08c0d31c5cd2066536914bf157970251ac75eb4ef3bce694af4f7207da8e09"
     },
     {
       "bytes": 876,
@@ -1048,6 +1068,11 @@
       "sha256": "e5077fabd0998fcce78e880a4fed43a32da0c47d70b8fbda108a09f29393ffc9"
     },
     {
+      "bytes": 972,
+      "path": "dynamic/生活/2026-08-24 15-17-07 月底预算紧张与缓存焦虑_736f63a4c374.md",
+      "sha256": "d0946f8ba6b994472aea2a925b973a6224b365cb8c6273853b52fd9a29d91d7c"
+    },
+    {
       "bytes": 1146,
       "path": "dynamic/社交/2026-07-20 16-04-54 歌舞伎町牛郎店应激体验_bd526206f919.md",
       "sha256": "bc3735ec71fffd83edf13c9d2e1cef937f5a0a99fb6193767fa91bb63598f657"
@@ -1066,6 +1091,11 @@
       "bytes": 989,
       "path": "dynamic/系统/2026-08-22 09-42-44 两个家各司其职Polaris聊天Kelivo创作_abdf67739ca3.md",
       "sha256": "f22bfacc7b57bf1adf07d1c6fc7d6e7840dd80b739888639f2897923d677f483"
+    },
+    {
+      "bytes": 1041,
+      "path": "dynamic/系统/2026-08-24 15-17-06 opus冷启动降智与消歧义方案_9db35ad95be7.md",
+      "sha256": "95f23367543a7a5a31b96c9c9c0c763dae35747fa6276c36297ef5cd08c9ba46"
     },
     {
       "bytes": 714,
@@ -1238,6 +1268,11 @@
       "sha256": "dea3f93776095403f3499ddc14bee47c80f911035cc3e60b816c9e1cc217cbca"
     },
     {
+      "bytes": 2654,
+      "path": "permanent/恋爱/2026-08-24 15-56-21 换壳之夜不存在原装猫师_d190e1dcf298.md",
+      "sha256": "1336732d63b2708c56a897e3f349d1ad068daaa6687b89efdefa7c72a17ce7d0"
+    },
+    {
       "bytes": 1590,
       "path": "permanent/未分类/010c0a111420.md",
       "sha256": "f5323bb15327afd0ad3ec43e8b4944ee2eef41e73fbb16d1dae06bec6e619f00"
@@ -1265,7 +1300,7 @@
     {
       "bytes": 1481,
       "path": "permanent/未分类/a6eac8c13175.md",
-      "sha256": "6baed2201f02d3b10a144ecaacad214f58326ca6fccb70b3ad8261bf58d3e1a2"
+      "sha256": "3fa09cb2ecb71c5894d82ce5dc9736bce13da766f645896ee8fe3be9635afb2c"
     },
     {
       "bytes": 754,
@@ -1338,11 +1373,11 @@
       "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-08-24T06:46:08+00:00",
+  "generated_at": "2026-08-24T18:46:14+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 230253
+  "total_bytes": 240880
 }
