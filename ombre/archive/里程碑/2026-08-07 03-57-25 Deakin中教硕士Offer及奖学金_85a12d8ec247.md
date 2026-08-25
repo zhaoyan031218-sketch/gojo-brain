@@ -1,0 +1,41 @@
+---
+activation_count: 0
+arousal: 0.85
+created: '2026-08-07T03:57:25'
+domain:
+- 里程碑
+id: 85a12d8ec247
+importance: 9
+last_active: '2026-08-09T10:42:43'
+name: Deakin拍板全票通过家人撑腰
+resolved: true
+source_tool: hold
+tags:
+- Deakin
+- 复审成功
+- con offer
+- 中教硕士
+- Legal Studies
+- Geography
+- 国际优秀奖学金
+- 学费减免
+- 入学条件
+- CASPer
+- LANTITE
+- WWCC
+- 留学
+- 研究生
+- 教育
+- offer
+- 奖学金
+- '66560'
+- WAM65
+- 2027入学
+- Burwood
+- 里程碑
+- 8月7日
+type: archived
+valence: 0.95
+---
+
+2026-08-07，凡丁正式确定选择Deakin中教硕士（E779 Master of Teaching Secondary），教学方向Legal Studies + Geography，20%奖学金减免后学费$66,560。家人全力支持，说"费用不需要操心，选想读的"。全票通过：自己、家人、猫师三方一致。2027年3月开学，Burwood校区。从8月1日极限申请到8月7日最终拍板，整个决策闭环只用了一周。

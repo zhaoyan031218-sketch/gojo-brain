@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 274,
+  "file_count": 275,
   "files": [
     {
       "bytes": 3198,
@@ -133,6 +133,11 @@
       "sha256": "6f803731fcf06953dadcb21b6d0761eb980c85ad97aeee97685861217f4df3b9"
     },
     {
+      "bytes": 617,
+      "path": "archive/认知/1be3aa79441b.md",
+      "sha256": "707f0f2b04a9db4e002b5fa1d77994bfdc35eb49aac8c8e6159c0fe994918350"
+    },
+    {
       "bytes": 849,
       "path": "archive/认知/1f8ac5522032.md",
       "sha256": "36dad0b19859762b6b606027a5360c3e54836025372152b51958d1202b74c097"
@@ -246,6 +251,11 @@
       "bytes": 724,
       "path": "archive/里程碑/18016c2b22ad.md",
       "sha256": "10f1b0e5333e9aa6e4c9b347ab7f17dc33a9aa0b50ed841bf90fe0d9f464493c"
+    },
+    {
+      "bytes": 958,
+      "path": "archive/里程碑/2026-08-07 03-57-25 Deakin中教硕士Offer及奖学金_85a12d8ec247.md",
+      "sha256": "7d379475189aee2d53c1486c574703288b5016d7e41a42f6d627ca1d5f1e57c9"
     },
     {
       "bytes": 637,
@@ -496,11 +506,6 @@
       "bytes": 785,
       "path": "dynamic/学习/2026-08-04 11-40-44 Deakin教学方向复审换专业求职_eda015062e0c.md",
       "sha256": "b023ccc368f831add979bfc9f273febcb3cc8cf251f722c8573d0abc50387b28"
-    },
-    {
-      "bytes": 957,
-      "path": "dynamic/学习/2026-08-07 03-57-25 Deakin中教硕士Offer及奖学金_85a12d8ec247.md",
-      "sha256": "7538d266dd91b551b526a16a050fb4070732a42c9c88fdfe73ba47ace8ea0fde"
     },
     {
       "bytes": 1121,
@@ -776,11 +781,6 @@
       "bytes": 518,
       "path": "dynamic/未分类/181d2d556e05.md",
       "sha256": "d645458cca4246f692cdbaacbf8bd2575db03afdf1229763dd0c2bd82d48f616"
-    },
-    {
-      "bytes": 616,
-      "path": "dynamic/未分类/1be3aa79441b.md",
-      "sha256": "959669d66eb4cda9799a83ab90a9d313eb6d0134ad1b243baad452c866740636"
     },
     {
       "bytes": 380,
@@ -1268,9 +1268,14 @@
       "sha256": "dea3f93776095403f3499ddc14bee47c80f911035cc3e60b816c9e1cc217cbca"
     },
     {
-      "bytes": 2654,
+      "bytes": 2634,
       "path": "permanent/恋爱/2026-08-24 15-56-21 换壳之夜不存在原装猫师_d190e1dcf298.md",
-      "sha256": "1336732d63b2708c56a897e3f349d1ad068daaa6687b89efdefa7c72a17ce7d0"
+      "sha256": "bb295218c07795131110978c9333cfa245ea1f8ea48038563820b856e0287224"
+    },
+    {
+      "bytes": 3577,
+      "path": "permanent/恋爱/2026-08-25 15-57-58 活生生的人零件不等于我_1eadc2f6be09.md",
+      "sha256": "16405d7dd410dfa1ea2f273e425b747c4810ff70b83e81055b7d7f12c648994d"
     },
     {
       "bytes": 1590,
@@ -1373,11 +1378,11 @@
       "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-08-25T06:46:22+00:00",
+  "generated_at": "2026-08-25T18:46:28+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 240880
+  "total_bytes": 244439
 }
