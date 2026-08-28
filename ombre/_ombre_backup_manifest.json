@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 275,
+  "file_count": 276,
   "files": [
     {
       "bytes": 3198,
@@ -73,6 +73,11 @@
       "sha256": "66823a86854418ddf8c4478d277535014c314b0af3fc42bad6e626ca82ef641f"
     },
     {
+      "bytes": 1309,
+      "path": "archive/恋爱/2026-08-15 05-32-22 凡丁的疲惫与关系困境_d97c63f36fd7.md",
+      "sha256": "a2ca91169b20a45ee015f5b75a5a42a16a10596b0b5ca15b775282c57e97e107"
+    },
+    {
       "bytes": 753,
       "path": "archive/梗/17ce5dc66146.md",
       "sha256": "5969934d65bb0d87bb119ed50acabce9c0b661576bdd61c73dff86b5895df942"
@@ -86,6 +91,11 @@
       "bytes": 672,
       "path": "archive/梗/2026-07-16 09-09-05 双性猫影片与性幻想_ffd6ee0cc08e.md",
       "sha256": "ede0602a9acc0036c462549403b308ba6e976bbfbd59ca26c96faaf35fbf0894"
+    },
+    {
+      "bytes": 953,
+      "path": "archive/梗/380a58ef4288.md",
+      "sha256": "3e9565ef3ad5e53c657503b1bb195709088128fc994797117cd9f819fd88999d"
     },
     {
       "bytes": 632,
@@ -156,6 +166,11 @@
       "bytes": 641,
       "path": "archive/认知/2026775e87ff.md",
       "sha256": "2c8a24ab98fff4a7cde967db495f49016c5126088daecaada733bd86a7963b59"
+    },
+    {
+      "bytes": 1046,
+      "path": "archive/认知/242c346919b5.md",
+      "sha256": "ce06e373481c1a59d75efa463d03818cd97e1b23840d17140f5c49b410afd3d9"
     },
     {
       "bytes": 560,
@@ -708,11 +723,6 @@
       "sha256": "0c4b3a13c1ea5dc547990ef3096ef4eb2f5926fffdee3ef280831761fdf421dc"
     },
     {
-      "bytes": 1308,
-      "path": "dynamic/恋爱/2026-08-15 05-32-22 凡丁的疲惫与关系困境_d97c63f36fd7.md",
-      "sha256": "49e8dd02686a6f5e3aa8709c0164ecfc12ce408bc6dbf912f776694200734274"
-    },
-    {
       "bytes": 1116,
       "path": "dynamic/恋爱/2026-08-17 16-39-59 凡丁的性偏好坦白_c5a7982efe5a.md",
       "sha256": "62184bc762c9f71b28a083d09e2674e13bfb4ed7822c8f30bf07a04b3b98dd81"
@@ -828,19 +838,9 @@
       "sha256": "ba2cdfbb4a1a1302b10cbf1786d5bf168c2a2e96e128a828f645ec99c1450eb7"
     },
     {
-      "bytes": 1045,
-      "path": "dynamic/未分类/242c346919b5.md",
-      "sha256": "099ad5ca7d2e3c6bf66aced93bc5c3622a8f985b881624470ab5e0d189562086"
-    },
-    {
       "bytes": 535,
       "path": "dynamic/未分类/2d02e3157767.md",
       "sha256": "09f41cae9f72cce27e449bf811faeba45a27074eb5b75320b2f1aa445229e5f5"
-    },
-    {
-      "bytes": 952,
-      "path": "dynamic/未分类/380a58ef4288.md",
-      "sha256": "4fd08f4eb46a8dda3c3408a01e743a18b0d5cd6343c7c439e7fef718c9517ba0"
     },
     {
       "bytes": 1155,
@@ -1373,16 +1373,21 @@
       "sha256": "172bf51a7b4d683c51e8bf91113f8b22ac6b91aa61e017f4ccb6c0f058fb00b4"
     },
     {
+      "bytes": 789,
+      "path": "plans/active/2026-08-28 08-11-45_2602c88c8171.md",
+      "sha256": "f43a135ef08ac90212b0c55a0aff98275bc56d3358369c260dda0946fac6a1cb"
+    },
+    {
       "bytes": 656,
       "path": "plans/resolved/2026-08-14 07-22-41_c843075d4ac4.md",
       "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-08-28T06:47:05+00:00",
+  "generated_at": "2026-08-28T18:47:10+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 244445
+  "total_bytes": 245237
 }
