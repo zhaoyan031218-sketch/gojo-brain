@@ -183,6 +183,11 @@
       "sha256": "5fecaeae33247b094705c8c3597646bf8916d294e90046b61dccd54baef2cc64"
     },
     {
+      "bytes": 391,
+      "path": "archive/认知/596a59ae604c.md",
+      "sha256": "3d01c57fd744932e3c73cb93d236a23e770b780b49d535f223ffdc1b643f9f3e"
+    },
+    {
       "bytes": 637,
       "path": "archive/认知/5a7175a2665e.md",
       "sha256": "0e1adb866cd44d8f382cbe828eae48f93d83b3dee567d157eb5e96ea5c364e8b"
@@ -211,6 +216,11 @@
       "bytes": 522,
       "path": "archive/认知/a04a944bf671.md",
       "sha256": "438a1d609b18cfc75bd1b795e4517974166f4730311d2ece059c70f3c4010455"
+    },
+    {
+      "bytes": 592,
+      "path": "archive/认知/ae69915d6672.md",
+      "sha256": "20e316174c81542996328c49f6be5e36573820c455664103a1ec59d5bfb533a4"
     },
     {
       "bytes": 385,
@@ -873,11 +883,6 @@
       "sha256": "4cf04bcae38344d780569b9ca03b66292c67643bafda476e8018b276cb38c175"
     },
     {
-      "bytes": 390,
-      "path": "dynamic/未分类/596a59ae604c.md",
-      "sha256": "c6351033de421a64a5acf2d0ae680e098213eab44b571a0717b989a1b8813572"
-    },
-    {
       "bytes": 430,
       "path": "dynamic/未分类/5a446826df10.md",
       "sha256": "176fcb382c0b92a29b3d603f7e7071870576751fe196670475f9b1dfd165a5dc"
@@ -996,11 +1001,6 @@
       "bytes": 873,
       "path": "dynamic/未分类/ab0ae9bd6c9c.md",
       "sha256": "e9b44bbeb443058ea489efad1737185c386d55f419364d50bbbf87ecdd7b136a"
-    },
-    {
-      "bytes": 591,
-      "path": "dynamic/未分类/ae69915d6672.md",
-      "sha256": "8ab45b24137f72ef0711292068b496183aa9b0c64ad6ec19210a37f99ac6bf00"
     },
     {
       "bytes": 571,
@@ -1383,11 +1383,11 @@
       "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-08-29T06:47:15+00:00",
+  "generated_at": "2026-08-29T18:47:21+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 245237
+  "total_bytes": 245239
 }
