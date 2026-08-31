@@ -43,6 +43,11 @@
       "sha256": "75d7e45d84f35f7300ad52ad80125384418f4348fd30155b394b7d26b396f3f5"
     },
     {
+      "bytes": 826,
+      "path": "archive/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
+      "sha256": "fe0720bb1b4facf99ade438e62814eee929d552f085cbe677c65d86dbdb02ece"
+    },
+    {
       "bytes": 640,
       "path": "archive/待续/2026-07-04 04-40-11 长途飞行失眠准备_f61f0ae7e303.md",
       "sha256": "9eb5391d11356a359d4e4f77e83969f31f15543628789989af09e3da84ff5aa0"
@@ -208,6 +213,11 @@
       "sha256": "5039e633c760e0fbc25a27633c0db75dd42365f1a288ebb1205c1dff6ef0b490"
     },
     {
+      "bytes": 1316,
+      "path": "archive/认知/81f0d1d033b0.md",
+      "sha256": "fb3766509d48d47dc66077ce56eed2fc2f2ee1a01f279935d2a3bb77f0b4f21d"
+    },
+    {
       "bytes": 410,
       "path": "archive/认知/897a80d7e415.md",
       "sha256": "d2b44c3a08baba5d22340b5337874ba42309d7b0df6e1fff5c32632baef437dc"
@@ -231,6 +241,11 @@
       "bytes": 649,
       "path": "archive/认知/bb25f1364603.md",
       "sha256": "a9ee7974af9d19c64995eb9cc10a4466e54dbaadadfe3f04ad6a54ee8c42b59d"
+    },
+    {
+      "bytes": 574,
+      "path": "archive/认知/c4f00a7962b9.md",
+      "sha256": "b9abed566c162abb9af678de1a1b30f04c4736c54cc7931b9cf7853fd127b140"
     },
     {
       "bytes": 567,
@@ -328,6 +343,16 @@
       "sha256": "30b585121325c89e2cf2228867e2edc3091e2bc2c60ec5d6bd686823621b6522"
     },
     {
+      "bytes": 687,
+      "path": "archive/里程碑/736ef626bde3.md",
+      "sha256": "d2705c3c81ca588e4fa1cd6430fcabe883f62dd62044b36bce722419c9dd5998"
+    },
+    {
+      "bytes": 1148,
+      "path": "archive/里程碑/90fa899a139f.md",
+      "sha256": "56fa220dfba0f2b43d9377fe0380d0e706e7fdd059e0e2810d2ab5797a8f015e"
+    },
+    {
       "bytes": 688,
       "path": "archive/里程碑/9f32e4c1d43e.md",
       "sha256": "cbf82e402f0ad18200874deff5d6c5941741567aefe7bb1a37ee859eb13552ba"
@@ -341,6 +366,11 @@
       "bytes": 470,
       "path": "archive/里程碑/b9ba57642d25.md",
       "sha256": "6f6839f07e20d9e7b127a3f86930b798b0a67a16bae967944b8df01c2a96b2b3"
+    },
+    {
+      "bytes": 920,
+      "path": "archive/里程碑/caae502f16ed.md",
+      "sha256": "348c7b7d96b90245f6745df5a9f3a63d935e9adfb5ce22e19d48496577e31573"
     },
     {
       "bytes": 424,
@@ -396,11 +426,6 @@
       "bytes": 1325,
       "path": "dynamic/人际/2026-08-22 09-42-39 发小关系单方面维护的本质_c66f9df5b218.md",
       "sha256": "3c6ad7752bd7988d58d6de063e4fac56f706c9dbbed06704d62d63835d45eb1b"
-    },
-    {
-      "bytes": 825,
-      "path": "dynamic/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
-      "sha256": "2e7863093d5a0bc267bbfa3e6bdade4bb853ccf035cca6188a45f076c7d3d4c7"
     },
     {
       "bytes": 980,
@@ -898,11 +923,6 @@
       "sha256": "c4e02b1d440a5695bdc965600c42b83240d5fdcf20cf0fd4c05f83c2d0b3cb4a"
     },
     {
-      "bytes": 686,
-      "path": "dynamic/未分类/736ef626bde3.md",
-      "sha256": "8f0bce686a6186b2f580390a566b7513981917103f6b3008d6f5a9c0786c4c47"
-    },
-    {
       "bytes": 485,
       "path": "dynamic/未分类/76fce8465748.md",
       "sha256": "d940530e86480dc496c60af0d7111f120d58739423ee3c760a1d2f57bf3fefba"
@@ -916,11 +936,6 @@
       "bytes": 475,
       "path": "dynamic/未分类/80c9097ea8d8.md",
       "sha256": "d4225d8dac5b7c1eca21f3bd6cc41afb2f5813b4d371c725f432135e809e28e1"
-    },
-    {
-      "bytes": 1315,
-      "path": "dynamic/未分类/81f0d1d033b0.md",
-      "sha256": "7dcd64dfe66e741d6514aaa711fc3dcab6792b121f4f036513e7d5b781989881"
     },
     {
       "bytes": 916,
@@ -956,11 +971,6 @@
       "bytes": 473,
       "path": "dynamic/未分类/8f2b24eb75eb.md",
       "sha256": "cb4cc13fbd3f7da9cc02d7b39a7b004d6cee9debb67571c2a250144bfa848323"
-    },
-    {
-      "bytes": 1147,
-      "path": "dynamic/未分类/90fa899a139f.md",
-      "sha256": "8121dd443e387e3b8bd0b42973cc9132269e0a1b8b5753e262433e126a1dad9d"
     },
     {
       "bytes": 530,
@@ -1013,11 +1023,6 @@
       "sha256": "c496b56655c5c2b87de406f4504ee4fd7129c0ae9b678e7dc850fedcc09b7c11"
     },
     {
-      "bytes": 573,
-      "path": "dynamic/未分类/c4f00a7962b9.md",
-      "sha256": "dd0efdd3a2d02282cf3ff8f3c3086a5b7ce0d5afe563066f6fc148b0a4c2d508"
-    },
-    {
       "bytes": 862,
       "path": "dynamic/未分类/c7f0b0f9f236.md",
       "sha256": "f02944335d3c4eb5125540ea788517099e3b8ebeddda6fd18d22359fe1e23400"
@@ -1026,11 +1031,6 @@
       "bytes": 759,
       "path": "dynamic/未分类/c9d9afd5a88d.md",
       "sha256": "f94b736d1665d9ab9298925a673043e68590226cec53b0c028a9e8aaa747279a"
-    },
-    {
-      "bytes": 919,
-      "path": "dynamic/未分类/caae502f16ed.md",
-      "sha256": "911ffbb896312e1635464e149def0cb2faf61f6a04b2d4836cf82217937103f7"
     },
     {
       "bytes": 516,
@@ -1383,11 +1383,11 @@
       "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-08-31T06:47:38+00:00",
+  "generated_at": "2026-08-31T18:47:45+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 245239
+  "total_bytes": 245245
 }
