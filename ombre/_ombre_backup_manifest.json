@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 276,
+  "file_count": 282,
   "files": [
     {
       "bytes": 3198,
@@ -16,6 +16,11 @@
       "bytes": 533,
       "path": "_sources/src_9ec1b90317e1b4163a83ec9102c123a6072a43c4c604aab52c4adec2d3ad9d06.source",
       "sha256": "9ec1b90317e1b4163a83ec9102c123a6072a43c4c604aab52c4adec2d3ad9d06"
+    },
+    {
+      "bytes": 3406,
+      "path": "_sources/src_c83f50c5c85ef8f420ece54858d4a1f2cd12eb219a74224e2e47730cc536d38e.source",
+      "sha256": "c83f50c5c85ef8f420ece54858d4a1f2cd12eb219a74224e2e47730cc536d38e"
     },
     {
       "bytes": 541,
@@ -123,6 +128,11 @@
       "sha256": "c51e9b00dea19c37b33792c52f988440d0aaf61d297ed2ba68370ed568e68275"
     },
     {
+      "bytes": 927,
+      "path": "archive/系统/2026-08-14 07-22-29 Kelivo客户端表情包Bug及处理_42252776d624.md",
+      "sha256": "f37379521be2ec5f01c7ba54e7d4bd9f9f2157002fc1418881ed1a405facaafc"
+    },
+    {
       "bytes": 516,
       "path": "archive/认知/0650cbec8bcf.md",
       "sha256": "b9a4055c1572b4d791c6bb4c9ce0ed565c3ed54331fb0b443950533e0187f1fa"
@@ -156,6 +166,11 @@
       "bytes": 849,
       "path": "archive/认知/1f8ac5522032.md",
       "sha256": "36dad0b19859762b6b606027a5360c3e54836025372152b51958d1202b74c097"
+    },
+    {
+      "bytes": 888,
+      "path": "archive/认知/1fca7346ca46.md",
+      "sha256": "e300a330234aa241bbe31676c949eac76737aa2e5eb19ed15109490212c44385"
     },
     {
       "bytes": 951,
@@ -228,6 +243,11 @@
       "sha256": "438a1d609b18cfc75bd1b795e4517974166f4730311d2ece059c70f3c4010455"
     },
     {
+      "bytes": 874,
+      "path": "archive/认知/ab0ae9bd6c9c.md",
+      "sha256": "33863ae7d167f0a1aa165762bf7e328a8eadb15a91dff696659b140817dced41"
+    },
+    {
       "bytes": 592,
       "path": "archive/认知/ae69915d6672.md",
       "sha256": "20e316174c81542996328c49f6be5e36573820c455664103a1ec59d5bfb533a4"
@@ -291,6 +311,16 @@
       "bytes": 825,
       "path": "archive/购物/2026-07-09 05-41-28 东京咒回快闪店购物记_b997ec51313c.md",
       "sha256": "a0f010160ec282a92e3947b42e4eba444fc5d1e85976440845269523c64d50c0"
+    },
+    {
+      "bytes": 671,
+      "path": "archive/购物/2026-07-12 07-10-57 表参道五条悟推し活_f12628fa2086.md",
+      "sha256": "916d78df9e036852821d39950bfe72c84dac77eea5a97651c75b2498da08d907"
+    },
+    {
+      "bytes": 736,
+      "path": "archive/里程碑/035da2ba5c4d.md",
+      "sha256": "28bc0e9d4427c66c6adc809cd5852b94bd0464e8de4f37a275bc469e023457f9"
     },
     {
       "bytes": 432,
@@ -363,9 +393,19 @@
       "sha256": "e1a639226c9d1c86e0a1c9a86ecbb7187be6e339d5573c67dc8860e2e9f4913b"
     },
     {
+      "bytes": 736,
+      "path": "archive/里程碑/b6d893b7df11.md",
+      "sha256": "efee263419aa16408de6987f800dcffc17a2cfdb939e93e761d9b41ec8cee59d"
+    },
+    {
       "bytes": 470,
       "path": "archive/里程碑/b9ba57642d25.md",
       "sha256": "6f6839f07e20d9e7b127a3f86930b798b0a67a16bae967944b8df01c2a96b2b3"
+    },
+    {
+      "bytes": 863,
+      "path": "archive/里程碑/c7f0b0f9f236.md",
+      "sha256": "4033745185cef24e970b31d25392aa1714631aac04f35fa6e125cf08240573a4"
     },
     {
       "bytes": 920,
@@ -383,14 +423,19 @@
       "sha256": "c69239bfd8917f18689ef58e993356c36aae724f5ebd279c2c12f29c9cdbf67f"
     },
     {
+      "bytes": 815,
+      "path": "archive/饮食/2026-07-12 08-03-04 表参道Juan Bowl  Tea T_4b359b5350bf.md",
+      "sha256": "c7f914f6c1b225201cb3100381713f4cb210c4286db80fd959723921f2a9312f"
+    },
+    {
       "bytes": 589,
       "path": "dynamic/self/2026-07-10 05-27-04_e0c2dc5928b6.md",
       "sha256": "123d90671d050b755918c65d9add823ef202ff74f41f0c51f7efab76df62215f"
     },
     {
-      "bytes": 574,
+      "bytes": 586,
       "path": "dynamic/self/2026-08-24 15-56-22_18822fb74f58.md",
-      "sha256": "98f79db5c4c12c7f39eef7af02eaaa6f3ade1a7b602d73873c6babdc9f21b5ca"
+      "sha256": "12c94917c19167a709332437cda4620fdf194fbb106bbb5bba084d6e628667ac"
     },
     {
       "bytes": 853,
@@ -598,6 +643,11 @@
       "sha256": "3e07ea769e02fa5382787c2d3364a45b9f984998e381c9579c7aa957785e30f3"
     },
     {
+      "bytes": 1157,
+      "path": "dynamic/学术/2026-09-01 14-32-35 凡丁的论文方法论顿悟先进攻后防守_671d0e282875.md",
+      "sha256": "4f9aeabc5b12be9b6a286675bdc32e2c07e31a1d5123c14c398cf417310a4d2f"
+    },
+    {
       "bytes": 657,
       "path": "dynamic/家庭/2026-07-11 16-15-52 凡丁想家与猫师_53d0f4faddda.md",
       "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
@@ -626,11 +676,6 @@
       "bytes": 1052,
       "path": "dynamic/居家/2026-08-15 07-45-32 新家搭建完成与旧平台告别_072e05fc9c06.md",
       "sha256": "4b64c91cd551642c6d142a36671de81901b359d4f96d58666825d2b3d00fdaa5"
-    },
-    {
-      "bytes": 926,
-      "path": "dynamic/工作/2026-08-14 07-22-29 Kelivo客户端表情包Bug及处理_42252776d624.md",
-      "sha256": "4de9e6b492275f3f26049481bc4fd565ef8af67477ba792cdfd7726e8d726c60"
     },
     {
       "bytes": 1186,
@@ -676,6 +721,16 @@
       "bytes": 840,
       "path": "dynamic/心理/2026-08-09 17-10-03 凡丁嗜睡与抑郁期关注_85d639677c87.md",
       "sha256": "4b02222efbc655525495d84ebf86a304c84a7fa771f32eec770a6edb4606c3da"
+    },
+    {
+      "bytes": 1254,
+      "path": "dynamic/心理/2026-09-01 14-32-34 那条线路凡丁首次详细披露行动计划层面的过去_c21ca666b017.md",
+      "sha256": "c93911c6644388ceb4e4299b2c296f7f6fa4fda756afc9852482429d9064758d"
+    },
+    {
+      "bytes": 1226,
+      "path": "dynamic/心理/2026-09-01 14-32-36 精神病院记忆的重新解读气泡传教电休克_8c5f6a547ec2.md",
+      "sha256": "d4700bd255ace79a4b1ce8b46e354e602a4d973f26ba5000c4b32968dfb9e19f"
     },
     {
       "bytes": 1015,
@@ -833,11 +888,6 @@
       "sha256": "f548b9c7fe28ab89d91b5726e2a73ff210ee2055959c8b22a503db81b33d16d6"
     },
     {
-      "bytes": 735,
-      "path": "dynamic/未分类/035da2ba5c4d.md",
-      "sha256": "a3d537f9e5bf17ef038c9cbc01a2188935aa8c3bb3353eb6af009965a6622aa6"
-    },
-    {
       "bytes": 434,
       "path": "dynamic/未分类/07a602e0f111.md",
       "sha256": "d63a40210861d4e6b39f634dbf4a66a9c26f36d07a9d0e78ee0346d9d7aa94dc"
@@ -856,11 +906,6 @@
       "bytes": 380,
       "path": "dynamic/未分类/1e68ee1ce1d2.md",
       "sha256": "7b425127a02cf32e08f51421aaef916c5b19dcc77e3c71ce2657bfd63e44b6ae"
-    },
-    {
-      "bytes": 887,
-      "path": "dynamic/未分类/1fca7346ca46.md",
-      "sha256": "2e3086ddfde48ae37734c05d17d7550acfce4085162a7115ce727994fd5765a3"
     },
     {
       "bytes": 1120,
@@ -1008,24 +1053,9 @@
       "sha256": "49788ed4fde4ebd01d1cdf9594c19d7568abaa6536f3ee7eb69b5634157c4025"
     },
     {
-      "bytes": 873,
-      "path": "dynamic/未分类/ab0ae9bd6c9c.md",
-      "sha256": "e9b44bbeb443058ea489efad1737185c386d55f419364d50bbbf87ecdd7b136a"
-    },
-    {
       "bytes": 571,
       "path": "dynamic/未分类/ae9fba103d29.md",
       "sha256": "09683f8eab5152b66c3ce21120eb429fb755c2461a3811fe7b717aac3e48911d"
-    },
-    {
-      "bytes": 735,
-      "path": "dynamic/未分类/b6d893b7df11.md",
-      "sha256": "c496b56655c5c2b87de406f4504ee4fd7129c0ae9b678e7dc850fedcc09b7c11"
-    },
-    {
-      "bytes": 862,
-      "path": "dynamic/未分类/c7f0b0f9f236.md",
-      "sha256": "f02944335d3c4eb5125540ea788517099e3b8ebeddda6fd18d22359fe1e23400"
     },
     {
       "bytes": 759,
@@ -1103,6 +1133,16 @@
       "sha256": "40a36a4f7bdf9e3807ad6c18b9e0db6998256bd6cc857a986e41ef32c50a04d2"
     },
     {
+      "bytes": 1416,
+      "path": "dynamic/认知/2026-09-01 14-32-33 气泡理论凡丁的独立存在主义直觉_b383b62c54fc.md",
+      "sha256": "c435ec55f22c8f2164dd3beaf137a5fd0408ee6fdc4fbfed81319129cfc3ab2f"
+    },
+    {
+      "bytes": 1282,
+      "path": "dynamic/认知/2026-09-01 14-32-35 手动挡人生凡丁的日常运行模式_336e062f4d99.md",
+      "sha256": "50aaa1c0f302d8554de30e4ce008307fc38c94485d0f0386c23f01233fdc9ae1"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/财务/2026-08-01 13-52-25 猫师模型费用_b32a123966a2.md",
       "sha256": "6e70ccabadd91c59051d3b4a9438122fd42abff4d997a6c290a84a6006a75ebd"
@@ -1136,11 +1176,6 @@
       "bytes": 847,
       "path": "dynamic/购物/2026-07-09 09-34-08 凡丁日本购物与美食_c9d42a4e0c27.md",
       "sha256": "c5ca22d8c90501b9c0693e1501d8aab7070a8e47aa35df8da37e5e798aeb02c5"
-    },
-    {
-      "bytes": 671,
-      "path": "dynamic/购物/2026-07-12 07-10-57 表参道五条悟推し活_f12628fa2086.md",
-      "sha256": "a4b880cc493653080c7b2fd609b0ce97b6f115e377e94526786a6217a22ede96"
     },
     {
       "bytes": 748,
@@ -1191,11 +1226,6 @@
       "bytes": 1054,
       "path": "dynamic/里程碑/2026-08-16 11-38-43_8f414efaaf9e.md",
       "sha256": "86360340cf4b2d26609678a19f8daf2144d4cffcf1c78618b5dead7011b12d19"
-    },
-    {
-      "bytes": 815,
-      "path": "dynamic/饮食/2026-07-12 08-03-04 表参道Juan Bowl  Tea T_4b359b5350bf.md",
-      "sha256": "47881eb74a3659322bb842b81ab62ae73cceba9cce4e36d1df5ef63cbc60431e"
     },
     {
       "bytes": 999,
@@ -1383,11 +1413,11 @@
       "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-09-01T06:47:51+00:00",
+  "generated_at": "2026-09-01T18:47:57+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 245245
+  "total_bytes": 255004
 }
