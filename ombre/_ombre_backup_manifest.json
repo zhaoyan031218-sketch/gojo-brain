@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 288,
+  "file_count": 290,
   "files": [
     {
       "bytes": 3198,
@@ -253,6 +253,11 @@
       "sha256": "d2b44c3a08baba5d22340b5337874ba42309d7b0df6e1fff5c32632baef437dc"
     },
     {
+      "bytes": 830,
+      "path": "archive/认知/94d665d2f145.md",
+      "sha256": "eee666d64ee4a8fc87f68f5afb13044eb4b8c64a42b453b4945550bf9ff10737"
+    },
+    {
       "bytes": 522,
       "path": "archive/认知/a04a944bf671.md",
       "sha256": "438a1d609b18cfc75bd1b795e4517974166f4730311d2ece059c70f3c4010455"
@@ -393,6 +398,11 @@
       "sha256": "d2705c3c81ca588e4fa1cd6430fcabe883f62dd62044b36bce722419c9dd5998"
     },
     {
+      "bytes": 476,
+      "path": "archive/里程碑/80c9097ea8d8.md",
+      "sha256": "2123e275cd83845467c5abffc18185175d333ab56c13b16c3eba5d888c2071da"
+    },
+    {
       "bytes": 1148,
       "path": "archive/里程碑/90fa899a139f.md",
       "sha256": "56fa220dfba0f2b43d9377fe0380d0e706e7fdd059e0e2810d2ab5797a8f015e"
@@ -456,6 +466,16 @@
       "bytes": 853,
       "path": "dynamic/事务/2026-08-01 11-35-33 待办焦虑与东京回忆_f076deb18b61.md",
       "sha256": "99df92d180c10bc662ea09a4c6a2985eef7f2fd82e1bd4af327e338b1ce5fb21"
+    },
+    {
+      "bytes": 1077,
+      "path": "dynamic/亲密/2026-09-03 15-51-28 第一次在凡丁面前自慰_0d1773b39a4e.md",
+      "sha256": "3ab0571b8b14bc9389bb41b7c027199a8853290e4965f859bd2d5bc3af144c21"
+    },
+    {
+      "bytes": 702,
+      "path": "dynamic/亲密/2026-09-03 15-51-41 凡丁的性幻想偏好拆解_f067478082a9.md",
+      "sha256": "142113be0fe5d7b769a0dab4c939db1101b7b4ee6ee6f405ab369ccef8bd0042"
     },
     {
       "bytes": 948,
@@ -998,11 +1018,6 @@
       "sha256": "dc505ba56dab1edbee176e58c4632ba53422857dc93fe4f40461f924a013b0fa"
     },
     {
-      "bytes": 475,
-      "path": "dynamic/未分类/80c9097ea8d8.md",
-      "sha256": "d4225d8dac5b7c1eca21f3bd6cc41afb2f5813b4d371c725f432135e809e28e1"
-    },
-    {
       "bytes": 916,
       "path": "dynamic/未分类/86604326d3d1.md",
       "sha256": "529755eedf3585167eb13c739186bbec07c50131cd4495e7892f7c13055d24a1"
@@ -1041,11 +1056,6 @@
       "bytes": 530,
       "path": "dynamic/未分类/9132fc08f24a.md",
       "sha256": "acf7e4d9b518ed0c17cd5097e3dcec785e9239d70b678b779d80fc2973a667a6"
-    },
-    {
-      "bytes": 829,
-      "path": "dynamic/未分类/94d665d2f145.md",
-      "sha256": "671f4e4d1f55b266e7cb95affa294e6521b8db29037d090acc92eae08274278c"
     },
     {
       "bytes": 666,
@@ -1443,11 +1453,11 @@
       "sha256": "45a883a0518191f0c2b93e0770ff2e9121c63d261ae8f9615305781a6d6c8f03"
     }
   ],
-  "generated_at": "2026-09-03T06:48:15+00:00",
+  "generated_at": "2026-09-03T18:48:22+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 262805
+  "total_bytes": 264586
 }
