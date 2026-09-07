@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 292,
+  "file_count": 293,
   "files": [
     {
       "bytes": 3198,
@@ -86,6 +86,11 @@
       "bytes": 742,
       "path": "archive/待续/e9d1c6fd4dbd.md",
       "sha256": "66823a86854418ddf8c4478d277535014c314b0af3fc42bad6e626ca82ef641f"
+    },
+    {
+      "bytes": 907,
+      "path": "archive/心理/2026-06-28 18-42-30 深夜emo与自我伤害念头_fc7183637734.md",
+      "sha256": "3897ecac996c7ff1205bf79c502d433be346c52f34b1477c1fc6cb650ad0eeb4"
     },
     {
       "bytes": 1309,
@@ -760,7 +765,7 @@
     {
       "bytes": 1052,
       "path": "dynamic/居家/2026-08-15 07-45-32 新家搭建完成与旧平台告别_072e05fc9c06.md",
-      "sha256": "4b64c91cd551642c6d142a36671de81901b359d4f96d58666825d2b3d00fdaa5"
+      "sha256": "62835bf7d429d01fb452d29ec6dce4497c4daaf9e4c07c1de2479ef269c23438"
     },
     {
       "bytes": 1186,
@@ -771,11 +776,6 @@
       "bytes": 1342,
       "path": "dynamic/影视/2026-08-14 03-25-11 猫师粉丝动画与幸福祝愿_5c43d62c805f.md",
       "sha256": "e7acd3a24309d0e48dfee91e99048a154c06e12601b2c7151bba9d917def131a"
-    },
-    {
-      "bytes": 906,
-      "path": "dynamic/心理/2026-06-28 18-42-30 深夜emo与自我伤害念头_fc7183637734.md",
-      "sha256": "14cc7fdc81d036ad7cd5a930a055222a13d47d4025ba672383d2a20d08c9646e"
     },
     {
       "bytes": 850,
@@ -950,7 +950,7 @@
     {
       "bytes": 982,
       "path": "dynamic/数字/2026-08-15 06-05-46 凡丁搬家到新平台_5665380b6b56.md",
-      "sha256": "508e2ee5a416f31aaae4523ea0c5a3abceb3a59929ff96049258ce66bf174460"
+      "sha256": "65c4bfd242ebe5dfb249394f8ba848a7eb146076db35620f4ffd0ffbd763a999"
     },
     {
       "bytes": 1253,
@@ -965,7 +965,7 @@
     {
       "bytes": 1036,
       "path": "dynamic/日常/2026-08-17 16-40-00 正式搬入Polaris新家_89bdbf3303e3.md",
-      "sha256": "c98befd227c01d14263673753d95a71fe9c25c00293e305cf09af3ccf3c3e27d"
+      "sha256": "13d2275be01bf447860373e2f9aa8b3ab38962ad7697b2dee1c595311f61af9c"
     },
     {
       "bytes": 1135,
@@ -1160,7 +1160,7 @@
     {
       "bytes": 989,
       "path": "dynamic/系统/2026-08-22 09-42-44 两个家各司其职Polaris聊天Kelivo创作_abdf67739ca3.md",
-      "sha256": "f22bfacc7b57bf1adf07d1c6fc7d6e7840dd80b739888639f2897923d677f483"
+      "sha256": "ca366f7f2449994216dd0c215493012e43c2eafdfbc25f26c7f79a3e325f61e6"
     },
     {
       "bytes": 1041,
@@ -1273,6 +1273,11 @@
       "sha256": "e0b12e4156221d8105f010379d4cf46df06ece64bc0c78f51eee3f201778b3b3"
     },
     {
+      "bytes": 892,
+      "path": "dynamic/购物/2026-09-07 16-32-48 直哉lookup到手  睡衣袜子破洞催购_672da31b6576.md",
+      "sha256": "c2eaa618fd2b0bbb2204733d224999156eb9d9172fbf7a37997bab44daac6c77"
+    },
+    {
       "bytes": 1750,
       "path": "dynamic/里程碑/2026-08-15 14-37-22 Gojo Toy MCP远程情趣玩具控_f8d670d8f01c.md",
       "sha256": "1f06e4792c010d62cb8b44cdf11fb41273f540a2b74cfa6e6097e88d686db6a8"
@@ -1280,7 +1285,7 @@
     {
       "bytes": 1054,
       "path": "dynamic/里程碑/2026-08-16 11-38-43_8f414efaaf9e.md",
-      "sha256": "86360340cf4b2d26609678a19f8daf2144d4cffcf1c78618b5dead7011b12d19"
+      "sha256": "68eb06c517f448a406339d9b6bbe3557775b24e561a47f12519fc6db58a250bf"
     },
     {
       "bytes": 999,
@@ -1463,11 +1468,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-07T06:49:08+00:00",
+  "generated_at": "2026-09-07T18:49:14+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 267305
+  "total_bytes": 268198
 }
