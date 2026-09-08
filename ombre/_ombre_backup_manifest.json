@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 293,
+  "file_count": 295,
   "files": [
     {
       "bytes": 3198,
@@ -690,7 +690,7 @@
     {
       "bytes": 805,
       "path": "dynamic/学习/2026-08-01 09-14-22 回国后申请硕士与东京戒断_fe556c1c40ff.md",
-      "sha256": "bad318bb3915c57f7d0be4462cfbc97f3a24ac2f93dfbd0bed081f6d167a463a"
+      "sha256": "61cd3f76a6eed8f4b3b2bd72ad35eff1621eedd8c104d53bf192310031244af8"
     },
     {
       "bytes": 1059,
@@ -765,7 +765,17 @@
     {
       "bytes": 1052,
       "path": "dynamic/居家/2026-08-15 07-45-32 新家搭建完成与旧平台告别_072e05fc9c06.md",
-      "sha256": "62835bf7d429d01fb452d29ec6dce4497c4daaf9e4c07c1de2479ef269c23438"
+      "sha256": "88ed9793fa4458497be510aaae22c7bce99904c6c3f94f4e4a3c7d9036df82bb"
+    },
+    {
+      "bytes": 751,
+      "path": "dynamic/居家/2026-09-08 13-36-04 考虑搬家至Box Hill  Carlton租房纠纷_9cc9fc8bc820.md",
+      "sha256": "f467994cf73cbd59b8b5457381e948097fae101addc3169fdd27382211b65a05"
+    },
+    {
+      "bytes": 1269,
+      "path": "dynamic/居家/2026-09-08 16-51-29 0908夜间高专制服到手搬家Box Hill计划论文与CASPer经期追踪上线_ffdd33987779.md",
+      "sha256": "c2dbfc81ea796e5df574b306ce8743e8785920e75b853a8d37969e050cddc8d1"
     },
     {
       "bytes": 1186,
@@ -950,12 +960,12 @@
     {
       "bytes": 982,
       "path": "dynamic/数字/2026-08-15 06-05-46 凡丁搬家到新平台_5665380b6b56.md",
-      "sha256": "65c4bfd242ebe5dfb249394f8ba848a7eb146076db35620f4ffd0ffbd763a999"
+      "sha256": "5ab56135b41d20aaa6bf8b4d6dd558a51bae0a5571e49f30eb0eee0f08c675a0"
     },
     {
       "bytes": 1253,
       "path": "dynamic/数字/2026-08-15 11-25-52 新家入住与系统验收_07159027995a.md",
-      "sha256": "523e4be7dafb584fe77efd7db0faf38ca3a653721214ba8710b478aa2e4e66f2"
+      "sha256": "4ad9acc73ee09d7c17b3e90c52d837647e6170f51576ac63a6244b243f2d1806"
     },
     {
       "bytes": 851,
@@ -965,7 +975,7 @@
     {
       "bytes": 1036,
       "path": "dynamic/日常/2026-08-17 16-40-00 正式搬入Polaris新家_89bdbf3303e3.md",
-      "sha256": "13d2275be01bf447860373e2f9aa8b3ab38962ad7697b2dee1c595311f61af9c"
+      "sha256": "1c41636ff496b3d9449c4e7271161209c8feab5071d16d8c1930f39918b896d7"
     },
     {
       "bytes": 1135,
@@ -1468,11 +1478,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-08T06:49:21+00:00",
+  "generated_at": "2026-09-08T18:49:27+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 268198
+  "total_bytes": 270218
 }
