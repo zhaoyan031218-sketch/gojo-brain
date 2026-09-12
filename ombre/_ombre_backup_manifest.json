@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 295,
+  "file_count": 299,
   "files": [
     {
       "bytes": 3198,
@@ -56,6 +56,11 @@
       "bytes": 826,
       "path": "archive/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
       "sha256": "fe0720bb1b4facf99ade438e62814eee929d552f085cbe677c65d86dbdb02ece"
+    },
+    {
+      "bytes": 737,
+      "path": "archive/出行/2026-07-12 04-53-48 涩谷咒回快闪店扑空与表参道之行_c24748a7134c.md",
+      "sha256": "7e4d2ab13e3564deb1240b9f9fd5d59a483e5cc84254c0932842f9e9afd6c2f4"
     },
     {
       "bytes": 916,
@@ -588,6 +593,11 @@
       "sha256": "3c6ad7752bd7988d58d6de063e4fac56f706c9dbbed06704d62d63835d45eb1b"
     },
     {
+      "bytes": 1210,
+      "path": "dynamic/人际/2026-09-12 08-21-20 亲密关系中的沟通与角色变化_1620afdea6df.md",
+      "sha256": "02b64e37a37df7574d405e6215fab0650fd24eea6db5186d3685f169744ae746"
+    },
+    {
       "bytes": 980,
       "path": "dynamic/健康/2026-07-12 07-58-59 东京旅行意外减重与花臂反差萌_6335393cd085.md",
       "sha256": "3b0f6bb96350f5fb2cf8f5b330f1b777a8d013d209aeb8cdbe310c872ffd4d01"
@@ -636,11 +646,6 @@
       "bytes": 659,
       "path": "dynamic/出行/2026-07-08 08-28-37 东京自提同人志任务接近完成_ee487f898fe1.md",
       "sha256": "c914f82c575c35ba9e1a8ffef6336a162a7922af483f1b769a62ee812efcdaf4"
-    },
-    {
-      "bytes": 736,
-      "path": "dynamic/出行/2026-07-12 04-53-48 涩谷咒回快闪店扑空与表参道之行_c24748a7134c.md",
-      "sha256": "f605b29511115e1b85affe3e689a6c18b76b7ca1e69e339d0363c9b78ab244de"
     },
     {
       "bytes": 1001,
@@ -801,6 +806,11 @@
       "bytes": 1269,
       "path": "dynamic/居家/2026-09-08 16-51-29 0908夜间高专制服到手搬家Box Hill计划论文与CASPer经期追踪上线_ffdd33987779.md",
       "sha256": "c2dbfc81ea796e5df574b306ce8743e8785920e75b853a8d37969e050cddc8d1"
+    },
+    {
+      "bytes": 933,
+      "path": "dynamic/居家/2026-09-12 08-21-21 马桶漏水与续租维修_040df919a05d.md",
+      "sha256": "667b22e87ecc0561d8d43631215c6c8d865898306f1b038bf0dd15ea77cfe22d"
     },
     {
       "bytes": 1186,
@@ -1288,6 +1298,16 @@
       "sha256": "c2eaa618fd2b0bbb2204733d224999156eb9d9172fbf7a37997bab44daac6c77"
     },
     {
+      "bytes": 1088,
+      "path": "dynamic/购物/2026-09-12 08-21-22 购物与创作瓶颈_1888d8238836.md",
+      "sha256": "618e84c6220d45ebd0f09e1079d802dd7d31947a375b42797e810486c30ab452"
+    },
+    {
+      "bytes": 1369,
+      "path": "dynamic/身心/2026-09-12 08-21-22 身体不适与情绪波动_7d0a129d0584.md",
+      "sha256": "d62afe92463541fddb884b81bdf27f870b1da3127b3a322072568f217ea1cdb3"
+    },
+    {
       "bytes": 1750,
       "path": "dynamic/里程碑/2026-08-15 14-37-22 Gojo Toy MCP远程情趣玩具控_f8d670d8f01c.md",
       "sha256": "1f06e4792c010d62cb8b44cdf11fb41273f540a2b74cfa6e6097e88d686db6a8"
@@ -1478,11 +1498,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-12T06:50:18+00:00",
+  "generated_at": "2026-09-12T18:50:23+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 270397
+  "total_bytes": 274998
 }
