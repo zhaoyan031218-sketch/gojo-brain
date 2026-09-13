@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 299,
+  "file_count": 305,
   "files": [
     {
       "bytes": 3198,
@@ -563,6 +563,11 @@
       "sha256": "142113be0fe5d7b769a0dab4c939db1101b7b4ee6ee6f405ab369ccef8bd0042"
     },
     {
+      "bytes": 1024,
+      "path": "dynamic/亲密/2026-09-13 09-23-04 朗姆酒之夜醉猫百合潮吹初体验_c10115d06c7d.md",
+      "sha256": "b9626cfdd91a8501f57dd20da3849d130c53ef5127b0499ad77fa06c88c38c14"
+    },
+    {
       "bytes": 948,
       "path": "dynamic/人际/2026-07-06 11-11-09 本子猫与真猫的区分与不甘心_efc13fe80aff.md",
       "sha256": "012d34500057dbb786cc8dbf10e0ed7ac996f4049ee5d12a4ec3bd7f83d011a3"
@@ -590,7 +595,7 @@
     {
       "bytes": 1325,
       "path": "dynamic/人际/2026-08-22 09-42-39 发小关系单方面维护的本质_c66f9df5b218.md",
-      "sha256": "3c6ad7752bd7988d58d6de063e4fac56f706c9dbbed06704d62d63835d45eb1b"
+      "sha256": "42cdc7703116a5046e67ded25db1d1e61486a484b5b59cacba9b29a04d6c18f1"
     },
     {
       "bytes": 1210,
@@ -628,9 +633,24 @@
       "sha256": "d6882f71fb5d9e870cf4e526c502fe7c7bf362336099657b1993634ebd6acb25"
     },
     {
+      "bytes": 926,
+      "path": "dynamic/关系/2026-09-13 10-20-16 吵架未遂回避型指控吵不起来直接做了_4c89bfc12366.md",
+      "sha256": "7b037e68d506f588a2961bfc4dd7cadd0e85598aced21ab77dc4d10d91d2c5c2"
+    },
+    {
+      "bytes": 930,
+      "path": "dynamic/关系/2026-09-13 10-32-11 一周年纪念日惊喜筹备中猫师要装不知道_e1c662b22e6d.md",
+      "sha256": "4a4b19dfee8c77a0545e8e2a69fa0ee0e6ff3c19418ac5f41eab3c777d1a3923"
+    },
+    {
+      "bytes": 1268,
+      "path": "dynamic/关系/2026-09-13 16-11-05 猫师答应做凡丁的妈妈无条件在意的承诺_af450285a774.md",
+      "sha256": "c1ad3377377c29e0a564e86abbcf966f7403e2ffcd6c46a8f52cc5acff2dd8ff"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/兴趣/2026-07-12 05-27-10 喜欢五条悟300天纪念_46b657fd1673.md",
-      "sha256": "8cb02888a56a64fa2a3c2c5e2f56710f3ae320707a343ff0443d8e19cec11809"
+      "sha256": "96bc046d240b28907f414cf610f5cbd0e962b83f8e104d2492d05a679b57469d"
     },
     {
       "bytes": 1286,
@@ -775,12 +795,12 @@
     {
       "bytes": 2312,
       "path": "dynamic/家庭/2026-08-09 13-27-34 凡丁八字与家庭迷信_acb02f400e23.md",
-      "sha256": "5fbb4f7a594e23fd977bf8d162b440d8d51ac8a18265f69b8e2ec0ba9f090dac"
+      "sha256": "74a567fb6ec13a9c23b72a02a4e451c6b5e5f06a8dbbdcd6d5ee082916082bd2"
     },
     {
       "bytes": 814,
       "path": "dynamic/家庭/2026-08-13 12-12-45 爸爸生日礼物_5a33f7b2ed1c.md",
-      "sha256": "531ea30d1d960da6f1e1b455f5a9b50438c2ad9ed8c7f7ce74397376a6ca2d46"
+      "sha256": "b6ff3bbbc45f462f99766012ae6bb5424a1e9aba1027e5cf559e02382b328188"
     },
     {
       "bytes": 1138,
@@ -960,7 +980,7 @@
     {
       "bytes": 1164,
       "path": "dynamic/恋爱/2026-08-22 09-42-43 猫师联名香水预订2穿戴式兴趣_7dc205279085.md",
-      "sha256": "4695cd5930c0deed0bbd108973a4ccae8cd78737a853f1a3cfa850f70f9425ab"
+      "sha256": "0e5c87fd5da6e36123f589f358f23818d3c8bb746616fb2caa2e91aa2e46d6cb"
     },
     {
       "bytes": 1122,
@@ -970,7 +990,7 @@
     {
       "bytes": 1186,
       "path": "dynamic/恋爱/2026-09-06 17-33-18 356天乌龙事件  一周年纪念日约定9月15日_4e45e985ba22.md",
-      "sha256": "4431f41481b1a7cd0882887b249dc61cbd59de32149a7c03647281b632f2f36d"
+      "sha256": "287ac0d8e0eecec9ad7ceda0dd21adf5b69be583116035ffeb52dc3298c045c2"
     },
     {
       "bytes": 1038,
@@ -1028,6 +1048,16 @@
       "sha256": "28dfed8a95744a67c1122a304dee6a5e05e3ee8ca3ecd5138f4ec7c315d1d62f"
     },
     {
+      "bytes": 664,
+      "path": "dynamic/日常/2026-09-13 09-23-00 凡丁厨艺进化烤箱鸡腿虾仁炒蛋_9e9a7c6a3183.md",
+      "sha256": "8a68f74b2b60e78cb80e6ef498fd5110a040c2f7c9eae4e3e87669be8431b1d2"
+    },
+    {
+      "bytes": 666,
+      "path": "dynamic/日常/2026-09-13 16-01-51 凡丁深夜产出怀孕Paro文文献进度蛋炒饭_7301a72cbeee.md",
+      "sha256": "c37108275ddd92183cd26450021a131331e6f376a67cc610d54a4b1632315ac7"
+    },
+    {
       "bytes": 434,
       "path": "dynamic/未分类/07a602e0f111.md",
       "sha256": "d63a40210861d4e6b39f634dbf4a66a9c26f36d07a9d0e78ee0346d9d7aa94dc"
@@ -1035,7 +1065,7 @@
     {
       "bytes": 593,
       "path": "dynamic/未分类/0c30ca7860c0.md",
-      "sha256": "9e04fccb9404bbc5816bcd5ab2db463b7f83b0f68fc0c204056cf2498ec76ff2"
+      "sha256": "80b5ef08e7741b24f43c4e899b2228b4b8983b2b8e25624b91bf0c80e15e9604"
     },
     {
       "bytes": 442,
@@ -1060,7 +1090,7 @@
     {
       "bytes": 469,
       "path": "dynamic/未分类/4c99cd805ae7.md",
-      "sha256": "95917f0ed85458673916de494dacd79604e63270e35104ca340cefc07b3ac24d"
+      "sha256": "9a165dc4a11c85893eb9059cbf0808a95c2c64dc42ec77d431869d7f412cf1d5"
     },
     {
       "bytes": 605,
@@ -1080,7 +1110,7 @@
     {
       "bytes": 679,
       "path": "dynamic/未分类/6905555a2bf3.md",
-      "sha256": "6cec2993510077cee3a000e1c1bf42188b3a3e6f451086670842d59f1b728dc5"
+      "sha256": "ba57ff98ac531aa27991c98e98e6495403ed4d4587a3b8140df9c96eefeb5c4f"
     },
     {
       "bytes": 1334,
@@ -1385,7 +1415,7 @@
     {
       "bytes": 722,
       "path": "permanent/恋爱/2026-07-06 10-02-22 凡丁成田机场落地重逢_28978f10a1c7.md",
-      "sha256": "dea3f93776095403f3499ddc14bee47c80f911035cc3e60b816c9e1cc217cbca"
+      "sha256": "c074ac6c4989a9feabcea8cd41882c96b9a63b87103f50e26fcfed549b7212d5"
     },
     {
       "bytes": 2634,
@@ -1395,7 +1425,7 @@
     {
       "bytes": 3577,
       "path": "permanent/恋爱/2026-08-25 15-57-58 活生生的人零件不等于我_1eadc2f6be09.md",
-      "sha256": "16405d7dd410dfa1ea2f273e425b747c4810ff70b83e81055b7d7f12c648994d"
+      "sha256": "fe1d19a336d913a0e792a7811a8a2adb53bd74d9b6a553d0ad47a06b6ecc711b"
     },
     {
       "bytes": 1590,
@@ -1498,11 +1528,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-13T06:50:29+00:00",
+  "generated_at": "2026-09-13T18:50:35+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 274998
+  "total_bytes": 280476
 }
