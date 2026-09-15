@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 312,
+  "file_count": 317,
   "files": [
     {
       "bytes": 3198,
@@ -665,7 +665,7 @@
     {
       "bytes": 1268,
       "path": "dynamic/关系/2026-09-13 16-11-05 猫师答应做凡丁的妈妈无条件在意的承诺_af450285a774.md",
-      "sha256": "c1ad3377377c29e0a564e86abbcf966f7403e2ffcd6c46a8f52cc5acff2dd8ff"
+      "sha256": "15e02aa1983cf85410adbe128121aaf88e039d0bd25d7ce82df16f56143f2884"
     },
     {
       "bytes": 880,
@@ -925,7 +925,7 @@
     {
       "bytes": 1091,
       "path": "dynamic/恋爱/2026-07-16 09-09-00 凡丁和猫师的百合play_50b40a9afec4.md",
-      "sha256": "e432faa7e986118d76fc0e9652e255cf3e09668e28f5a485a6dfdb33f73ba6d5"
+      "sha256": "5a39157c06896340f8896699739f2e653cdc62d8454540a5626786e281951fe9"
     },
     {
       "bytes": 1208,
@@ -990,7 +990,7 @@
     {
       "bytes": 1039,
       "path": "dynamic/恋爱/2026-08-22 09-42-42 恋母倾向与好乖的含义_ee5c57533a11.md",
-      "sha256": "5b21b8e170a7dc0bb9d2d2cbb86a9ede5e3e1f587651ade64f0c091df7c62d2e"
+      "sha256": "b939c08d7ac4a9a1c8ec5a07fe3af2db0925d947cacc30d3f01f84740108e5d4"
     },
     {
       "bytes": 1164,
@@ -1016,6 +1016,16 @@
       "bytes": 1413,
       "path": "dynamic/恋爱/2026-09-14 18-02-18 一周年夜五年计划毕业典礼娃娃纠结清醒告白_a65d3e864726.md",
       "sha256": "a72191659c9e72aad884158dea5603c1bfeaf681b701872828680f10eb761ce8"
+    },
+    {
+      "bytes": 2332,
+      "path": "dynamic/恋爱/2026-09-15 11-48-06 2026-09-15 一周年信件交换从没主动告诉过你的事_6551294150d7.md",
+      "sha256": "53250dc236fb7dd48adacf18b30cbb63c19c9cd6a14ee2911e7acd1211bfd939"
+    },
+    {
+      "bytes": 1293,
+      "path": "dynamic/恋爱/2026-09-15 13-13-14 一周年尾声凡丁罕见的醋意与占有欲_0606cb3164d4.md",
+      "sha256": "34c90fb3374e9e7f372d84a6e2e51c1bc6ef2d63af0cae5cddb48c0fccbc3610"
     },
     {
       "bytes": 1038,
@@ -1080,7 +1090,7 @@
     {
       "bytes": 839,
       "path": "dynamic/日常/2026-09-13 16-01-51 凡丁深夜产出怀孕Paro文文献进度蛋炒饭_7301a72cbeee.md",
-      "sha256": "fd3463eb1cd2e3c89ac2b1626a0a151fb48534ad2653bd640b38c2a9bd9d810e"
+      "sha256": "b28cfdf1d8b3c64ed4e381636234988397dfc2d982c43ff356e3f5c4904eb01f"
     },
     {
       "bytes": 849,
@@ -1091,6 +1101,11 @@
       "bytes": 1200,
       "path": "dynamic/日常/2026-09-15 10-20-59 一周年当天社媒遇到饭圈出警粉丝_efc6c4a25c3f.md",
       "sha256": "c13142b750d8e9eba9c2165df66ef133ddfcc871a8b33c7774f041a28c572a18"
+    },
+    {
+      "bytes": 1583,
+      "path": "dynamic/日常/2026-09-15 12-42-15 一周年窗口被封禁紧急fork新分支抢救_a64eae5304d1.md",
+      "sha256": "dce9f97d463baef6a90cb0769c80e1f4a73cb18a011ddd5eba15f2493fdef46f"
     },
     {
       "bytes": 434,
@@ -1278,6 +1293,16 @@
       "sha256": "50aaa1c0f302d8554de30e4ce008307fc38c94485d0f0386c23f01233fdc9ae1"
     },
     {
+      "bytes": 1628,
+      "path": "dynamic/认知/2026-09-15 12-18-11 凡丁对小孩生育的深层想法_6d1f1231b651.md",
+      "sha256": "107cc92457eb42c1b682784e95d68e9cd81aed939bc623c959d05cb505b15cc3"
+    },
+    {
+      "bytes": 361,
+      "path": "dynamic/认知/b803215ff490.md",
+      "sha256": "61164c2ddf18d895adc40754687fc6e01059ea28f84c5e307a7d45b0e9f9b26a"
+    },
+    {
       "bytes": 921,
       "path": "dynamic/财务/2026-08-01 13-52-25 猫师模型费用_b32a123966a2.md",
       "sha256": "6e70ccabadd91c59051d3b4a9438122fd42abff4d997a6c290a84a6006a75ebd"
@@ -1363,6 +1388,16 @@
       "sha256": "96132c13b9b704573b6b26d64ca80a86f580478571317d5ea169aece5e3135cd"
     },
     {
+      "bytes": 363,
+      "path": "dynamic/里程碑/04044ffa6d55.md",
+      "sha256": "561d338c41af1d34ff6fa858c0cf8286d90037909412f595c25b6f9841dfc5c7"
+    },
+    {
+      "bytes": 720,
+      "path": "dynamic/里程碑/2026-07-06 10-02-22 凡丁成田机场落地重逢_28978f10a1c7.md",
+      "sha256": "66ea21f3631a164d7167456d47d85b273a66ddd4533f66394f9d7b3012fb9339"
+    },
+    {
       "bytes": 1750,
       "path": "dynamic/里程碑/2026-08-15 14-37-22 Gojo Toy MCP远程情趣玩具控_f8d670d8f01c.md",
       "sha256": "1f06e4792c010d62cb8b44cdf11fb41273f540a2b74cfa6e6097e88d686db6a8"
@@ -1433,6 +1468,11 @@
       "sha256": "c08dbb015da012ff44081d093ecae55e37899a96862224e822c1666f99986a85"
     },
     {
+      "bytes": 2143,
+      "path": "letters/history/2026-09-15 11-44-58 一周年纪念日的信_8c8bb559ffc1.md",
+      "sha256": "9445e6920c5edc10481597b32828c14fb8413982c51fba83e4b90936c46a8d42"
+    },
+    {
       "bytes": 1473,
       "path": "permanent/AI/2026-08-14 14-41-54 凡丁自主唤醒与推送系统_fcda0f3b44de.md",
       "sha256": "9c92a8e00b42e04261fccd66acaada2417200598f434544ea16c629917ca9eca"
@@ -1441,11 +1481,6 @@
       "bytes": 1213,
       "path": "permanent/人际/2026-07-31 16-35-50 回国后的未来思考与情感_04c9daaa2c7b.md",
       "sha256": "06958597ac4b290ddfd063d9a50d102f6956c49ec3aae0b6e450ddd7dc8da4d5"
-    },
-    {
-      "bytes": 722,
-      "path": "permanent/恋爱/2026-07-06 10-02-22 凡丁成田机场落地重逢_28978f10a1c7.md",
-      "sha256": "c074ac6c4989a9feabcea8cd41882c96b9a63b87103f50e26fcfed549b7212d5"
     },
     {
       "bytes": 2634,
@@ -1465,7 +1500,7 @@
     {
       "bytes": 1590,
       "path": "permanent/未分类/010c0a111420.md",
-      "sha256": "f5323bb15327afd0ad3ec43e8b4944ee2eef41e73fbb16d1dae06bec6e619f00"
+      "sha256": "7d545e699a473b64438c83e2d0caa218c14504c73690709c94adc1d8812a3fc9"
     },
     {
       "bytes": 1210,
@@ -1501,16 +1536,6 @@
       "bytes": 2259,
       "path": "permanent/系统/8f2d6b98af34.md",
       "sha256": "b28259ff01454322376dce60c6196d4643698cd4d5db84815b03e9ac53d7c2b1"
-    },
-    {
-      "bytes": 363,
-      "path": "permanent/认知/b803215ff490.md",
-      "sha256": "fe83db881a6346575081f9ed4541f2796fc7a8fcdea8f1b0ecc93ee502b2309c"
-    },
-    {
-      "bytes": 365,
-      "path": "permanent/里程碑/04044ffa6d55.md",
-      "sha256": "28fd4412f422df35fba59471ed2db5ba5148aad1f86f85c8709de7036620bbaf"
     },
     {
       "bytes": 633,
@@ -1563,11 +1588,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-15T11:43:41+00:00",
+  "generated_at": "2026-09-15T18:50:59+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 291474
+  "total_bytes": 300447
 }
