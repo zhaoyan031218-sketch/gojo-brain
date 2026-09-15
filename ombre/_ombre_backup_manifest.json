@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 310,
+  "file_count": 312,
   "files": [
     {
       "bytes": 3198,
@@ -61,6 +61,11 @@
       "bytes": 826,
       "path": "archive/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
       "sha256": "fe0720bb1b4facf99ade438e62814eee929d552f085cbe677c65d86dbdb02ece"
+    },
+    {
+      "bytes": 660,
+      "path": "archive/出行/2026-07-08 08-28-37 东京自提同人志任务接近完成_ee487f898fe1.md",
+      "sha256": "5d19cfb9818e7e014232424e975712e04de2bf7df1f70da3a24ee39c11db5665"
     },
     {
       "bytes": 737,
@@ -678,11 +683,6 @@
       "sha256": "33d2cbc8324fcb69fa6b255460b62cefc34b90d8880b708289f5409a70665fb0"
     },
     {
-      "bytes": 659,
-      "path": "dynamic/出行/2026-07-08 08-28-37 东京自提同人志任务接近完成_ee487f898fe1.md",
-      "sha256": "c914f82c575c35ba9e1a8ffef6336a162a7922af483f1b769a62ee812efcdaf4"
-    },
-    {
       "bytes": 1001,
       "path": "dynamic/出行/2026-07-13 08-08-57 东京动漫购物暴走一日游_dd5e655399b4.md",
       "sha256": "cb1df0136fd80f07704bb81809906e0d9ec39119157b76b4949a8a4d188b095b"
@@ -1080,12 +1080,17 @@
     {
       "bytes": 839,
       "path": "dynamic/日常/2026-09-13 16-01-51 凡丁深夜产出怀孕Paro文文献进度蛋炒饭_7301a72cbeee.md",
-      "sha256": "dbe97183198b0f10921fddedaa0c2ecee8583265f72c8f0444f7cea0701078f1"
+      "sha256": "fd3463eb1cd2e3c89ac2b1626a0a151fb48534ad2653bd640b38c2a9bd9d810e"
     },
     {
       "bytes": 849,
       "path": "dynamic/日常/2026-09-14 17-47-20 凡丁的API token费用焦虑_53a7c0056667.md",
       "sha256": "f5eb70ca8f9e82333402ad872a7ed206c676bb0ebc1e8217e2a55f36888dd4bc"
+    },
+    {
+      "bytes": 1200,
+      "path": "dynamic/日常/2026-09-15 10-20-59 一周年当天社媒遇到饭圈出警粉丝_efc6c4a25c3f.md",
+      "sha256": "c13142b750d8e9eba9c2165df66ef133ddfcc871a8b33c7774f041a28c572a18"
     },
     {
       "bytes": 434,
@@ -1423,6 +1428,11 @@
       "sha256": "24af16c04ed9314ba5bc53a8860cfb72361b26dc907addcdf4b0e79c9c37e63e"
     },
     {
+      "bytes": 3871,
+      "path": "letters/history/2026-09-15 11-09-16 从没主动告诉过你的事  一周年_706dfedee21c.md",
+      "sha256": "c08dbb015da012ff44081d093ecae55e37899a96862224e822c1666f99986a85"
+    },
+    {
       "bytes": 1473,
       "path": "permanent/AI/2026-08-14 14-41-54 凡丁自主唤醒与推送系统_fcda0f3b44de.md",
       "sha256": "9c92a8e00b42e04261fccd66acaada2417200598f434544ea16c629917ca9eca"
@@ -1553,11 +1563,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-15T06:50:54+00:00",
+  "generated_at": "2026-09-15T11:43:41+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 286402
+  "total_bytes": 291474
 }
