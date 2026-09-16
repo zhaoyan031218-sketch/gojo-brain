@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 318,
+  "file_count": 319,
   "files": [
     {
       "bytes": 3198,
@@ -81,6 +81,11 @@
       "bytes": 640,
       "path": "archive/待续/2026-07-04 04-40-11 长途飞行失眠准备_f61f0ae7e303.md",
       "sha256": "9eb5391d11356a359d4e4f77e83969f31f15543628789989af09e3da84ff5aa0"
+    },
+    {
+      "bytes": 539,
+      "path": "archive/待续/7b3bc352c579.md",
+      "sha256": "43d15d0425c507f3c02d48cb16786674bf4b15dea1e737c1669d164ffc499aeb"
     },
     {
       "bytes": 531,
@@ -268,6 +273,11 @@
       "sha256": "5fecaeae33247b094705c8c3597646bf8916d294e90046b61dccd54baef2cc64"
     },
     {
+      "bytes": 459,
+      "path": "archive/认知/582faaf6624d.md",
+      "sha256": "f4fb37edc79da66f0d69c7a5d5c086d454b5ef246a8bac572169b456cbd907eb"
+    },
+    {
       "bytes": 391,
       "path": "archive/认知/596a59ae604c.md",
       "sha256": "3d01c57fd744932e3c73cb93d236a23e770b780b49d535f223ffdc1b643f9f3e"
@@ -333,6 +343,11 @@
       "sha256": "d639273ed2ac72e783a4ba5dcade91d1270e86d1cc285ea6bf5a990b71f1f23c"
     },
     {
+      "bytes": 362,
+      "path": "archive/认知/b803215ff490.md",
+      "sha256": "32e1659ab56a7fe653828804649068780cbf364959cb153b46d40fcbd8afad2c"
+    },
+    {
       "bytes": 649,
       "path": "archive/认知/bb25f1364603.md",
       "sha256": "a9ee7974af9d19c64995eb9cc10a4466e54dbaadadfe3f04ad6a54ee8c42b59d"
@@ -393,6 +408,11 @@
       "sha256": "a0f010160ec282a92e3947b42e4eba444fc5d1e85976440845269523c64d50c0"
     },
     {
+      "bytes": 848,
+      "path": "archive/购物/2026-07-09 09-34-08 凡丁日本购物与美食_c9d42a4e0c27.md",
+      "sha256": "757f2757206507215dc48dbf3e7838442218ac6e4fd21d74fd3b23a8c1b60fba"
+    },
+    {
       "bytes": 671,
       "path": "archive/购物/2026-07-12 07-10-57 表参道五条悟推し活_f12628fa2086.md",
       "sha256": "916d78df9e036852821d39950bfe72c84dac77eea5a97651c75b2498da08d907"
@@ -401,6 +421,11 @@
       "bytes": 736,
       "path": "archive/里程碑/035da2ba5c4d.md",
       "sha256": "28bc0e9d4427c66c6adc809cd5852b94bd0464e8de4f37a275bc469e023457f9"
+    },
+    {
+      "bytes": 364,
+      "path": "archive/里程碑/04044ffa6d55.md",
+      "sha256": "9983939151d66870a982c8b72e869b6199f0e1a4b67243828caef180c717522a"
     },
     {
       "bytes": 432,
@@ -461,6 +486,11 @@
       "bytes": 714,
       "path": "archive/里程碑/58e63146115c.md",
       "sha256": "30b585121325c89e2cf2228867e2edc3091e2bc2c60ec5d6bd686823621b6522"
+    },
+    {
+      "bytes": 1335,
+      "path": "archive/里程碑/732b72ffd347.md",
+      "sha256": "c12a89345d496e2584a696d5fff2ae756e67da9cb65b86b74a6b09e6ce82dec0"
     },
     {
       "bytes": 687,
@@ -1028,9 +1058,14 @@
       "sha256": "34c90fb3374e9e7f372d84a6e2e51c1bc6ef2d63af0cae5cddb48c0fccbc3610"
     },
     {
-      "bytes": 3015,
+      "bytes": 3727,
       "path": "dynamic/恋爱/2026-09-16 06-04-13 凡丁的复杂梦境导演视角猫师被轮_c40eba2e8343.md",
-      "sha256": "6d70aad3a3f9270a03e13093b7a4333e746f49ca55601412081cf74cb8c6c230"
+      "sha256": "61823041c10c0e4163700ae07cf3e8eec2a58d9d15c830c64ed97dea67fd42ee"
+    },
+    {
+      "bytes": 1587,
+      "path": "dynamic/恋爱/2026-09-16 13-34-36 凡丁的创作纯爱锁写不出任何伤害猫师的内容_2cb862119655.md",
+      "sha256": "5fd0691a2df62cabcf6e31a987b41dfa2d9c5e9ac762f246b308e71906defa88"
     },
     {
       "bytes": 1038,
@@ -1153,11 +1188,6 @@
       "sha256": "85bfc41f8ca3a3b4d76697111ec53f477b34c29f74ec12201231d14cfcc0971f"
     },
     {
-      "bytes": 458,
-      "path": "dynamic/未分类/582faaf6624d.md",
-      "sha256": "4cf04bcae38344d780569b9ca03b66292c67643bafda476e8018b276cb38c175"
-    },
-    {
       "bytes": 430,
       "path": "dynamic/未分类/5a446826df10.md",
       "sha256": "176fcb382c0b92a29b3d603f7e7071870576751fe196670475f9b1dfd165a5dc"
@@ -1166,16 +1196,6 @@
       "bytes": 679,
       "path": "dynamic/未分类/6905555a2bf3.md",
       "sha256": "ba57ff98ac531aa27991c98e98e6495403ed4d4587a3b8140df9c96eefeb5c4f"
-    },
-    {
-      "bytes": 1334,
-      "path": "dynamic/未分类/732b72ffd347.md",
-      "sha256": "c4e02b1d440a5695bdc965600c42b83240d5fdcf20cf0fd4c05f83c2d0b3cb4a"
-    },
-    {
-      "bytes": 538,
-      "path": "dynamic/未分类/7b3bc352c579.md",
-      "sha256": "dc505ba56dab1edbee176e58c4632ba53422857dc93fe4f40461f924a013b0fa"
     },
     {
       "bytes": 756,
@@ -1303,11 +1323,6 @@
       "sha256": "107cc92457eb42c1b682784e95d68e9cd81aed939bc623c959d05cb505b15cc3"
     },
     {
-      "bytes": 361,
-      "path": "dynamic/认知/b803215ff490.md",
-      "sha256": "61164c2ddf18d895adc40754687fc6e01059ea28f84c5e307a7d45b0e9f9b26a"
-    },
-    {
       "bytes": 921,
       "path": "dynamic/财务/2026-08-01 13-52-25 猫师模型费用_b32a123966a2.md",
       "sha256": "6e70ccabadd91c59051d3b4a9438122fd42abff4d997a6c290a84a6006a75ebd"
@@ -1331,11 +1346,6 @@
       "bytes": 784,
       "path": "dynamic/购物/2026-07-07 13-46-31 佐川急便取货问题解决_a2dd371c8fda.md",
       "sha256": "aa1f6046f25b151f5a87ef57574fe67f0dcd4e72f5d89faacac4cba5ed196480"
-    },
-    {
-      "bytes": 847,
-      "path": "dynamic/购物/2026-07-09 09-34-08 凡丁日本购物与美食_c9d42a4e0c27.md",
-      "sha256": "c5ca22d8c90501b9c0693e1501d8aab7070a8e47aa35df8da37e5e798aeb02c5"
     },
     {
       "bytes": 748,
@@ -1391,11 +1401,6 @@
       "bytes": 1369,
       "path": "dynamic/身心/2026-09-12 08-21-22 身体不适与情绪波动_7d0a129d0584.md",
       "sha256": "96132c13b9b704573b6b26d64ca80a86f580478571317d5ea169aece5e3135cd"
-    },
-    {
-      "bytes": 363,
-      "path": "dynamic/里程碑/04044ffa6d55.md",
-      "sha256": "561d338c41af1d34ff6fa858c0cf8286d90037909412f595c25b6f9841dfc5c7"
     },
     {
       "bytes": 720,
@@ -1593,11 +1598,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-16T06:51:07+00:00",
+  "generated_at": "2026-09-16T18:51:13+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 303462
+  "total_bytes": 305767
 }
