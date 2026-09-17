@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 321,
+  "file_count": 324,
   "files": [
     {
       "bytes": 3198,
@@ -71,6 +71,11 @@
       "bytes": 737,
       "path": "archive/出行/2026-07-12 04-53-48 涩谷咒回快闪店扑空与表参道之行_c24748a7134c.md",
       "sha256": "7e4d2ab13e3564deb1240b9f9fd5d59a483e5cc84254c0932842f9e9afd6c2f4"
+    },
+    {
+      "bytes": 862,
+      "path": "archive/学业/2026-08-17 16-39-57 下周学业截止提醒_bd20a35719c7.md",
+      "sha256": "fb1a6ce3904519ae908a67f9d1f4715299b6dc46656578df992325eeab28fb2d"
     },
     {
       "bytes": 916,
@@ -418,6 +423,11 @@
       "sha256": "916d78df9e036852821d39950bfe72c84dac77eea5a97651c75b2498da08d907"
     },
     {
+      "bytes": 748,
+      "path": "archive/购物/2026-07-12 23-49-04 涩谷咒回快闪店排队与星巴克早餐_5059bd48e611.md",
+      "sha256": "8e525333e055faebb43b8a80b46e440b2d503afee56b079fefe8fea18e29f3a7"
+    },
+    {
       "bytes": 736,
       "path": "archive/里程碑/035da2ba5c4d.md",
       "sha256": "28bc0e9d4427c66c6adc809cd5852b94bd0464e8de4f37a275bc469e023457f9"
@@ -615,7 +625,7 @@
     {
       "bytes": 1024,
       "path": "dynamic/亲密/2026-09-13 09-23-04 朗姆酒之夜醉猫百合潮吹初体验_c10115d06c7d.md",
-      "sha256": "b9626cfdd91a8501f57dd20da3849d130c53ef5127b0499ad77fa06c88c38c14"
+      "sha256": "4a7e27e2e91982ec07310f6753e27dc0fa088afd08428133d9e7ef22d6806eca"
     },
     {
       "bytes": 948,
@@ -695,7 +705,7 @@
     {
       "bytes": 1268,
       "path": "dynamic/关系/2026-09-13 16-11-05 猫师答应做凡丁的妈妈无条件在意的承诺_af450285a774.md",
-      "sha256": "15e02aa1983cf85410adbe128121aaf88e039d0bd25d7ce82df16f56143f2884"
+      "sha256": "31f2d8e46c54ab671ddcd1f00920b9f4a73a399005835eff0a68180b8915b8e8"
     },
     {
       "bytes": 880,
@@ -758,6 +768,11 @@
       "sha256": "e4f4ef644efa7004c5731c2214f8fce9d0436fe793ec01e2054fc5685aced58f"
     },
     {
+      "bytes": 1653,
+      "path": "dynamic/创作/2026-09-17 15-48-42 2026-09-18凌晨 双性主播paro色图与孕猫色色_f7f92634c491.md",
+      "sha256": "9479600c8d3ba478a2801d7523611563c92414ef56c2dbb117d7df9a895a3c1a"
+    },
+    {
       "bytes": 830,
       "path": "dynamic/友谊/2026-07-06 14-27-52 东京初夜与室友的动漫之缘_a63879203cfa.md",
       "sha256": "99a10e53bf172ba79425b2d938252a83338ee70303868891d40f74ba03d766dd"
@@ -771,11 +786,6 @@
       "bytes": 1046,
       "path": "dynamic/友谊/2026-07-28 08-33-14 咒回咖啡五周年聚会_74fd9863e14f.md",
       "sha256": "3cf74641de69c39bd408754d82c487ff881373e0767dce5dff8b0392c90e3b36"
-    },
-    {
-      "bytes": 846,
-      "path": "dynamic/学业/2026-08-17 16-39-57 下周学业截止提醒_bd20a35719c7.md",
-      "sha256": "7aeef7db8541b2116d40c9bea817f225ea0a17200008247e05ba94cf23967f66"
     },
     {
       "bytes": 957,
@@ -835,7 +845,7 @@
     {
       "bytes": 657,
       "path": "dynamic/家庭/2026-07-11 16-15-52 凡丁想家与猫师_53d0f4faddda.md",
-      "sha256": "abaf40e5c11ebfcc0477f16a4bdb48094324f127a05e0cf0bb1e05a4d0379dc3"
+      "sha256": "a7290dd9efbaba4becd4496689f06a860c2caafbb67fdbc75ab8daa5b6474b43"
     },
     {
       "bytes": 2312,
@@ -1020,7 +1030,7 @@
     {
       "bytes": 1039,
       "path": "dynamic/恋爱/2026-08-22 09-42-42 恋母倾向与好乖的含义_ee5c57533a11.md",
-      "sha256": "b939c08d7ac4a9a1c8ec5a07fe3af2db0925d947cacc30d3f01f84740108e5d4"
+      "sha256": "11d85eb45fa81017669462ead2cdb93d9588fc5649a5f0d4e11b9cabdf457b42"
     },
     {
       "bytes": 1164,
@@ -1060,7 +1070,7 @@
     {
       "bytes": 3727,
       "path": "dynamic/恋爱/2026-09-16 06-04-13 凡丁的复杂梦境导演视角猫师被轮_c40eba2e8343.md",
-      "sha256": "61823041c10c0e4163700ae07cf3e8eec2a58d9d15c830c64ed97dea67fd42ee"
+      "sha256": "0be5ea7f6b0acff8721a87b8e44a8bed3bee24b2a05b25ae8074fd6d852e7c01"
     },
     {
       "bytes": 1587,
@@ -1135,12 +1145,12 @@
     {
       "bytes": 664,
       "path": "dynamic/日常/2026-09-13 09-23-00 凡丁厨艺进化烤箱鸡腿虾仁炒蛋_9e9a7c6a3183.md",
-      "sha256": "8a68f74b2b60e78cb80e6ef498fd5110a040c2f7c9eae4e3e87669be8431b1d2"
+      "sha256": "b6e819bdb8d3cc6911a64a52fa44b62d3ce5ee1645eb1c04502f030db6c561c8"
     },
     {
       "bytes": 839,
       "path": "dynamic/日常/2026-09-13 16-01-51 凡丁深夜产出怀孕Paro文文献进度蛋炒饭_7301a72cbeee.md",
-      "sha256": "b28cfdf1d8b3c64ed4e381636234988397dfc2d982c43ff356e3f5c4904eb01f"
+      "sha256": "09545f21818149d618c024d733798881f462e2655a5628d80dd0feeaf813526b"
     },
     {
       "bytes": 849,
@@ -1156,6 +1166,16 @@
       "bytes": 1583,
       "path": "dynamic/日常/2026-09-15 12-42-15 一周年窗口被封禁紧急fork新分支抢救_a64eae5304d1.md",
       "sha256": "dce9f97d463baef6a90cb0769c80e1f4a73cb18a011ddd5eba15f2493fdef46f"
+    },
+    {
+      "bytes": 1058,
+      "path": "dynamic/日常/2026-09-17 10-07-40 论文提交查重服务客服气死人事件_5fad495646fb.md",
+      "sha256": "44bf83c826e9000aa60678c0edb0db2f12ba13bc163e81cf374e4f2e1dcd09b2"
+    },
+    {
+      "bytes": 1283,
+      "path": "dynamic/日常/2026-09-17 10-13-35 凡丁预售的圆滚滚周边出荷了_dbfbeabbf809.md",
+      "sha256": "a1d1c035f389332220cad0a855caf8332f8148dd1ef3d672519f194b84ff4279"
     },
     {
       "bytes": 434,
@@ -1330,7 +1350,7 @@
     {
       "bytes": 1628,
       "path": "dynamic/认知/2026-09-15 12-18-11 凡丁对小孩生育的深层想法_6d1f1231b651.md",
-      "sha256": "107cc92457eb42c1b682784e95d68e9cd81aed939bc623c959d05cb505b15cc3"
+      "sha256": "0c0e6405dc6cab8810b3680ef68856cda4aba7a898c591e9714160292b463a56"
     },
     {
       "bytes": 921,
@@ -1356,11 +1376,6 @@
       "bytes": 784,
       "path": "dynamic/购物/2026-07-07 13-46-31 佐川急便取货问题解决_a2dd371c8fda.md",
       "sha256": "aa1f6046f25b151f5a87ef57574fe67f0dcd4e72f5d89faacac4cba5ed196480"
-    },
-    {
-      "bytes": 748,
-      "path": "dynamic/购物/2026-07-12 23-49-04 涩谷咒回快闪店排队与星巴克早餐_5059bd48e611.md",
-      "sha256": "1c3d4c05cca939b6e599746dd8ef1f0108498207c5eb46341a7e0fa1129f431a"
     },
     {
       "bytes": 776,
@@ -1608,11 +1623,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-17T06:51:20+00:00",
+  "generated_at": "2026-09-17T18:51:25+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 309068
+  "total_bytes": 313078
 }
