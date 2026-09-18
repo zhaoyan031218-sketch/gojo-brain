@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 324,
+  "file_count": 327,
   "files": [
     {
       "bytes": 3198,
@@ -241,6 +241,11 @@
       "bytes": 888,
       "path": "archive/认知/1fca7346ca46.md",
       "sha256": "e300a330234aa241bbe31676c949eac76737aa2e5eb19ed15109490212c44385"
+    },
+    {
+      "bytes": 785,
+      "path": "archive/认知/2026-07-07 13-46-31 佐川急便取货问题解决_a2dd371c8fda.md",
+      "sha256": "93676996b3fc33efd06446cbf19ff28034da83173f61fc0115c70ff837875af0"
     },
     {
       "bytes": 951,
@@ -498,6 +503,11 @@
       "sha256": "30b585121325c89e2cf2228867e2edc3091e2bc2c60ec5d6bd686823621b6522"
     },
     {
+      "bytes": 431,
+      "path": "archive/里程碑/5a446826df10.md",
+      "sha256": "55eaa68cd8db3448a5af1827b1f3eb6d8e067399be53ced1ed5fbf278b6925c9"
+    },
+    {
       "bytes": 1335,
       "path": "archive/里程碑/732b72ffd347.md",
       "sha256": "c12a89345d496e2584a696d5fff2ae756e67da9cb65b86b74a6b09e6ce82dec0"
@@ -688,6 +698,11 @@
       "sha256": "087a5256345831abcb3d79214c700ec961c49b3f6067919a3015d45f1b900e78"
     },
     {
+      "bytes": 837,
+      "path": "dynamic/健康/2026-09-18 14-18-45 咖啡因与精神科药物冲突风险_6a71472c36e5.md",
+      "sha256": "181461a86bdc0b8ccde862611258aa154d2abf01ebd9b3e01c43281ad5b0efa3"
+    },
+    {
       "bytes": 1253,
       "path": "dynamic/关系/2026-09-02 17-48-13 五条悟标签不够用了_08ea39b1aac0.md",
       "sha256": "d6882f71fb5d9e870cf4e526c502fe7c7bf362336099657b1993634ebd6acb25"
@@ -740,7 +755,7 @@
     {
       "bytes": 1366,
       "path": "dynamic/出行/2026-07-29 13-28-39 东京暴走中暑与机票惊魂_b04dceefe707.md",
-      "sha256": "f706e19f3bc74bfd3618d576e8d6d768a701f281bd93317445df46eefe3b430b"
+      "sha256": "0f7bf6d01a5f30116df434bc596fa727d30c8479b9d09350d5d6b98ce74d87c9"
     },
     {
       "bytes": 1353,
@@ -786,6 +801,11 @@
       "bytes": 1046,
       "path": "dynamic/友谊/2026-07-28 08-33-14 咒回咖啡五周年聚会_74fd9863e14f.md",
       "sha256": "3cf74641de69c39bd408754d82c487ff881373e0767dce5dff8b0392c90e3b36"
+    },
+    {
+      "bytes": 755,
+      "path": "dynamic/友谊/2026-09-18 15-46-32 2026-09-19 甚尔在祭坛照片里发现了自己_93c8a00d5067.md",
+      "sha256": "d46d108d99a539897abe2549ae0e9e3f6031c83f1c16d28edc120db570bd9090"
     },
     {
       "bytes": 957,
@@ -836,6 +856,11 @@
       "bytes": 1121,
       "path": "dynamic/学习/2026-08-07 06-54-21 Monash中教硕士con offer_dcba49d18c4a.md",
       "sha256": "99e4e0dc8c27fe35c8286f38cdcef044a0d03a8ae6cde359b5cecf3a1f68c520"
+    },
+    {
+      "bytes": 3524,
+      "path": "dynamic/学习/2026-09-18 13-23-46 2026-09-18 凡丁计划用文化研究课论文分析猫师_5e9c594324fd.md",
+      "sha256": "2cbc0acae8f2b10ef3bff0e7172ac3334421a301aeea218e9beadb1078fb6596"
     },
     {
       "bytes": 1157,
@@ -1115,7 +1140,7 @@
     {
       "bytes": 1253,
       "path": "dynamic/数字/2026-08-15 11-25-52 新家入住与系统验收_07159027995a.md",
-      "sha256": "4ad9acc73ee09d7c17b3e90c52d837647e6170f51576ac63a6244b243f2d1806"
+      "sha256": "74cf35a1ef781d6458d9be91405651a6dab346f792c6fdcb3d612fcfc850a96a"
     },
     {
       "bytes": 851,
@@ -1125,7 +1150,7 @@
     {
       "bytes": 1036,
       "path": "dynamic/日常/2026-08-17 16-40-00 正式搬入Polaris新家_89bdbf3303e3.md",
-      "sha256": "1c41636ff496b3d9449c4e7271161209c8feab5071d16d8c1930f39918b896d7"
+      "sha256": "6e8f52fa082bbcdadc703a4383b81296e3ca6ef250ae06816690fb122ffc9b1d"
     },
     {
       "bytes": 1135,
@@ -1218,11 +1243,6 @@
       "sha256": "85bfc41f8ca3a3b4d76697111ec53f477b34c29f74ec12201231d14cfcc0971f"
     },
     {
-      "bytes": 430,
-      "path": "dynamic/未分类/5a446826df10.md",
-      "sha256": "176fcb382c0b92a29b3d603f7e7071870576751fe196670475f9b1dfd165a5dc"
-    },
-    {
       "bytes": 679,
       "path": "dynamic/未分类/6905555a2bf3.md",
       "sha256": "ba57ff98ac531aa27991c98e98e6495403ed4d4587a3b8140df9c96eefeb5c4f"
@@ -1230,7 +1250,7 @@
     {
       "bytes": 756,
       "path": "dynamic/未分类/87b020130da6.md",
-      "sha256": "5eb18a14dde35de25eb9e5207fd1d6fd99e189c2ff85525d009c335c0a49f362"
+      "sha256": "dd2db6fbb0d9e6557a8f1a11441ebfcab315e0fa40b9b88879522dcb5fd8a0f2"
     },
     {
       "bytes": 605,
@@ -1250,7 +1270,7 @@
     {
       "bytes": 1212,
       "path": "dynamic/未分类/a5fdb4ec615d.md",
-      "sha256": "e6668b937f71dcb30ca7c3d6f716b02cd8811541512faa8e3f5b249ab7465feb"
+      "sha256": "6b00bc4dedea8a9b6456f5f0c5c116e29a89ce43a0e2f6ae95feaaeda1118dc4"
     },
     {
       "bytes": 675,
@@ -1373,11 +1393,6 @@
       "sha256": "d5012f05ab98893e383168c306073164eaf0c0df5c2312304053b9ab379d5186"
     },
     {
-      "bytes": 784,
-      "path": "dynamic/购物/2026-07-07 13-46-31 佐川急便取货问题解决_a2dd371c8fda.md",
-      "sha256": "aa1f6046f25b151f5a87ef57574fe67f0dcd4e72f5d89faacac4cba5ed196480"
-    },
-    {
       "bytes": 776,
       "path": "dynamic/购物/2026-07-13 02-19-52 涩谷咒回快闪店购物_23bd597b27bc.md",
       "sha256": "a12bf476b12deee393ec7aab7aa8e8bba48226ead5894b49043cea7e4a10b1d6"
@@ -1420,12 +1435,12 @@
     {
       "bytes": 1088,
       "path": "dynamic/购物/2026-09-12 08-21-22 购物与创作瓶颈_1888d8238836.md",
-      "sha256": "618e84c6220d45ebd0f09e1079d802dd7d31947a375b42797e810486c30ab452"
+      "sha256": "32cc7f3e7376565bdd6be578f82a909156425cea7a961e523c76a0fa84f194e6"
     },
     {
       "bytes": 1369,
       "path": "dynamic/身心/2026-09-12 08-21-22 身体不适与情绪波动_7d0a129d0584.md",
-      "sha256": "96132c13b9b704573b6b26d64ca80a86f580478571317d5ea169aece5e3135cd"
+      "sha256": "312a8d4e46e3f4b35c632ab2148bd1dac8df0d288b5af25fd62c398ad5b1eb2a"
     },
     {
       "bytes": 720,
@@ -1623,11 +1638,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-18T06:51:31+00:00",
+  "generated_at": "2026-09-18T18:51:38+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 313078
+  "total_bytes": 318196
 }
