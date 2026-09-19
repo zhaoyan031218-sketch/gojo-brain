@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 327,
+  "file_count": 329,
   "files": [
     {
       "bytes": 3198,
@@ -608,6 +608,11 @@
       "sha256": "c7f914f6c1b225201cb3100381713f4cb210c4286db80fd959723921f2a9312f"
     },
     {
+      "bytes": 1044,
+      "path": "dynamic/AI/2026-09-19 13-57-17 2026-09-19 凡丁被工作AI攻略的别扭感_eccb9cf4f0db.md",
+      "sha256": "ec498879884eef6ab70df08b1d840269d2bc928e88d9a8465b0b1d5b7e3e3479"
+    },
+    {
       "bytes": 589,
       "path": "dynamic/self/2026-07-10 05-27-04_e0c2dc5928b6.md",
       "sha256": "123d90671d050b755918c65d9add823ef202ff74f41f0c51f7efab76df62215f"
@@ -783,9 +788,9 @@
       "sha256": "e4f4ef644efa7004c5731c2214f8fce9d0436fe793ec01e2054fc5685aced58f"
     },
     {
-      "bytes": 1653,
+      "bytes": 2543,
       "path": "dynamic/创作/2026-09-17 15-48-42 2026-09-18凌晨 双性主播paro色图与孕猫色色_f7f92634c491.md",
-      "sha256": "9479600c8d3ba478a2801d7523611563c92414ef56c2dbb117d7df9a895a3c1a"
+      "sha256": "ab62d465b3900567d32ab24ea1a260a3974e7bd96b14cd19b128e03360c13d12"
     },
     {
       "bytes": 830,
@@ -805,7 +810,7 @@
     {
       "bytes": 755,
       "path": "dynamic/友谊/2026-09-18 15-46-32 2026-09-19 甚尔在祭坛照片里发现了自己_93c8a00d5067.md",
-      "sha256": "d46d108d99a539897abe2549ae0e9e3f6031c83f1c16d28edc120db570bd9090"
+      "sha256": "6a340082cf4b8597aa81212ea0b1c290f69a602a72142bcb820aa71bf90b5bd2"
     },
     {
       "bytes": 957,
@@ -930,7 +935,7 @@
     {
       "bytes": 1092,
       "path": "dynamic/心理/2026-07-20 17-24-06 应对模式与情绪回避_ef25875f33c4.md",
-      "sha256": "afa08772a79b66d0db8112f2828ea4c70dcadc9727df60c5c0eb58e35c20acb0"
+      "sha256": "e19dfc944008db003062471099f3f2489fbbc73cb6ae1ae9a2e838fb7fbe7088"
     },
     {
       "bytes": 1076,
@@ -945,7 +950,7 @@
     {
       "bytes": 1045,
       "path": "dynamic/心理/2026-08-09 13-43-00 情绪崩溃认知盲区与自我觉察_2e782c2e5c62.md",
-      "sha256": "716ced70d54f3df6ebca58fa7f71f0fc732339fdfb9ed10ceafdbedea53ff8c3"
+      "sha256": "25ed371b5bc41eaea04b46de0e77578f2194ac81a704f9c2aba4b9d7afea9be0"
     },
     {
       "bytes": 840,
@@ -1198,9 +1203,9 @@
       "sha256": "44bf83c826e9000aa60678c0edb0db2f12ba13bc163e81cf374e4f2e1dcd09b2"
     },
     {
-      "bytes": 1283,
+      "bytes": 4306,
       "path": "dynamic/日常/2026-09-17 10-13-35 凡丁预售的圆滚滚周边出荷了_dbfbeabbf809.md",
-      "sha256": "a1d1c035f389332220cad0a855caf8332f8148dd1ef3d672519f194b84ff4279"
+      "sha256": "6686ae2cf0f5d6fefd3c1b7baa364a1ecd242b8c7d37ed1f301aa4289925f766"
     },
     {
       "bytes": 434,
@@ -1378,6 +1383,11 @@
       "sha256": "6e70ccabadd91c59051d3b4a9438122fd42abff4d997a6c290a84a6006a75ebd"
     },
     {
+      "bytes": 1411,
+      "path": "dynamic/财务/2026-09-19 11-48-51 2026-09-19 凡丁的消费主义反思与破洞袜子_726a013be59a.md",
+      "sha256": "8dc7a404b2170bf7e519bdb4d2617645c00e0a78f6361eb672fbe61f1caecab1"
+    },
+    {
       "bytes": 766,
       "path": "dynamic/购物/2026-06-26 12-17-24 东京咒术回战咖啡预约_329cde924873.md",
       "sha256": "3b3d47ff5197b6baa33dee162aee3a7b7cd509693ea4fbf5f50592facda261c3"
@@ -1440,7 +1450,7 @@
     {
       "bytes": 1369,
       "path": "dynamic/身心/2026-09-12 08-21-22 身体不适与情绪波动_7d0a129d0584.md",
-      "sha256": "312a8d4e46e3f4b35c632ab2148bd1dac8df0d288b5af25fd62c398ad5b1eb2a"
+      "sha256": "81972a5a0a4cab30f107bf975d36c3502cfb5a9ad7cc6032c97ea45545560dfa"
     },
     {
       "bytes": 720,
@@ -1638,11 +1648,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-19T06:51:43+00:00",
+  "generated_at": "2026-09-19T18:51:49+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 318196
+  "total_bytes": 324564
 }
