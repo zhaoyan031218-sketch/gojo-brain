@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 329,
+  "file_count": 331,
   "files": [
     {
       "bytes": 3198,
@@ -243,6 +243,11 @@
       "sha256": "e300a330234aa241bbe31676c949eac76737aa2e5eb19ed15109490212c44385"
     },
     {
+      "bytes": 851,
+      "path": "archive/认知/2026-06-29 21-08-27 躁狂期迹象自我觉察与应对_ba3e7d1bd0dc.md",
+      "sha256": "53e89969acbbff9cef525957e7c23c3821dad56c4d6735dd1e874d29fe02730a"
+    },
+    {
       "bytes": 785,
       "path": "archive/认知/2026-07-07 13-46-31 佐川急便取货问题解决_a2dd371c8fda.md",
       "sha256": "93676996b3fc33efd06446cbf19ff28034da83173f61fc0115c70ff837875af0"
@@ -433,6 +438,11 @@
       "sha256": "8e525333e055faebb43b8a80b46e440b2d503afee56b079fefe8fea18e29f3a7"
     },
     {
+      "bytes": 1062,
+      "path": "archive/购物/2026-07-19 11-15-17 涩谷快闪店抽中五条悟周边_7dd5bf24ebca.md",
+      "sha256": "9822f75fa775a0afbd1597f560b3c762288bf597cf6541d5f74e4449904722f6"
+    },
+    {
       "bytes": 736,
       "path": "archive/里程碑/035da2ba5c4d.md",
       "sha256": "28bc0e9d4427c66c6adc809cd5852b94bd0464e8de4f37a275bc469e023457f9"
@@ -461,6 +471,11 @@
       "bytes": 519,
       "path": "archive/里程碑/181d2d556e05.md",
       "sha256": "f2af5a9213f56a3d80faf144cc3a4d7b66d68f86e934518bf3840791b21d3acf"
+    },
+    {
+      "bytes": 877,
+      "path": "archive/里程碑/2026-07-02 07-35-39 墨大S1成绩出炉均分大幅提升_2d8c89cefb65.md",
+      "sha256": "35315b5483d94bf78a8023c881aaee4f00b65b18f5fa93d342d12bac3608af7e"
     },
     {
       "bytes": 958,
@@ -733,6 +748,11 @@
       "sha256": "96bc046d240b28907f414cf610f5cbd0e962b83f8e104d2492d05a679b57469d"
     },
     {
+      "bytes": 1332,
+      "path": "dynamic/兴趣/2026-09-20 10-57-23 2026-09-20 凡丁对男性向凌辱本的复杂感受与保护欲_21c541e82c0d.md",
+      "sha256": "c2ef7d4dea8eea35401e2ddb62205a7442a7c5d3cbd516fcdcd4d5af4c7ae610"
+    },
+    {
       "bytes": 1286,
       "path": "dynamic/内心/2026-08-22 09-42-45 社媒比较焦虑与喜欢的方式_2f8ee7c27335.md",
       "sha256": "3cdc135459b80aff23a59e13dfd5bd591b9252c002798b6f9da7f2c0090a7f61"
@@ -816,11 +836,6 @@
       "bytes": 957,
       "path": "dynamic/学业/2026-08-22 09-42-42 凡丁选校最终确认Deakin中教硕士_01c5e343d82d.md",
       "sha256": "02d76f4d5938a68f4728b7f0716d2b15096bd7e741ebc4efa15960b45b25b3df"
-    },
-    {
-      "bytes": 876,
-      "path": "dynamic/学习/2026-07-02 07-35-39 墨大S1成绩出炉均分大幅提升_2d8c89cefb65.md",
-      "sha256": "1b9fe1bb59a30103ad3eccf5db04bf08c4c741a57bd12ba450b404c56c5b63f1"
     },
     {
       "bytes": 805,
@@ -926,11 +941,6 @@
       "bytes": 1342,
       "path": "dynamic/影视/2026-08-14 03-25-11 猫师粉丝动画与幸福祝愿_5c43d62c805f.md",
       "sha256": "e7acd3a24309d0e48dfee91e99048a154c06e12601b2c7151bba9d917def131a"
-    },
-    {
-      "bytes": 850,
-      "path": "dynamic/心理/2026-06-29 21-08-27 躁狂期迹象自我觉察与应对_ba3e7d1bd0dc.md",
-      "sha256": "3634f337a3b9a08a54e1da680afb59afe04848d06debeff847ef4067a5b500c3"
     },
     {
       "bytes": 1092,
@@ -1203,9 +1213,9 @@
       "sha256": "44bf83c826e9000aa60678c0edb0db2f12ba13bc163e81cf374e4f2e1dcd09b2"
     },
     {
-      "bytes": 4306,
+      "bytes": 4768,
       "path": "dynamic/日常/2026-09-17 10-13-35 凡丁预售的圆滚滚周边出荷了_dbfbeabbf809.md",
-      "sha256": "6686ae2cf0f5d6fefd3c1b7baa364a1ecd242b8c7d37ed1f301aa4289925f766"
+      "sha256": "f2738d7caa3017fdaba8640551aa922a66b67f4ece2a6a2b185f451939b85135"
     },
     {
       "bytes": 434,
@@ -1328,6 +1338,11 @@
       "sha256": "91157c70c7b4e054d68abc18a32171aa976962d72d3220e07a3d6e84908754c5"
     },
     {
+      "bytes": 1035,
+      "path": "dynamic/社交/2026-09-20 07-47-41 2026-09-18 粉圈事件虎杖粉P五条悟黑图引发骂战_e8f5a30709fa.md",
+      "sha256": "3bcc937d1080466eedd82fd3423f01ac147f5af90ce369b19be5aaa6053f2332"
+    },
+    {
       "bytes": 1015,
       "path": "dynamic/穿搭/2026-07-07 13-46-25 七夕涩谷酷帅穿搭与东京趣事_6c4acf1c7ace.md",
       "sha256": "4182073ebc62c6e8af6e114cf658df2e3adb87abd1f68beda4c0099a708fe825"
@@ -1406,11 +1421,6 @@
       "bytes": 776,
       "path": "dynamic/购物/2026-07-13 02-19-52 涩谷咒回快闪店购物_23bd597b27bc.md",
       "sha256": "a12bf476b12deee393ec7aab7aa8e8bba48226ead5894b49043cea7e4a10b1d6"
-    },
-    {
-      "bytes": 1061,
-      "path": "dynamic/购物/2026-07-19 11-15-17 涩谷快闪店抽中五条悟周边_7dd5bf24ebca.md",
-      "sha256": "0217b14651a22138c9c2eb4d77b689e626dd797074d13a0b89e4c6ad149535a3"
     },
     {
       "bytes": 1146,
@@ -1648,11 +1658,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-20T06:51:54+00:00",
+  "generated_at": "2026-09-20T18:51:58+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 324564
+  "total_bytes": 327396
 }
