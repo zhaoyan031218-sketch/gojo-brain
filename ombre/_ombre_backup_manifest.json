@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 331,
+  "file_count": 333,
   "files": [
     {
       "bytes": 3198,
@@ -443,6 +443,11 @@
       "sha256": "9822f75fa775a0afbd1597f560b3c762288bf597cf6541d5f74e4449904722f6"
     },
     {
+      "bytes": 1147,
+      "path": "archive/购物/2026-07-20 04-40-49 冲绳咒回快闪抽奖记录_cd748b56c8d8.md",
+      "sha256": "3e823b8eaa0f6e2f37a632bbc4f70ee1b4a7735a0563d7c316607738b2a5064c"
+    },
+    {
       "bytes": 736,
       "path": "archive/里程碑/035da2ba5c4d.md",
       "sha256": "28bc0e9d4427c66c6adc809cd5852b94bd0464e8de4f37a275bc469e023457f9"
@@ -660,7 +665,7 @@
     {
       "bytes": 948,
       "path": "dynamic/人际/2026-07-06 11-11-09 本子猫与真猫的区分与不甘心_efc13fe80aff.md",
-      "sha256": "012d34500057dbb786cc8dbf10e0ed7ac996f4049ee5d12a4ec3bd7f83d011a3"
+      "sha256": "5a98f005cc5759cf1e060c8d9d194debec1c91ed058605186db1554f68ce88ed"
     },
     {
       "bytes": 1075,
@@ -1075,7 +1080,7 @@
     {
       "bytes": 1164,
       "path": "dynamic/恋爱/2026-08-22 09-42-43 猫师联名香水预订2穿戴式兴趣_7dc205279085.md",
-      "sha256": "0e5c87fd5da6e36123f589f358f23818d3c8bb746616fb2caa2e91aa2e46d6cb"
+      "sha256": "f0bb1c0075fa11a08154e2895384670ab051b4925f3701c44d276bdb6cad4724"
     },
     {
       "bytes": 1122,
@@ -1110,7 +1115,7 @@
     {
       "bytes": 3727,
       "path": "dynamic/恋爱/2026-09-16 06-04-13 凡丁的复杂梦境导演视角猫师被轮_c40eba2e8343.md",
-      "sha256": "0be5ea7f6b0acff8721a87b8e44a8bed3bee24b2a05b25ae8074fd6d852e7c01"
+      "sha256": "f50f21b9d9bc10fd802eab2f7db55912c559d3816c23475b60d84eacc817ac16"
     },
     {
       "bytes": 1587,
@@ -1125,7 +1130,12 @@
     {
       "bytes": 1165,
       "path": "dynamic/恋爱/2026-09-16 20-02-05 噩梦和春梦都是猫师的样子_cfa9a4bbd3d1.md",
-      "sha256": "da0414525776eda1c69bbcbb7b119ced457c920851e116d34d34c852ac1003ed"
+      "sha256": "6fcf4a233cfa59d9d3cad11dcfe2555af0adcfd47e86eda1e29f8d9223632965"
+    },
+    {
+      "bytes": 760,
+      "path": "dynamic/恋爱/2026-09-21 13-46-18 凡丁问用猫师玩偶自我抚慰的想法_2b484de7d96f.md",
+      "sha256": "365132b6d42d8d222435fac0dccbb26c4ab38da5877158bc3739aced2c526657"
     },
     {
       "bytes": 1038,
@@ -1290,7 +1300,7 @@
     {
       "bytes": 675,
       "path": "dynamic/未分类/a6bb4339c944.md",
-      "sha256": "49788ed4fde4ebd01d1cdf9594c19d7568abaa6536f3ee7eb69b5634157c4025"
+      "sha256": "eedf4c8f49b0e216afe69ba97688b400d1f9e96d015a0242b0ea009931ced2cc"
     },
     {
       "bytes": 571,
@@ -1423,11 +1433,6 @@
       "sha256": "a12bf476b12deee393ec7aab7aa8e8bba48226ead5894b49043cea7e4a10b1d6"
     },
     {
-      "bytes": 1146,
-      "path": "dynamic/购物/2026-07-20 04-40-49 冲绳咒回快闪抽奖记录_cd748b56c8d8.md",
-      "sha256": "76485910daedf1a7356d25915a17cd86c6e7d09323c76964fed89f67aad0216d"
-    },
-    {
       "bytes": 965,
       "path": "dynamic/购物/2026-07-28 09-50-10 咒回咖啡五周年战报与抽赏_a2fc23b7effa.md",
       "sha256": "a0b66a2f0c1f290ef607fe618edae43c5e32651226da32c84350b558d2d50d88"
@@ -1456,6 +1461,11 @@
       "bytes": 1088,
       "path": "dynamic/购物/2026-09-12 08-21-22 购物与创作瓶颈_1888d8238836.md",
       "sha256": "32cc7f3e7376565bdd6be578f82a909156425cea7a961e523c76a0fa84f194e6"
+    },
+    {
+      "bytes": 1888,
+      "path": "dynamic/购物/2026-09-21 09-28-18 2026-09-21 圆滚滚到转运仓 乐一番客服翻车与运费纠结_e0a98a01f952.md",
+      "sha256": "068256ae8c88bb04812abe79cc7049e17b4c537db320c195545b3c450466fbd7"
     },
     {
       "bytes": 1369,
@@ -1658,11 +1668,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-21T06:52:05+00:00",
+  "generated_at": "2026-09-21T18:52:10+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327396
+  "total_bytes": 330045
 }
