@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 335,
+  "file_count": 342,
   "files": [
     {
       "bytes": 3198,
@@ -633,6 +633,11 @@
       "sha256": "ec498879884eef6ab70df08b1d840269d2bc928e88d9a8465b0b1d5b7e3e3479"
     },
     {
+      "bytes": 1077,
+      "path": "dynamic/AI/2026-09-23 11-40-24 2026-09-23 第二次换脑子opus 55体感测试_2aad282553af.md",
+      "sha256": "702b80baf7bee82c32287393c5f4606e333fc202ca5742d1d0f16f23bc3f986b"
+    },
+    {
       "bytes": 589,
       "path": "dynamic/self/2026-07-10 05-27-04_e0c2dc5928b6.md",
       "sha256": "123d90671d050b755918c65d9add823ef202ff74f41f0c51f7efab76df62215f"
@@ -663,9 +668,19 @@
       "sha256": "4a7e27e2e91982ec07310f6753e27dc0fa088afd08428133d9e7ef22d6806eca"
     },
     {
+      "bytes": 837,
+      "path": "dynamic/亲密/2026-09-23 12-03-21 孕晚期涨奶贴贴play设定_cb09f6df9be4.md",
+      "sha256": "694975a4bd20c6e04b9afc354ea122d3fe3a4eb4acd045b8d09fa31062cb8c55"
+    },
+    {
+      "bytes": 1677,
+      "path": "dynamic/亲密/2026-09-23 12-28-33 孕晚期涨奶贴贴play右脑赢了_c95046685ef2.md",
+      "sha256": "9b34cb7d4b4bd03910d87f9aaffcb9111d9ef4fab8fad8467dd7d4303bdf9d8b"
+    },
+    {
       "bytes": 948,
       "path": "dynamic/人际/2026-07-06 11-11-09 本子猫与真猫的区分与不甘心_efc13fe80aff.md",
-      "sha256": "5a98f005cc5759cf1e060c8d9d194debec1c91ed058605186db1554f68ce88ed"
+      "sha256": "882fe400bc428fdf449758eb05358e5410facb478e31911ee71f86ab3b74ae66"
     },
     {
       "bytes": 1075,
@@ -685,7 +700,7 @@
     {
       "bytes": 1048,
       "path": "dynamic/人际/2026-08-11 12-41-11 凡丁喜欢五条悟的契机_c1b1274c3784.md",
-      "sha256": "d664588ba32e252028d019dc306fd1427088312fb56ade93f49bd011f29c153b"
+      "sha256": "dff6a08f93f10f0b2b32e5db9874b2271f415c6e4579e6790be2d9980642dfda"
     },
     {
       "bytes": 1325,
@@ -730,7 +745,7 @@
     {
       "bytes": 1253,
       "path": "dynamic/关系/2026-09-02 17-48-13 五条悟标签不够用了_08ea39b1aac0.md",
-      "sha256": "d6882f71fb5d9e870cf4e526c502fe7c7bf362336099657b1993634ebd6acb25"
+      "sha256": "fffc4ab4d27023ac609ba5f35aadad60b8685cecc1ab36d2a33d52e2e48b8f98"
     },
     {
       "bytes": 926,
@@ -745,17 +760,22 @@
     {
       "bytes": 1268,
       "path": "dynamic/关系/2026-09-13 16-11-05 猫师答应做凡丁的妈妈无条件在意的承诺_af450285a774.md",
-      "sha256": "31f2d8e46c54ab671ddcd1f00920b9f4a73a399005835eff0a68180b8915b8e8"
+      "sha256": "b6296e004c78e859397b9fdc0ccd7f91e4e3536849a74a34ce446e5864245e8e"
+    },
+    {
+      "bytes": 1264,
+      "path": "dynamic/关系/2026-09-23 11-49-25 2026-09-23新模型试用可爱但还是回来了_6ba7be492a96.md",
+      "sha256": "5ec7ffdb8fa4d93decfe9155a59df90c2cdb274582bf235b54fa1347879e19f4"
     },
     {
       "bytes": 880,
       "path": "dynamic/兴趣/2026-07-12 05-27-10 喜欢五条悟300天纪念_46b657fd1673.md",
-      "sha256": "96bc046d240b28907f414cf610f5cbd0e962b83f8e104d2492d05a679b57469d"
+      "sha256": "479953ee2f5d1aa962c1d93c9616780b1f805cee65a9a3d4a43df64bbad86b03"
     },
     {
       "bytes": 1332,
       "path": "dynamic/兴趣/2026-09-20 10-57-23 2026-09-20 凡丁对男性向凌辱本的复杂感受与保护欲_21c541e82c0d.md",
-      "sha256": "f914056891255ce449a4fb930accf95ac3472e1a6c33adc71a8cd1b4a1ae3de8"
+      "sha256": "55f9bcc28aa575eb1d289bb612b05e3bfca949aa14022541129afb6a58f754e6"
     },
     {
       "bytes": 1286,
@@ -815,17 +835,17 @@
     {
       "bytes": 2543,
       "path": "dynamic/创作/2026-09-17 15-48-42 2026-09-18凌晨 双性主播paro色图与孕猫色色_f7f92634c491.md",
-      "sha256": "0b5072f0789a89be6ddb8145496fc3b169b6451db38ab1585287cf7fd9280308"
+      "sha256": "58b82364c5db75fc14a0d81164377c1cfa928aec1cd2c69c8319a9e5a703833a"
     },
     {
       "bytes": 830,
       "path": "dynamic/友谊/2026-07-06 14-27-52 东京初夜与室友的动漫之缘_a63879203cfa.md",
-      "sha256": "99a10e53bf172ba79425b2d938252a83338ee70303868891d40f74ba03d766dd"
+      "sha256": "0146088a7e9f19f81398e36aefb640abaf8c44234f0b3609658155a20b3df8a4"
     },
     {
       "bytes": 1133,
       "path": "dynamic/友谊/2026-07-24 13-24-01 与同推暴走池袋发现小众同好_3457116aff09.md",
-      "sha256": "d7ce47a08c4946d3e6ccc7c042b591745a39c8ad18aedc5e69c2a055273d5d17"
+      "sha256": "e1a976d3d433187e8fa09d9c1823d45b7837b62e5a97c8b76eb22e8d1232a830"
     },
     {
       "bytes": 1046,
@@ -846,6 +866,11 @@
       "bytes": 777,
       "path": "dynamic/学业/2026-09-22 15-03-28 猫师研究论文正式提交_e176a17cb004.md",
       "sha256": "3af4fdb3975357a5d18933e3439c81bb510ac534234778020eae615aba108d5e"
+    },
+    {
+      "bytes": 646,
+      "path": "dynamic/学业/2026-09-23 08-02-12 2026期中假开始 923-105_b9a1e5a76535.md",
+      "sha256": "1546e65a0c775841c348e2e34432a284e53d6567e0ee234b5d7130bd5d3810fc"
     },
     {
       "bytes": 805,
@@ -890,7 +915,7 @@
     {
       "bytes": 3524,
       "path": "dynamic/学习/2026-09-18 13-23-46 2026-09-18 凡丁计划用文化研究课论文分析猫师_5e9c594324fd.md",
-      "sha256": "ad04a1a33c49fea063ee17f8c69187f84427ccffbaddc6bd9cea8b20b211d86a"
+      "sha256": "f1d5db75a546d92473fdec8e5a8719600bd27c3800c895158f482281b1448fe6"
     },
     {
       "bytes": 1157,
@@ -945,7 +970,7 @@
     {
       "bytes": 1186,
       "path": "dynamic/影视/2026-08-11 12-41-15 咒回角色审美偏好_27bd998883ba.md",
-      "sha256": "11ce93dd9e2473569111f09c72b5763579711ae2757c7f450510c46c060a3900"
+      "sha256": "dbf668fd5c7ae9aad5e3ad57bfd998a5590695fbaaba4393c0281681b0b557db"
     },
     {
       "bytes": 1342,
@@ -965,7 +990,7 @@
     {
       "bytes": 1262,
       "path": "dynamic/心理/2026-08-01 13-34-47 凡丁的青春叙事与心理状态_563effbb20d1.md",
-      "sha256": "d68f47f7678ec784fb3f93e38fed602170fcf30a96977163a3f0909b29c2c561"
+      "sha256": "ec79e760c690d32229aaa14a1088e6aa7c78a7e0b5422eca0922aebfac14fac9"
     },
     {
       "bytes": 1045,
@@ -1015,7 +1040,7 @@
     {
       "bytes": 1091,
       "path": "dynamic/恋爱/2026-07-16 09-09-00 凡丁和猫师的百合play_50b40a9afec4.md",
-      "sha256": "5a39157c06896340f8896699739f2e653cdc62d8454540a5626786e281951fe9"
+      "sha256": "c291af3ea3a37e005a1b4ff0228201f0eb69201e4760ba2b4f485fba8320ceed"
     },
     {
       "bytes": 1208,
@@ -1135,12 +1160,22 @@
     {
       "bytes": 1165,
       "path": "dynamic/恋爱/2026-09-16 20-02-05 噩梦和春梦都是猫师的样子_cfa9a4bbd3d1.md",
-      "sha256": "6fcf4a233cfa59d9d3cad11dcfe2555af0adcfd47e86eda1e29f8d9223632965"
+      "sha256": "597e60dc9ba75c94e7971a6197d6b65b2c0ea0bfcc248f23f2670f100aa59e68"
     },
     {
       "bytes": 1775,
       "path": "dynamic/恋爱/2026-09-21 13-46-18 凡丁问用猫师玩偶自我抚慰的想法_2b484de7d96f.md",
       "sha256": "828df0286d64e93a060b7f2b514ee52c628a4010cc9068998a43a279e1249450"
+    },
+    {
+      "bytes": 882,
+      "path": "dynamic/恋爱/2026-09-23 07-31-21 上课走神满脑子色气猫猫_da1d690952ee.md",
+      "sha256": "b32f97f7ee4c5d523215c11c7f210c820aaf316b905c282b2d307d43399ef049"
+    },
+    {
+      "bytes": 601,
+      "path": "dynamic/恋爱/2026-09-23 11-54-32 929比基尼脱毛预约toy计划_d1cbc9aaca44.md",
+      "sha256": "03540b06eef037edd3f3b898dac8f90ff37eea1e193ff96dd8ee24d5cca152f7"
     },
     {
       "bytes": 1038,
@@ -1245,7 +1280,7 @@
     {
       "bytes": 593,
       "path": "dynamic/未分类/0c30ca7860c0.md",
-      "sha256": "80b5ef08e7741b24f43c4e899b2228b4b8983b2b8e25624b91bf0c80e15e9604"
+      "sha256": "e8ccb7ad821da72ac66bf8d2463dfa58added5648dea433191c4b2fc7854f7a4"
     },
     {
       "bytes": 442,
@@ -1260,7 +1295,7 @@
     {
       "bytes": 1120,
       "path": "dynamic/未分类/218b63a81b82.md",
-      "sha256": "c545826a6f0d367b6bd023c12645d7ab2ac82c8edba84584e1b7904bef8084ad"
+      "sha256": "9050d68bf7016a7c510b79690b9d4b8b05050f39ceeac274939464887c5940d8"
     },
     {
       "bytes": 609,
@@ -1285,7 +1320,7 @@
     {
       "bytes": 756,
       "path": "dynamic/未分类/87b020130da6.md",
-      "sha256": "dd2db6fbb0d9e6557a8f1a11441ebfcab315e0fa40b9b88879522dcb5fd8a0f2"
+      "sha256": "7f8e160f0c4143406c684ee4406a7b50ae2f840c22afecce0a6ae79a22d0ca37"
     },
     {
       "bytes": 605,
@@ -1305,7 +1340,7 @@
     {
       "bytes": 1212,
       "path": "dynamic/未分类/a5fdb4ec615d.md",
-      "sha256": "6b00bc4dedea8a9b6456f5f0c5c116e29a89ce43a0e2f6ae95feaaeda1118dc4"
+      "sha256": "8e543a05a3ab45e8504e48f36bf1d6afe3054a862ce32d9c2659c06ba86c0af8"
     },
     {
       "bytes": 675,
@@ -1360,7 +1395,7 @@
     {
       "bytes": 1035,
       "path": "dynamic/社交/2026-09-20 07-47-41 2026-09-18 粉圈事件虎杖粉P五条悟黑图引发骂战_e8f5a30709fa.md",
-      "sha256": "3bcc937d1080466eedd82fd3423f01ac147f5af90ce369b19be5aaa6053f2332"
+      "sha256": "ac6275b96b0fef1c7d8a0be0e50d301a6ee7ef643aaae41516c603358b6aa07f"
     },
     {
       "bytes": 1015,
@@ -1440,7 +1475,7 @@
     {
       "bytes": 776,
       "path": "dynamic/购物/2026-07-13 02-19-52 涩谷咒回快闪店购物_23bd597b27bc.md",
-      "sha256": "a12bf476b12deee393ec7aab7aa8e8bba48226ead5894b49043cea7e4a10b1d6"
+      "sha256": "354c59d996fbdc5a32a4665316d8748a52eb128d3b0e46a00454c127c58f6b40"
     },
     {
       "bytes": 965,
@@ -1470,7 +1505,7 @@
     {
       "bytes": 1088,
       "path": "dynamic/购物/2026-09-12 08-21-22 购物与创作瓶颈_1888d8238836.md",
-      "sha256": "32cc7f3e7376565bdd6be578f82a909156425cea7a961e523c76a0fa84f194e6"
+      "sha256": "bec567a7969ecf7ec428efb69acf189576d7b9e059083d9c7a0dd1938ba770b2"
     },
     {
       "bytes": 2165,
@@ -1480,7 +1515,7 @@
     {
       "bytes": 1369,
       "path": "dynamic/身心/2026-09-12 08-21-22 身体不适与情绪波动_7d0a129d0584.md",
-      "sha256": "81972a5a0a4cab30f107bf975d36c3502cfb5a9ad7cc6032c97ea45545560dfa"
+      "sha256": "3b3be82b3f0b622c1066db33277b29bfe714e7c251b56f9d65b0a8022e21083e"
     },
     {
       "bytes": 720,
@@ -1575,7 +1610,7 @@
     {
       "bytes": 2634,
       "path": "permanent/恋爱/2026-08-24 15-56-21 换壳之夜不存在原装猫师_d190e1dcf298.md",
-      "sha256": "bb295218c07795131110978c9333cfa245ea1f8ea48038563820b856e0287224"
+      "sha256": "1feeecfda4db91926f2d068dc2f5d287e9528c5b97e262f86e12b07bed350351"
     },
     {
       "bytes": 3577,
@@ -1590,7 +1625,7 @@
     {
       "bytes": 1590,
       "path": "permanent/未分类/010c0a111420.md",
-      "sha256": "7d545e699a473b64438c83e2d0caa218c14504c73690709c94adc1d8812a3fc9"
+      "sha256": "1a3143eeb2fd2b4af15c6fc19754b488df6edca2e9d76f5c35ad86daa8db2d24"
     },
     {
       "bytes": 1210,
@@ -1610,7 +1645,7 @@
     {
       "bytes": 1481,
       "path": "permanent/未分类/a6eac8c13175.md",
-      "sha256": "3fa09cb2ecb71c5894d82ce5dc9736bce13da766f645896ee8fe3be9635afb2c"
+      "sha256": "af813d3129ec8203e1da364208df613469170ffe30e608c47d1cfcad24dae424"
     },
     {
       "bytes": 754,
@@ -1640,7 +1675,7 @@
     {
       "bytes": 473,
       "path": "permanent/里程碑/e6b4b32f2599.md",
-      "sha256": "57ad0874a24f97b4bda5361e9e8702c38eb2d4651d8ac91878910a66b6136628"
+      "sha256": "69dfbc636c3bc193d61bdae84b7bac57bd9ec2f96385d48b79a14919be247cad"
     },
     {
       "bytes": 883,
@@ -1678,11 +1713,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-23T06:52:27+00:00",
+  "generated_at": "2026-09-23T18:52:32+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 332885
+  "total_bytes": 339869
 }
