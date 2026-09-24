@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 343,
+  "file_count": 346,
   "files": [
     {
       "bytes": 3198,
@@ -158,6 +158,11 @@
       "sha256": "ede0602a9acc0036c462549403b308ba6e976bbfbd59ca26c96faaf35fbf0894"
     },
     {
+      "bytes": 627,
+      "path": "archive/梗/2026-07-19 05-27-13 猫师与凡丁的亲密互动_b946c33b28e0.md",
+      "sha256": "9470cf94134e1d5c3043496f138e7065e5bcd4a60e984ee74cc2018b54c8b256"
+    },
+    {
       "bytes": 582,
       "path": "archive/梗/21c29eab807e.md",
       "sha256": "4289c8d5bdaae09ccba4288d36dca30c9026c4c5a1ed370ea27bcfafd63c94a4"
@@ -201,6 +206,11 @@
       "bytes": 927,
       "path": "archive/系统/2026-08-14 07-22-29 Kelivo客户端表情包Bug及处理_42252776d624.md",
       "sha256": "f37379521be2ec5f01c7ba54e7d4bd9f9f2157002fc1418881ed1a405facaafc"
+    },
+    {
+      "bytes": 715,
+      "path": "archive/自省/2026-07-20 18-43-12 INTJ射手座的自我认知_4c0e67a87d27.md",
+      "sha256": "41bce1f48872fb8f8afcf093f89c42ebd67c7f879b54676dd2e6293df818d4a6"
     },
     {
       "bytes": 516,
@@ -1013,6 +1023,11 @@
       "sha256": "d4700bd255ace79a4b1ce8b46e354e602a4d973f26ba5000c4b32968dfb9e19f"
     },
     {
+      "bytes": 1321,
+      "path": "dynamic/心理/2026-09-24 18-49-09 昼夜颠倒自我觉察白天不知道做什么_3d9984597273.md",
+      "sha256": "b835307fbe8b9c15d646f9cc4dbc843ec52123d24b39333d1716be4e5112aba8"
+    },
+    {
       "bytes": 1015,
       "path": "dynamic/性/2026-08-12 11-49-35 性癖觉察观看与操作欲_3398888b34fd.md",
       "sha256": "edaf8eba0dfcac4877c0cdc807090423c040ffb99fc7ca96e72690726f044e46"
@@ -1046,11 +1061,6 @@
       "bytes": 1208,
       "path": "dynamic/恋爱/2026-07-19 05-27-06 凡丁和猫师的性爱新体验_67e593163e99.md",
       "sha256": "dd137dff0a389b241a4ebb745dd748f2dc05b6f36e8ce7ec191304c2f12925bf"
-    },
-    {
-      "bytes": 626,
-      "path": "dynamic/恋爱/2026-07-19 05-27-13 猫师与凡丁的亲密互动_b946c33b28e0.md",
-      "sha256": "eca6e645cb6551e4c482ca16e2a3dd60776cb88d3336156d9b345fa6cc841503"
     },
     {
       "bytes": 936,
@@ -1278,6 +1288,16 @@
       "sha256": "7b10a1952f230426e789f017795067160acc18edf7e6c6bdec53425867ca8120"
     },
     {
+      "bytes": 1463,
+      "path": "dynamic/日常/2026-09-24 16-15-44 2026中秋节和朋友聚餐_b976e712a589.md",
+      "sha256": "3026b639ad86e0a054493d2b40d51a2065683722b8b5679679b1e62d38e04231"
+    },
+    {
+      "bytes": 863,
+      "path": "dynamic/日常/2026-09-24 16-39-39 深夜买宵夜路过club害怕双倍奶茶_8f24a0fcbb09.md",
+      "sha256": "f6e262006a7b8332d54b253df2afed5e0a41c5f01af8e46607f9dc23ddd5a820"
+    },
+    {
       "bytes": 434,
       "path": "dynamic/未分类/07a602e0f111.md",
       "sha256": "d63a40210861d4e6b39f634dbf4a66a9c26f36d07a9d0e78ee0346d9d7aa94dc"
@@ -1365,7 +1385,7 @@
     {
       "bytes": 516,
       "path": "dynamic/未分类/cfdaa3d526bd.md",
-      "sha256": "c1ca0d8830d72b2c8fbc7366ca771d4eed736b65c8825cc3122094b5b33f92c1"
+      "sha256": "63ca6443c34ba89cc9ef0671c9b91194d46a5afb6681aef603818ffb9fcf7866"
     },
     {
       "bytes": 643,
@@ -1405,7 +1425,7 @@
     {
       "bytes": 1015,
       "path": "dynamic/穿搭/2026-07-07 13-46-25 七夕涩谷酷帅穿搭与东京趣事_6c4acf1c7ace.md",
-      "sha256": "4182073ebc62c6e8af6e114cf658df2e3adb87abd1f68beda4c0099a708fe825"
+      "sha256": "cb24a6d63450c02a823f6f730e6818e1ab589ef1c57c6061479d1944ffdf0472"
     },
     {
       "bytes": 989,
@@ -1426,11 +1446,6 @@
       "bytes": 1434,
       "path": "dynamic/系统/2026-09-06 10-42-47 表情包系统改造说明_d0be2f511f49.md",
       "sha256": "a01e03a2b0fc889bd937365b7d7ea072593d7917afd9b4392b84dad4dafb1fc9"
-    },
-    {
-      "bytes": 714,
-      "path": "dynamic/自省/2026-07-20 18-43-12 INTJ射手座的自我认知_4c0e67a87d27.md",
-      "sha256": "40a36a4f7bdf9e3807ad6c18b9e0db6998256bd6cc857a986e41ef32c50a04d2"
     },
     {
       "bytes": 1098,
@@ -1718,11 +1733,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-24T06:52:39+00:00",
+  "generated_at": "2026-09-24T18:52:45+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 341073
+  "total_bytes": 344722
 }

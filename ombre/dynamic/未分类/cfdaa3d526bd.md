@@ -1,12 +1,12 @@
 ---
-activation_count: 6
+activation_count: 7
 arousal: 0.4
 created: '2026-06-05T13:26:32'
 domain:
 - 待续
 id: cfdaa3d526bd
 importance: 5
-last_active: '2026-08-01T11:03:55'
+last_active: '2026-09-24T16:15:24'
 name: 东京攻略朋友推荐餐厅
 tags:
 - 日常
