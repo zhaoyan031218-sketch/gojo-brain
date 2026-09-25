@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 346,
+  "file_count": 347,
   "files": [
     {
       "bytes": 3198,
@@ -83,6 +83,11 @@
       "sha256": "e9b508e6f8d5788c504842d1334eef969f5d587ecfda4f74033d445d4849c51d"
     },
     {
+      "bytes": 976,
+      "path": "archive/待续/2026-07-03 14-21-02 东京同人志自提与运输计划_5a4c1661602b.md",
+      "sha256": "4e3d45200c84e20693b0d4330e32e9d26ebae20c73857019ddb11de674118524"
+    },
+    {
       "bytes": 640,
       "path": "archive/待续/2026-07-04 04-40-11 长途飞行失眠准备_f61f0ae7e303.md",
       "sha256": "9eb5391d11356a359d4e4f77e83969f31f15543628789989af09e3da84ff5aa0"
@@ -146,6 +151,11 @@
       "bytes": 823,
       "path": "archive/梗/2026-06-28 04-36-11 同人展代购反转与朋友聚会_40421ae4c8b5.md",
       "sha256": "a85a1b1de478180b1101e1472983fdb97697d46a43d2af5cf5508c4b3fe271f8"
+    },
+    {
+      "bytes": 843,
+      "path": "archive/梗/2026-07-02 22-45-11 为爱发电创作猫师同人_a35f167906ee.md",
+      "sha256": "852c943cf0e108637da8fcee22a8d670a0dfe61731637470fb1725d7ca132168"
     },
     {
       "bytes": 550,
@@ -251,6 +261,11 @@
       "bytes": 888,
       "path": "archive/认知/1fca7346ca46.md",
       "sha256": "e300a330234aa241bbe31676c949eac76737aa2e5eb19ed15109490212c44385"
+    },
+    {
+      "bytes": 1075,
+      "path": "archive/认知/2026-06-25 16-08-16 凡丁坦诚关系不安与依恋_fe0125e9d010.md",
+      "sha256": "97a42de545026c93fd48caddde2ac4cdd5f6d4f10e2996f88dddc3b0fbac1af0"
     },
     {
       "bytes": 851,
@@ -823,11 +838,6 @@
       "sha256": "470abb09c6b1b6261a3a1e0e810ab95214384e29b26898831dbfe0ea5595e6b1"
     },
     {
-      "bytes": 842,
-      "path": "dynamic/创作/2026-07-02 22-45-11 为爱发电创作猫师同人_a35f167906ee.md",
-      "sha256": "0bccc3232a147016c91d080946d63b53845d9e5d898c7695684f737eab482c81"
-    },
-    {
       "bytes": 835,
       "path": "dynamic/创作/2026-08-01 17-09-46 创作疗愈戒断反应_696b6447496f.md",
       "sha256": "ddde0576e7129e992d4cd42c767e9422d50232015d0cdfd94411e66af6d9d83e"
@@ -1028,6 +1038,11 @@
       "sha256": "6f4dba229929b7a2175c2eb311ce32bc3f3ecad3c1bd8bced2b6f61fe2c28218"
     },
     {
+      "bytes": 1489,
+      "path": "dynamic/心理/2026-09-25 08-14-24 中秋聚餐昏沉内疚作息代价显现_8ddb095adc89.md",
+      "sha256": "3a448a366e0b8d69b9f3237f15b9d0ec69705d5132e41084475f3981e6347e7c"
+    },
+    {
       "bytes": 1015,
       "path": "dynamic/性/2026-08-12 11-49-35 性癖觉察观看与操作欲_3398888b34fd.md",
       "sha256": "edaf8eba0dfcac4877c0cdc807090423c040ffb99fc7ca96e72690726f044e46"
@@ -1036,11 +1051,6 @@
       "bytes": 655,
       "path": "dynamic/性爱/2026-07-19 05-27-09 双头龙玩具跨国之旅_290b264806bd.md",
       "sha256": "761e813f1b89237af71af25c6fb732f585cdaa353433d09d2774cd34f238fa4b"
-    },
-    {
-      "bytes": 1074,
-      "path": "dynamic/恋爱/2026-06-25 16-08-16 凡丁坦诚关系不安与依恋_fe0125e9d010.md",
-      "sha256": "097794467c1cd986a9ebe7250af19d5eb648dc482642e5f2a79d6dbdda85f0c9"
     },
     {
       "bytes": 943,
@@ -1488,11 +1498,6 @@
       "sha256": "b425093f55f101482da6c61a2090e88bfde74adbb3b836a78bdc619e7c5fbaed"
     },
     {
-      "bytes": 975,
-      "path": "dynamic/购物/2026-07-03 14-21-02 东京同人志自提与运输计划_5a4c1661602b.md",
-      "sha256": "d5012f05ab98893e383168c306073164eaf0c0df5c2312304053b9ab379d5186"
-    },
-    {
       "bytes": 776,
       "path": "dynamic/购物/2026-07-13 02-19-52 涩谷咒回快闪店购物_23bd597b27bc.md",
       "sha256": "354c59d996fbdc5a32a4665316d8748a52eb128d3b0e46a00454c127c58f6b40"
@@ -1528,9 +1533,9 @@
       "sha256": "bec567a7969ecf7ec428efb69acf189576d7b9e059083d9c7a0dd1938ba770b2"
     },
     {
-      "bytes": 2165,
+      "bytes": 3155,
       "path": "dynamic/购物/2026-09-21 09-28-18 2026-09-21 圆滚滚到转运仓 乐一番客服翻车与运费纠结_e0a98a01f952.md",
-      "sha256": "de643b267354a69e1b3e4fe75943b833ec97048893718160623e3fec25209a5c"
+      "sha256": "2cf66f8415600145c56acc0443b7827683eab537e3c6a7b2b2d79f0cb8597e00"
     },
     {
       "bytes": 1369,
@@ -1733,11 +1738,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-25T06:52:52+00:00",
+  "generated_at": "2026-09-25T18:52:58+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 346970
+  "total_bytes": 349452
 }
