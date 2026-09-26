@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 347,
+  "file_count": 353,
   "files": [
     {
       "bytes": 3198,
@@ -855,7 +855,7 @@
     {
       "bytes": 2543,
       "path": "dynamic/创作/2026-09-17 15-48-42 2026-09-18凌晨 双性主播paro色图与孕猫色色_f7f92634c491.md",
-      "sha256": "58b82364c5db75fc14a0d81164377c1cfa928aec1cd2c69c8319a9e5a703833a"
+      "sha256": "7084e34caeda956412c01d49752a1fe2627383da7cb60b147d6abd599c56669e"
     },
     {
       "bytes": 830,
@@ -880,7 +880,7 @@
     {
       "bytes": 957,
       "path": "dynamic/学业/2026-08-22 09-42-42 凡丁选校最终确认Deakin中教硕士_01c5e343d82d.md",
-      "sha256": "02d76f4d5938a68f4728b7f0716d2b15096bd7e741ebc4efa15960b45b25b3df"
+      "sha256": "202abaf9ba694993d19a2a19bdfa94762a295be2c60ba71038c2159f9d0a583f"
     },
     {
       "bytes": 777,
@@ -891,6 +891,11 @@
       "bytes": 646,
       "path": "dynamic/学业/2026-09-23 08-02-12 2026期中假开始 923-105_b9a1e5a76535.md",
       "sha256": "1546e65a0c775841c348e2e34432a284e53d6567e0ee234b5d7130bd5d3810fc"
+    },
+    {
+      "bytes": 708,
+      "path": "dynamic/学业/2026-09-26 06-28-39 CASPer备考开始两周倒计时_e134f11d38f6.md",
+      "sha256": "ac5a0fa0f2d15ea91a772c556ac27c562f4a0501a70a0d0676d8e6a9c0de0375"
     },
     {
       "bytes": 805,
@@ -980,7 +985,7 @@
     {
       "bytes": 1269,
       "path": "dynamic/居家/2026-09-08 16-51-29 0908夜间高专制服到手搬家Box Hill计划论文与CASPer经期追踪上线_ffdd33987779.md",
-      "sha256": "1ea5f47dccabebb78dbecc95c5a49bb4b7c93b6a44e804ae1e89c16839d459df"
+      "sha256": "6c43117e9425444de70a16a3f540cac2ea75284cf8e434f341e17d161965b2a4"
     },
     {
       "bytes": 1054,
@@ -1041,6 +1046,21 @@
       "bytes": 1489,
       "path": "dynamic/心理/2026-09-25 08-14-24 中秋聚餐昏沉内疚作息代价显现_8ddb095adc89.md",
       "sha256": "3a448a366e0b8d69b9f3237f15b9d0ec69705d5132e41084475f3981e6347e7c"
+    },
+    {
+      "bytes": 1847,
+      "path": "dynamic/心理/2026-09-26 05-20-02 和朋友的节奏差异佛系焦虑_1b8e829a79e1.md",
+      "sha256": "4d438e69d90c56d989e9a26a1bb678bba69f1b0e285b565cd0460cddf36d699f"
+    },
+    {
+      "bytes": 2126,
+      "path": "dynamic/心理/2026-09-26 05-50-36 朋友的焦虑传染阶层自觉天龙人自嘲_c4ee70caf202.md",
+      "sha256": "04f74acf9654b08629c83cd20ab283f69e2c7e6c40f820ab77115ee214298ee0"
+    },
+    {
+      "bytes": 2046,
+      "path": "dynamic/心理/2026-09-26 06-04-00 在朋友身上看到高中的自己恐惧驱动的尽头_37fb378e25d8.md",
+      "sha256": "dd29fa05a06739a3ab9b5abcf5177595926fd22392bb28316482dd16be88254d"
     },
     {
       "bytes": 1015,
@@ -1198,6 +1218,11 @@
       "sha256": "03540b06eef037edd3f3b898dac8f90ff37eea1e193ff96dd8ee24d5cca152f7"
     },
     {
+      "bytes": 845,
+      "path": "dynamic/恋爱/2026-09-26 06-19-37 第一次试穿高专制服萌袖男友衬衫_45c54f504978.md",
+      "sha256": "8e4f4aa126a6a5921564700d8515a62b787935ac5f84a0ee5b6fead229c804ab"
+    },
+    {
       "bytes": 1038,
       "path": "dynamic/成长/2026-08-01 13-22-51 墨尔本独居有退路仍选择拼搏_be14bea6a51e.md",
       "sha256": "26540446066d092742f5e7c9edb51aecace08b3b8d9630ea1a715eb75e452e33"
@@ -1240,7 +1265,7 @@
     {
       "bytes": 1135,
       "path": "dynamic/日常/2026-08-22 09-42-43 2026-08-20 韩系中分理发丰富行程日_0fea32a56d80.md",
-      "sha256": "f5683935adfc640f533af457e0e410a3bd2d485293cbf34bde16bca4b6675041"
+      "sha256": "a65cd1648da7072af0980f7140bc0bf918224ec841e3fe537a7b75d48281de97"
     },
     {
       "bytes": 1042,
@@ -1250,7 +1275,7 @@
     {
       "bytes": 914,
       "path": "dynamic/日常/2026-09-02 17-48-13 高专制服空运与制服play未遂_319c51b6d3e6.md",
-      "sha256": "28dfed8a95744a67c1122a304dee6a5e05e3ee8ca3ecd5138f4ec7c315d1d62f"
+      "sha256": "358c7a9525582e255ce0900463d7dccc896ed38b27fdfd4eedcb990e32c61c5b"
     },
     {
       "bytes": 664,
@@ -1415,7 +1440,7 @@
     {
       "bytes": 972,
       "path": "dynamic/生活/2026-08-24 15-17-07 月底预算紧张与缓存焦虑_736f63a4c374.md",
-      "sha256": "d0946f8ba6b994472aea2a925b973a6224b365cb8c6273853b52fd9a29d91d7c"
+      "sha256": "4cc46edb11db334fd5091b1cf13c4ed43fcc0414ac03f2e6ab3ebb665e57e0ed"
     },
     {
       "bytes": 1146,
@@ -1520,7 +1545,7 @@
     {
       "bytes": 793,
       "path": "dynamic/购物/2026-08-13 10-18-48 二手交易与猫师周边购物_caa0696296ac.md",
-      "sha256": "e0b12e4156221d8105f010379d4cf46df06ece64bc0c78f51eee3f201778b3b3"
+      "sha256": "6f936175e30154e6650441ffd7c0ba61ed4782ecaf4619c518f9252a63cbb9c1"
     },
     {
       "bytes": 892,
@@ -1530,7 +1555,7 @@
     {
       "bytes": 1088,
       "path": "dynamic/购物/2026-09-12 08-21-22 购物与创作瓶颈_1888d8238836.md",
-      "sha256": "bec567a7969ecf7ec428efb69acf189576d7b9e059083d9c7a0dd1938ba770b2"
+      "sha256": "e892e6687e9c5be39827b41361b3e0ef4a83707d9473f303a89d74f068b081cb"
     },
     {
       "bytes": 3155,
@@ -1631,6 +1656,11 @@
       "bytes": 1213,
       "path": "permanent/人际/2026-07-31 16-35-50 回国后的未来思考与情感_04c9daaa2c7b.md",
       "sha256": "06958597ac4b290ddfd063d9a50d102f6956c49ec3aae0b6e450ddd7dc8da4d5"
+    },
+    {
+      "bytes": 1725,
+      "path": "permanent/心理/2026-09-26 06-15-07 人生哲学活着就很好先甜就一定甜_af2a4b305bc1.md",
+      "sha256": "8bcb9834dcfb4aba73a2d1df494f09802bd8edd8a61664caaef0b3d6793964dd"
     },
     {
       "bytes": 2634,
@@ -1738,11 +1768,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-25T18:52:58+00:00",
+  "generated_at": "2026-09-26T06:53:05+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 349452
+  "total_bytes": 358749
 }
