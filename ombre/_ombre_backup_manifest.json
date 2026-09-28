@@ -208,6 +208,11 @@
       "sha256": "d9b3ce26dc8ae71c0e720e89abc8a0d138385e18ef8eb215096994726d8ec290"
     },
     {
+      "bytes": 1147,
+      "path": "archive/社交/2026-07-20 16-04-54 歌舞伎町牛郎店应激体验_bd526206f919.md",
+      "sha256": "962832030b7198e1a0b64e12dfee641f1e57e5b7429a33fdb45651ec5baa7e45"
+    },
+    {
       "bytes": 1300,
       "path": "archive/系统/2026-08-14 06-38-48 Kelivo表情包回流Bug处理_97bbbb9dbc1c.md",
       "sha256": "c51e9b00dea19c37b33792c52f988440d0aaf61d297ed2ba68370ed568e68275"
@@ -1473,11 +1478,6 @@
       "sha256": "f161891516e72af10c508f27a0727138c04cfcbf15b039398d4627515cb4ca78"
     },
     {
-      "bytes": 1146,
-      "path": "dynamic/社交/2026-07-20 16-04-54 歌舞伎町牛郎店应激体验_bd526206f919.md",
-      "sha256": "bc3735ec71fffd83edf13c9d2e1cef937f5a0a99fb6193767fa91bb63598f657"
-    },
-    {
       "bytes": 1165,
       "path": "dynamic/社交/2026-08-07 11-56-42 朋友聚会与自我分析快乐与安全感_2fd3e20f3cd9.md",
       "sha256": "91157c70c7b4e054d68abc18a32171aa976962d72d3220e07a3d6e84908754c5"
@@ -1798,11 +1798,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-28T06:53:29+00:00",
+  "generated_at": "2026-09-28T18:53:36+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 369492
+  "total_bytes": 369493
 }
