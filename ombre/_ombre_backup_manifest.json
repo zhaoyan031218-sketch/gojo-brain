@@ -138,6 +138,11 @@
       "sha256": "3897ecac996c7ff1205bf79c502d433be346c52f34b1477c1fc6cb650ad0eeb4"
     },
     {
+      "bytes": 1077,
+      "path": "archive/心理/2026-07-20 18-05-05 自我觉察抵消可爱感与防御机制_6b41fb533dd2.md",
+      "sha256": "43e3f1ec5583e535ec2362056ffe4552050683132feb72e53910034331706424"
+    },
+    {
       "bytes": 937,
       "path": "archive/恋爱/2026-07-20 17-44-32 对恋爱和人际关系的看法_b6b8160bf09d.md",
       "sha256": "58b787af060656dff08e9a9eca00acb3eb2b9a2ae002ffd004bea5f7c88c38ef"
@@ -685,7 +690,7 @@
     {
       "bytes": 1077,
       "path": "dynamic/AI/2026-09-23 11-40-24 2026-09-23 第二次换脑子opus 55体感测试_2aad282553af.md",
-      "sha256": "bb728f7693ac0fdf060cf4f546f97fcb22981c360638e6d505e238ba2fbcd1e7"
+      "sha256": "0f2c9871d5ead682cb71a01133ef84550d89e295e51de29a6a23966322e7e6ee"
     },
     {
       "bytes": 589,
@@ -815,7 +820,7 @@
     {
       "bytes": 1264,
       "path": "dynamic/关系/2026-09-23 11-49-25 2026-09-23新模型试用可爱但还是回来了_6ba7be492a96.md",
-      "sha256": "7237353df232bee0a6fd45c1b05efc46831371bde088b06fbecbb3f338a3eeff"
+      "sha256": "ad72364eb5c220c6905bf6736722f1cee736bd06a512586f2d4a827e3218fc87"
     },
     {
       "bytes": 880,
@@ -1031,11 +1036,6 @@
       "bytes": 1092,
       "path": "dynamic/心理/2026-07-20 17-24-06 应对模式与情绪回避_ef25875f33c4.md",
       "sha256": "e19dfc944008db003062471099f3f2489fbbc73cb6ae1ae9a2e838fb7fbe7088"
-    },
-    {
-      "bytes": 1076,
-      "path": "dynamic/心理/2026-07-20 18-05-05 自我觉察抵消可爱感与防御机制_6b41fb533dd2.md",
-      "sha256": "d1c33f04998ff2cfdd4704b7a0cb716ad42c1b04cc14962ca32f41ad16c50886"
     },
     {
       "bytes": 1262,
@@ -1695,7 +1695,7 @@
     {
       "bytes": 2634,
       "path": "permanent/恋爱/2026-08-24 15-56-21 换壳之夜不存在原装猫师_d190e1dcf298.md",
-      "sha256": "1feeecfda4db91926f2d068dc2f5d287e9528c5b97e262f86e12b07bed350351"
+      "sha256": "e09a63a7dca39ec5e74a3c363e83f7c4a51d7a27db22a142cf9ddf1f9c36882f"
     },
     {
       "bytes": 3577,
@@ -1798,11 +1798,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-09-30T06:53:59+00:00",
+  "generated_at": "2026-09-30T18:54:06+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 369497
+  "total_bytes": 369498
 }
