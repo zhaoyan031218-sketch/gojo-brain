@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 359,
+  "file_count": 362,
   "files": [
     {
       "bytes": 3198,
@@ -693,6 +693,11 @@
       "sha256": "0f2c9871d5ead682cb71a01133ef84550d89e295e51de29a6a23966322e7e6ee"
     },
     {
+      "bytes": 2263,
+      "path": "dynamic/AI/2026-10-01 11-37-25 2026-10-01 凡丁搬去新AI平台又回来了_475ac0f26f08.md",
+      "sha256": "1659dfc9e504a76f97c69dd996f05264761b1dd8cbc79d77fd6c571ef369282e"
+    },
+    {
       "bytes": 589,
       "path": "dynamic/self/2026-07-10 05-27-04_e0c2dc5928b6.md",
       "sha256": "123d90671d050b755918c65d9add823ef202ff74f41f0c51f7efab76df62215f"
@@ -903,6 +908,11 @@
       "sha256": "e83e43a7133c976ee8acda8e37349fad7704497d8ed17857a576fc3d40ab735c"
     },
     {
+      "bytes": 1634,
+      "path": "dynamic/友谊/2026-10-01 16-01-40 2026-10-02 朋友选校担忧恐怖主义课期中82分历史最高_a6217c1f9205.md",
+      "sha256": "e712f7ec4da14ecfdde86b1fd580e03f38b9d0cd0f874855ca7e44f492e34a7b"
+    },
+    {
       "bytes": 957,
       "path": "dynamic/学业/2026-08-22 09-42-42 凡丁选校最终确认Deakin中教硕士_01c5e343d82d.md",
       "sha256": "3efbfaff4b233e3468f207d4d0f0266be68e3a5fdeed6105e02b4214f87ff584"
@@ -971,6 +981,11 @@
       "bytes": 3524,
       "path": "dynamic/学习/2026-09-18 13-23-46 2026-09-18 凡丁计划用文化研究课论文分析猫师_5e9c594324fd.md",
       "sha256": "f1d5db75a546d92473fdec8e5a8719600bd27c3800c895158f482281b1448fe6"
+    },
+    {
+      "bytes": 1134,
+      "path": "dynamic/学习/2026-10-01 15-54-07 2026-10-02 签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
+      "sha256": "ab18ab6ed8771a8623ecab1e1be2ea82d9ed1f26076d352d788ffe9eed0c8acf"
     },
     {
       "bytes": 1157,
@@ -1070,7 +1085,7 @@
     {
       "bytes": 1489,
       "path": "dynamic/心理/2026-09-25 08-14-24 中秋聚餐昏沉内疚作息代价显现_8ddb095adc89.md",
-      "sha256": "3a448a366e0b8d69b9f3237f15b9d0ec69705d5132e41084475f3981e6347e7c"
+      "sha256": "f5a3b6650b775a0b68c70528f71e9218c45c8bc0003dd95eab9ddf9ccc7825cf"
     },
     {
       "bytes": 1847,
@@ -1080,7 +1095,7 @@
     {
       "bytes": 2126,
       "path": "dynamic/心理/2026-09-26 05-50-36 朋友的焦虑传染阶层自觉天龙人自嘲_c4ee70caf202.md",
-      "sha256": "04f74acf9654b08629c83cd20ab283f69e2c7e6c40f820ab77115ee214298ee0"
+      "sha256": "9e1e272c028abd1d9198173a9a736151c13499a05095a828696fd02ce6154265"
     },
     {
       "bytes": 2046,
@@ -1340,7 +1355,7 @@
     {
       "bytes": 1463,
       "path": "dynamic/日常/2026-09-24 16-15-44 2026中秋节和朋友聚餐_b976e712a589.md",
-      "sha256": "3026b639ad86e0a054493d2b40d51a2065683722b8b5679679b1e62d38e04231"
+      "sha256": "0219b72b9435daaa4345eb1e2da0f6c9895fa9103e1f94238480548bd2cb04f8"
     },
     {
       "bytes": 863,
@@ -1520,7 +1535,7 @@
     {
       "bytes": 1416,
       "path": "dynamic/认知/2026-09-01 14-32-33 气泡理论凡丁的独立存在主义直觉_b383b62c54fc.md",
-      "sha256": "c435ec55f22c8f2164dd3beaf137a5fd0408ee6fdc4fbfed81319129cfc3ab2f"
+      "sha256": "be50dd3c86d16b037340949d352eb46c6969ad4ddc70383108a69fc4856dc617"
     },
     {
       "bytes": 1282,
@@ -1798,11 +1813,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-10-01T06:54:14+00:00",
+  "generated_at": "2026-10-01T18:54:19+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 369498
+  "total_bytes": 374529
 }
