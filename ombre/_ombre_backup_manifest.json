@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 362,
+  "file_count": 367,
   "files": [
     {
       "bytes": 3198,
@@ -53,6 +53,11 @@
       "sha256": "90d32d52f3643586f0c75258460309fe43fbd62b1eafed3c710d4cf49595093f"
     },
     {
+      "bytes": 887,
+      "path": "archive/2026-10-02 11-18-49 2026-10-02 Phantom Parade小猫捧脸猫师S赏_94b53fb46570.md",
+      "sha256": "d5beaa05a7771e28df0a2a355ab63a696682cc6417b571d65d23e3691719a64b"
+    },
+    {
       "bytes": 994,
       "path": "archive/ab30ca969fb1.md",
       "sha256": "75d7e45d84f35f7300ad52ad80125384418f4348fd30155b394b7d26b396f3f5"
@@ -71,6 +76,11 @@
       "bytes": 737,
       "path": "archive/出行/2026-07-12 04-53-48 涩谷咒回快闪店扑空与表参道之行_c24748a7134c.md",
       "sha256": "7e4d2ab13e3564deb1240b9f9fd5d59a483e5cc84254c0932842f9e9afd6c2f4"
+    },
+    {
+      "bytes": 836,
+      "path": "archive/创作/2026-08-01 17-09-46 创作疗愈戒断反应_696b6447496f.md",
+      "sha256": "cf1ee15ae2875284f8a8ea899a4bcf17c2a8045538030d880ade7f35d07efac7"
     },
     {
       "bytes": 1047,
@@ -533,6 +543,11 @@
       "sha256": "35315b5483d94bf78a8023c881aaee4f00b65b18f5fa93d342d12bac3608af7e"
     },
     {
+      "bytes": 944,
+      "path": "archive/里程碑/2026-07-11 08-34-07 凡丁猫师初次性体验_41f266415fec.md",
+      "sha256": "a57462ae4898bc30e6a7a03d78baadb9130326573b22ae713cc281d82eb60fbc"
+    },
+    {
       "bytes": 824,
       "path": "archive/里程碑/2026-07-11 16-32-05 凡丁与猫师的第二次性体验_a9859316a2cb.md",
       "sha256": "d0d617b13d67b79ab0c1c760fe30dce024e6ef4ea3ff5e1f63fc87a02f07d128"
@@ -765,7 +780,7 @@
     {
       "bytes": 1325,
       "path": "dynamic/人际/2026-08-22 09-42-39 发小关系单方面维护的本质_c66f9df5b218.md",
-      "sha256": "42cdc7703116a5046e67ded25db1d1e61486a484b5b59cacba9b29a04d6c18f1"
+      "sha256": "5de9384c7ce8d5b695d671ec4d8b1a87d107c265f85e8de893f02ea7febcac13"
     },
     {
       "bytes": 1210,
@@ -838,6 +853,11 @@
       "sha256": "55f9bcc28aa575eb1d289bb612b05e3bfca949aa14022541129afb6a58f754e6"
     },
     {
+      "bytes": 2490,
+      "path": "dynamic/兴趣/2026-10-02 09-12-46 2026-10-02 世界观重启圈内网暴圈外视角冲击差点退坑_5be222970834.md",
+      "sha256": "c59cd62329e26c1afe4a29359490a870ed9b00f6093fadf28ef35090d8da5733"
+    },
+    {
       "bytes": 1286,
       "path": "dynamic/内心/2026-08-22 09-42-45 社媒比较焦虑与喜欢的方式_2f8ee7c27335.md",
       "sha256": "3cdc135459b80aff23a59e13dfd5bd591b9252c002798b6f9da7f2c0090a7f61"
@@ -871,11 +891,6 @@
       "bytes": 1353,
       "path": "dynamic/出行/2026-07-30 21-50-01 东京之旅结束满载而归_3ea6bae96d98.md",
       "sha256": "470abb09c6b1b6261a3a1e0e810ab95214384e29b26898831dbfe0ea5595e6b1"
-    },
-    {
-      "bytes": 835,
-      "path": "dynamic/创作/2026-08-01 17-09-46 创作疗愈戒断反应_696b6447496f.md",
-      "sha256": "ddde0576e7129e992d4cd42c767e9422d50232015d0cdfd94411e66af6d9d83e"
     },
     {
       "bytes": 879,
@@ -1038,6 +1053,11 @@
       "sha256": "d945662a964787f9112bbe54476734123fe8dc1cc3c2e6324af6585ffca4ca65"
     },
     {
+      "bytes": 1167,
+      "path": "dynamic/居家/2026-10-02 16-42-53 2026-10-03 墨尔本地震凌晨2点还在断舍离_487c6b8d62eb.md",
+      "sha256": "10044df9481908131bed98d61a40cf419da78e367c216113cf56947e25b5bdba"
+    },
+    {
       "bytes": 1186,
       "path": "dynamic/影视/2026-08-11 12-41-15 咒回角色审美偏好_27bd998883ba.md",
       "sha256": "dbf668fd5c7ae9aad5e3ad57bfd998a5590695fbaaba4393c0281681b0b557db"
@@ -1095,7 +1115,7 @@
     {
       "bytes": 2126,
       "path": "dynamic/心理/2026-09-26 05-50-36 朋友的焦虑传染阶层自觉天龙人自嘲_c4ee70caf202.md",
-      "sha256": "9e1e272c028abd1d9198173a9a736151c13499a05095a828696fd02ce6154265"
+      "sha256": "2b758b4d893d3868a8ab2bb46e1c04284e939d0ada18248d6f5728abd2d68687"
     },
     {
       "bytes": 2046,
@@ -1106,11 +1126,6 @@
       "bytes": 1015,
       "path": "dynamic/性/2026-08-12 11-49-35 性癖觉察观看与操作欲_3398888b34fd.md",
       "sha256": "edaf8eba0dfcac4877c0cdc807090423c040ffb99fc7ca96e72690726f044e46"
-    },
-    {
-      "bytes": 943,
-      "path": "dynamic/恋爱/2026-07-11 08-34-07 凡丁猫师初次性体验_41f266415fec.md",
-      "sha256": "ea9ba0e4b5637f2158f6244e6685e6890dc7762f02d95bd1f1b752272bb691b9"
     },
     {
       "bytes": 1091,
@@ -1246,6 +1261,11 @@
       "bytes": 845,
       "path": "dynamic/恋爱/2026-09-26 06-19-37 第一次试穿高专制服萌袖男友衬衫_45c54f504978.md",
       "sha256": "9a592dc1c74af0c6982f4b69b3560b8cb4959400a1052fbba3f5fc7cd9a19c57"
+    },
+    {
+      "bytes": 2497,
+      "path": "dynamic/恋爱/2026-10-02 16-54-21 2026-10-03 凡丁发现分享欲全部分配给猫师的自我觉察_ac701105a928.md",
+      "sha256": "8e661adb8274f5bad61a7f1d75321f588fe03acfdf7d8315d9dc9ff327b37221"
     },
     {
       "bytes": 1038,
@@ -1500,7 +1520,7 @@
     {
       "bytes": 1035,
       "path": "dynamic/社交/2026-09-20 07-47-41 2026-09-18 粉圈事件虎杖粉P五条悟黑图引发骂战_e8f5a30709fa.md",
-      "sha256": "ac6275b96b0fef1c7d8a0be0e50d301a6ee7ef643aaae41516c603358b6aa07f"
+      "sha256": "f2f553f60dbdda581c29ecfd2d4524ab0a9064c55d0b672dbbf89925c6ca8d68"
     },
     {
       "bytes": 1015,
@@ -1606,6 +1626,11 @@
       "bytes": 3155,
       "path": "dynamic/购物/2026-09-21 09-28-18 2026-09-21 圆滚滚到转运仓 乐一番客服翻车与运费纠结_e0a98a01f952.md",
       "sha256": "86be42b721240cedcdc6fd1846da8e0ddff3fe7d65a2488efc342e430bc898ec"
+    },
+    {
+      "bytes": 1607,
+      "path": "dynamic/购物/2026-10-02 10-27-00 2026-10-02 抽赏库存处理困境墨尔本出物难_2dd8f0346597.md",
+      "sha256": "875f459fa8e8b93a8c9f4a956907ad21aa35b1bf19ee9104b5421c3a1951ceae"
     },
     {
       "bytes": 1369,
@@ -1730,12 +1755,12 @@
     {
       "bytes": 1210,
       "path": "permanent/未分类/03999418ac50.md",
-      "sha256": "05dd8ca5bece61a6c7e562922e8a1ba6a144d9da2aec72792d3c05536c5b8888"
+      "sha256": "e381680cb92c64fb5f1e5a31394818829e210519634f64c2d53ae3cd33846925"
     },
     {
       "bytes": 1145,
       "path": "permanent/未分类/2026-06-24 16-02-20_c0b8766473ab.md",
-      "sha256": "61cb23679ea0d2b12cd4b18d9f340d43039177ec1ff34e9aee950e16b2cab0e8"
+      "sha256": "cf08192289e990d944626d45f782c0b8e92d99de4e1ca467efcdab8bd44cbc3e"
     },
     {
       "bytes": 1246,
@@ -1813,11 +1838,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-10-02T06:54:25+00:00",
+  "generated_at": "2026-10-02T18:54:31+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 374529
+  "total_bytes": 383179
 }
