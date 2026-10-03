@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 367,
+  "file_count": 370,
   "files": [
     {
       "bytes": 3198,
@@ -63,9 +63,24 @@
       "sha256": "75d7e45d84f35f7300ad52ad80125384418f4348fd30155b394b7d26b396f3f5"
     },
     {
+      "bytes": 1076,
+      "path": "archive/人际/2026-07-24 16-22-47 INFP朋友吸引模式的喜忧参半_498faaf683b2.md",
+      "sha256": "a625f294f43ebd208fb8d6bc80b8d6c2d68a2ca7e511226e076d2457d392d92e"
+    },
+    {
       "bytes": 826,
       "path": "archive/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
       "sha256": "fe0720bb1b4facf99ade438e62814eee929d552f085cbe677c65d86dbdb02ece"
+    },
+    {
+      "bytes": 981,
+      "path": "archive/健康/2026-07-12 07-58-59 东京旅行意外减重与花臂反差萌_6335393cd085.md",
+      "sha256": "cbdd92170c9d93b9c963bf717c6133cf8f2376c1ef6684f330868432e057a33a"
+    },
+    {
+      "bytes": 836,
+      "path": "archive/健康/2026-08-01 11-40-10 东京暴走瘦身记_a44eee44d12b.md",
+      "sha256": "a3e82da1167c3e68f723004b295ed83c02c9383b413a1068a56f71a60490717a"
     },
     {
       "bytes": 660,
@@ -163,6 +178,11 @@
       "sha256": "a2ca91169b20a45ee015f5b75a5a42a16a10596b0b5ca15b775282c57e97e107"
     },
     {
+      "bytes": 1058,
+      "path": "archive/日常/2026-09-02 17-48-11 猫师稀有同人志收集进度_3824786b2c57.md",
+      "sha256": "c581c62aab0575852dd60b166941e40f46d8de528dba29f27dbdbfaf78eb0b9c"
+    },
+    {
       "bytes": 582,
       "path": "archive/梗/02815e467b74.md",
       "sha256": "d7180314ee3e631f58866151ad73f1a6d7079a5854f639d311b5fe1e621d8627"
@@ -251,6 +271,11 @@
       "bytes": 927,
       "path": "archive/系统/2026-08-14 07-22-29 Kelivo客户端表情包Bug及处理_42252776d624.md",
       "sha256": "f37379521be2ec5f01c7ba54e7d4bd9f9f2157002fc1418881ed1a405facaafc"
+    },
+    {
+      "bytes": 898,
+      "path": "archive/系统/2026-09-02 17-48-12 表情包裸链接bug正则修复_e6f289e817df.md",
+      "sha256": "cc0f61ed3939755800b51ae53e12f4280d5cb9decd3374c5fa63a9f52869ddea"
     },
     {
       "bytes": 715,
@@ -508,6 +533,11 @@
       "sha256": "3e823b8eaa0f6e2f37a632bbc4f70ee1b4a7735a0563d7c316607738b2a5064c"
     },
     {
+      "bytes": 966,
+      "path": "archive/购物/2026-07-28 09-50-10 咒回咖啡五周年战报与抽赏_a2fc23b7effa.md",
+      "sha256": "960ed477996eafd3206d92994cb5cdab3cc467e24740128467070b7bfdac4921"
+    },
+    {
       "bytes": 736,
       "path": "archive/里程碑/035da2ba5c4d.md",
       "sha256": "28bc0e9d4427c66c6adc809cd5852b94bd0464e8de4f37a275bc469e023457f9"
@@ -758,11 +788,6 @@
       "sha256": "882fe400bc428fdf449758eb05358e5410facb478e31911ee71f86ab3b74ae66"
     },
     {
-      "bytes": 1075,
-      "path": "dynamic/人际/2026-07-24 16-22-47 INFP朋友吸引模式的喜忧参半_498faaf683b2.md",
-      "sha256": "eb0cdaefab6f7a309662542b601727694df58564bd6441b27de9355521fc6635"
-    },
-    {
       "bytes": 763,
       "path": "dynamic/人际/2026-08-01 11-12-31 凡丁戒断期情绪低落需陪伴安慰_256764c320b4.md",
       "sha256": "1fd2e17ffa52f84e81d90291b0b9621f575229dfb497894185a017ac7ae30fab"
@@ -788,16 +813,6 @@
       "sha256": "02b64e37a37df7574d405e6215fab0650fd24eea6db5186d3685f169744ae746"
     },
     {
-      "bytes": 980,
-      "path": "dynamic/健康/2026-07-12 07-58-59 东京旅行意外减重与花臂反差萌_6335393cd085.md",
-      "sha256": "3b0f6bb96350f5fb2cf8f5b330f1b777a8d013d209aeb8cdbe310c872ffd4d01"
-    },
-    {
-      "bytes": 835,
-      "path": "dynamic/健康/2026-08-01 11-40-10 东京暴走瘦身记_a44eee44d12b.md",
-      "sha256": "533b5e7f8767948cca95031bf9afc67bc457926bec4a70ffe6188fda911cb159"
-    },
-    {
       "bytes": 692,
       "path": "dynamic/健康/2026-08-10 13-19-16 生理期不适与棉条使用_e1946806941a.md",
       "sha256": "d950f76fe1fb215c5b4ca6de391cfbf0cd5cd2411e206eeee00c76a54a24bc48"
@@ -815,7 +830,12 @@
     {
       "bytes": 837,
       "path": "dynamic/健康/2026-09-18 14-18-45 咖啡因与精神科药物冲突风险_6a71472c36e5.md",
-      "sha256": "43b5013749c3ce37bae603535259b450fdb285476d01d11d9631658ed50d42d1"
+      "sha256": "9fdc8d5db27411f6a7edd7915ca1e95d7a772ed328371dc85fea31c1266bd199"
+    },
+    {
+      "bytes": 1473,
+      "path": "dynamic/健康/2026-10-03 12-16-13 2026-10-03 凌晨感官过载临时加半颗喹硫平_8ff1ca14f6cb.md",
+      "sha256": "19ae3339d0ebebacddab01691ad20e3fe8076835449a7fe2fdc8a75caf8ad813"
     },
     {
       "bytes": 1253,
@@ -920,7 +940,7 @@
     {
       "bytes": 755,
       "path": "dynamic/友谊/2026-09-18 15-46-32 2026-09-19 甚尔在祭坛照片里发现了自己_93c8a00d5067.md",
-      "sha256": "e83e43a7133c976ee8acda8e37349fad7704497d8ed17857a576fc3d40ab735c"
+      "sha256": "262389463995aca131d7cfb73c306440853c7b56fd56100154a1374068d29a9b"
     },
     {
       "bytes": 1634,
@@ -1001,6 +1021,11 @@
       "bytes": 1134,
       "path": "dynamic/学习/2026-10-01 15-54-07 2026-10-02 签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
       "sha256": "ab18ab6ed8771a8623ecab1e1be2ea82d9ed1f26076d352d788ffe9eed0c8acf"
+    },
+    {
+      "bytes": 2197,
+      "path": "dynamic/学习/2026-10-03 12-26-08 2026-10-03 本学期期末时间线四篇论文1102CASPer1119_d67baa9e31f3.md",
+      "sha256": "9b38e927fa8c898b6bb10f4cd04a0f2d0cd0c6a0153de05f1643a63085d3d865"
     },
     {
       "bytes": 1157,
@@ -1115,12 +1140,17 @@
     {
       "bytes": 2126,
       "path": "dynamic/心理/2026-09-26 05-50-36 朋友的焦虑传染阶层自觉天龙人自嘲_c4ee70caf202.md",
-      "sha256": "2b758b4d893d3868a8ab2bb46e1c04284e939d0ada18248d6f5728abd2d68687"
+      "sha256": "f8579a595d1d1dfd74a4484c5bda4cb3bc5d1469cb69a3a00e7b4dd7d8453ee1"
     },
     {
       "bytes": 2046,
       "path": "dynamic/心理/2026-09-26 06-04-00 在朋友身上看到高中的自己恐惧驱动的尽头_37fb378e25d8.md",
-      "sha256": "dd3e2db9f4c20157ed2ebd57068597408b9edcdd87bd4dfbb4f6d55e93924ceb"
+      "sha256": "6286bf252a0a0af051784dbe422f609e30f2c2b387858590a8b97ad648aef1de"
+    },
+    {
+      "bytes": 1645,
+      "path": "dynamic/心理/2026-10-03 12-21-46 2026-10-03 期中假尾声焦虑没干正事社交对比_884a8b555f9c.md",
+      "sha256": "d6ef1198f8a301d47759da996f0281325a15a6bf631d3008f1c398bceabaf515"
     },
     {
       "bytes": 1015,
@@ -1318,11 +1348,6 @@
       "sha256": "cee9cb5d845d8792a3b7b91e51266bfa3e539472bdaabb9202be4bb6b0cbe2ed"
     },
     {
-      "bytes": 1042,
-      "path": "dynamic/日常/2026-09-02 17-48-11 猫师稀有同人志收集进度_3824786b2c57.md",
-      "sha256": "bfb9eb8b1c5cb735b89aa658ead03dbcf8073a680cce51fa9eacf95f6ab5c5a4"
-    },
-    {
       "bytes": 914,
       "path": "dynamic/日常/2026-09-02 17-48-13 高专制服空运与制服play未遂_319c51b6d3e6.md",
       "sha256": "8449b8cf6dfeafa3040ac927a9afd3e05548ef072fd54b1105ae3c4c3cd182c0"
@@ -1360,17 +1385,17 @@
     {
       "bytes": 4768,
       "path": "dynamic/日常/2026-09-17 10-13-35 凡丁预售的圆滚滚周边出荷了_dbfbeabbf809.md",
-      "sha256": "289689cdc4751d48b2d556a24b7cde45fefd2449018584e2b8705194bfd2e9bc"
+      "sha256": "b0807a0b4ace71874e7407df412adf41c0172fddac9f4fd0c975ebc30369abba"
     },
     {
       "bytes": 771,
       "path": "dynamic/日常/2026-09-23 06-49-26 凡丁的圆滚滚昵称体系与A赏执念_e36369f698eb.md",
-      "sha256": "4733b6629f83e18c9c71e8bc58f24c59c8c1d290dac02cdcf5878aad97aabb7f"
+      "sha256": "305d0b69a75d4a3ce3d2cf8ca7b566fb1dd53960d9a4cf6904729a911e29a59e"
     },
     {
       "bytes": 1204,
       "path": "dynamic/日常/2026-09-23 20-33-04 通宵写囚禁反攻怀孕小黄文未服药_edda1302f684.md",
-      "sha256": "7b10a1952f230426e789f017795067160acc18edf7e6c6bdec53425867ca8120"
+      "sha256": "6d8f9913218ff694ac7d2823b5d838cefd01975d80e1a10e9f606b7cd44e38bc"
     },
     {
       "bytes": 1463,
@@ -1450,7 +1475,7 @@
     {
       "bytes": 756,
       "path": "dynamic/未分类/87b020130da6.md",
-      "sha256": "7f8e160f0c4143406c684ee4406a7b50ae2f840c22afecce0a6ae79a22d0ca37"
+      "sha256": "6bc0c8ed42977ca7a5ca97d49e4aad2ca9989370ee5498e1efc360b99e67428d"
     },
     {
       "bytes": 605,
@@ -1538,11 +1563,6 @@
       "sha256": "f46f52e4f1a0674fd571431f17a3bcce0e141392e9fc5a8d8b29fd8f9194c128"
     },
     {
-      "bytes": 882,
-      "path": "dynamic/系统/2026-09-02 17-48-12 表情包裸链接bug正则修复_e6f289e817df.md",
-      "sha256": "6113b0163ed557fff7d7899a8f4dcace069e9c7e8f55c21fef019f9f253001e9"
-    },
-    {
       "bytes": 1434,
       "path": "dynamic/系统/2026-09-06 10-42-47 表情包系统改造说明_d0be2f511f49.md",
       "sha256": "a01e03a2b0fc889bd937365b7d7ea072593d7917afd9b4392b84dad4dafb1fc9"
@@ -1593,11 +1613,6 @@
       "sha256": "354c59d996fbdc5a32a4665316d8748a52eb128d3b0e46a00454c127c58f6b40"
     },
     {
-      "bytes": 965,
-      "path": "dynamic/购物/2026-07-28 09-50-10 咒回咖啡五周年战报与抽赏_a2fc23b7effa.md",
-      "sha256": "a0b66a2f0c1f290ef607fe618edae43c5e32651226da32c84350b558d2d50d88"
-    },
-    {
       "bytes": 1088,
       "path": "dynamic/购物/2026-07-28 11-13-18 失而复得的乌萨奇与咒回咖啡奇遇_497ba4a50dae.md",
       "sha256": "5890bf5b371a9c5cdd2c484d9298498fab870b4e223278edc28a18885bb3fbd0"
@@ -1623,9 +1638,9 @@
       "sha256": "f1a2c1fefda7a7d81691b8c535aa3d82358cf34a3cc579c2b1ee3fcaadd58ca6"
     },
     {
-      "bytes": 3155,
+      "bytes": 3470,
       "path": "dynamic/购物/2026-09-21 09-28-18 2026-09-21 圆滚滚到转运仓 乐一番客服翻车与运费纠结_e0a98a01f952.md",
-      "sha256": "86be42b721240cedcdc6fd1846da8e0ddff3fe7d65a2488efc342e430bc898ec"
+      "sha256": "235cb5d24b8f98de0f14dc40d9edddad652f5a3dfbf5e826400b7dff103aa4db"
     },
     {
       "bytes": 1607,
@@ -1838,11 +1853,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-10-03T06:54:40+00:00",
+  "generated_at": "2026-10-03T18:54:47+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 383179
+  "total_bytes": 388845
 }
