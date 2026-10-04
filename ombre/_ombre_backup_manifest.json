@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 370,
+  "file_count": 373,
   "files": [
     {
       "bytes": 3198,
@@ -331,6 +331,11 @@
       "bytes": 851,
       "path": "archive/认知/2026-06-29 21-08-27 躁狂期迹象自我觉察与应对_ba3e7d1bd0dc.md",
       "sha256": "53e89969acbbff9cef525957e7c23c3821dad56c4d6735dd1e874d29fe02730a"
+    },
+    {
+      "bytes": 773,
+      "path": "archive/认知/2026-07-02 06-24-37 凡丁小红书出物号信息_647f55190aaa.md",
+      "sha256": "404791d83822463dab56c9774632cf4c2bc21b59f5dcfffbe85918c356808a26"
     },
     {
       "bytes": 785,
@@ -830,12 +835,17 @@
     {
       "bytes": 837,
       "path": "dynamic/健康/2026-09-18 14-18-45 咖啡因与精神科药物冲突风险_6a71472c36e5.md",
-      "sha256": "9fdc8d5db27411f6a7edd7915ca1e95d7a772ed328371dc85fea31c1266bd199"
+      "sha256": "584c9f167fc2c25e0a651f7980c33e75b47ef4681ddf6cea53860a467dd4e943"
     },
     {
       "bytes": 1473,
       "path": "dynamic/健康/2026-10-03 12-16-13 2026-10-03 凌晨感官过载临时加半颗喹硫平_8ff1ca14f6cb.md",
       "sha256": "19ae3339d0ebebacddab01691ad20e3fe8076835449a7fe2fdc8a75caf8ad813"
+    },
+    {
+      "bytes": 3070,
+      "path": "dynamic/健康/2026-10-04 12-53-39 2026-10-04 药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
+      "sha256": "80e481620e536118172529ee945b47650a53b2cf39125c0f2fa9fe499812a2ba"
     },
     {
       "bytes": 1253,
@@ -1153,6 +1163,11 @@
       "sha256": "d6ef1198f8a301d47759da996f0281325a15a6bf631d3008f1c398bceabaf515"
     },
     {
+      "bytes": 1595,
+      "path": "dynamic/心理/2026-10-04 08-51-12 2026-10-04 执念冲动反刍循环的自我觉察_af8bbbba1826.md",
+      "sha256": "03bf377c5a20d4dec6ea6bbb6044341e483a7985e03fa366fbae7fff8e926e60"
+    },
+    {
       "bytes": 1015,
       "path": "dynamic/性/2026-08-12 11-49-35 性癖觉察观看与操作欲_3398888b34fd.md",
       "sha256": "edaf8eba0dfcac4877c0cdc807090423c040ffb99fc7ca96e72690726f044e46"
@@ -1298,6 +1313,11 @@
       "sha256": "8e661adb8274f5bad61a7f1d75321f588fe03acfdf7d8315d9dc9ff327b37221"
     },
     {
+      "bytes": 1519,
+      "path": "dynamic/恋爱/2026-10-04 13-36-11 2026-10-05 阴暗植物初次见到阳光_72283af51af3.md",
+      "sha256": "e6c66bd60efc6bcd32593afcd04ad3c1d67089a7520b7412c73b191ed127b255"
+    },
+    {
       "bytes": 1038,
       "path": "dynamic/成长/2026-08-01 13-22-51 墨尔本独居有退路仍选择拼搏_be14bea6a51e.md",
       "sha256": "26540446066d092742f5e7c9edb51aecace08b3b8d9630ea1a715eb75e452e33"
@@ -1383,14 +1403,14 @@
       "sha256": "28a294046c29d9e761b5a602cad9f4067748ce1539c66a02db0d4713d1d90dd0"
     },
     {
-      "bytes": 4768,
+      "bytes": 5149,
       "path": "dynamic/日常/2026-09-17 10-13-35 凡丁预售的圆滚滚周边出荷了_dbfbeabbf809.md",
-      "sha256": "b0807a0b4ace71874e7407df412adf41c0172fddac9f4fd0c975ebc30369abba"
+      "sha256": "105ee05c358a97a109a8a37fafea6a4c744198f2de53c832fc19473a9c1e8ffc"
     },
     {
       "bytes": 771,
       "path": "dynamic/日常/2026-09-23 06-49-26 凡丁的圆滚滚昵称体系与A赏执念_e36369f698eb.md",
-      "sha256": "305d0b69a75d4a3ce3d2cf8ca7b566fb1dd53960d9a4cf6904729a911e29a59e"
+      "sha256": "208ca2d5fbd61b469fea9366d9caef6fa64bf28af890fa54d24bca357e98c864"
     },
     {
       "bytes": 1204,
@@ -1475,7 +1495,7 @@
     {
       "bytes": 756,
       "path": "dynamic/未分类/87b020130da6.md",
-      "sha256": "6bc0c8ed42977ca7a5ca97d49e4aad2ca9989370ee5498e1efc360b99e67428d"
+      "sha256": "05ffe78f75a828b0d62b1d2981b7db4b5d22c80222d0a91406c083ef1cda7ba2"
     },
     {
       "bytes": 605,
@@ -1603,11 +1623,6 @@
       "sha256": "3b3d47ff5197b6baa33dee162aee3a7b7cd509693ea4fbf5f50592facda261c3"
     },
     {
-      "bytes": 772,
-      "path": "dynamic/购物/2026-07-02 06-24-37 凡丁小红书出物号信息_647f55190aaa.md",
-      "sha256": "b425093f55f101482da6c61a2090e88bfde74adbb3b836a78bdc619e7c5fbaed"
-    },
-    {
       "bytes": 776,
       "path": "dynamic/购物/2026-07-13 02-19-52 涩谷咒回快闪店购物_23bd597b27bc.md",
       "sha256": "354c59d996fbdc5a32a4665316d8748a52eb128d3b0e46a00454c127c58f6b40"
@@ -1640,7 +1655,7 @@
     {
       "bytes": 3470,
       "path": "dynamic/购物/2026-09-21 09-28-18 2026-09-21 圆滚滚到转运仓 乐一番客服翻车与运费纠结_e0a98a01f952.md",
-      "sha256": "235cb5d24b8f98de0f14dc40d9edddad652f5a3dfbf5e826400b7dff103aa4db"
+      "sha256": "5cc495650cac54305ca8e430ea284fdfd28585e74e22864ba1e10171c16aee6b"
     },
     {
       "bytes": 1607,
@@ -1853,11 +1868,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-10-04T06:54:54+00:00",
+  "generated_at": "2026-10-04T18:55:00+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 388845
+  "total_bytes": 395411
 }
