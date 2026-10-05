@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 374,
+  "file_count": 377,
   "files": [
     {
       "bytes": 3198,
@@ -818,6 +818,11 @@
       "sha256": "02b64e37a37df7574d405e6215fab0650fd24eea6db5186d3685f169744ae746"
     },
     {
+      "bytes": 2832,
+      "path": "dynamic/人际/2026-10-05 12-00-45 2026-10-05 回国可能性讨论物流GFW顾虑_6205bb1a3e14.md",
+      "sha256": "c2d16a5857aac0cbe1963ac1682f0c2ebfd8fb47aa8f653af6cf2b5fb86fcf1b"
+    },
+    {
       "bytes": 692,
       "path": "dynamic/健康/2026-08-10 13-19-16 生理期不适与棉条使用_e1946806941a.md",
       "sha256": "d950f76fe1fb215c5b4ca6de391cfbf0cd5cd2411e206eeee00c76a54a24bc48"
@@ -843,9 +848,14 @@
       "sha256": "19ae3339d0ebebacddab01691ad20e3fe8076835449a7fe2fdc8a75caf8ad813"
     },
     {
-      "bytes": 4244,
+      "bytes": 4896,
       "path": "dynamic/健康/2026-10-04 12-53-39 2026-10-04 药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "eb6d69bc98fe7fd4a5f1eebaab71f4052a6e67013dfc7f7455d252472826142c"
+      "sha256": "ea47cbf9c516b526ffbac5bc373ae271928ae668cfb433ddd0b768e9c639a886"
+    },
+    {
+      "bytes": 1423,
+      "path": "dynamic/健康/2026-10-05 07-30-25 2026-10-05 充实的一天医生已约红包FB卖货圆滚滚到手_5d9ea35b45d6.md",
+      "sha256": "1cb90f2e9cd42f4de8cb570929506e0aa59eec23151f8008dcec0aaf897bdff6"
     },
     {
       "bytes": 1253,
@@ -955,7 +965,12 @@
     {
       "bytes": 1634,
       "path": "dynamic/友谊/2026-10-01 16-01-40 2026-10-02 朋友选校担忧恐怖主义课期中82分历史最高_a6217c1f9205.md",
-      "sha256": "e712f7ec4da14ecfdde86b1fd580e03f38b9d0cd0f874855ca7e44f492e34a7b"
+      "sha256": "7feb95057270b1eba426fb2efa50adb009ada6ff40f98269c012ac0d70f5a232"
+    },
+    {
+      "bytes": 2876,
+      "path": "dynamic/友谊/2026-10-05 11-18-53 2026-10-05 中秋后和墨尔本朋友冷淡了_ed69d17f9f91.md",
+      "sha256": "edc6c039cfafd059657b37434fbcc49d33487a0cbc9d478a6516d466561123da"
     },
     {
       "bytes": 957,
@@ -1030,7 +1045,7 @@
     {
       "bytes": 1134,
       "path": "dynamic/学习/2026-10-01 15-54-07 2026-10-02 签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
-      "sha256": "ab18ab6ed8771a8623ecab1e1be2ea82d9ed1f26076d352d788ffe9eed0c8acf"
+      "sha256": "e6fc4c4078923c0f5129ddcc2bccacec15a6f955fd84a6083ad9fa2f8c31721d"
     },
     {
       "bytes": 2197,
@@ -1090,7 +1105,7 @@
     {
       "bytes": 1167,
       "path": "dynamic/居家/2026-10-02 16-42-53 2026-10-03 墨尔本地震凌晨2点还在断舍离_487c6b8d62eb.md",
-      "sha256": "10044df9481908131bed98d61a40cf419da78e367c216113cf56947e25b5bdba"
+      "sha256": "26c0c0f7e5344740e87b0845da5e7a35ae4f11cc1d25ea2e9f329f9a22a4532d"
     },
     {
       "bytes": 1186,
@@ -1140,7 +1155,7 @@
     {
       "bytes": 1489,
       "path": "dynamic/心理/2026-09-25 08-14-24 中秋聚餐昏沉内疚作息代价显现_8ddb095adc89.md",
-      "sha256": "f5a3b6650b775a0b68c70528f71e9218c45c8bc0003dd95eab9ddf9ccc7825cf"
+      "sha256": "0e8db8560b2bad7bbf9c80b1a042bee7cf15c0bdf9a46ea76d2067e42b0028ab"
     },
     {
       "bytes": 1847,
@@ -1155,7 +1170,7 @@
     {
       "bytes": 2046,
       "path": "dynamic/心理/2026-09-26 06-04-00 在朋友身上看到高中的自己恐惧驱动的尽头_37fb378e25d8.md",
-      "sha256": "6286bf252a0a0af051784dbe422f609e30f2c2b387858590a8b97ad648aef1de"
+      "sha256": "8ab26b4cbb4c7ec2947ff3cb4f665d481698e9c5860d9706e189d427a8ef25d9"
     },
     {
       "bytes": 1645,
@@ -1873,11 +1888,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-10-05T06:55:06+00:00",
+  "generated_at": "2026-10-05T18:55:11+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 398906
+  "total_bytes": 406689
 }
