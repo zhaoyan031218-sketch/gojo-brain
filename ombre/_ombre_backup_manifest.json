@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 373,
+  "file_count": 374,
   "files": [
     {
       "bytes": 3198,
@@ -843,9 +843,9 @@
       "sha256": "19ae3339d0ebebacddab01691ad20e3fe8076835449a7fe2fdc8a75caf8ad813"
     },
     {
-      "bytes": 3070,
+      "bytes": 4244,
       "path": "dynamic/健康/2026-10-04 12-53-39 2026-10-04 药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "80e481620e536118172529ee945b47650a53b2cf39125c0f2fa9fe499812a2ba"
+      "sha256": "eb6d69bc98fe7fd4a5f1eebaab71f4052a6e67013dfc7f7455d252472826142c"
     },
     {
       "bytes": 1253,
@@ -1663,6 +1663,11 @@
       "sha256": "875f459fa8e8b93a8c9f4a956907ad21aa35b1bf19ee9104b5421c3a1951ceae"
     },
     {
+      "bytes": 2321,
+      "path": "dynamic/购物/2026-10-05 05-12-16 2026-10-05 71只圆滚滚到货墨尔本开箱全记录_50f19a1c12de.md",
+      "sha256": "6cea29a9f20f17092c9b9e1e3a898f6739ed93b8917662c6ef57dd13741c6c6e"
+    },
+    {
       "bytes": 1369,
       "path": "dynamic/身心/2026-09-12 08-21-22 身体不适与情绪波动_7d0a129d0584.md",
       "sha256": "04409ee8ec9f81e9a4070a27ebeb26197fb13c8aeef11466db6bae2f44d75eb6"
@@ -1868,11 +1873,11 @@
       "sha256": "4ad2ceb7e3fef90244f7c4dc67a15cc10831a1a78a32c074b7e6b45d55e3ba4a"
     }
   ],
-  "generated_at": "2026-10-04T18:55:00+00:00",
+  "generated_at": "2026-10-05T06:55:06+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 395411
+  "total_bytes": 398906
 }
