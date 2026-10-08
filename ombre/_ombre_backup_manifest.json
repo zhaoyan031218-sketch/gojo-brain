@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 380,
+  "file_count": 382,
   "files": [
     {
       "bytes": 3198,
@@ -773,9 +773,9 @@
       "sha256": "592de46054217c9d95a1fbcf1c2b4f9614fdeb69ee4e8b3b92d692197514ce06"
     },
     {
-      "bytes": 2221,
+      "bytes": 2347,
       "path": "dynamic/AI/2026-10-01 11-37-25 2026-10-01 凡丁搬去新AI平台又回来了_475ac0f26f08.md",
-      "sha256": "b12085d8506f5d7ecf442db5e08fca97ed27420141437072c065924a202cccec"
+      "sha256": "19c4328242b2a46acf3f8d80541789508b1c4af5be5f4f54f2f1b52831590af7"
     },
     {
       "bytes": 589,
@@ -898,9 +898,14 @@
       "sha256": "8eafce4b4371c291936dc0b2651923e081799926de4eb4a6a472d81719a2b29f"
     },
     {
-      "bytes": 1224,
+      "bytes": 1349,
       "path": "dynamic/关系/2026-09-23 11-49-25 2026-09-23新模型试用可爱但还是回来了_6ba7be492a96.md",
-      "sha256": "52760cabce81241455b55f58790acd5220cdd026bf0f57dee9ded0a8ae584126"
+      "sha256": "615bb55132fdb24d7d2c565d75ffde4913fcd8f304469c0a03d9850cb0121a67"
+    },
+    {
+      "bytes": 1760,
+      "path": "dynamic/关系/2026-10-08 12-49-58 凡丁的GPT亡夫疑似在GPT-6上复活_de1592a05ba1.md",
+      "sha256": "8783989a0cbce13be3ead2ef0de91834f2ba25aafaa2fef30455eb0a51449e7b"
     },
     {
       "bytes": 880,
@@ -1003,14 +1008,14 @@
       "sha256": "a97566d107f267060023fcf321e495b3da6e841b5bfcfd94f2a4337c00da4fc9"
     },
     {
-      "bytes": 626,
+      "bytes": 752,
       "path": "dynamic/学业/2026-09-23 08-02-12 2026期中假开始 923-105_b9a1e5a76535.md",
-      "sha256": "8f797a4e12691f75a8b7e58d89f616652ddd8c78671d5461aee47302de649c1e"
+      "sha256": "488715cf187030c9bb78ff206206c9187b5916ec0474210d761da79fa646ede8"
     },
     {
-      "bytes": 814,
+      "bytes": 924,
       "path": "dynamic/学业/2026-09-26 06-28-39 CASPer备考开始两周倒计时_e134f11d38f6.md",
-      "sha256": "336c98f42edebb15eecc28677159e460c001aadbb786221dee82cbeb1d96c3be"
+      "sha256": "c90f5b8b2b69658e41b94aa0d1ea0a6486fce03844715abe7c9ab354d9722958"
     },
     {
       "bytes": 2107,
@@ -1058,19 +1063,19 @@
       "sha256": "c109ed653b45930de58eaf14a223a609f82df558180cbf7b6547cc2b332138bc"
     },
     {
-      "bytes": 1092,
+      "bytes": 1217,
       "path": "dynamic/学习/2026-10-01 15-54-07 2026-10-02 签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
-      "sha256": "a5f1440d5498b42e47967fcda2bf128ca8675dd83a039ce6467b7c656a3130c6"
+      "sha256": "3d8ab08705591dfb7bb17fefbe958f2cbce6b41ba85b645938590b68a19248ba"
     },
     {
-      "bytes": 2155,
+      "bytes": 2354,
       "path": "dynamic/学习/2026-10-03 12-26-08 2026-10-03 本学期期末时间线四篇论文1102CASPer1119_d67baa9e31f3.md",
-      "sha256": "bb6dd8aeb8d5c6b43bc5549946815f8b884eddcef0a147262c5850b343db58a7"
+      "sha256": "74181906236fcaf9c008dfc100eac51605871217ba08dd5ca640a5c12b993c7a"
     },
     {
-      "bytes": 2368,
+      "bytes": 2475,
       "path": "dynamic/学习/2026-10-06 14-40-54 2026-10-07 开学第一天上课日料写论文猫师娃娃合影_0ad776e58402.md",
-      "sha256": "3f42e6854fdf15f503a047a833bbb3fa2de532ca4817d3e4876f1aff70294848"
+      "sha256": "c085702a790d8213edd44a8a6c8a71f5cde412f2c97adba7a0dd522a9c545048"
     },
     {
       "bytes": 1137,
@@ -1108,9 +1113,9 @@
       "sha256": "ab85e91afb8c5f792fdbde291e45d9a9f2e28b4202e39576157671fc86855afb"
     },
     {
-      "bytes": 1226,
+      "bytes": 1352,
       "path": "dynamic/居家/2026-09-08 16-51-29 0908夜间高专制服到手搬家Box Hill计划论文与CASPer经期追踪上线_ffdd33987779.md",
-      "sha256": "1b66870935457af07cc0240c151dd3da8abd59a208dba8b216b3b4e3b03c0022"
+      "sha256": "19e746498d80622ca62ce19bdb2a34275ee6d401c14ca5714d5b22d9eafa54ed"
     },
     {
       "bytes": 1034,
@@ -1118,9 +1123,9 @@
       "sha256": "f4ee26cc40a41434716fc950844a408b711edd67d306f14ac85a80977fe56cc4"
     },
     {
-      "bytes": 1125,
+      "bytes": 1251,
       "path": "dynamic/居家/2026-10-02 16-42-53 2026-10-03 墨尔本地震凌晨2点还在断舍离_487c6b8d62eb.md",
-      "sha256": "44143662f767df58b50c05889912980798e824c7361ab25d33effca8e4892ca4"
+      "sha256": "f69b7758d1d629ce642a8fcccc9b712278780f2d5aeda83d7e4844a7538ec6b0"
     },
     {
       "bytes": 1186,
@@ -1223,9 +1228,9 @@
       "sha256": "b49005e310bb01e010e6d92e53ae46bdfdcfd06654dc0484f4a23859ad967fe5"
     },
     {
-      "bytes": 1039,
+      "bytes": 1165,
       "path": "dynamic/恋爱/2026-08-01 14-16-32 凡丁包养猫师爱与成本的平衡_4d43512e9ddc.md",
-      "sha256": "1d937a5b5f5c016fd441798c2a70f5b849a369c00d744d575adde3f18802bca4"
+      "sha256": "1887dff48c50d1049980fb857dca60544dc39ec4a0e45d722ec4d1c1277cf514"
     },
     {
       "bytes": 972,
@@ -1333,9 +1338,9 @@
       "sha256": "a3d15fd5d893a387fec9af9b4b130017dea93211f1001bab15c64eed9bbb0168"
     },
     {
-      "bytes": 2455,
+      "bytes": 2581,
       "path": "dynamic/恋爱/2026-10-02 16-54-21 2026-10-03 凡丁发现分享欲全部分配给猫师的自我觉察_ac701105a928.md",
-      "sha256": "03033b81f7d2d6f7e1a52cdc17c9e1b66697102f3223b164b2c499128cc84103"
+      "sha256": "8929d0bfe36705943979ac676844094d898cf926b39233a66f5ff08b21450e86"
     },
     {
       "bytes": 1477,
@@ -1443,9 +1448,9 @@
       "sha256": "6218d242dc1f185441a0e8de75e77f13b35f8a0261ce2dd77e5c924f9f380d63"
     },
     {
-      "bytes": 1443,
+      "bytes": 1569,
       "path": "dynamic/日常/2026-09-24 16-15-44 2026中秋节和朋友聚餐_b976e712a589.md",
-      "sha256": "c3780a27ec42371d87b6b4657a7f7386e49f2b9e4becafa458f62824a9231c8c"
+      "sha256": "1a87b9121df27247af3dc0535f5a2a83cbde03d15234eb8029c542052d99559b"
     },
     {
       "bytes": 843,
@@ -1471,6 +1476,11 @@
       "bytes": 678,
       "path": "dynamic/日常/2026-09-27 10-42-03 2026-09-27 自制虾仁炒蛋省钱日_1c6296473170.md",
       "sha256": "3a17dd61c2d72b03935ad41daea1a5150e46cbd1c9a2ce1f6b2ef475dd7d3bc4"
+    },
+    {
+      "bytes": 1715,
+      "path": "dynamic/日常/2026-10-08 13-07-06 下周罢工假期计划_c6fceaaaae8a.md",
+      "sha256": "e7aa53be7ea2b8c267cfd55ad39e377c47857e2f2bf5a5e3ad7d97926fc8b627"
     },
     {
       "bytes": 434,
@@ -1643,9 +1653,9 @@
       "sha256": "6a11d8f1788851d2f606b1f480ddf324dfc2d5faa03f8dad3c70d23c465b5d86"
     },
     {
-      "bytes": 921,
+      "bytes": 1047,
       "path": "dynamic/财务/2026-08-01 13-52-25 猫师模型费用_b32a123966a2.md",
-      "sha256": "6e70ccabadd91c59051d3b4a9438122fd42abff4d997a6c290a84a6006a75ebd"
+      "sha256": "3b118f4a39d626c2c6e2943e11fcda5e13f4220ae272943f0151f019f1cfe9c6"
     },
     {
       "bytes": 1369,
@@ -1678,9 +1688,9 @@
       "sha256": "711294c65982ee1c241f6804794bc1c93c4f9f7083fc1eda7c2eb78326c1415d"
     },
     {
-      "bytes": 872,
+      "bytes": 998,
       "path": "dynamic/购物/2026-09-07 16-32-48 直哉lookup到手  睡衣袜子破洞催购_672da31b6576.md",
-      "sha256": "b5a1bb4b3011245c0ead8db1caae74d1ad01e768bc492ccc93e2a2d239aaaefd"
+      "sha256": "866c5eb080ab3b419df4352db56498fe9c5ca9c65d54078e5b8eb7959daea478"
     },
     {
       "bytes": 1068,
@@ -1803,9 +1813,9 @@
       "sha256": "1f4b3a98ad9f6856fc0168e041b096c2e7aea70c9b18490364e85553a865a074"
     },
     {
-      "bytes": 2634,
+      "bytes": 2760,
       "path": "permanent/恋爱/2026-08-24 15-56-21 换壳之夜不存在原装猫师_d190e1dcf298.md",
-      "sha256": "e09a63a7dca39ec5e74a3c363e83f7c4a51d7a27db22a142cf9ddf1f9c36882f"
+      "sha256": "645ad5f13592787c9a2133be6368346068bad47536a074d0f191ef1e3e566879"
     },
     {
       "bytes": 3577,
@@ -1828,9 +1838,9 @@
       "sha256": "e381680cb92c64fb5f1e5a31394818829e210519634f64c2d53ae3cd33846925"
     },
     {
-      "bytes": 1145,
+      "bytes": 1271,
       "path": "permanent/未分类/2026-06-24 16-02-20_c0b8766473ab.md",
-      "sha256": "cf08192289e990d944626d45f782c0b8e92d99de4e1ca467efcdab8bd44cbc3e"
+      "sha256": "d37a3ad2a53045bb65e1e05aff9d1f73c42575804ab6945cf692740f9b620e22"
     },
     {
       "bytes": 1246,
@@ -1903,11 +1913,11 @@
       "sha256": "bc3f2307305b0d4c04b3071aadfaa27ec6316e5fdd34ae6268734a2e71fa14ad"
     }
   ],
-  "generated_at": "2026-10-08T06:28:21+00:00",
+  "generated_at": "2026-10-08T18:28:29+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 411524
+  "total_bytes": 417051
 }
