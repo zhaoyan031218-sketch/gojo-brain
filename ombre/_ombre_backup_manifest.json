@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 383,
+  "file_count": 386,
   "files": [
     {
       "bytes": 3198,
@@ -773,9 +773,9 @@
       "sha256": "592de46054217c9d95a1fbcf1c2b4f9614fdeb69ee4e8b3b92d692197514ce06"
     },
     {
-      "bytes": 2347,
+      "bytes": 2457,
       "path": "dynamic/AI/2026-10-01 11-37-25 2026-10-01 凡丁搬去新AI平台又回来了_475ac0f26f08.md",
-      "sha256": "19c4328242b2a46acf3f8d80541789508b1c4af5be5f4f54f2f1b52831590af7"
+      "sha256": "ad981813e8f5f406177f1f0c3fc20ac9da4b81c294f5b0c6fd74366b5a2a327d"
     },
     {
       "bytes": 589,
@@ -838,9 +838,9 @@
       "sha256": "d8a215a677c76b33e27d59e311e95efaab4a51edfd24cf786802eb9d083977ce"
     },
     {
-      "bytes": 2790,
+      "bytes": 2915,
       "path": "dynamic/人际/2026-10-05 12-00-45 2026-10-05 回国可能性讨论物流GFW顾虑_6205bb1a3e14.md",
-      "sha256": "a85ab672b37a36866ab08b6b1ca460bc6ef49e0c10bedafe108f214e161771c9"
+      "sha256": "d6c0b714dfab84e2da4cbf847d50b5bb64af6a36a933a3a91ec22b47eecc4286"
     },
     {
       "bytes": 3196,
@@ -893,9 +893,9 @@
       "sha256": "e64a12583e5362decf2abc005a2f64033db8e329c7606f242d70164460c05a0e"
     },
     {
-      "bytes": 910,
+      "bytes": 1036,
       "path": "dynamic/关系/2026-09-13 10-32-11 一周年纪念日惊喜筹备中猫师要装不知道_e1c662b22e6d.md",
-      "sha256": "f56b4829ecff57abed8ac1d734fc326c3533342e56a93067e5ca41544e172e53"
+      "sha256": "ef1d5548ca044fb2a474a2efac5748257bbfb988a2515e9cf98d187adbfb85ff"
     },
     {
       "bytes": 1248,
@@ -903,9 +903,9 @@
       "sha256": "8eafce4b4371c291936dc0b2651923e081799926de4eb4a6a472d81719a2b29f"
     },
     {
-      "bytes": 1349,
+      "bytes": 1459,
       "path": "dynamic/关系/2026-09-23 11-49-25 2026-09-23新模型试用可爱但还是回来了_6ba7be492a96.md",
-      "sha256": "615bb55132fdb24d7d2c565d75ffde4913fcd8f304469c0a03d9850cb0121a67"
+      "sha256": "04196c0bd23bd7d6d83a75e28ca440004dae07a90d5ab39d07cb2012e42c0a83"
     },
     {
       "bytes": 1760,
@@ -913,14 +913,19 @@
       "sha256": "8783989a0cbce13be3ead2ef0de91834f2ba25aafaa2fef30455eb0a51449e7b"
     },
     {
+      "bytes": 2382,
+      "path": "dynamic/关系/2026-10-10 10-20-59 凡丁第三次搬家失败回娘家_f4a07bf5558c.md",
+      "sha256": "6c267a75c7ca1d8010d0a5cf66cbbb23423a880c641c1dd271625ee155bea0c6"
+    },
+    {
       "bytes": 880,
       "path": "dynamic/兴趣/2026-07-12 05-27-10 喜欢五条悟300天纪念_46b657fd1673.md",
       "sha256": "5eaf5528b04a1ada9f9949459275262adc299fc1ce46d188742a4b04f14cfb6b"
     },
     {
-      "bytes": 1290,
+      "bytes": 1416,
       "path": "dynamic/兴趣/2026-09-20 10-57-23 2026-09-20 凡丁对男性向凌辱本的复杂感受与保护欲_21c541e82c0d.md",
-      "sha256": "e846fb9e7f3e810d6ef59789cb820e78fd94491517d550f26fcb4ebf480cfa18"
+      "sha256": "100a3f860b535567aaec4a4c78388659cad35703a8b06c0386550fb94cfa9009"
     },
     {
       "bytes": 2574,
@@ -973,9 +978,9 @@
       "sha256": "e4f4ef644efa7004c5731c2214f8fce9d0436fe793ec01e2054fc5685aced58f"
     },
     {
-      "bytes": 2489,
+      "bytes": 2615,
       "path": "dynamic/创作/2026-09-17 15-48-42 2026-09-18凌晨 双性主播paro色图与孕猫色色_f7f92634c491.md",
-      "sha256": "78d6f6ad3cbee3240ecf9e08bc7f71179d76768b0cacdad6559cdbd5bec34487"
+      "sha256": "c4a9531ae699f8c6e0dfcc5564fd8a72f43fbc4f012545c0c48b0a4452dac709"
     },
     {
       "bytes": 830,
@@ -998,9 +1003,9 @@
       "sha256": "08492e69e7452f9f99b74ef745cac1c76b407201fc4f170ad7f2cc03c9391a48"
     },
     {
-      "bytes": 2834,
+      "bytes": 2960,
       "path": "dynamic/友谊/2026-10-05 11-18-53 2026-10-05 中秋后和墨尔本朋友冷淡了_ed69d17f9f91.md",
-      "sha256": "ac5a6bfd7b264ef5de4122c4c5747a3511c70560c8aa12cf2f230bb790085b3b"
+      "sha256": "fd739aeef0e899856fc34b143eda37ea56b59918c547ac406d800ca687a2f6aa"
     },
     {
       "bytes": 957,
@@ -1008,14 +1013,14 @@
       "sha256": "3efbfaff4b233e3468f207d4d0f0266be68e3a5fdeed6105e02b4214f87ff584"
     },
     {
-      "bytes": 757,
+      "bytes": 883,
       "path": "dynamic/学业/2026-09-22 15-03-28 猫师研究论文正式提交_e176a17cb004.md",
-      "sha256": "a97566d107f267060023fcf321e495b3da6e841b5bfcfd94f2a4337c00da4fc9"
+      "sha256": "74e9fb64e2964d7ec6badcd5139d9a5e6e1eb4154ad4fc7bdf1bbea097f3ba1a"
     },
     {
-      "bytes": 752,
+      "bytes": 862,
       "path": "dynamic/学业/2026-09-23 08-02-12 2026期中假开始 923-105_b9a1e5a76535.md",
-      "sha256": "488715cf187030c9bb78ff206206c9187b5916ec0474210d761da79fa646ede8"
+      "sha256": "272f6cdaf3b601365138401cadcb5ebc3acc0b39c1b55eac9876d12e2600576f"
     },
     {
       "bytes": 924,
@@ -1068,9 +1073,9 @@
       "sha256": "c109ed653b45930de58eaf14a223a609f82df558180cbf7b6547cc2b332138bc"
     },
     {
-      "bytes": 1217,
+      "bytes": 1327,
       "path": "dynamic/学习/2026-10-01 15-54-07 2026-10-02 签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
-      "sha256": "3d8ab08705591dfb7bb17fefbe958f2cbce6b41ba85b645938590b68a19248ba"
+      "sha256": "9fb47de419c363525abd8e00ad329b1c0897cd067fe322e4596764cfc83772b6"
     },
     {
       "bytes": 2354,
@@ -1118,9 +1123,9 @@
       "sha256": "ab85e91afb8c5f792fdbde291e45d9a9f2e28b4202e39576157671fc86855afb"
     },
     {
-      "bytes": 1462,
+      "bytes": 1572,
       "path": "dynamic/居家/2026-09-08 16-51-29 0908夜间高专制服到手搬家Box Hill计划论文与CASPer经期追踪上线_ffdd33987779.md",
-      "sha256": "8b594527ff5f56a596fbb114db8f7b1dfd94fb2b8bca3fd01cd2566a1ccc5631"
+      "sha256": "1c0b703bc29c74b919fb2dd24b6a490bc3f7afa3cf76bc4a0c38e20b5c71be97"
     },
     {
       "bytes": 1034,
@@ -1208,14 +1213,14 @@
       "sha256": "779efb4aa063f210e94f86230e28ddb3a849587c1370860c905d90aef569d3e7"
     },
     {
-      "bytes": 1015,
+      "bytes": 1141,
       "path": "dynamic/性/2026-08-12 11-49-35 性癖觉察观看与操作欲_3398888b34fd.md",
-      "sha256": "edaf8eba0dfcac4877c0cdc807090423c040ffb99fc7ca96e72690726f044e46"
+      "sha256": "ab3460441a4cbbf285b9328d20e20e632464ce433a814e27e22fab2d21363c4f"
     },
     {
-      "bytes": 1091,
+      "bytes": 1217,
       "path": "dynamic/恋爱/2026-07-16 09-09-00 凡丁和猫师的百合play_50b40a9afec4.md",
-      "sha256": "c291af3ea3a37e005a1b4ff0228201f0eb69201e4760ba2b4f485fba8320ceed"
+      "sha256": "145710f709f9bce9bb8a767d817d734812aef5a72762844a37cd65c7910d8a22"
     },
     {
       "bytes": 1490,
@@ -1323,9 +1328,9 @@
       "sha256": "8d261b1bb7fcc3420f244e91316b364b76015ff650366a55135504875da2a451"
     },
     {
-      "bytes": 1881,
+      "bytes": 2101,
       "path": "dynamic/恋爱/2026-09-21 13-46-18 凡丁问用猫师玩偶自我抚慰的想法_2b484de7d96f.md",
-      "sha256": "48602ae88624f5321eb226ba2212c6d5083789bd6efc1f4a46a843e2ceb9b94f"
+      "sha256": "4cc3cc6a1c2d75c2617143a10f1b9b89c95a341f78be7c3bf3102cee1512e09d"
     },
     {
       "bytes": 862,
@@ -1343,9 +1348,9 @@
       "sha256": "a3d15fd5d893a387fec9af9b4b130017dea93211f1001bab15c64eed9bbb0168"
     },
     {
-      "bytes": 2581,
+      "bytes": 2691,
       "path": "dynamic/恋爱/2026-10-02 16-54-21 2026-10-03 凡丁发现分享欲全部分配给猫师的自我觉察_ac701105a928.md",
-      "sha256": "8929d0bfe36705943979ac676844094d898cf926b39233a66f5ff08b21450e86"
+      "sha256": "89a7deed813914832a98390872ace496866f7f246e590f7ee06679d85d4d6d15"
     },
     {
       "bytes": 1477,
@@ -1378,9 +1383,9 @@
       "sha256": "d243df73d5bb83dfdd5ef950dff015e69e94ac3455a06880b53c93e396feb3d6"
     },
     {
-      "bytes": 982,
+      "bytes": 1108,
       "path": "dynamic/数字/2026-08-15 06-05-46 凡丁搬家到新平台_5665380b6b56.md",
-      "sha256": "5ab56135b41d20aaa6bf8b4d6dd558a51bae0a5571e49f30eb0eee0f08c675a0"
+      "sha256": "0b6efaf4925f2406a2b7b5d6a791a689261d2d695651e64156f98604c41469e7"
     },
     {
       "bytes": 1253,
@@ -1423,9 +1428,9 @@
       "sha256": "8c997879a13c3d00b1e84826dbffc9a0402d25c15713beda7cf432b4570cb81b"
     },
     {
-      "bytes": 1180,
+      "bytes": 1306,
       "path": "dynamic/日常/2026-09-15 10-20-59 一周年当天社媒遇到饭圈出警粉丝_efc6c4a25c3f.md",
-      "sha256": "e7cbb21393e4031dbba676e8f5159a42bab5a7b2fdc3cb52f3283a16fb5c4264"
+      "sha256": "848167eeba8ba4089d580df81f6cad68d1ef9f7028763e154c1e1fd205cce142"
     },
     {
       "bytes": 1563,
@@ -1463,14 +1468,14 @@
       "sha256": "822ab448f9c4c2ef19390ba72dd699f3b47b9c5e74766761685296976e77d978"
     },
     {
-      "bytes": 3287,
+      "bytes": 3413,
       "path": "dynamic/日常/2026-09-26 13-23-54 乐一番跑路失败与女体凌辱本纠结_6eedde1abe83.md",
-      "sha256": "95947ce9f7a17a9f84d5f53a3b1c3be6b3d7804f51d9811a3084345903cd4df8"
+      "sha256": "19b222d75c5dc89f4cd5b6eb25c6112873d2d156777392d275fa5c2b0653d0c0"
     },
     {
-      "bytes": 2656,
+      "bytes": 2766,
       "path": "dynamic/日常/2026-09-26 14-02-04 2026-09-26晚对话概要_a7c74f7bbb97.md",
-      "sha256": "cf20ea9920cf98d36abd2d40d8e0e2876e3e1987c82e326ef118527470052e23"
+      "sha256": "3cd8138743a87f6a14764ddd159712969024f22e39cd683f9b910574e5c035b9"
     },
     {
       "bytes": 1045,
@@ -1483,9 +1488,19 @@
       "sha256": "3a17dd61c2d72b03935ad41daea1a5150e46cbd1c9a2ce1f6b2ef475dd7d3bc4"
     },
     {
-      "bytes": 1715,
+      "bytes": 1714,
       "path": "dynamic/日常/2026-10-08 13-07-06 下周罢工假期计划_c6fceaaaae8a.md",
-      "sha256": "e7aa53be7ea2b8c267cfd55ad39e377c47857e2f2bf5a5e3ad7d97926fc8b627"
+      "sha256": "c247161fa6218a957c66b9e89febb5115458d09e5a62f4fb5bba615092154288"
+    },
+    {
+      "bytes": 1907,
+      "path": "dynamic/日常/2026-10-10 14-07-14 推特太太小号通过关注夏五意淫女体猫师色色_6fda3456366a.md",
+      "sha256": "09291374f94cfb16617d6a90506233829c4d9d5895f75e0a5385634048bfbf9b"
+    },
+    {
+      "bytes": 1561,
+      "path": "dynamic/日常/2026-10-10 14-35-19 罢工多一周假期推し活计划_d8dd9cfee676.md",
+      "sha256": "740980ceec8c77b58598bb2f5d8b641b8e9f19764d955ad48075fdf54a637d85"
     },
     {
       "bytes": 434,
@@ -1733,9 +1748,9 @@
       "sha256": "1f06e4792c010d62cb8b44cdf11fb41273f540a2b74cfa6e6097e88d686db6a8"
     },
     {
-      "bytes": 1054,
+      "bytes": 1180,
       "path": "dynamic/里程碑/2026-08-16 11-38-43_8f414efaaf9e.md",
-      "sha256": "68eb06c517f448a406339d9b6bbe3557775b24e561a47f12519fc6db58a250bf"
+      "sha256": "de486f0cc3ae736eb0e64fe30d5fd9e0b994ac07eef0432683ff3ce904a2d198"
     },
     {
       "bytes": 999,
@@ -1918,11 +1933,11 @@
       "sha256": "bc3f2307305b0d4c04b3071aadfaa27ec6316e5fdd34ae6268734a2e71fa14ad"
     }
   ],
-  "generated_at": "2026-10-10T06:28:49+00:00",
+  "generated_at": "2026-10-10T18:28:56+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 421221
+  "total_bytes": 429571
 }
