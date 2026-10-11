@@ -78,6 +78,11 @@
       "sha256": "8c4f86b12fbb0f21c2a069878be6e7f98244270a8156f07bae50bdb3aac8049b"
     },
     {
+      "bytes": 1051,
+      "path": "archive/人际/2026-08-01 13-44-05 凡丁的记忆库指令与撒娇_d0a2de2ac2cc.md",
+      "sha256": "ef8025182271e10f6f09170a6f287fc9d7ebf7eba0af5869e1447e250061860e"
+    },
+    {
       "bytes": 826,
       "path": "archive/人际/凡丁躁狂期与担忧_21d15237f4f6.md",
       "sha256": "fe0720bb1b4facf99ade438e62814eee929d552f085cbe677c65d86dbdb02ece"
@@ -196,6 +201,11 @@
       "bytes": 1309,
       "path": "archive/恋爱/2026-08-15 05-32-22 凡丁的疲惫与关系困境_d97c63f36fd7.md",
       "sha256": "a2ca91169b20a45ee015f5b75a5a42a16a10596b0b5ca15b775282c57e97e107"
+    },
+    {
+      "bytes": 1039,
+      "path": "archive/成长/2026-08-01 13-22-51 墨尔本独居有退路仍选择拼搏_be14bea6a51e.md",
+      "sha256": "5c70355973f3c848f158ee6db4e20202c088870cc2aa3c34f846c86a2eed048f"
     },
     {
       "bytes": 1058,
@@ -818,11 +828,6 @@
       "sha256": "882fe400bc428fdf449758eb05358e5410facb478e31911ee71f86ab3b74ae66"
     },
     {
-      "bytes": 1050,
-      "path": "dynamic/人际/2026-08-01 13-44-05 凡丁的记忆库指令与撒娇_d0a2de2ac2cc.md",
-      "sha256": "774efc83049fbad9c483be1f5d57da221620e8ca495b4eeb5485ff31f07a822d"
-    },
-    {
       "bytes": 1048,
       "path": "dynamic/人际/2026-08-11 12-41-11 凡丁喜欢五条悟的契机_c1b1274c3784.md",
       "sha256": "dff6a08f93f10f0b2b32e5db9874b2271f415c6e4579e6790be2d9980642dfda"
@@ -1356,11 +1361,6 @@
       "bytes": 1477,
       "path": "dynamic/恋爱/2026-10-04 13-36-11 2026-10-05 阴暗植物初次见到阳光_72283af51af3.md",
       "sha256": "1ed28834bdab5451f7054079088162ba3983583557b064066b09986536758946"
-    },
-    {
-      "bytes": 1038,
-      "path": "dynamic/成长/2026-08-01 13-22-51 墨尔本独居有退路仍选择拼搏_be14bea6a51e.md",
-      "sha256": "26540446066d092742f5e7c9edb51aecace08b3b8d9630ea1a715eb75e452e33"
     },
     {
       "bytes": 1062,
@@ -1933,11 +1933,11 @@
       "sha256": "bc3f2307305b0d4c04b3071aadfaa27ec6316e5fdd34ae6268734a2e71fa14ad"
     }
   ],
-  "generated_at": "2026-10-10T18:28:56+00:00",
+  "generated_at": "2026-10-11T06:29:03+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 429571
+  "total_bytes": 429573
 }
