@@ -9,6 +9,13 @@ id: dcba49d18c4a
 importance: 8
 last_active: '2026-09-27T09:14:58'
 name: Monash offer同日到手双offer对决
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8572
+  status: active
+  target_bucket_id: 80eb857c7fca
+  type: related_to
 source_tool: hold
 tags:
 - Monash
