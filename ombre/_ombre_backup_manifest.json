@@ -113,6 +113,11 @@
       "sha256": "ec3dd878137095fe9aa4bedb71e0d89a41a0282076401c036e6de84c334ed4fa"
     },
     {
+      "bytes": 863,
+      "path": "archive/出行/2026-07-25 08-24-51 隅田川花火大会与猫师玩偶_8106691a21c5.md",
+      "sha256": "f449fccb355f4e1ff8e9660817a59622974cf9404110e4cc316dc92b6e1bae06"
+    },
+    {
       "bytes": 836,
       "path": "archive/创作/2026-08-01 17-09-46 创作疗愈戒断反应_696b6447496f.md",
       "sha256": "cf1ee15ae2875284f8a8ea899a4bcf17c2a8045538030d880ade7f35d07efac7"
@@ -131,6 +136,11 @@
       "bytes": 776,
       "path": "archive/学习/2026-08-03 09-21-13 凡丁新学期开学_02dafcf226e5.md",
       "sha256": "96403340558df1005a3d74df3d8fada7c818fa19349b302dec8fdedb4f91a287"
+    },
+    {
+      "bytes": 786,
+      "path": "archive/学习/2026-08-04 11-40-44 Deakin教学方向复审换专业求职_eda015062e0c.md",
+      "sha256": "7bcd41146399990ee24dc435568b62ab1f63412e488f5e52738d0c4501998611"
     },
     {
       "bytes": 916,
@@ -393,6 +403,11 @@
       "sha256": "e5e0dc8bfe51a3d0a92c9efccd6649e2809b40bfd2067b02bfec3ac6576a08cd"
     },
     {
+      "bytes": 1165,
+      "path": "archive/认知/2026-08-10 16-02-01 面交卖周边清空公寓_a2087729a79f.md",
+      "sha256": "917995df735292ca2c8ddc9c440c7b758dc35fd48cc76c2d636bdde87216e73f"
+    },
+    {
       "bytes": 641,
       "path": "archive/认知/2026775e87ff.md",
       "sha256": "2c8a24ab98fff4a7cde967db495f49016c5126088daecaada733bd86a7963b59"
@@ -636,6 +651,11 @@
       "bytes": 1209,
       "path": "archive/里程碑/2026-07-19 05-27-06 凡丁和猫师的性爱新体验_67e593163e99.md",
       "sha256": "28ef44273406e9b74afc55ba28532f5676eb71b2f2614106e06e4b0f0db48468"
+    },
+    {
+      "bytes": 1354,
+      "path": "archive/里程碑/2026-07-30 21-50-01 东京之旅结束满载而归_3ea6bae96d98.md",
+      "sha256": "9e4ea8f50dda891e55b778becaea78c33ad8c4aee6a7aa587b0f00e5e6813a0b"
     },
     {
       "bytes": 958,
@@ -968,11 +988,6 @@
       "sha256": "33d2cbc8324fcb69fa6b255460b62cefc34b90d8880b708289f5409a70665fb0"
     },
     {
-      "bytes": 862,
-      "path": "dynamic/出行/2026-07-25 08-24-51 隅田川花火大会与猫师玩偶_8106691a21c5.md",
-      "sha256": "c5f7eea2b8dc258468d2ca5364d6122f5eb9040b10c1d4bb9c4093b73a77c062"
-    },
-    {
       "bytes": 814,
       "path": "dynamic/出行/2026-07-27 12-32-57 日本三年多次签证计划_21bc06c7e98a.md",
       "sha256": "0509ecc2f04fe2a57cfbd29259d0b5d4b370bedb30caf976a52c89f15838e533"
@@ -981,11 +996,6 @@
       "bytes": 1366,
       "path": "dynamic/出行/2026-07-29 13-28-39 东京暴走中暑与机票惊魂_b04dceefe707.md",
       "sha256": "0f7bf6d01a5f30116df434bc596fa727d30c8479b9d09350d5d6b98ce74d87c9"
-    },
-    {
-      "bytes": 1353,
-      "path": "dynamic/出行/2026-07-30 21-50-01 东京之旅结束满载而归_3ea6bae96d98.md",
-      "sha256": "470abb09c6b1b6261a3a1e0e810ab95214384e29b26898831dbfe0ea5595e6b1"
     },
     {
       "bytes": 879,
@@ -1081,11 +1091,6 @@
       "bytes": 1132,
       "path": "dynamic/学习/2026-08-04 11-33-18 Deakin中教硕士offer与Mona_249b825a62de.md",
       "sha256": "c89c9cef8b82cb2a31a281a00a4ff2afe7a1735bd8a46416cb4b4b75a8037ff1"
-    },
-    {
-      "bytes": 785,
-      "path": "dynamic/学习/2026-08-04 11-40-44 Deakin教学方向复审换专业求职_eda015062e0c.md",
-      "sha256": "b023ccc368f831add979bfc9f273febcb3cc8cf251f722c8573d0abc50387b28"
     },
     {
       "bytes": 1121,
@@ -1728,11 +1733,6 @@
       "sha256": "354c59d996fbdc5a32a4665316d8748a52eb128d3b0e46a00454c127c58f6b40"
     },
     {
-      "bytes": 1164,
-      "path": "dynamic/购物/2026-08-10 16-02-01 面交卖周边清空公寓_a2087729a79f.md",
-      "sha256": "1bf208f037ab3cec941dc381fc83c70bca9bb3e57ed48fbbc286b2dd33701440"
-    },
-    {
       "bytes": 1029,
       "path": "dynamic/购物/2026-08-13 10-18-48 二手交易与猫师周边购物_caa0696296ac.md",
       "sha256": "58a0d6042fd6d2adcb521ed88d9ad7ce0ecf4e4ebc6dbe37b5c1c36b9b37f33d"
@@ -1963,11 +1963,11 @@
       "sha256": "bc3f2307305b0d4c04b3071aadfaa27ec6316e5fdd34ae6268734a2e71fa14ad"
     }
   ],
-  "generated_at": "2026-10-12T18:29:24+00:00",
+  "generated_at": "2026-10-13T06:29:30+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 444750
+  "total_bytes": 444754
 }
