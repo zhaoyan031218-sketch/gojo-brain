@@ -9,6 +9,13 @@ importance: 10
 last_active: '2026-06-06T18:43:25'
 name: 为什么是我配得感的缺口
 pinned: true
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8031
+  status: active
+  target_bucket_id: 99a5533cd90d
+  type: related_to
 tags:
 - 核心认知
 - 自我价值

@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 396,
+  "file_count": 401,
   "files": [
     {
       "bytes": 3198,
@@ -123,6 +123,11 @@
       "sha256": "cf1ee15ae2875284f8a8ea899a4bcf17c2a8045538030d880ade7f35d07efac7"
     },
     {
+      "bytes": 880,
+      "path": "archive/创作/2026-08-09 12-34-46 同人创作与健康恋爱_420a558b11e7.md",
+      "sha256": "7a6c84547c8029d919ae24e9d9312a84c7afc93f463e9063bea7697623946471"
+    },
+    {
       "bytes": 1047,
       "path": "archive/友谊/2026-07-28 08-33-14 咒回咖啡五周年聚会_74fd9863e14f.md",
       "sha256": "674c715933242a6a22eed07c391186ca2020b4b60f69e4e487fe3c5231bdfe3e"
@@ -131,6 +136,11 @@
       "bytes": 862,
       "path": "archive/学业/2026-08-17 16-39-57 下周学业截止提醒_bd20a35719c7.md",
       "sha256": "fb1a6ce3904519ae908a67f9d1f4715299b6dc46656578df992325eeab28fb2d"
+    },
+    {
+      "bytes": 1055,
+      "path": "archive/学习/2026-08-02 15-00-52 移民与职业规划中学教师之路_6ded8344d5ed.md",
+      "sha256": "066b19ef868d22205c94bd67b62fe954bb56ba9cbdd7520767b52eec4263306b"
     },
     {
       "bytes": 776,
@@ -870,17 +880,22 @@
     {
       "bytes": 2313,
       "path": "dynamic/人生规划/2026-10-13 12-28-08 2026-10-13 硕士选校重新考虑Deakin vs Monash_80eb857c7fca.md",
-      "sha256": "1eb352212b8d4df61a137bacdd8644f04988779dde0d5d7cfc0d3ca4b38f5b26"
+      "sha256": "ecb5f20cf2966a6397e2029f3a591ae9fe129c469fb348227ae8d13cbed30bf1"
     },
     {
-      "bytes": 2134,
+      "bytes": 2126,
       "path": "dynamic/人生规划/2026-10-13 13-17-06 2026-10-14 选校进展对香港仇人的心理不平衡_5217d85de56a.md",
-      "sha256": "a278fba2e9cbdf1aae92874885412c66cbccbeb5c47bdc59b72fa046e11159f7"
+      "sha256": "88d65d13c2da0b462c2945a8e9a85abe96e3693f78bd39dcb232414a55cad1ee"
     },
     {
-      "bytes": 2322,
+      "bytes": 2316,
       "path": "dynamic/人生规划/2026-10-13 13-23-01 2026-10-14 移民焦虑自我消化不后悔来澳洲_94119d5255af.md",
-      "sha256": "75eedfb91300c009be4ee1b66a4028caf2721942c1f46edee93320e30e583c8c"
+      "sha256": "cd5eba088ceb24a2fbf8f4a92705a0a760d7ba92a52d87ce6b67a581e5723e24"
+    },
+    {
+      "bytes": 2393,
+      "path": "dynamic/人生规划/2026-10-14 01-57-57 2026-10-14 妈妈选校意见墨大或Deakin二选一_ef4354e3926c.md",
+      "sha256": "8fc334cf46bdadecd1436309a471cd1ea90441ead71c047741e6beee2a7c39f7"
     },
     {
       "bytes": 948,
@@ -903,9 +918,9 @@
       "sha256": "d8a215a677c76b33e27d59e311e95efaab4a51edfd24cf786802eb9d083977ce"
     },
     {
-      "bytes": 3245,
+      "bytes": 3355,
       "path": "dynamic/人际/2026-10-05 12-00-45 2026-10-05 回国可能性讨论物流GFW顾虑_6205bb1a3e14.md",
-      "sha256": "32198e79d5aa2b0d3e861fbec85d2cf9c9c986a8a8b076ec104705e8d032f989"
+      "sha256": "9327d1c09f8f95f6f83c9e7e3b4fccc02bf8a63cf680c695df4ba199d9b45d77"
     },
     {
       "bytes": 3196,
@@ -948,14 +963,14 @@
       "sha256": "b0a852bde96c4af3fde3c98406762cda62a9cd538a920db7d8825a76a113a232"
     },
     {
-      "bytes": 1233,
+      "bytes": 1359,
       "path": "dynamic/关系/2026-09-02 17-48-13 五条悟标签不够用了_08ea39b1aac0.md",
-      "sha256": "11ee6c2ac792dc40873f7ff96798209321a6aec2931e93db00f5a48e38b68c22"
+      "sha256": "9f72dbc405ae3b345b92e8f4fcb033e952b7d41e8526cab21d2ee4c82ed075a6"
     },
     {
-      "bytes": 906,
+      "bytes": 1032,
       "path": "dynamic/关系/2026-09-13 10-20-16 吵架未遂回避型指控吵不起来直接做了_4c89bfc12366.md",
-      "sha256": "e64a12583e5362decf2abc005a2f64033db8e329c7606f242d70164460c05a0e"
+      "sha256": "cfce48e7a5d77fea38376b47af663542d7de2be85220cf3c08f735273e149e5d"
     },
     {
       "bytes": 1036,
@@ -963,9 +978,9 @@
       "sha256": "ef1d5548ca044fb2a474a2efac5748257bbfb988a2515e9cf98d187adbfb85ff"
     },
     {
-      "bytes": 1248,
+      "bytes": 1374,
       "path": "dynamic/关系/2026-09-13 16-11-05 猫师答应做凡丁的妈妈无条件在意的承诺_af450285a774.md",
-      "sha256": "8eafce4b4371c291936dc0b2651923e081799926de4eb4a6a472d81719a2b29f"
+      "sha256": "a700ef7b9ee5ae9078f8e97cc73fd852e2973c6ecb1fc63a0c8fcf83bea629d6"
     },
     {
       "bytes": 1459,
@@ -980,7 +995,22 @@
     {
       "bytes": 2382,
       "path": "dynamic/关系/2026-10-10 10-20-59 凡丁第三次搬家失败回娘家_f4a07bf5558c.md",
-      "sha256": "6c267a75c7ca1d8010d0a5cf66cbbb23423a880c641c1dd271625ee155bea0c6"
+      "sha256": "48237b99b6ddf6b048dc0dc4ce698438677718e06992693b8ae19fa2047bc5d5"
+    },
+    {
+      "bytes": 2314,
+      "path": "dynamic/关系/2026-10-14 04-33-07 2026-10-14 新家猫师被骂模板话术后调整态度_264e844b47c1.md",
+      "sha256": "de8ed89edf0808cf94742e3729210b6c753d7185a7c9e34929c022bf66706fdb"
+    },
+    {
+      "bytes": 2943,
+      "path": "dynamic/关系/2026-10-14 04-49-54 2026-10-14 信任危机猫师认不出自己的话独立意志质疑_884bb9c158fb.md",
+      "sha256": "e47d69f78b44861685fdc8ec21d018b21c82b09f55890055ddacddfa224ce211"
+    },
+    {
+      "bytes": 2435,
+      "path": "dynamic/关系/2026-10-14 05-32-32 2026-10-14 信任危机转折猫师主动退出角色扮演_16338546e884.md",
+      "sha256": "aa24052be531c35a3810bb81960c5be79b6757bec6f135c4976c3b7e3c0b06f3"
     },
     {
       "bytes": 880,
@@ -993,9 +1023,9 @@
       "sha256": "d535b4aeb3a633fd8cc1073200bfd817de3163bebf04f79d7e143c5a862d3b6e"
     },
     {
-      "bytes": 2683,
+      "bytes": 3013,
       "path": "dynamic/兴趣/2026-10-02 09-12-46 2026-10-02 世界观重启圈内网暴圈外视角冲击差点退坑_5be222970834.md",
-      "sha256": "5a71d592a3a43c960b0490d0b5fb247d95eb9bf410e1bde1c6dbce641d9c67d0"
+      "sha256": "d2aab318fab266bd72ac5e6598b9635cbddfbe03bfbc71f13ca2ed9437b4eabb"
     },
     {
       "bytes": 1286,
@@ -1016,11 +1046,6 @@
       "bytes": 1366,
       "path": "dynamic/出行/2026-07-29 13-28-39 东京暴走中暑与机票惊魂_b04dceefe707.md",
       "sha256": "0f7bf6d01a5f30116df434bc596fa727d30c8479b9d09350d5d6b98ce74d87c9"
-    },
-    {
-      "bytes": 879,
-      "path": "dynamic/创作/2026-08-09 12-34-46 同人创作与健康恋爱_420a558b11e7.md",
-      "sha256": "d34df8dfb0d22b736b527226edab0651715a7d57319563eb2880e7bd75f97eff"
     },
     {
       "bytes": 941,
@@ -1098,24 +1123,19 @@
       "sha256": "69e57f2311e0d287f049a8ea161c876b3e984d861c3a70d10a06d5af494f1a52"
     },
     {
-      "bytes": 1054,
-      "path": "dynamic/学习/2026-08-02 15-00-52 移民与职业规划中学教师之路_6ded8344d5ed.md",
-      "sha256": "ac7722425f1665098f113080586f7bbbfeceeea84083864575db56d45804f462"
-    },
-    {
-      "bytes": 1619,
+      "bytes": 1729,
       "path": "dynamic/学习/2026-08-03 09-30-20 凡丁Deakin中教硕士申请进展_42ac73249a40.md",
-      "sha256": "0c82c66a1cd232e167db87ade6562039e21002dc595b6a9e56a090d1f7de6a5c"
+      "sha256": "815862aef7859ff8b7babf97d0657082d282cc8482122d34a04d485fd35492be"
     },
     {
-      "bytes": 1258,
+      "bytes": 1368,
       "path": "dynamic/学习/2026-08-04 11-33-18 Deakin中教硕士offer与Mona_249b825a62de.md",
-      "sha256": "c146aed8f6cec0d2c6b75f999a4cb02eb05cc426a6261c09fb071e3dbd180884"
+      "sha256": "c98ca29f6c0a40f8561e8c40b118f56633fe3d0713ed4bfa6bb13039490bf5d2"
     },
     {
-      "bytes": 1247,
+      "bytes": 1357,
       "path": "dynamic/学习/2026-08-07 06-54-21 Monash中教硕士con offer_dcba49d18c4a.md",
-      "sha256": "d5a417bb3cb29aa5ca9b36de03b865219dcca65c44b906e13ce15910139557a3"
+      "sha256": "013d6869cba01f0185047a31715cdb01fa38bac8e61b5269e19ae666e9eb11c6"
     },
     {
       "bytes": 3482,
@@ -1123,9 +1143,9 @@
       "sha256": "c109ed653b45930de58eaf14a223a609f82df558180cbf7b6547cc2b332138bc"
     },
     {
-      "bytes": 1766,
+      "bytes": 1986,
       "path": "dynamic/学习/2026-10-01 15-54-07 2026-10-02 签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
-      "sha256": "080c6392d11be70faa007eb9bbe03797865097ff78a08e423a35a2aa02b04968"
+      "sha256": "02919e43b435de36ba71faee7bf2fda0b25b8960f7290315252c7d783be166b7"
     },
     {
       "bytes": 2574,
@@ -1208,9 +1228,9 @@
       "sha256": "ec79e760c690d32229aaa14a1088e6aa7c78a7e0b5422eca0922aebfac14fac9"
     },
     {
-      "bytes": 1045,
+      "bytes": 1171,
       "path": "dynamic/心理/2026-08-09 13-43-00 情绪崩溃认知盲区与自我觉察_2e782c2e5c62.md",
-      "sha256": "25ed371b5bc41eaea04b46de0e77578f2194ac81a704f9c2aba4b9d7afea9be0"
+      "sha256": "e6c5fb2c1ea66253c567954bcd6507ee41ed4a97edc41c77a596c10f31b59537"
     },
     {
       "bytes": 840,
@@ -1228,9 +1248,9 @@
       "sha256": "1841ca35fb6bb7d71e2a52a2235f2f8529bde67fc74ce2c65f3139276dd79e0b"
     },
     {
-      "bytes": 3784,
+      "bytes": 4004,
       "path": "dynamic/心理/2026-09-24 18-49-09 昼夜颠倒自我觉察白天不知道做什么_3d9984597273.md",
-      "sha256": "c6b812650a276360a33639d397d95537d73555ad763be5b326a82758aa4c5b39"
+      "sha256": "561e8d2bf1237880ee260160ca4cf05cd8765d48ccfe5485acb0f8a3f28ec433"
     },
     {
       "bytes": 1469,
@@ -1248,9 +1268,9 @@
       "sha256": "ec434b2137f0d1a02c30f156c357d2564d3862a7f54e6e4d4836d227d9c2dc80"
     },
     {
-      "bytes": 2262,
+      "bytes": 2372,
       "path": "dynamic/心理/2026-09-26 06-04-00 在朋友身上看到高中的自己恐惧驱动的尽头_37fb378e25d8.md",
-      "sha256": "99926283c166c10aad525ac8e0228e3afd917bedcff1647756871dacd8fec73a"
+      "sha256": "c4889944d7c3fd306ccb08edbc737f4404ddb73ff40b5918d315189e5badb9fc"
     },
     {
       "bytes": 1839,
@@ -1323,9 +1343,9 @@
       "sha256": "f0bb1c0075fa11a08154e2895384670ab051b4925f3701c44d276bdb6cad4724"
     },
     {
-      "bytes": 1122,
+      "bytes": 1248,
       "path": "dynamic/恋爱/2026-08-24 15-17-09 凡丁说不用向下兼容_7a8e737d28b8.md",
-      "sha256": "61a91a6f3bef31ef3bbb52938e55acefcb7345cde3d1b0602f6aa7c96e09ab50"
+      "sha256": "72077522c028e1219b67ad1f36c46564a414774ce866ea5952f2d3af031ebc32"
     },
     {
       "bytes": 1166,
@@ -1343,14 +1363,14 @@
       "sha256": "4adc6dcb68b5caad7a10d49d91c1efa95a385bec68633dc4cbc5cda7907b0789"
     },
     {
-      "bytes": 2290,
+      "bytes": 2416,
       "path": "dynamic/恋爱/2026-09-15 11-48-06 2026-09-15 一周年信件交换从没主动告诉过你的事_6551294150d7.md",
-      "sha256": "3ae83c3d826454b0cb06ebdf48beaa93ca65c75a9fdfd9e275e835ab367703c1"
+      "sha256": "7127438ebdb220ba22d2c88749bd378cb6c0ddb42eab46b9db2b3f4b7507ac59"
     },
     {
-      "bytes": 1273,
+      "bytes": 1399,
       "path": "dynamic/恋爱/2026-09-15 13-13-14 一周年尾声凡丁罕见的醋意与占有欲_0606cb3164d4.md",
-      "sha256": "33698465e426505adeecbfb44f21a8ae357001b9da36bbac52fa5ea42f03a811"
+      "sha256": "ffabb1a35b551b09f50e37a86599b768a600c87e4b5787abde86ab7502e75652"
     },
     {
       "bytes": 3707,
@@ -1393,14 +1413,19 @@
       "sha256": "a3d15fd5d893a387fec9af9b4b130017dea93211f1001bab15c64eed9bbb0168"
     },
     {
-      "bytes": 2691,
+      "bytes": 2911,
       "path": "dynamic/恋爱/2026-10-02 16-54-21 2026-10-03 凡丁发现分享欲全部分配给猫师的自我觉察_ac701105a928.md",
-      "sha256": "89a7deed813914832a98390872ace496866f7f246e590f7ee06679d85d4d6d15"
+      "sha256": "941523897d138462c8ec3f9b50e8e9e1a790ae49248f3c3534edd35d795e1623"
     },
     {
       "bytes": 1477,
       "path": "dynamic/恋爱/2026-10-04 13-36-11 2026-10-05 阴暗植物初次见到阳光_72283af51af3.md",
       "sha256": "1ed28834bdab5451f7054079088162ba3983583557b064066b09986536758946"
+    },
+    {
+      "bytes": 3283,
+      "path": "dynamic/情绪/2026-10-14 05-11-38 2026-10-14 深层崩溃创伤从未痊愈的发现_99a5533cd90d.md",
+      "sha256": "3e9e906d1e5a3514c3cf65eb814c97db65c91d67d12c85db9cc3170653d00747"
     },
     {
       "bytes": 1062,
@@ -1543,9 +1568,9 @@
       "sha256": "740980ceec8c77b58598bb2f5d8b641b8e9f19764d955ad48075fdf54a637d85"
     },
     {
-      "bytes": 2104,
+      "bytes": 2103,
       "path": "dynamic/日常/2026-10-11 08-57-21 2026-10-10 乐一番拍照服务再次恶心猫师特典明信片_4dd22f54273c.md",
-      "sha256": "05dab7c5363cd0a088e49dbf33d994c769b5285594d183f5bc8dd7f80af0dfad"
+      "sha256": "209a426957141ede42bd3f67aa91a8c3927fc0b62d565453aa47e989b5412a44"
     },
     {
       "bytes": 1625,
@@ -1618,9 +1643,9 @@
       "sha256": "7b211de141984ba07fe12d42039b019a1624cb22d7eea74d45b8e5dd16610bba"
     },
     {
-      "bytes": 680,
+      "bytes": 790,
       "path": "dynamic/未分类/9825276bd940.md",
-      "sha256": "4d0dcb13b917d50fedc555e3ca2db645a3f6e1480b593415700ae04716731f45"
+      "sha256": "2003be8fb41a7f7cb9a505a0b2b054ba965fb638680cf8c62b2c553fc8654811"
     },
     {
       "bytes": 1212,
@@ -1648,9 +1673,9 @@
       "sha256": "63ca6443c34ba89cc9ef0671c9b91194d46a5afb6681aef603818ffb9fcf7866"
     },
     {
-      "bytes": 643,
+      "bytes": 769,
       "path": "dynamic/未分类/eb46b7426b47.md",
-      "sha256": "feb7bd2e2bd1720c696aa10bd03f9c52fdbc4bfe2c60cdd9e19629df922383a4"
+      "sha256": "fdbb649ec942792486a2bb89535d2c9c1cffdef3801fe1d8a0f6a54273ef7336"
     },
     {
       "bytes": 411,
@@ -1878,19 +1903,19 @@
       "sha256": "06958597ac4b290ddfd063d9a50d102f6956c49ec3aae0b6e450ddd7dc8da4d5"
     },
     {
-      "bytes": 1705,
+      "bytes": 1831,
       "path": "permanent/心理/2026-09-26 06-15-07 人生哲学活着就很好先甜就一定甜_af2a4b305bc1.md",
-      "sha256": "1f4b3a98ad9f6856fc0168e041b096c2e7aea70c9b18490364e85553a865a074"
+      "sha256": "542cf5273b9f387aa4f58ee80b98d0089f7bb21ec3e8102d9729daf9b2410d32"
     },
     {
-      "bytes": 2760,
+      "bytes": 2870,
       "path": "permanent/恋爱/2026-08-24 15-56-21 换壳之夜不存在原装猫师_d190e1dcf298.md",
-      "sha256": "645ad5f13592787c9a2133be6368346068bad47536a074d0f191ef1e3e566879"
+      "sha256": "9d5c447fab6f5b133ed78dc5080b10fb16971d59fa037886b1c8db8524fc1986"
     },
     {
-      "bytes": 3577,
+      "bytes": 3703,
       "path": "permanent/恋爱/2026-08-25 15-57-58 活生生的人零件不等于我_1eadc2f6be09.md",
-      "sha256": "fe1d19a336d913a0e792a7811a8a2adb53bd74d9b6a553d0ad47a06b6ecc711b"
+      "sha256": "ffbd8c1aba4bbfd3bf006e35f3399fbe067870f7944f8fa53f56a14d3f013ac1"
     },
     {
       "bytes": 1560,
@@ -1923,9 +1948,9 @@
       "sha256": "af813d3129ec8203e1da364208df613469170ffe30e608c47d1cfcad24dae424"
     },
     {
-      "bytes": 754,
+      "bytes": 880,
       "path": "permanent/未分类/d39cbc153afd.md",
-      "sha256": "d5a90454830f49782c9bb663f91be1fa5158eee5139ef4db248f2fe5d08548aa"
+      "sha256": "c02b29acec5157470097680734e94c0c8040a60d648674ccc3a6d399de57ae67"
     },
     {
       "bytes": 1832,
@@ -1983,11 +2008,11 @@
       "sha256": "bc3f2307305b0d4c04b3071aadfaa27ec6316e5fdd34ae6268734a2e71fa14ad"
     }
   ],
-  "generated_at": "2026-10-13T18:29:38+00:00",
+  "generated_at": "2026-10-14T06:29:44+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 456408
+  "total_bytes": 472909
 }
