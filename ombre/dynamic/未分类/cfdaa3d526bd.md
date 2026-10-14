@@ -8,6 +8,13 @@ id: cfdaa3d526bd
 importance: 5
 last_active: '2026-09-24T16:15:24'
 name: 东京攻略朋友推荐餐厅
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7795
+  status: active
+  target_bucket_id: a185d4d3dce7
+  type: related_to
 tags:
 - 日常
 - 朋友

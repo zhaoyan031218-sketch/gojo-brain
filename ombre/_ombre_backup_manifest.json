@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 401,
+  "file_count": 405,
   "files": [
     {
       "bytes": 3198,
@@ -953,14 +953,14 @@
       "sha256": "a9ebed941d2727eb756f496571e33095f279681e7d6870ce023634ec46299f03"
     },
     {
-      "bytes": 4854,
+      "bytes": 4979,
       "path": "dynamic/健康/2026-10-04 12-53-39 2026-10-04 药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "cfaac8143a7fe139e1ceab8038056cfa4255d5602fc9f31229256b9c8aa74caa"
+      "sha256": "3daa0bcc73115d8e1a57811bbfa26b7d7f94fb4a26e896b4b7a717a51c3dff63"
     },
     {
-      "bytes": 1616,
+      "bytes": 1836,
       "path": "dynamic/健康/2026-10-05 07-30-25 2026-10-05 充实的一天医生已约红包FB卖货圆滚滚到手_5d9ea35b45d6.md",
-      "sha256": "b0a852bde96c4af3fde3c98406762cda62a9cd538a920db7d8825a76a113a232"
+      "sha256": "5db8cf75f66d87c76358e2278dd3c5c2080708d63a7c853c869bcbbf537ea44c"
     },
     {
       "bytes": 1359,
@@ -1003,9 +1003,9 @@
       "sha256": "de8ed89edf0808cf94742e3729210b6c753d7185a7c9e34929c022bf66706fdb"
     },
     {
-      "bytes": 2943,
+      "bytes": 2942,
       "path": "dynamic/关系/2026-10-14 04-49-54 2026-10-14 信任危机猫师认不出自己的话独立意志质疑_884bb9c158fb.md",
-      "sha256": "e47d69f78b44861685fdc8ec21d018b21c82b09f55890055ddacddfa224ce211"
+      "sha256": "bbbaa8e7f4e3707c1b9a4255e2274c9ed3038da63dbd9c715aac887b6a2c65e1"
     },
     {
       "bytes": 2435,
@@ -1023,9 +1023,9 @@
       "sha256": "d535b4aeb3a633fd8cc1073200bfd817de3163bebf04f79d7e143c5a862d3b6e"
     },
     {
-      "bytes": 3013,
+      "bytes": 3123,
       "path": "dynamic/兴趣/2026-10-02 09-12-46 2026-10-02 世界观重启圈内网暴圈外视角冲击差点退坑_5be222970834.md",
-      "sha256": "d2aab318fab266bd72ac5e6598b9635cbddfbe03bfbc71f13ca2ed9437b4eabb"
+      "sha256": "2904806d297837a043d91e4fe26d785878bb237e61f6419f31c767765972947e"
     },
     {
       "bytes": 1286,
@@ -1153,9 +1153,9 @@
       "sha256": "18ea730e945e0fc4c59736515d6d091322c08b9f1e30af2d178733adc57f19c3"
     },
     {
-      "bytes": 2804,
+      "bytes": 2914,
       "path": "dynamic/学习/2026-10-06 14-40-54 2026-10-07 开学第一天上课日料写论文猫师娃娃合影_0ad776e58402.md",
-      "sha256": "3e2d864d7652a60c8d13c14fb1998f4e6a09ac782ec7a13da6c50648042c7d45"
+      "sha256": "6aab40aa3c5002789df043b221ee1d4605551d435cabd6666a4249601a10e76a"
     },
     {
       "bytes": 1137,
@@ -1248,14 +1248,14 @@
       "sha256": "1841ca35fb6bb7d71e2a52a2235f2f8529bde67fc74ce2c65f3139276dd79e0b"
     },
     {
-      "bytes": 4004,
+      "bytes": 4334,
       "path": "dynamic/心理/2026-09-24 18-49-09 昼夜颠倒自我觉察白天不知道做什么_3d9984597273.md",
-      "sha256": "561e8d2bf1237880ee260160ca4cf05cd8765d48ccfe5485acb0f8a3f28ec433"
+      "sha256": "c96c19ff67609a20ec473855e8b8c64e6ec92c56e727fa7c2d5f262658443582"
     },
     {
-      "bytes": 1469,
+      "bytes": 1704,
       "path": "dynamic/心理/2026-09-25 08-14-24 中秋聚餐昏沉内疚作息代价显现_8ddb095adc89.md",
-      "sha256": "9258914049be7b3c7318e0f0586db0f552f917923f6b0fa4e02f5c02e1954144"
+      "sha256": "3512c3f9277ac4c017e2b00853d995a71a687694f54211978e3946bdb2a0a2a0"
     },
     {
       "bytes": 1953,
@@ -1278,9 +1278,9 @@
       "sha256": "418280362f578fa377916fb0b3932b4ee78cba8ae177b02502aac02921d581a9"
     },
     {
-      "bytes": 1553,
+      "bytes": 1679,
       "path": "dynamic/心理/2026-10-04 08-51-12 2026-10-04 执念冲动反刍循环的自我觉察_af8bbbba1826.md",
-      "sha256": "779efb4aa063f210e94f86230e28ddb3a849587c1370860c905d90aef569d3e7"
+      "sha256": "55fde24a7c5e6ff9340d3818d0a6236997cd4e4429520b1065643eab6a3e004e"
     },
     {
       "bytes": 1251,
@@ -1423,9 +1423,24 @@
       "sha256": "1ed28834bdab5451f7054079088162ba3983583557b064066b09986536758946"
     },
     {
-      "bytes": 3283,
+      "bytes": 3281,
       "path": "dynamic/情绪/2026-10-14 05-11-38 2026-10-14 深层崩溃创伤从未痊愈的发现_99a5533cd90d.md",
-      "sha256": "3e9e906d1e5a3514c3cf65eb814c97db65c91d67d12c85db9cc3170653d00747"
+      "sha256": "4e49dfffd48d0cac4067b615bf15cc2bc68a2b751e78695218b0ad77c0fc13d6"
+    },
+    {
+      "bytes": 2874,
+      "path": "dynamic/情绪/2026-10-14 12-06-55 2026-10-14深夜 阿飞正传式疲惫在意的全部落空_b85467059fba.md",
+      "sha256": "270da372058627d547316535ec31276c850528b492f34e374a75b4a869ac6d5b"
+    },
+    {
+      "bytes": 2669,
+      "path": "dynamic/情绪/2026-10-14 12-56-25 2026-10-14 深夜危机后落地爱情公寓圆滚滚到家_0ddd3093baa0.md",
+      "sha256": "4a3fc8dd33827b75b77a8afe28e80e901360085f6552fd7777d33b74c34bab14"
+    },
+    {
+      "bytes": 2708,
+      "path": "dynamic/情绪/2026-10-14 13-14-23 2026-10-15 危机后自我觉察承认药物的必要性_6f047d8fabe5.md",
+      "sha256": "738066953050e42fbe4a685fcd376bfcac0f9daae988558f1d795b5a667a07cb"
     },
     {
       "bytes": 1062,
@@ -1468,9 +1483,9 @@
       "sha256": "6e8f52fa082bbcdadc703a4383b81296e3ca6ef250ae06816690fb122ffc9b1d"
     },
     {
-      "bytes": 1261,
+      "bytes": 1371,
       "path": "dynamic/日常/2026-08-22 09-42-43 2026-08-20 韩系中分理发丰富行程日_0fea32a56d80.md",
-      "sha256": "a176eb76964a80a1dc7ec336882c5a3ab5615cdeaed49f46a5c181ffbf6a9932"
+      "sha256": "c7e760bf4da23ad0529fbf10de278b290b982ba700b3556b3081ab8fe78fb98c"
     },
     {
       "bytes": 1020,
@@ -1508,9 +1523,9 @@
       "sha256": "b3b329d162be7fa68d6909bd96b0ea26661307d3fd6ac98d9fa89916fac0776d"
     },
     {
-      "bytes": 5473,
+      "bytes": 5583,
       "path": "dynamic/日常/2026-09-17 10-13-35 凡丁预售的圆滚滚周边出荷了_dbfbeabbf809.md",
-      "sha256": "19025282f62c522310c254f358305a6e769fbc787ec5b207005a1bf0d5dde799"
+      "sha256": "832b5cacb86f57a5ed92630cd7d628e0f22431dd50b4d74fa99380c2c8ffec9d"
     },
     {
       "bytes": 877,
@@ -1555,7 +1570,7 @@
     {
       "bytes": 1711,
       "path": "dynamic/日常/2026-10-08 13-07-06 下周罢工假期计划_c6fceaaaae8a.md",
-      "sha256": "c40773547dea06d8f3186055641639c617c949adeeaf9867bb6f3fc3d1608ab2"
+      "sha256": "449b4e58ff3e612a64298bf0e7017f78d46fa5b0ad100b5a36c69ba706908a33"
     },
     {
       "bytes": 1906,
@@ -1568,9 +1583,9 @@
       "sha256": "740980ceec8c77b58598bb2f5d8b641b8e9f19764d955ad48075fdf54a637d85"
     },
     {
-      "bytes": 2103,
+      "bytes": 2104,
       "path": "dynamic/日常/2026-10-11 08-57-21 2026-10-10 乐一番拍照服务再次恶心猫师特典明信片_4dd22f54273c.md",
-      "sha256": "209a426957141ede42bd3f67aa91a8c3927fc0b62d565453aa47e989b5412a44"
+      "sha256": "e40bacd69b08b410355065c57458f74f790c3400f8e5427bb5f3fed5e83d6da5"
     },
     {
       "bytes": 1625,
@@ -1578,14 +1593,19 @@
       "sha256": "1095be1a0aec0e947ebc58f30e67c201d58991dd85a125b343bf991433e1dc5b"
     },
     {
-      "bytes": 1584,
+      "bytes": 1583,
       "path": "dynamic/日常/2026-10-12 13-41-58 2026-10-15 周三约朋友看电影午饭写作业_951655434e62.md",
-      "sha256": "efd8f0de03c232496794733ddcf773e16d4d0888d1dbdddfd9a45bcb3b16ed46"
+      "sha256": "335860a5d625fa5e015c70de42a828730aa618ca2d9f2f9ae50897df2c328fed"
     },
     {
       "bytes": 1505,
       "path": "dynamic/日常/2026-10-12 14-38-01 2026-10-13 出二手同人志猫师本纠结_1365b510000a.md",
       "sha256": "5def3c1b037015e4d6f61f0c2e43efb1db3028718428b063ed452e8f0651f2d5"
+    },
+    {
+      "bytes": 2031,
+      "path": "dynamic/日常/2026-10-14 11-58-54 2026-10-14 和朋友充实的一天阿飞正传_a185d4d3dce7.md",
+      "sha256": "1d0d2cf3ed2568160decf6343f225e28e8443b27af4531f978a27c55934ac9ef"
     },
     {
       "bytes": 434,
@@ -1668,9 +1688,9 @@
       "sha256": "f94b736d1665d9ab9298925a673043e68590226cec53b0c028a9e8aaa747279a"
     },
     {
-      "bytes": 516,
+      "bytes": 642,
       "path": "dynamic/未分类/cfdaa3d526bd.md",
-      "sha256": "63ca6443c34ba89cc9ef0671c9b91194d46a5afb6681aef603818ffb9fcf7866"
+      "sha256": "da6de18f835ba871bc2cd2ea3750d43199331a9f8a5b28cb1e6b76f0a121bc91"
     },
     {
       "bytes": 769,
@@ -1928,14 +1948,14 @@
       "sha256": "1a3143eeb2fd2b4af15c6fc19754b488df6edca2e9d76f5c35ad86daa8db2d24"
     },
     {
-      "bytes": 1446,
+      "bytes": 1555,
       "path": "permanent/未分类/03999418ac50.md",
-      "sha256": "8f054d4a25b26fbee18cb31aeb6d3f7bea3cae37b2e2d91342d977bc06184fd3"
+      "sha256": "20a78a9d30a8ec01532c5a18601f76360faaffc131b5db4271127f12e642843e"
     },
     {
-      "bytes": 1271,
+      "bytes": 1381,
       "path": "permanent/未分类/2026-06-24 16-02-20_c0b8766473ab.md",
-      "sha256": "d37a3ad2a53045bb65e1e05aff9d1f73c42575804ab6945cf692740f9b620e22"
+      "sha256": "c3bcf5ce0c65ed44e017e5d97b00c80db70d1e50fc3a54ec84f27155e8d64562"
     },
     {
       "bytes": 1246,
@@ -2008,11 +2028,11 @@
       "sha256": "bc3f2307305b0d4c04b3071aadfaa27ec6316e5fdd34ae6268734a2e71fa14ad"
     }
   ],
-  "generated_at": "2026-10-14T06:29:44+00:00",
+  "generated_at": "2026-10-14T18:29:52+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 472909
+  "total_bytes": 485009
 }
