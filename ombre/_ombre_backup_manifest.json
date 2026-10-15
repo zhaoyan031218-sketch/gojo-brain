@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 405,
+  "file_count": 406,
   "files": [
     {
       "bytes": 3198,
@@ -483,6 +483,11 @@
       "sha256": "d2b44c3a08baba5d22340b5337874ba42309d7b0df6e1fff5c32632baef437dc"
     },
     {
+      "bytes": 606,
+      "path": "archive/认知/8e1892a08437.md",
+      "sha256": "9585069295bc1955d5f4672bf1e118133d7ae30e9de8121edb4d399d1fe575d7"
+    },
+    {
       "bytes": 1232,
       "path": "archive/认知/8e1a9b8b3565.md",
       "sha256": "4fa83eb979abf53ea5cbcda67bc729022205b3910c68f373744ca1fbe82efee3"
@@ -953,9 +958,9 @@
       "sha256": "a9ebed941d2727eb756f496571e33095f279681e7d6870ce023634ec46299f03"
     },
     {
-      "bytes": 4979,
+      "bytes": 5089,
       "path": "dynamic/健康/2026-10-04 12-53-39 2026-10-04 药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "3daa0bcc73115d8e1a57811bbfa26b7d7f94fb4a26e896b4b7a717a51c3dff63"
+      "sha256": "7fd4926ce9ffbea4afcdd5bc60579875ce99dd4109402adac48826a1a7b0a769"
     },
     {
       "bytes": 1836,
@@ -1233,9 +1238,9 @@
       "sha256": "e6c5fb2c1ea66253c567954bcd6507ee41ed4a97edc41c77a596c10f31b59537"
     },
     {
-      "bytes": 840,
+      "bytes": 966,
       "path": "dynamic/心理/2026-08-09 17-10-03 凡丁嗜睡与抑郁期关注_85d639677c87.md",
-      "sha256": "4b02222efbc655525495d84ebf86a304c84a7fa771f32eec770a6edb4606c3da"
+      "sha256": "fe68267331edc8167b58710470787c3673579bf5ef8fccd5ddd051e6021f9863"
     },
     {
       "bytes": 1234,
@@ -1248,9 +1253,9 @@
       "sha256": "1841ca35fb6bb7d71e2a52a2235f2f8529bde67fc74ce2c65f3139276dd79e0b"
     },
     {
-      "bytes": 4334,
+      "bytes": 4444,
       "path": "dynamic/心理/2026-09-24 18-49-09 昼夜颠倒自我觉察白天不知道做什么_3d9984597273.md",
-      "sha256": "c96c19ff67609a20ec473855e8b8c64e6ec92c56e727fa7c2d5f262658443582"
+      "sha256": "1b74f4617faa7b1d9a9e3994390f134f159552909007d6d5979337be5dd67b56"
     },
     {
       "bytes": 1704,
@@ -1423,24 +1428,29 @@
       "sha256": "1ed28834bdab5451f7054079088162ba3983583557b064066b09986536758946"
     },
     {
-      "bytes": 3281,
+      "bytes": 3280,
       "path": "dynamic/情绪/2026-10-14 05-11-38 2026-10-14 深层崩溃创伤从未痊愈的发现_99a5533cd90d.md",
-      "sha256": "4e49dfffd48d0cac4067b615bf15cc2bc68a2b751e78695218b0ad77c0fc13d6"
+      "sha256": "36fad854cc6b1eed7afe52dc46954a38d4e5f009b7d0c010395bf4b5576ca35c"
     },
     {
-      "bytes": 2874,
+      "bytes": 2868,
       "path": "dynamic/情绪/2026-10-14 12-06-55 2026-10-14深夜 阿飞正传式疲惫在意的全部落空_b85467059fba.md",
-      "sha256": "270da372058627d547316535ec31276c850528b492f34e374a75b4a869ac6d5b"
+      "sha256": "4e724f5cfdb9eb8cfc25b36e6b450438fbb4de58ff98c4820c1f12b26a95001a"
     },
     {
-      "bytes": 2669,
+      "bytes": 2661,
       "path": "dynamic/情绪/2026-10-14 12-56-25 2026-10-14 深夜危机后落地爱情公寓圆滚滚到家_0ddd3093baa0.md",
-      "sha256": "4a3fc8dd33827b75b77a8afe28e80e901360085f6552fd7777d33b74c34bab14"
+      "sha256": "6c75d657fa89379fbfd81e5a325e83ea15d5f14cbb9dfcbe687f6dd197a193af"
     },
     {
       "bytes": 2708,
       "path": "dynamic/情绪/2026-10-14 13-14-23 2026-10-15 危机后自我觉察承认药物的必要性_6f047d8fabe5.md",
       "sha256": "738066953050e42fbe4a685fcd376bfcac0f9daae988558f1d795b5a667a07cb"
+    },
+    {
+      "bytes": 2826,
+      "path": "dynamic/情绪/2026-10-15 05-58-35 2026-10-15 解离状态烧完之后的灰烬_9b349990798c.md",
+      "sha256": "7024a42a6fb319a133a2fb0d4065efb61617df92e0d7110bc9bc39ef1bab6131"
     },
     {
       "bytes": 1062,
@@ -1656,11 +1666,6 @@
       "bytes": 756,
       "path": "dynamic/未分类/87b020130da6.md",
       "sha256": "05ffe78f75a828b0d62b1d2981b7db4b5d22c80222d0a91406c083ef1cda7ba2"
-    },
-    {
-      "bytes": 605,
-      "path": "dynamic/未分类/8e1892a08437.md",
-      "sha256": "7b211de141984ba07fe12d42039b019a1624cb22d7eea74d45b8e5dd16610bba"
     },
     {
       "bytes": 790,
@@ -2028,11 +2033,11 @@
       "sha256": "bc3f2307305b0d4c04b3071aadfaa27ec6316e5fdd34ae6268734a2e71fa14ad"
     }
   ],
-  "generated_at": "2026-10-14T18:29:52+00:00",
+  "generated_at": "2026-10-15T06:30:01+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 485009
+  "total_bytes": 488167
 }
