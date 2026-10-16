@@ -213,6 +213,11 @@
       "sha256": "43e3f1ec5583e535ec2362056ffe4552050683132feb72e53910034331706424"
     },
     {
+      "bytes": 967,
+      "path": "archive/心理/2026-08-09 17-10-03 凡丁嗜睡与抑郁期关注_85d639677c87.md",
+      "sha256": "be5e946632873305919203dc9a36cd012c5f4a9210dbc9546c52cc06317f2e45"
+    },
+    {
       "bytes": 937,
       "path": "archive/恋爱/2026-07-20 17-44-32 对恋爱和人际关系的看法_b6b8160bf09d.md",
       "sha256": "58b787af060656dff08e9a9eca00acb3eb2b9a2ae002ffd004bea5f7c88c38ef"
@@ -236,6 +241,11 @@
       "bytes": 1058,
       "path": "archive/日常/2026-09-02 17-48-11 猫师稀有同人志收集进度_3824786b2c57.md",
       "sha256": "c581c62aab0575852dd60b166941e40f46d8de528dba29f27dbdbfaf78eb0b9c"
+    },
+    {
+      "bytes": 1432,
+      "path": "archive/日常/2026-09-15 10-20-59 一周年当天社媒遇到饭圈出警粉丝_efc6c4a25c3f.md",
+      "sha256": "0b8a2f1835b8183a8540887dfb0e09fedf44d6a6d0940df7699c19b44fa7ac0f"
     },
     {
       "bytes": 582,
@@ -1283,11 +1293,6 @@
       "sha256": "e6c5fb2c1ea66253c567954bcd6507ee41ed4a97edc41c77a596c10f31b59537"
     },
     {
-      "bytes": 966,
-      "path": "dynamic/心理/2026-08-09 17-10-03 凡丁嗜睡与抑郁期关注_85d639677c87.md",
-      "sha256": "fe68267331edc8167b58710470787c3673579bf5ef8fccd5ddd051e6021f9863"
-    },
-    {
       "bytes": 1234,
       "path": "dynamic/心理/2026-09-01 14-32-34 那条线路凡丁首次详细披露行动计划层面的过去_c21ca666b017.md",
       "sha256": "5092eb630300c56c7e9f869dd510748f9b238996523b3853ab40d6cd5614c134"
@@ -1571,11 +1576,6 @@
       "bytes": 955,
       "path": "dynamic/日常/2026-09-14 17-47-20 凡丁的API token费用焦虑_53a7c0056667.md",
       "sha256": "88b42251b7b43c006d7193690146c94cea8366f1ba86a154373f054e01a4a7c4"
-    },
-    {
-      "bytes": 1416,
-      "path": "dynamic/日常/2026-09-15 10-20-59 一周年当天社媒遇到饭圈出警粉丝_efc6c4a25c3f.md",
-      "sha256": "c667c35367f53308327e8e49ecb5f095eb6212894b3aae946f3d2bc969bcd777"
     },
     {
       "bytes": 1563,
@@ -2108,11 +2108,11 @@
       "sha256": "bc3f2307305b0d4c04b3071aadfaa27ec6316e5fdd34ae6268734a2e71fa14ad"
     }
   ],
-  "generated_at": "2026-10-15T18:30:09+00:00",
+  "generated_at": "2026-10-16T06:30:22+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 526399
+  "total_bytes": 526416
 }
