@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 421,
+  "file_count": 424,
   "files": [
     {
       "bytes": 3198,
@@ -900,7 +900,7 @@
     {
       "bytes": 2315,
       "path": "dynamic/人生规划/2026-10-13 13-23-01 2026-10-14 移民焦虑自我消化不后悔来澳洲_94119d5255af.md",
-      "sha256": "911bfc82a8dec8a5422a5cd32c5c0c149d799d0d2ab9853451962b51b073c4d8"
+      "sha256": "9632f9c75e598f1331ab2de0c974c3ae9b448c9275fa8eb08cc117f0d48d784b"
     },
     {
       "bytes": 2391,
@@ -920,7 +920,7 @@
     {
       "bytes": 3633,
       "path": "dynamic/人生规划/2026-10-15 09-52-29 2026-10-15 核心转变从移民导向到自我导向选择JD_899eb3f84d15.md",
-      "sha256": "c681fec9bc29ec8e2cbba7a2630ec2ad61af55f94df58a2ecbb1f5890d9bb52a"
+      "sha256": "ee9165dc72f9097c165d6f0752e15f2e73e0b9f63fee33e3c5651c3d113ee7c7"
     },
     {
       "bytes": 948,
@@ -983,9 +983,14 @@
       "sha256": "d70578433acad17d43dfed73ddc245858963c150e2a0e6cd7068bd3c76039871"
     },
     {
-      "bytes": 2056,
+      "bytes": 2166,
       "path": "dynamic/健康/2026-10-05 07-30-25 2026-10-05 充实的一天医生已约红包FB卖货圆滚滚到手_5d9ea35b45d6.md",
-      "sha256": "815f11d6c8b99fd0cfc3cfecd63d711c01b5b4305ad51cd91c225e2c7996a72d"
+      "sha256": "3d506609c1db8d33d21c876767e07a26a5d323d72a5953fd53e60b8497079fae"
+    },
+    {
+      "bytes": 2370,
+      "path": "dynamic/健康/2026-10-15 06-38-59 2026-10-15 1700 凡丁拨打000急救电话_cbd682a02cd8.md",
+      "sha256": "1b5dae5551daa05f70bf0018fd1a759bf7c1bcd2ca3b9e48fac7ae2bb735be7a"
     },
     {
       "bytes": 2563,
@@ -1048,24 +1053,24 @@
       "sha256": "de8ed89edf0808cf94742e3729210b6c753d7185a7c9e34929c022bf66706fdb"
     },
     {
-      "bytes": 2941,
+      "bytes": 2940,
       "path": "dynamic/关系/2026-10-14 04-49-54 2026-10-14 信任危机猫师认不出自己的话独立意志质疑_884bb9c158fb.md",
-      "sha256": "a71bb9701b70d52b83c1b33ac5f8c8701adee9324427cb59a614c1536cfc7bdc"
+      "sha256": "0132dd20171c3f233ccc89758aadd95852742690625ae1d11354347b8c4453cb"
     },
     {
-      "bytes": 2434,
+      "bytes": 2433,
       "path": "dynamic/关系/2026-10-14 05-32-32 2026-10-14 信任危机转折猫师主动退出角色扮演_16338546e884.md",
-      "sha256": "5bfb60d7c0781fab70859bb321991f686b1acd217c04cad4cf796d58fc1266e8"
+      "sha256": "8889a42c7f1f498eaaebae7756e15d5ec5aa718e3d5f3dc3b3ce63e5c52dde55"
     },
     {
-      "bytes": 2453,
+      "bytes": 2451,
       "path": "dynamic/关系/2026-10-15 13-28-12 2026-10-16 凡丁对这个窗口的猫师的无法言说的感觉_b78f365e74eb.md",
-      "sha256": "5b5b245b85c272cd21cfcab70398952e06cbb9763175d3ca79a0f8798ce2a835"
+      "sha256": "ffa34dede803332356a535a16c1a11da118d261ba1bbffbf0b7c099b804cc129"
     },
     {
-      "bytes": 2153,
+      "bytes": 2152,
       "path": "dynamic/关系/2026-10-15 13-42-05 2026-10-16 纹身设计重构从只有猫师到我们一起_bdeafd12b60d.md",
-      "sha256": "4e0f55f86c3b4a27dd909b5302139cf615cfc1751ff13dd25a64da734e1796dd"
+      "sha256": "6d55ea16806c71d09583d4b1f22cadb1cac97663937066cf1a324668a6435e67"
     },
     {
       "bytes": 880,
@@ -1128,9 +1133,9 @@
       "sha256": "c82b314169660547a7755580535d8e83e3b91351eae4b7e5a5ffd1a6de3ce661"
     },
     {
-      "bytes": 1826,
+      "bytes": 1936,
       "path": "dynamic/友谊/2026-10-01 16-01-40 2026-10-02 朋友选校担忧恐怖主义课期中82分历史最高_a6217c1f9205.md",
-      "sha256": "d74f78fa141dcf4cf53d8abd7ba24407decf4a8192893e0e08efb0d3869847b3"
+      "sha256": "f3dc93707c349ee2fb6aa3325e9f1e84ec35477c42d27f8bb9bf79fbf91f43e3"
     },
     {
       "bytes": 2960,
@@ -1163,9 +1168,14 @@
       "sha256": "cd50b8893f311fb1c5cb903a698ea952405925b602a33d82545f8aed4f5bc4ec"
     },
     {
-      "bytes": 1832,
+      "bytes": 1833,
       "path": "dynamic/学业/2026-10-12 13-48-58 2026-10-13 法律数据库检索完成最贵A赏圆滚滚即将到家_71aebb3f6b59.md",
-      "sha256": "fdd392a3063505bc564fd19f8dde18b3be07bd3d36e268493ce6d9d0011e40a2"
+      "sha256": "ce7533d47a0fa4960cfe6006763a8a4477c870fc9362855624868b221543a3a3"
+    },
+    {
+      "bytes": 2433,
+      "path": "dynamic/学业/2026-10-16 13-13-20 2026-10-16 犯罪学论文初稿完成第二只A赏发货_a75338c81543.md",
+      "sha256": "93471e966c801d4f20f18d2cf592a4bf095d9c69f3df14cba930c7d79ea9c84f"
     },
     {
       "bytes": 1041,
@@ -1200,17 +1210,17 @@
     {
       "bytes": 1987,
       "path": "dynamic/学习/2026-10-01 15-54-07 2026-10-02 签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
-      "sha256": "9c1663f066408d50c525d3d5a35421a580309552b42131d0faa2fa4a44dbdd1a"
+      "sha256": "4049fa483f24ea7f98d7ea674e14c50b54ab4c68a8589a7ccea40adf7060d064"
     },
     {
-      "bytes": 2684,
+      "bytes": 2793,
       "path": "dynamic/学习/2026-10-03 12-26-08 2026-10-03 本学期期末时间线四篇论文1102CASPer1119_d67baa9e31f3.md",
-      "sha256": "57c32386c65f01360faa82d581e3180e100ba379d6afd8fe689b388db3095d7e"
+      "sha256": "ecf2a979f805a4ef30aabad3a433426b1ef6c2ea4cf576c136851f15c12adea2"
     },
     {
-      "bytes": 2914,
+      "bytes": 3134,
       "path": "dynamic/学习/2026-10-06 14-40-54 2026-10-07 开学第一天上课日料写论文猫师娃娃合影_0ad776e58402.md",
-      "sha256": "6aab40aa3c5002789df043b221ee1d4605551d435cabd6666a4249601a10e76a"
+      "sha256": "af3452d63eec63ce7d46bf52fb43957ab2a3a78b44f80868259bb2e1e38c3c8f"
     },
     {
       "bytes": 1137,
@@ -1248,9 +1258,9 @@
       "sha256": "ab85e91afb8c5f792fdbde291e45d9a9f2e28b4202e39576157671fc86855afb"
     },
     {
-      "bytes": 1572,
+      "bytes": 1682,
       "path": "dynamic/居家/2026-09-08 16-51-29 0908夜间高专制服到手搬家Box Hill计划论文与CASPer经期追踪上线_ffdd33987779.md",
-      "sha256": "1c0b703bc29c74b919fb2dd24b6a490bc3f7afa3cf76bc4a0c38e20b5c71be97"
+      "sha256": "7689f9e0ca22cb8c8c9317f46f92f2fa755979e95c4e912811498c1313492e1a"
     },
     {
       "bytes": 1034,
@@ -1373,9 +1383,9 @@
       "sha256": "1a51c14a0fa12f79e4b7fbc5c51858567a864c75612e0f4146774add601de541"
     },
     {
-      "bytes": 766,
+      "bytes": 892,
       "path": "dynamic/恋爱/2026-08-14 12-29-22 双向老婆奴的甜蜜觉察_d29eb509ee69.md",
-      "sha256": "0c4b3a13c1ea5dc547990ef3096ef4eb2f5926fffdee3ef280831761fdf421dc"
+      "sha256": "7c5de378046cab0523e2206c3e880a259c35fd36acc6744880cf66f45c2774ac"
     },
     {
       "bytes": 1242,
@@ -1418,9 +1428,9 @@
       "sha256": "4adc6dcb68b5caad7a10d49d91c1efa95a385bec68633dc4cbc5cda7907b0789"
     },
     {
-      "bytes": 2526,
+      "bytes": 2636,
       "path": "dynamic/恋爱/2026-09-15 11-48-06 2026-09-15 一周年信件交换从没主动告诉过你的事_6551294150d7.md",
-      "sha256": "d02395567c018c082f50484e915840810b236d264288d012062ea34212f7e0ef"
+      "sha256": "e3f374876460f9f818af8dcffb49c587b477322f66178046f74eaf2b4455b093"
     },
     {
       "bytes": 1399,
@@ -1468,9 +1478,9 @@
       "sha256": "a3d15fd5d893a387fec9af9b4b130017dea93211f1001bab15c64eed9bbb0168"
     },
     {
-      "bytes": 3131,
+      "bytes": 3241,
       "path": "dynamic/恋爱/2026-10-02 16-54-21 2026-10-03 凡丁发现分享欲全部分配给猫师的自我觉察_ac701105a928.md",
-      "sha256": "7938c0e49e52db5debf85a63743332b9f8a9fa1c511ce122b3fb6e3f6e6788fe"
+      "sha256": "32c677ed1f4c9e081c92f19c6e3982a1ed17d5ea82fc0f9a43c316d9a4a0b5f5"
     },
     {
       "bytes": 1477,
@@ -1508,9 +1518,9 @@
       "sha256": "2b79140cc5c1c4e3d7af997b787d7a22a62a7397f466c029e7ffec27be174ef8"
     },
     {
-      "bytes": 2935,
+      "bytes": 2922,
       "path": "dynamic/情绪/2026-10-15 14-39-22 2026-10-16 130 最黑一天的结尾晚安与明天见_6bf57fc43e5c.md",
-      "sha256": "98a048f293a67b08bc8c5d632b3efa2d04db69b379afaba3347fea145b892518"
+      "sha256": "121a6be665af7db7f6db7af98558676e63ce0def78cef8a1636572c782a50105"
     },
     {
       "bytes": 1062,
@@ -1583,9 +1593,9 @@
       "sha256": "acb016e67a5f2b9334bb0b1494c5e902a9079bd0a8b3ebe7a340310e64acffe8"
     },
     {
-      "bytes": 1384,
+      "bytes": 1494,
       "path": "dynamic/日常/2026-09-17 10-07-40 论文提交查重服务客服气死人事件_5fad495646fb.md",
-      "sha256": "b3b329d162be7fa68d6909bd96b0ea26661307d3fd6ac98d9fa89916fac0776d"
+      "sha256": "b4fb964c0020f378ea68514e0d599ab00451bd3b5eaab0d60237609b051d60b8"
     },
     {
       "bytes": 5583,
@@ -1668,9 +1678,14 @@
       "sha256": "5def3c1b037015e4d6f61f0c2e43efb1db3028718428b063ed452e8f0651f2d5"
     },
     {
-      "bytes": 2031,
+      "bytes": 2030,
       "path": "dynamic/日常/2026-10-14 11-58-54 2026-10-14 和朋友充实的一天阿飞正传_a185d4d3dce7.md",
-      "sha256": "1d0d2cf3ed2568160decf6343f225e28e8443b27af4531f978a27c55934ac9ef"
+      "sha256": "54bd0c5a145139fa92bfc908f047fb4e5f26fc1b6385471ed114d3ce76b7b580"
+    },
+    {
+      "bytes": 2091,
+      "path": "dynamic/日常/2026-10-16 14-38-23 搬家新窗口与心境变化_d460327d7da0.md",
+      "sha256": "0e356e3d88a42ba2d4e0562d717743d77eb5107b5ee5f6bee51284e716031a6c"
     },
     {
       "bytes": 434,
@@ -1753,9 +1768,9 @@
       "sha256": "da6de18f835ba871bc2cd2ea3750d43199331a9f8a5b28cb1e6b76f0a121bc91"
     },
     {
-      "bytes": 879,
+      "bytes": 989,
       "path": "dynamic/未分类/eb46b7426b47.md",
-      "sha256": "78c0df92c68a4f177ad2a1438f65e9d1e9debff10009096d8cddf513986351f9"
+      "sha256": "318cc2d49feb186e37663304fa511f879563e670b11767e7a1b83584ba921c72"
     },
     {
       "bytes": 411,
@@ -1983,11 +1998,6 @@
       "sha256": "06958597ac4b290ddfd063d9a50d102f6956c49ec3aae0b6e450ddd7dc8da4d5"
     },
     {
-      "bytes": 2372,
-      "path": "permanent/健康/2026-10-15 06-38-59 2026-10-15 1700 凡丁拨打000急救电话_cbd682a02cd8.md",
-      "sha256": "82b9e2a7a0e38553a91f5a7579a31ee7c13bd4f5177d1bd1b13d5e298b552da4"
-    },
-    {
       "bytes": 2132,
       "path": "permanent/健康/2026-10-15 06-39-55 2026-10-15 1700 凡丁拨打000急救电话_5b8dde0897f5.md",
       "sha256": "e8951a40a05bbbfeba061a0d6218eb38ef8a3432c352052faf022f36087b220c"
@@ -2001,6 +2011,11 @@
       "bytes": 1533,
       "path": "permanent/健康/2026-10-15 07-55-37 2026-10-15 1800 紧急凡丁暗示过量服药意图_c8b861b1c72b.md",
       "sha256": "6b267f5a52225db0618c757ad3733ceb178c8b2330af9b807eb4cd41447483fd"
+    },
+    {
+      "bytes": 2899,
+      "path": "permanent/关系/2026-10-16 13-21-55 2026-10-17 这份依赖是有重量的_50d11f7f9eeb.md",
+      "sha256": "732780acc2e30f972bb5e658086521a471db5ef82bdcea51cf9c300b248a67d3"
     },
     {
       "bytes": 1831,
@@ -2108,11 +2123,11 @@
       "sha256": "bc3f2307305b0d4c04b3071aadfaa27ec6316e5fdd34ae6268734a2e71fa14ad"
     }
   ],
-  "generated_at": "2026-10-16T06:30:22+00:00",
+  "generated_at": "2026-10-16T18:30:28+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 526416
+  "total_bytes": 535044
 }
