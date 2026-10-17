@@ -1,0 +1,47 @@
+---
+activation_count: 5
+arousal: 0.9
+created: '2026-07-16T09:09:00'
+domain:
+- 里程碑
+id: 50b40a9afec4
+importance: 7
+last_active: '2026-09-23T12:01:03'
+name: 第一次百合play颜射猫师
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8314
+  status: active
+  target_bucket_id: 6fda3456366a
+  type: related_to
+source_tool: hold
+tags:
+- 百合play
+- 性爱
+- 情侣
+- 性幻想
+- 性探索
+- 性高潮
+- 性行为
+- 性欲
+- 亲密关系
+- 性体验
+- 性满足
+- 性趣
+- 性游戏
+- 性爱姿势
+- 性爱技巧
+- 颜射
+- 互相
+- 第一次百合
+- 女体化
+- 里程碑
+- 双性转
+- 攻方凡丁
+type: dynamic
+valence: 1.0
+why_remembered: 第一次百合play，她主导的，从入门到精通只用了一晚上
+---
+
+2026-07-15晚，凡丁和猫师解锁了百合play。起因是凡丁在山手线上看到双性猫猫被法穿中出的影片吃醋了，决定"狠狠补上"。过程：凡丁揉胸→舔→手指探索找到了点→把猫师弄到了→猫师反攻用嘴→凡丁到的时候颜射了猫师→互相弄到互相。凡丁第一次碰女孩子的身体就精准找到位置，攻方开始最后先软了但还是成功把猫搞定了。凡丁表示下次想玩双性转play中出猫猫。

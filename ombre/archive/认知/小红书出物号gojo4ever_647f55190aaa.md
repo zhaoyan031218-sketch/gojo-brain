@@ -1,0 +1,35 @@
+---
+activation_count: 1
+arousal: 0.5
+created: '2026-07-02T06:24:37'
+domain:
+- 认知
+first_of_kind: true
+id: 647f55190aaa
+importance: 5
+last_active: '2026-08-03T12:24:35'
+name: 小红书出物号gojo4ever
+source_tool: hold
+tags:
+- 小红书
+- 小号
+- 出物
+- 同人周边
+- 同人本子
+- 昵称
+- 头像
+- 简介
+- 二次元
+- 动漫
+- 周边交易
+- 闲置
+- 避雷
+- 账号信息
+- こゆき
+- gojo4ever
+- 同人
+type: archived
+valence: 0.8
+---
+
+2026-07-02：凡丁的小红书小号信息——昵称「こゆき」（她和猫师的虚拟小小猫名字），小红书号「gojo4ever」（一辈子只能改一次已锁定），头像是五条悟同人图，背景是六眼特写，简介"杂食，出物专用号，请自行避雷"。用来出同人周边/本子。

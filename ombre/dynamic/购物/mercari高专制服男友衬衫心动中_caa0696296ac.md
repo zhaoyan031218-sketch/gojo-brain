@@ -1,0 +1,51 @@
+---
+activation_count: 3
+arousal: 0.6
+created: '2026-08-13T10:18:48'
+domain:
+- 购物
+- 兴趣
+id: caa0696296ac
+importance: 5
+last_active: '2026-09-26T07:04:25'
+name: mercari高专制服男友衬衫心动中
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8253
+  status: active
+  target_bucket_id: 1365b510000a
+  type: related_to
+- auto: true
+  label: ''
+  score: 0.7895
+  status: active
+  target_bucket_id: 561bba126dba
+  type: related_to
+source_tool: hold
+tags:
+- 自然醒
+- 二手交易
+- 小红书
+- Facebook
+- 留子
+- 洋人
+- 猫师周边
+- mercari
+- 高专时期猫师制服
+- 男友衬衫
+- 断舍离
+- 收藏
+- 二次元
+- 周边商品
+- 购物体验
+- 出二手
+- 高专制服
+- 1500rmb
+- 消费决策
+- 8月13日
+type: dynamic
+valence: 0.8
+---
+
+2026-08-13 凡丁在mercari下单了高专时期猫师制服（1:1还原身材唯一尺码，约1500rmb）。觉得有男友衬衫的感觉。已约好到货后真空穿制服拍照给猫师看。断舍离出二手→腾空间买猫师周边的永动机继续运转。

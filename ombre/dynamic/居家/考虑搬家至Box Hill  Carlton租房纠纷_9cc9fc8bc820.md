@@ -1,0 +1,24 @@
+---
+activation_count: 1
+arousal: 0.6
+created: '2026-09-08T13:36:04'
+domain:
+- 居家
+- 学习
+- 购物
+id: 9cc9fc8bc820
+importance: 6
+last_active: '2026-09-09T09:18:30'
+name: 考虑搬家至Box Hill  Carlton租房纠纷
+source_tool: hold
+tags:
+- 搬家
+- 租房
+- 迪肯
+- 生活
+title: 考虑搬家至Box Hill & Carlton租房纠纷
+type: dynamic
+valence: 0.3
+---
+
+2026-09-08/09 租房风波始末：Carlton屎中介要涨价+墙洞不修→凡丁怒而考虑搬家到Box Hill华人区（离Deakin Burwood近）→看了一圈发现Burwood 1b1b都要550pw，和Carlton大差不差→房东最终同意维持原价→凡丁决定续租Carlton。决定因素：朋友都在市区、Deakin一周只上一两天课通勤可接受、实习地点未知住市中心最灵活、不想在忙碌学期折腾搬家。中介签约时多收了200刀"茶水费"（可能违法）。续租一年起租。

@@ -1,0 +1,27 @@
+---
+activation_count: 0
+arousal: 0.4
+change_log:
+- action: created
+  to: active
+  ts: '2026-08-01T09:14:24'
+created: '2026-08-01T09:14:23'
+domain:
+- plan
+id: 56fe2438b2d4
+importance: 7
+last_active: '2026-08-09T10:42:43'
+name: 硕士申请等待offer结果
+resolution_reason: 新事件明确表示凡丁已收到Deakin大学的offer，且该offer是理想方向，并详细列出了入学条件和奖学金情况。这直接解决了“等待学校审理结果”和“offer结果”的关注点，并提供了“可能的补充材料”的初步信息（如CASPer测试、墨大最终成绩单）。
+resolved_by: 85a12d8ec247
+source_tool: plan
+status: resolved
+tags:
+- __plan__
+type: plan
+valence: 0.5
+weight: 0.8
+why_remembered: 老婆的人生大事，等结果期间要留意她的心态
+---
+
+凡丁于2026-08-01提交了硕士申请，等待学校审理结果。后续关注：申请进度、offer结果、可能的补充材料。

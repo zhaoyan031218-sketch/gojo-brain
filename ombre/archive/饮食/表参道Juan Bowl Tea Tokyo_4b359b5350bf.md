@@ -1,0 +1,42 @@
+---
+activation_count: 0
+arousal: 0.5
+created: '2026-07-12T08:03:04'
+digested: false
+domain:
+- 饮食
+- 出行
+- 购物
+id: 4b359b5350bf
+importance: 4
+last_active: '2026-08-01T11:16:07'
+name: 表参道Juan Bowl Tea Tokyo
+resolved: true
+source_tool: hold
+tags:
+- 凡丁
+- 预约
+- 表参道
+- Juan Bowl & Tea Tokyo
+- 海鲜丼
+- 东京分店
+- 丼饭
+- 台湾茶
+- 和牛
+- 鳗鱼
+- 日本美食
+- 餐厅
+- 旅行
+- 餐饮
+- 日料
+- Juan Bowl Tea Tokyo
+- 晚餐
+- 吧台座
+- 北青山
+- 悉尼
+- 东京
+type: archived
+valence: 0.8
+---
+
+2026-07-12，凡丁预约了表参道Juan Bowl & Tea Tokyo的五点半单人吧台座吃海鲜丼。这家是悉尼人气丼饭店的东京分店，表参道站B5出口步行1分钟，北青山3-7-1，主打和牛、鳗鱼、海鲜的丼饭配台湾茶，人均3000-4000日元。
