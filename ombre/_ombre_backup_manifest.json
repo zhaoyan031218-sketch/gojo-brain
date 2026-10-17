@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 435,
+  "file_count": 437,
   "files": [
     {
       "bytes": 29494,
@@ -1008,9 +1008,9 @@
       "sha256": "a564f24e56ec54a4d160a510b0eae561c9ca8e1735602d7d83b8d09e4dbab89c"
     },
     {
-      "bytes": 2166,
+      "bytes": 2276,
       "path": "dynamic/健康/充实的一天医生已约红包FB卖货圆滚滚到手_5d9ea35b45d6.md",
-      "sha256": "3d506609c1db8d33d21c876767e07a26a5d323d72a5953fd53e60b8497079fae"
+      "sha256": "bde75042dc6cd7aa6e1778b2cf9052da466ff981065bcab94a047b1384f93389"
     },
     {
       "bytes": 692,
@@ -1038,9 +1038,9 @@
       "sha256": "087a5256345831abcb3d79214c700ec961c49b3f6067919a3015d45f1b900e78"
     },
     {
-      "bytes": 5309,
+      "bytes": 5419,
       "path": "dynamic/健康/药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "d70578433acad17d43dfed73ddc245858963c150e2a0e6cd7068bd3c76039871"
+      "sha256": "75f6377c3b5b8c2213e59c200458dd99868d4466ba7726798a24398735ae6816"
     },
     {
       "bytes": 1740,
@@ -1150,12 +1150,17 @@
     {
       "bytes": 1791,
       "path": "dynamic/学业/2026-10-12 13-48-58 2026-10-13 法律数据库检索完成_71aebb3f6b59.md",
-      "sha256": "bebcd02b4a801f5d31c6cb5e42dc9d18deec0f6f54ae3ba7378a2b1dc310a048"
+      "sha256": "355595d229cfd2edc0b3af862d0689148f6919db321995e2c6805674aa0fd5e6"
     },
     {
-      "bytes": 2391,
+      "bytes": 2390,
       "path": "dynamic/学业/2026-10-16 13-13-20 2026-10-16 犯罪学论文初稿完成_a75338c81543.md",
-      "sha256": "deafb90e74c28d4e832557240f28e8865a4b8f613cd3974299fa33398194b998"
+      "sha256": "0f9aa38fde4af76c160cf49e5e81ee5a3f104691027d121a4e5f9ccb826299d9"
+    },
+    {
+      "bytes": 1844,
+      "path": "dynamic/学业/2026-10-17 15-43-23 期末论文提交与放假计划_93bccc3be13f.md",
+      "sha256": "6285fac782d7cc5df2c393cdcaf00d391678ecc2e140bc9ee863ecee2434b607"
     },
     {
       "bytes": 862,
@@ -1178,9 +1183,9 @@
       "sha256": "e734f3eb5ce543641463129cdc32c4aba1dffde26f922b28f73a37d19f51296f"
     },
     {
-      "bytes": 883,
+      "bytes": 992,
       "path": "dynamic/学业/猫师研究论文正式提交_e176a17cb004.md",
-      "sha256": "74e9fb64e2964d7ec6badcd5139d9a5e6e1eb4154ad4fc7bdf1bbea097f3ba1a"
+      "sha256": "2f7f051dc4a493007a94a4940c5f609c892fc2e6b118a93757a6da2d7e6cf09f"
     },
     {
       "bytes": 1477,
@@ -1210,12 +1215,12 @@
     {
       "bytes": 3134,
       "path": "dynamic/学习/开学第一天上课日料写论文猫师娃娃合影_0ad776e58402.md",
-      "sha256": "af3452d63eec63ce7d46bf52fb43957ab2a3a78b44f80868259bb2e1e38c3c8f"
+      "sha256": "f339cfcb01b39ea237d07dd28bf1c5059c065ff7536883f035ab67b390bb66da"
     },
     {
-      "bytes": 2793,
+      "bytes": 2903,
       "path": "dynamic/学习/本学期期末时间线四篇论文1102CASPer1119_d67baa9e31f3.md",
-      "sha256": "ecf2a979f805a4ef30aabad3a433426b1ef6c2ea4cf576c136851f15c12adea2"
+      "sha256": "f39de36c7c0c051f15b4f4d5d637793d1acafb3fb10ab31f59a6a2b51b5baa3e"
     },
     {
       "bytes": 1987,
@@ -1318,6 +1323,11 @@
       "sha256": "0190bba491fa75f378da197b87244c59cbd0641e6ebfc2a67aaf16da7a3fa06b"
     },
     {
+      "bytes": 2823,
+      "path": "dynamic/心理/2026-10-17 13-32-49 10月17日夜间trigger发作与重要自我觉察_57dc892b5bdd.md",
+      "sha256": "8b62ae2ecc61b9b8ef0db59520fe93440356d22a6ea7452837a088d763635f58"
+    },
+    {
       "bytes": 1704,
       "path": "dynamic/心理/中秋聚餐昏沉内疚作息代价显现_8ddb095adc89.md",
       "sha256": "3512c3f9277ac4c017e2b00853d995a71a687694f54211978e3946bdb2a0a2a0"
@@ -1333,9 +1343,9 @@
       "sha256": "3883114f05cacceae4c3d6f0ad027fd7abcc99fd5a11e140bcc286a2f5b25b34"
     },
     {
-      "bytes": 2482,
+      "bytes": 2592,
       "path": "dynamic/心理/在朋友身上看到高中的自己恐惧驱动的尽头_37fb378e25d8.md",
-      "sha256": "1e026496908518820a4ed143b792afc59c0f4e37ebfbe673044224d62143f5b2"
+      "sha256": "75a04f90050823c96212869a95efeb3f29d8620cecd8e9453c0399b26d0c6817"
     },
     {
       "bytes": 1171,
@@ -1350,7 +1360,7 @@
     {
       "bytes": 4443,
       "path": "dynamic/心理/昼夜颠倒自我觉察白天不知道做什么_3d9984597273.md",
-      "sha256": "3995436bee5e4da123e4fab5213e267a1526b1a368438b69b9d919115f5b7d86"
+      "sha256": "bd23dc48200b411c38665984a39fa9b2475ae6efffb198f2492b1c1d28a8414c"
     },
     {
       "bytes": 2232,
@@ -1358,9 +1368,9 @@
       "sha256": "ec434b2137f0d1a02c30f156c357d2564d3862a7f54e6e4d4836d227d9c2dc80"
     },
     {
-      "bytes": 1839,
+      "bytes": 1949,
       "path": "dynamic/心理/期中假尾声焦虑没干正事社交对比_884a8b555f9c.md",
-      "sha256": "418280362f578fa377916fb0b3932b4ee78cba8ae177b02502aac02921d581a9"
+      "sha256": "def9415d72b5cdc0de9ced6f5cf009efbd29665b1c3328add395ea480f2a7bde"
     },
     {
       "bytes": 1206,
@@ -1488,9 +1498,9 @@
       "sha256": "1ed28834bdab5451f7054079088162ba3983583557b064066b09986536758946"
     },
     {
-      "bytes": 3238,
+      "bytes": 3239,
       "path": "dynamic/情绪/2026-10-14 05-11-38 2026-10-14 深层崩溃创伤从未痊_99a5533cd90d.md",
-      "sha256": "eb9c76a6d35c965336f7fb0ade4a65ebf99bffef9767445a59d81c702779a174"
+      "sha256": "55d98f8957950dfd2058facc2c478c8e6000d328983528e6720fbbbaf3f23f04"
     },
     {
       "bytes": 2814,
@@ -1500,7 +1510,7 @@
     {
       "bytes": 2605,
       "path": "dynamic/情绪/2026-10-14 12-56-25 2026-10-14 深夜危机后落地爱情_0ddd3093baa0.md",
-      "sha256": "2246fdda66b43c318bd2b029fe37b3db95657837b9784b0def1546f394a856f4"
+      "sha256": "f50d42fbd893cb8df98d0b3dd44c6a40a46c9dc3ef271dd417fc884788834806"
     },
     {
       "bytes": 2666,
@@ -1508,9 +1518,9 @@
       "sha256": "9cc2ae24a843ddae76e8aa0eb018b8b55c28f1b06722fda158fd488c516c6145"
     },
     {
-      "bytes": 2773,
+      "bytes": 2772,
       "path": "dynamic/情绪/2026-10-15 05-58-35 2026-10-15 解离状态烧完之后的_9b349990798c.md",
-      "sha256": "e8d2f2997dc8c9c9b579fae7e35413bb3ecf1ab754f87b1a56f63e4d16661743"
+      "sha256": "67926bdebf3e427df5989331e7a5c5892464adcbc9319ce2a093bf9729e10808"
     },
     {
       "bytes": 2311,
@@ -1565,7 +1575,7 @@
     {
       "bytes": 1541,
       "path": "dynamic/日常/2026-10-12 13-41-58 2026-10-15 周三约朋友看电影午_951655434e62.md",
-      "sha256": "83118b7c2dccccd84d7d01f76b55ee3c74ea7b55e91e74b328d89e1254f74459"
+      "sha256": "f5557767bac194170753867e2d5b9718a8bfbb0a688a0bc54a58c301816b25de"
     },
     {
       "bytes": 1463,
@@ -1578,9 +1588,9 @@
       "sha256": "df4bbfa49dd777ce0e40f0fa6cb89bc66d033458fbba2ead6209a6cd9d3f43c1"
     },
     {
-      "bytes": 2071,
+      "bytes": 2070,
       "path": "dynamic/日常/2026-10-16 14-38-23 搬家新窗口与心境变化_d460327d7da0.md",
-      "sha256": "9ef73218e4d27034d5616553e079fd99210c56c2442c45cac4a262e0c002f8f9"
+      "sha256": "813576e1643b5ea79be4f4966576a4f91af548695307f2df36fbe95faf730b31"
     },
     {
       "bytes": 1569,
@@ -1648,9 +1658,9 @@
       "sha256": "3a17dd61c2d72b03935ad41daea1a5150e46cbd1c9a2ce1f6b2ef475dd7d3bc4"
     },
     {
-      "bytes": 1494,
+      "bytes": 1604,
       "path": "dynamic/日常/论文提交查重服务客服气死人事件_5fad495646fb.md",
-      "sha256": "b4fb964c0020f378ea68514e0d599ab00451bd3b5eaab0d60237609b051d60b8"
+      "sha256": "39dcb104c56484434a526fdd7eff4fc1224159b48c9d45d7d69b4effc9251245"
     },
     {
       "bytes": 1184,
@@ -2178,11 +2188,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-17T13:06:41+00:00",
+  "generated_at": "2026-10-17T19:06:49+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 834674
+  "total_bytes": 840108
 }
