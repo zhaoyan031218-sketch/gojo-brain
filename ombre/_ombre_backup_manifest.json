@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 437,
+  "file_count": 438,
   "files": [
     {
       "bytes": 29494,
@@ -1038,9 +1038,9 @@
       "sha256": "d950f76fe1fb215c5b4ca6de391cfbf0cd5cd2411e206eeee00c76a54a24bc48"
     },
     {
-      "bytes": 1431,
+      "bytes": 1557,
       "path": "dynamic/健康/凌晨感官过载临时加半颗喹硫平_8ff1ca14f6cb.md",
-      "sha256": "a9ebed941d2727eb756f496571e33095f279681e7d6870ce023634ec46299f03"
+      "sha256": "63ad67c5143f7109351e79091b7eedb96e5bf716594b51568c9b5a63b0f301a1"
     },
     {
       "bytes": 993,
@@ -1058,9 +1058,9 @@
       "sha256": "087a5256345831abcb3d79214c700ec961c49b3f6067919a3015d45f1b900e78"
     },
     {
-      "bytes": 5419,
+      "bytes": 5529,
       "path": "dynamic/健康/药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "75f6377c3b5b8c2213e59c200458dd99868d4466ba7726798a24398735ae6816"
+      "sha256": "4f89d16b62d5ef1e65d0ef26a6eecb81cdba401c1fb649fdb9487197b31cfbbd"
     },
     {
       "bytes": 1740,
@@ -1298,9 +1298,9 @@
       "sha256": "0509ecc2f04fe2a57cfbd29259d0b5d4b370bedb30caf976a52c89f15838e533"
     },
     {
-      "bytes": 756,
+      "bytes": 882,
       "path": "dynamic/待续/东京亲密准备避孕药脱毛_87b020130da6.md",
-      "sha256": "05ffe78f75a828b0d62b1d2981b7db4b5d22c80222d0a91406c083ef1cda7ba2"
+      "sha256": "fa169d3467a4635473b06036c4ee8a10482dd71d41a5087f1e15484169062727"
     },
     {
       "bytes": 759,
@@ -1341,6 +1341,11 @@
       "bytes": 2823,
       "path": "dynamic/心理/2026-10-17 13-32-49 10月17日夜间trigger发作与重要自我觉察_57dc892b5bdd.md",
       "sha256": "8b62ae2ecc61b9b8ef0db59520fe93440356d22a6ea7452837a088d763635f58"
+    },
+    {
+      "bytes": 2033,
+      "path": "dynamic/心理/2026-10-18 12-22-35 双相波动观察性欲暴涨与创作欲旺盛_3445b854279c.md",
+      "sha256": "4c27b9257939bba7f60b2b6d65dca3445e32d7b78baa813a2e549dd7686b7f1b"
     },
     {
       "bytes": 1704,
@@ -1458,9 +1463,9 @@
       "sha256": "6dcf4aedf1269a034f12ec2ddc5e617fd56f34fa94e8fd520334402213c486c7"
     },
     {
-      "bytes": 1242,
+      "bytes": 1352,
       "path": "dynamic/恋爱/凡丁的性偏好坦白_c5a7982efe5a.md",
-      "sha256": "b97834f39b2e737563b349e160fd49b17f85ede1edc06793ac7a939bdd30e034"
+      "sha256": "3c3bbb9595a658207ca6014c5f63094a8558455fcdfa384045c10a72a8170d0c"
     },
     {
       "bytes": 1248,
@@ -1668,9 +1673,9 @@
       "sha256": "39dcb104c56484434a526fdd7eff4fc1224159b48c9d45d7d69b4effc9251245"
     },
     {
-      "bytes": 1184,
+      "bytes": 1309,
       "path": "dynamic/日常/通宵写囚禁反攻怀孕小黄文未服药_edda1302f684.md",
-      "sha256": "6218d242dc1f185441a0e8de75e77f13b35f8a0261ce2dd77e5c924f9f380d63"
+      "sha256": "1a18198bba5c9b3853f4a3f6b7f528e1b4d16a98aa63ad4eb86166975c54924f"
     },
     {
       "bytes": 1371,
@@ -2188,11 +2193,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-18T07:07:04+00:00",
+  "generated_at": "2026-10-18T13:07:11+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 840127
+  "total_bytes": 842757
 }

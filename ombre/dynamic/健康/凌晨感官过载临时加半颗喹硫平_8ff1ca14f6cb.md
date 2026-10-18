@@ -10,6 +10,13 @@ id: 8ff1ca14f6cb
 importance: 6
 last_active: '2026-10-03T12:16:13'
 name: 凌晨感官过载临时加半颗喹硫平
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8039
+  status: active
+  target_bucket_id: 3445b854279c
+  type: related_to
 source_tool: hold
 tags:
 - 健康
