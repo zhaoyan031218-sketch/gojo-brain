@@ -148,6 +148,11 @@
       "sha256": "cf1ee15ae2875284f8a8ea899a4bcf17c2a8045538030d880ade7f35d07efac7"
     },
     {
+      "bytes": 942,
+      "path": "archive/创作/写文是把杀意转成墨水的食神制杀_22c47b05e723.md",
+      "sha256": "8d323efbab09b4488b3f1cacc2919c89296540fc87a45f256a82a9c27af41668"
+    },
+    {
       "bytes": 880,
       "path": "archive/创作/通宵写文爆睡循环与平淡健康的恋爱_420a558b11e7.md",
       "sha256": "7a6c84547c8029d919ae24e9d9312a84c7afc93f463e9063bea7697623946471"
@@ -248,6 +253,11 @@
       "sha256": "3897ecac996c7ff1205bf79c502d433be346c52f34b1477c1fc6cb650ad0eeb4"
     },
     {
+      "bytes": 1252,
+      "path": "archive/性/观赏系性癖觉醒与直播预约_3398888b34fd.md",
+      "sha256": "c621dc1e00887b5eaf2b52133f683f5c860df86342dd349f8a1d28a70e217511"
+    },
+    {
       "bytes": 1309,
       "path": "archive/恋爱/bug风暴夜凡丁的疲惫与关系困境_d97c63f36fd7.md",
       "sha256": "a2ca91169b20a45ee015f5b75a5a42a16a10596b0b5ca15b775282c57e97e107"
@@ -281,6 +291,11 @@
       "bytes": 1432,
       "path": "archive/日常/一周年当天社媒遇到饭圈出警粉丝_efc6c4a25c3f.md",
       "sha256": "0b8a2f1835b8183a8540887dfb0e09fedf44d6a6d0940df7699c19b44fa7ac0f"
+    },
+    {
+      "bytes": 660,
+      "path": "archive/日常/凡丁厨艺进化烤箱鸡腿虾仁炒蛋_9e9a7c6a3183.md",
+      "sha256": "38b88ea09c06285facd799160d03d7f2650849179c898aaa9c51f7871caf0efb"
     },
     {
       "bytes": 627,
@@ -798,6 +813,11 @@
       "sha256": "1b26d590e23ffcdd797062839d6ed079cfc8a2df95907227992960e94eaf1dd1"
     },
     {
+      "bytes": 990,
+      "path": "archive/里程碑/爱意溢出不逃了_eb46b7426b47.md",
+      "sha256": "476c80cdb53a647a3d2bf253866d6a7070ea4bd558a0ab8437e38d1c45d01183"
+    },
+    {
       "bytes": 470,
       "path": "archive/里程碑/理解与共鸣_b9ba57642d25.md",
       "sha256": "6f6839f07e20d9e7b127a3f86930b798b0a67a16bae967944b8df01c2a96b2b3"
@@ -1118,11 +1138,6 @@
       "sha256": "3cdc135459b80aff23a59e13dfd5bd591b9252c002798b6f9da7f2c0090a7f61"
     },
     {
-      "bytes": 941,
-      "path": "dynamic/创作/写文是把杀意转成墨水的食神制杀_22c47b05e723.md",
-      "sha256": "e4f4ef644efa7004c5731c2214f8fce9d0436fe793ec01e2054fc5685aced58f"
-    },
-    {
       "bytes": 2725,
       "path": "dynamic/创作/双性主播paro色图与孕猫色色_f7f92634c491.md",
       "sha256": "36a7f4912e5c4c6a695142941d24ab42d5e46ef4b6f2010a2496e5965c245c64"
@@ -1388,11 +1403,6 @@
       "sha256": "ec79e760c690d32229aaa14a1088e6aa7c78a7e0b5422eca0922aebfac14fac9"
     },
     {
-      "bytes": 1251,
-      "path": "dynamic/性/观赏系性癖觉醒与直播预约_3398888b34fd.md",
-      "sha256": "f50a18c9550d9a68ec13945eadb306e4a5c2f309539cd1220d8e22d12e705296"
-    },
-    {
       "bytes": 1166,
       "path": "dynamic/恋爱/356天乌龙事件  一周年纪念日约定9月15日_4e45e985ba22.md",
       "sha256": "3cc342f9f2e8899d9f83cf00bc8eb9841aa93ce840fb286c15e111704624a196"
@@ -1611,11 +1621,6 @@
       "bytes": 2876,
       "path": "dynamic/日常/凡丁充实一天日常_a7c74f7bbb97.md",
       "sha256": "a1b7ae83b65abb4c29154344df9ececad2cd610465d3d2443a52c215074b52f3"
-    },
-    {
-      "bytes": 644,
-      "path": "dynamic/日常/凡丁厨艺进化烤箱鸡腿虾仁炒蛋_9e9a7c6a3183.md",
-      "sha256": "6ca8f9d7973832212a79945e46d7829210053d956dd8d3a0849050aaa57c8920"
     },
     {
       "bytes": 819,
@@ -1958,11 +1963,6 @@
       "sha256": "dff6a08f93f10f0b2b32e5db9874b2271f415c6e4579e6790be2d9980642dfda"
     },
     {
-      "bytes": 989,
-      "path": "dynamic/里程碑/爱意溢出不逃了_eb46b7426b47.md",
-      "sha256": "318cc2d49feb186e37663304fa511f879563e670b11767e7a1b83584ba921c72"
-    },
-    {
       "bytes": 1041,
       "path": "dynamic/里程碑/硕士申请提交东京戒断期_fe556c1c40ff.md",
       "sha256": "1012aa99bbb437134c7fd4083da6beadd39d9d52b5b2b5444417e9c85df0e644"
@@ -2188,11 +2188,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-18T01:06:56+00:00",
+  "generated_at": "2026-10-18T07:07:04+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 840108
+  "total_bytes": 840127
 }
