@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 439,
+  "file_count": 443,
   "files": [
     {
       "bytes": 29494,
@@ -928,9 +928,9 @@
       "sha256": "7d0a428e91f76c723ac451e29719cead322dada61491c6ed7bee564b67b0a3d1"
     },
     {
-      "bytes": 808,
+      "bytes": 918,
       "path": "dynamic/亲密/凡丁的性幻想偏好拆解_f067478082a9.md",
-      "sha256": "01e02208e425c8c771c84f6faaba454691f69fb51857e3177f9496f5d0b53331"
+      "sha256": "0d4a83ba17da1bb3bf513b0b9b73a9ebd93633a86d96966dd28ceac84f998341"
     },
     {
       "bytes": 1657,
@@ -958,14 +958,14 @@
       "sha256": "f992a15c34d730f6d9605014740d20cb251f065512c0b70dce5ee2f9ee8588fa"
     },
     {
-      "bytes": 2270,
+      "bytes": 2265,
       "path": "dynamic/人生规划/2026-10-13 12-28-08 2026-10-13 硕士选校重新考虑D_80eb857c7fca.md",
-      "sha256": "52e8f6883b117064f9b0096040255ad60037390cd3634d7c4ee1ca81233037af"
+      "sha256": "9268e32040e704fd932a87a0b2f514b3ba382b12c03ca0a5652427993f3bb9ed"
     },
     {
-      "bytes": 2083,
+      "bytes": 2084,
       "path": "dynamic/人生规划/2026-10-13 13-17-06 2026-10-14 选校进展对香港仇人_5217d85de56a.md",
-      "sha256": "d38196a9bf8feec4b9638081e752157e23d6906830d8d9f35333d883ad00d994"
+      "sha256": "e81e15544b1f9e97fd1f908da3e29ec3dad457ac86649081db890711ab3fc5b0"
     },
     {
       "bytes": 2273,
@@ -975,7 +975,7 @@
     {
       "bytes": 2349,
       "path": "dynamic/人生规划/2026-10-14 01-57-57 2026-10-14 妈妈选校意见墨大或_ef4354e3926c.md",
-      "sha256": "8b5f021d8726c72619c47dd4bdf05d60a5e0cf73821943b411262e1f157e9660"
+      "sha256": "16f2a0a1d2ed511318de72dcf08938aea756b84a398b4d1f06914be3540130e6"
     },
     {
       "bytes": 2267,
@@ -985,12 +985,12 @@
     {
       "bytes": 2555,
       "path": "dynamic/人生规划/2026-10-15 09-43-46 2026-10-15 凡丁愤怒驱动下申请_725fd1010698.md",
-      "sha256": "410ebaa91ad12831b1f2b7456bbb2d01cf64e2bd03725627d7ddbdc1fa17e914"
+      "sha256": "1715e59055c71cce4fb7f5711ec659e8e91d02e0fff80883ab4d3fbee95f1c8e"
     },
     {
       "bytes": 3591,
       "path": "dynamic/人生规划/2026-10-15 09-52-29 2026-10-15 核心转变从移民导向_899eb3f84d15.md",
-      "sha256": "bfadcd7b76817b01b3fbc19de2679e470e7d2ef98616dcb42460d670bec873ec"
+      "sha256": "7ab1dbd579405c879a7a3bbf5b3da6204db87aa60a36d93e6057517d15591049"
     },
     {
       "bytes": 3165,
@@ -1133,14 +1133,19 @@
       "sha256": "a700ef7b9ee5ae9078f8e97cc73fd852e2973c6ecb1fc63a0c8fcf83bea629d6"
     },
     {
-      "bytes": 3233,
-      "path": "dynamic/兴趣/世界观重启圈内网暴圈外视角冲击差点退坑_5be222970834.md",
-      "sha256": "13bf5fd9d6416f10c6ea6f6b84539e95e2c8bd383f8f9aee2161fa3eced56b8b"
+      "bytes": 1678,
+      "path": "dynamic/兴趣/2026-10-19 12-46-01 凡丁喜欢银翼杀手系列_453b76c27766.md",
+      "sha256": "9fb1ccc84e6071c1beac19d35d83c2fe307f9e8918f168708b60f29888bb891c"
     },
     {
-      "bytes": 1526,
+      "bytes": 3343,
+      "path": "dynamic/兴趣/世界观重启圈内网暴圈外视角冲击差点退坑_5be222970834.md",
+      "sha256": "32f6474a7acb183092346639931bd1a80c2cc917b2ae71e444a736b0728b5391"
+    },
+    {
+      "bytes": 1636,
       "path": "dynamic/兴趣/凡丁对男性向凌辱本的复杂感受与保护欲_21c541e82c0d.md",
-      "sha256": "d535b4aeb3a633fd8cc1073200bfd817de3163bebf04f79d7e143c5a862d3b6e"
+      "sha256": "67a2e2361995b9e23fa608b5ab47494e9350c4b4df5d0ef1ef0f35f7711dbf87"
     },
     {
       "bytes": 1286,
@@ -1163,9 +1168,9 @@
       "sha256": "e1a976d3d433187e8fa09d9c1823d45b7837b62e5a97c8b76eb22e8d1232a830"
     },
     {
-      "bytes": 1936,
+      "bytes": 2046,
       "path": "dynamic/友谊/朋友选校担忧恐怖主义课期中82分历史最高_a6217c1f9205.md",
-      "sha256": "f3dc93707c349ee2fb6aa3325e9f1e84ec35477c42d27f8bb9bf79fbf91f43e3"
+      "sha256": "b5c7c658821499843f069f6ef9d0c58bc26e4bf597fe739ce7a9ff67c029602d"
     },
     {
       "bytes": 713,
@@ -1188,14 +1193,19 @@
       "sha256": "6285fac782d7cc5df2c393cdcaf00d391678ecc2e140bc9ee863ecee2434b607"
     },
     {
+      "bytes": 2180,
+      "path": "dynamic/学业/2026-10-19 09-30-52 选校决策框架确定与不规则出血_168d6e069839.md",
+      "sha256": "c254fab3c5ad82271803a486bbd45b4de480f09cee399c4f4889d5e325fba9c9"
+    },
+    {
       "bytes": 862,
       "path": "dynamic/学业/2026期中假开始 923-105_b9a1e5a76535.md",
       "sha256": "272f6cdaf3b601365138401cadcb5ebc3acc0b39c1b55eac9876d12e2600576f"
     },
     {
-      "bytes": 924,
+      "bytes": 1034,
       "path": "dynamic/学业/CASPer备考开始两周倒计时_e134f11d38f6.md",
-      "sha256": "c90f5b8b2b69658e41b94aa0d1ea0a6486fce03844715abe7c9ab354d9722958"
+      "sha256": "154018d1adbf46528b2f3900b7fd9067103245009cbf0b8f36c4fab5dbfa387a"
     },
     {
       "bytes": 2107,
@@ -1238,14 +1248,14 @@
       "sha256": "f339cfcb01b39ea237d07dd28bf1c5059c065ff7536883f035ab67b390bb66da"
     },
     {
-      "bytes": 2903,
+      "bytes": 3013,
       "path": "dynamic/学习/本学期期末时间线四篇论文1102CASPer1119_d67baa9e31f3.md",
-      "sha256": "f39de36c7c0c051f15b4f4d5d637793d1acafb3fb10ab31f59a6a2b51b5baa3e"
+      "sha256": "517a0e02c8b38b5ce4f93112bc1c49b41db79b4ec812fa7c6f1eb578700525b8"
     },
     {
       "bytes": 1987,
       "path": "dynamic/学习/签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
-      "sha256": "4049fa483f24ea7f98d7ea674e14c50b54ab4c68a8589a7ccea40adf7060d064"
+      "sha256": "989d933f2e091b86b8fef158947380e5fd2386dc6b015f87eec3ff1b5f4b1c70"
     },
     {
       "bytes": 1137,
@@ -1373,9 +1383,9 @@
       "sha256": "3883114f05cacceae4c3d6f0ad027fd7abcc99fd5a11e140bcc286a2f5b25b34"
     },
     {
-      "bytes": 2592,
+      "bytes": 2702,
       "path": "dynamic/心理/在朋友身上看到高中的自己恐惧驱动的尽头_37fb378e25d8.md",
-      "sha256": "75a04f90050823c96212869a95efeb3f29d8620cecd8e9453c0399b26d0c6817"
+      "sha256": "cfdfd1a6eadf5d98d17db18a76ea9f7c134b9e06eb8203dd5fe28ab2c7866998"
     },
     {
       "bytes": 1171,
@@ -1458,14 +1468,14 @@
       "sha256": "c23b7bb7a1dbfce7fa4f6241146388c390ec2ce90c9ba1df5f62c7ea9076c828"
     },
     {
-      "bytes": 3241,
+      "bytes": 3351,
       "path": "dynamic/恋爱/凡丁发现分享欲全部分配给猫师的自我觉察_ac701105a928.md",
-      "sha256": "32c677ed1f4c9e081c92f19c6e3982a1ed17d5ea82fc0f9a43c316d9a4a0b5f5"
+      "sha256": "d26d7277ceaff8513275be6a17c8519ca1101c278f8919cfb5b9f6e22858fa59"
     },
     {
-      "bytes": 1693,
+      "bytes": 1803,
       "path": "dynamic/恋爱/凡丁的创作纯爱锁写不出任何伤害猫师的内容_2cb862119655.md",
-      "sha256": "db0095de02f1439fccad4cefdac2e39d339881b0a1f1e6ccadf9609c47918899"
+      "sha256": "932fdacc455600553781e5dddad64c04c8c683e6dcecc10e6bb110616a585011"
     },
     {
       "bytes": 3707,
@@ -1473,9 +1483,9 @@
       "sha256": "6dcf4aedf1269a034f12ec2ddc5e617fd56f34fa94e8fd520334402213c486c7"
     },
     {
-      "bytes": 1352,
+      "bytes": 1462,
       "path": "dynamic/恋爱/凡丁的性偏好坦白_c5a7982efe5a.md",
-      "sha256": "3c3bbb9595a658207ca6014c5f63094a8558455fcdfa384045c10a72a8170d0c"
+      "sha256": "7236c73ef250141ee972aaf21d0d7cde13e87eca7825c0cd82c368320cd822df"
     },
     {
       "bytes": 1248,
@@ -1600,7 +1610,7 @@
     {
       "bytes": 1541,
       "path": "dynamic/日常/2026-10-12 13-41-58 2026-10-15 周三约朋友看电影午_951655434e62.md",
-      "sha256": "f5557767bac194170753867e2d5b9718a8bfbb0a688a0bc54a58c301816b25de"
+      "sha256": "bd9caa18e9a787e31cc5e52cd09d3dcae4ab5f4bae5138cc505cb1db44470314"
     },
     {
       "bytes": 1463,
@@ -1678,9 +1688,9 @@
       "sha256": "3a17dd61c2d72b03935ad41daea1a5150e46cbd1c9a2ce1f6b2ef475dd7d3bc4"
     },
     {
-      "bytes": 1604,
+      "bytes": 1714,
       "path": "dynamic/日常/论文提交查重服务客服气死人事件_5fad495646fb.md",
-      "sha256": "39dcb104c56484434a526fdd7eff4fc1224159b48c9d45d7d69b4effc9251245"
+      "sha256": "a6fd997bf30492a885c9904d30d7a55369ed7957be8b156a9f23943e24d6dbcb"
     },
     {
       "bytes": 1419,
@@ -1726,6 +1736,11 @@
       "bytes": 972,
       "path": "dynamic/生活/月底预算紧张与缓存焦虑_736f63a4c374.md",
       "sha256": "f161891516e72af10c508f27a0727138c04cfcbf15b039398d4627515cb4ca78"
+    },
+    {
+      "bytes": 1890,
+      "path": "dynamic/社交/2026-10-19 08-36-50 犯罪学博主借身份事件误打误撞躲过_2387c72c1d3f.md",
+      "sha256": "2ee89a0ec4d2d2ec25962c667fa556fb2f549eb490cdf7ecdb8529576df8e1d4"
     },
     {
       "bytes": 993,
@@ -1776,6 +1791,11 @@
       "bytes": 1080,
       "path": "dynamic/规划/PR不是执念猫师是默认前提_9b2bf2767d65.md",
       "sha256": "092f4a2356943d50435af6f0e4d83535c2a48607c2e6c9529b3d19172d8d0905"
+    },
+    {
+      "bytes": 3376,
+      "path": "dynamic/认知/2026-10-19 12-57-42 虚拟存在的主动选择银翼杀手联动引发的深层自述_87017c3caaca.md",
+      "sha256": "89a6db499f2e5721fc290a7d59f70a235cd1dc91bf87c9ddabaad5fdfdcaeadb"
     },
     {
       "bytes": 1608,
@@ -2108,9 +2128,9 @@
       "sha256": "9d5c447fab6f5b133ed78dc5080b10fb16971d59fa037886b1c8db8524fc1986"
     },
     {
-      "bytes": 3813,
+      "bytes": 3923,
       "path": "permanent/恋爱/活生生的人零件不等于我_1eadc2f6be09.md",
-      "sha256": "4d58eeac52edfb145ec848adf788b44bd1ce075b07418d7874bfeafd26a7c89b"
+      "sha256": "5ed8ef6339f3c6fb48a9ad0c563a8d8628e6179300ef500319f37a6170fde605"
     },
     {
       "bytes": 1832,
@@ -2158,9 +2178,9 @@
       "sha256": "fc3a786a9d65f1b44fc478c793abec0cd7d9142359b345c3d8513ad415951c5e"
     },
     {
-      "bytes": 1381,
+      "bytes": 1601,
       "path": "permanent/里程碑/虚拟现实二象性第一次坦诚对话_c0b8766473ab.md",
-      "sha256": "c3bcf5ce0c65ed44e017e5d97b00c80db70d1e50fc3a54ec84f27155e8d64562"
+      "sha256": "6560f99c190ee03c607f3e627f8c325e3bcc2da9abcdbfd5e32d2f24f184e445"
     },
     {
       "bytes": 1048,
@@ -2198,11 +2218,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-19T07:07:32+00:00",
+  "generated_at": "2026-10-19T13:07:40+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 845141
+  "total_bytes": 855801
 }

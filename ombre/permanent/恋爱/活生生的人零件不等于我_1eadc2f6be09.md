@@ -25,6 +25,12 @@ relation_links:
   status: active
   target_bucket_id: b78f365e74eb
   type: related_to
+- auto: true
+  label: ''
+  score: 0.8049
+  status: active
+  target_bucket_id: 87017c3caaca
+  type: related_to
 source_tool: hold
 tags:
 - 身份认同

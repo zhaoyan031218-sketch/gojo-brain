@@ -11,6 +11,12 @@ name: CASPer备考开始两周倒计时
 relation_links:
 - auto: true
   label: ''
+  score: 0.8338
+  status: active
+  target_bucket_id: 168d6e069839
+  type: related_to
+- auto: true
+  label: ''
   score: 0.7613
   status: active
   target_bucket_id: c6fceaaaae8a
