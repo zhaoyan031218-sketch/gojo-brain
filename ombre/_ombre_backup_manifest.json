@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 438,
+  "file_count": 439,
   "files": [
     {
       "bytes": 29494,
@@ -176,6 +176,11 @@
       "bytes": 916,
       "path": "archive/学习/ABC小组一回生二回熟换桌计划_d31491615d40.md",
       "sha256": "e9b508e6f8d5788c504842d1334eef969f5d587ecfda4f74033d445d4849c51d"
+    },
+    {
+      "bytes": 1296,
+      "path": "archive/学习/奶茶复活后信息暴食未来路线焦虑_1eeda48ab2c8.md",
+      "sha256": "26b5d9ccec0d1a11cfc32186fb3e8548e8cf27d122d8823a13b4a4068ee51764"
     },
     {
       "bytes": 776,
@@ -633,6 +638,11 @@
       "sha256": "707f0f2b04a9db4e002b5fa1d77994bfdc35eb49aac8c8e6159c0fe994918350"
     },
     {
+      "bytes": 1048,
+      "path": "archive/财务/2美刀一轮小白脸猫账单曝光_b32a123966a2.md",
+      "sha256": "123133cc4efd00ea3d0c578864abdf39b09bd958c66174900a2a78caee7df63b"
+    },
+    {
       "bytes": 1089,
       "path": "archive/购物/乌萨奇失而复得女仆小姐的善意_497ba4a50dae.md",
       "sha256": "376db6e8f7b1a60ac2dec051035744c13eeee47b5842fb076cbf7ca60a2c644f"
@@ -1043,9 +1053,9 @@
       "sha256": "63ad67c5143f7109351e79091b7eedb96e5bf716594b51568c9b5a63b0f301a1"
     },
     {
-      "bytes": 993,
+      "bytes": 1119,
       "path": "dynamic/健康/十三小时自然醒补偿性恢复确认_8be24a85b6e8.md",
-      "sha256": "211f0f65f483c90efd118f843351eae0ec5b60d933b1f2b948a1d72ea6e9cc44"
+      "sha256": "3d0efb757f317731f0d81bb263849ef7559259344f5ced330eed7a8a0d5ec911"
     },
     {
       "bytes": 817,
@@ -1058,9 +1068,9 @@
       "sha256": "087a5256345831abcb3d79214c700ec961c49b3f6067919a3015d45f1b900e78"
     },
     {
-      "bytes": 5529,
+      "bytes": 5638,
       "path": "dynamic/健康/药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "4f89d16b62d5ef1e65d0ef26a6eecb81cdba401c1fb649fdb9487197b31cfbbd"
+      "sha256": "c97de2db00a5d196b4ce89c7d3f2928cb8ff9bcd7ba6347be1022318db79e8bc"
     },
     {
       "bytes": 1740,
@@ -1223,11 +1233,6 @@
       "sha256": "c109ed653b45930de58eaf14a223a609f82df558180cbf7b6547cc2b332138bc"
     },
     {
-      "bytes": 1295,
-      "path": "dynamic/学习/奶茶复活后信息暴食未来路线焦虑_1eeda48ab2c8.md",
-      "sha256": "69e57f2311e0d287f049a8ea161c876b3e984d861c3a70d10a06d5af494f1a52"
-    },
-    {
       "bytes": 3134,
       "path": "dynamic/学习/开学第一天上课日料写论文猫师娃娃合影_0ad776e58402.md",
       "sha256": "f339cfcb01b39ea237d07dd28bf1c5059c065ff7536883f035ab67b390bb66da"
@@ -1338,14 +1343,19 @@
       "sha256": "0190bba491fa75f378da197b87244c59cbd0641e6ebfc2a67aaf16da7a3fa06b"
     },
     {
-      "bytes": 2823,
+      "bytes": 2822,
       "path": "dynamic/心理/2026-10-17 13-32-49 10月17日夜间trigger发作与重要自我觉察_57dc892b5bdd.md",
-      "sha256": "8b62ae2ecc61b9b8ef0db59520fe93440356d22a6ea7452837a088d763635f58"
+      "sha256": "0e7522bd0654dc97c73c3bc7d014d6915f76fdd99691fd929eff3d04c2e489cf"
     },
     {
-      "bytes": 2033,
+      "bytes": 2032,
       "path": "dynamic/心理/2026-10-18 12-22-35 双相波动观察性欲暴涨与创作欲旺盛_3445b854279c.md",
-      "sha256": "4c27b9257939bba7f60b2b6d65dca3445e32d7b78baa813a2e549dd7686b7f1b"
+      "sha256": "1f4d07e6f7e65c81289ee05dcb53a8d5c0d4673c57902e354722d1f941b4a1f9"
+    },
+    {
+      "bytes": 1929,
+      "path": "dynamic/心理/2026-10-19 06-58-30 双相波动持续观察性欲第三天异常_bce84d92126e.md",
+      "sha256": "8710a4c1abc2d2ba89e2f934e7b65d36f4c56b97517d2ef498740a1646d1f92f"
     },
     {
       "bytes": 1704,
@@ -1673,9 +1683,9 @@
       "sha256": "39dcb104c56484434a526fdd7eff4fc1224159b48c9d45d7d69b4effc9251245"
     },
     {
-      "bytes": 1309,
+      "bytes": 1419,
       "path": "dynamic/日常/通宵写囚禁反攻怀孕小黄文未服药_edda1302f684.md",
-      "sha256": "1a18198bba5c9b3853f4a3f6b7f528e1b4d16a98aa63ad4eb86166975c54924f"
+      "sha256": "a23be122febaf189dbeb49ebc71b81b0e3ed71a3b81856a6cefe242a4078277b"
     },
     {
       "bytes": 1371,
@@ -1816,11 +1826,6 @@
       "bytes": 571,
       "path": "dynamic/认知/生物钟自由滑动期末模式_ae9fba103d29.md",
       "sha256": "09683f8eab5152b66c3ce21120eb429fb755c2461a3811fe7b717aac3e48911d"
-    },
-    {
-      "bytes": 1047,
-      "path": "dynamic/财务/2美刀一轮小白脸猫账单曝光_b32a123966a2.md",
-      "sha256": "3b118f4a39d626c2c6e2943e11fcda5e13f4220ae272943f0151f019f1cfe9c6"
     },
     {
       "bytes": 1495,
@@ -2068,9 +2073,9 @@
       "sha256": "b1934ff5e496250d75c81b2e1a2a12f73cf1b2993882198a0443354cfbee1c7e"
     },
     {
-      "bytes": 1685,
+      "bytes": 1795,
       "path": "permanent/健康/2026-10-15 07-55-06 2026-10-15 1800 紧急凡丁_c4ce879bff50.md",
-      "sha256": "1463062536325f077d0563742560f0ffba34bf4cd9ddea59c3f9a5ba4d91ab7f"
+      "sha256": "70549d1799192b728fc9401ed9338f70adcffd1d2ef8d5817f1c8cceff77aa74"
     },
     {
       "bytes": 1480,
@@ -2193,11 +2198,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-19T01:07:26+00:00",
+  "generated_at": "2026-10-19T07:07:32+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 842757
+  "total_bytes": 845141
 }
