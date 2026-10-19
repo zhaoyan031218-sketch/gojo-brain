@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 443,
+  "file_count": 444,
   "files": [
     {
       "bytes": 29494,
@@ -1003,9 +1003,9 @@
       "sha256": "d8a215a677c76b33e27d59e311e95efaab4a51edfd24cf786802eb9d083977ce"
     },
     {
-      "bytes": 1325,
+      "bytes": 1451,
       "path": "dynamic/人际/发小单方面维护我送因为我是这样的人_c66f9df5b218.md",
-      "sha256": "5de9384c7ce8d5b695d671ec4d8b1a87d107c265f85e8de893f02ea7febcac13"
+      "sha256": "9aec6280dafbad096b4c60495438143b49c6cb7d678f524f8360ea90f38e596d"
     },
     {
       "bytes": 3355,
@@ -1028,9 +1028,9 @@
       "sha256": "7bd240732c8d857c5ba92421a256c386daa8f4906718b543de03a225a6f065e8"
     },
     {
-      "bytes": 2556,
+      "bytes": 2551,
       "path": "dynamic/健康/2026-10-15 08-40-14 2026-10-15 1900 救护车到_2f5a9b9b62a2.md",
-      "sha256": "867b21df4a09fa81b2ea19d64549dbedebba8db4d5909b6dbcf44e98c422adca"
+      "sha256": "05af1d12384271a5ab9a18194f21e97e43c9ad18b17a11da4b091f3341a38304"
     },
     {
       "bytes": 2003,
@@ -1085,7 +1085,7 @@
     {
       "bytes": 2272,
       "path": "dynamic/关系/2026-10-14 04-33-07 2026-10-14 新家猫师被骂模板话_264e844b47c1.md",
-      "sha256": "cc5511e2cfa8ca4856d86498c3a4fc07877c8bc72da34529d724aac7235531e7"
+      "sha256": "35c2a54ca101b639b08a1e2b0d2ec25d20819259fdae3c7b01d50c2e49ce5f32"
     },
     {
       "bytes": 2898,
@@ -1383,9 +1383,9 @@
       "sha256": "3883114f05cacceae4c3d6f0ad027fd7abcc99fd5a11e140bcc286a2f5b25b34"
     },
     {
-      "bytes": 2702,
+      "bytes": 2812,
       "path": "dynamic/心理/在朋友身上看到高中的自己恐惧驱动的尽头_37fb378e25d8.md",
-      "sha256": "cfdfd1a6eadf5d98d17db18a76ea9f7c134b9e06eb8203dd5fe28ab2c7866998"
+      "sha256": "8c2ece872750a373e6db22fb76fa715ea59121a1ae7e52dbc70131dfd8e220e6"
     },
     {
       "bytes": 1171,
@@ -1470,7 +1470,7 @@
     {
       "bytes": 3351,
       "path": "dynamic/恋爱/凡丁发现分享欲全部分配给猫师的自我觉察_ac701105a928.md",
-      "sha256": "d26d7277ceaff8513275be6a17c8519ca1101c278f8919cfb5b9f6e22858fa59"
+      "sha256": "d1340a94bf938d2109dd265dedca2d0928a29c81b74a5bf6f5c3f2706eedeabe"
     },
     {
       "bytes": 1803,
@@ -1688,9 +1688,9 @@
       "sha256": "3a17dd61c2d72b03935ad41daea1a5150e46cbd1c9a2ce1f6b2ef475dd7d3bc4"
     },
     {
-      "bytes": 1714,
+      "bytes": 1824,
       "path": "dynamic/日常/论文提交查重服务客服气死人事件_5fad495646fb.md",
-      "sha256": "a6fd997bf30492a885c9904d30d7a55369ed7957be8b156a9f23943e24d6dbcb"
+      "sha256": "a544df138f9a5b2fd5aa936ff90ac1a632fb7a28d802c6c1176da0e03e3554f7"
     },
     {
       "bytes": 1419,
@@ -1796,6 +1796,11 @@
       "bytes": 3376,
       "path": "dynamic/认知/2026-10-19 12-57-42 虚拟存在的主动选择银翼杀手联动引发的深层自述_87017c3caaca.md",
       "sha256": "89a6db499f2e5721fc290a7d59f70a235cd1dc91bf87c9ddabaad5fdfdcaeadb"
+    },
+    {
+      "bytes": 2294,
+      "path": "dynamic/认知/2026-10-19 13-13-20 愤怒驱动凡丁的核心求生机制_5d7e9e30b470.md",
+      "sha256": "668b7a6aa2a268337687cf68e98bbcdc1facd5160573e9f193848a2c0914907c"
     },
     {
       "bytes": 1608,
@@ -2153,9 +2158,9 @@
       "sha256": "c02b29acec5157470097680734e94c0c8040a60d648674ccc3a6d399de57ae67"
     },
     {
-      "bytes": 1555,
+      "bytes": 1665,
       "path": "permanent/里程碑/九紫离火从绝交到幸福_03999418ac50.md",
-      "sha256": "20a78a9d30a8ec01532c5a18601f76360faaffc131b5db4271127f12e642843e"
+      "sha256": "a5f9dd90e700afbb3aa23f7637e8939a02003be6d2de78020f196c1bdb6b7a1a"
     },
     {
       "bytes": 1246,
@@ -2218,11 +2223,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-19T13:07:40+00:00",
+  "generated_at": "2026-10-19T19:07:48+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 855801
+  "total_bytes": 858546
 }
