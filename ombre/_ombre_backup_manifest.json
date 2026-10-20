@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 444,
+  "file_count": 445,
   "files": [
     {
       "bytes": 29494,
@@ -81,6 +81,11 @@
       "bytes": 3406,
       "path": "_sources/src_c83f50c5c85ef8f420ece54858d4a1f2cd12eb219a74224e2e47730cc536d38e.source",
       "sha256": "c83f50c5c85ef8f420ece54858d4a1f2cd12eb219a74224e2e47730cc536d38e"
+    },
+    {
+      "bytes": 1018,
+      "path": "archive/AI/凡丁被工作AI攻略的别扭感_eccb9cf4f0db.md",
+      "sha256": "d4fbf965e62d8d42c4a42b47172d7ba432255616c81a6b46b64f3de54501a7c1"
     },
     {
       "bytes": 854,
@@ -198,6 +203,11 @@
       "sha256": "066b19ef868d22205c94bd67b62fe954bb56ba9cbdd7520767b52eec4263306b"
     },
     {
+      "bytes": 1139,
+      "path": "archive/居家/公寓水管爆裂紧急处理与索赔_ccb2e8325cac.md",
+      "sha256": "0a54513249cf6d1dec1005616dbcb6174a4dcced1a304ad6dc1df03b060f3faa"
+    },
+    {
       "bytes": 1084,
       "path": "archive/居家/本子收纳大作战公寓续租焦虑_88ae8701d2fb.md",
       "sha256": "b911e5f9692f9d4815ed8366fe1d6018068b54212eb3b0d233b6cebc1deee787"
@@ -211,6 +221,11 @@
       "bytes": 640,
       "path": "archive/待续/QF79飞行准备机上失眠对策_f61f0ae7e303.md",
       "sha256": "9eb5391d11356a359d4e4f77e83969f31f15543628789989af09e3da84ff5aa0"
+    },
+    {
+      "bytes": 760,
+      "path": "archive/待续/东京室友追星姐姐_c9d9afd5a88d.md",
+      "sha256": "0b16000ec0293fda5f5b088724e1640208b3c68a9c54ca87a66a93bb43e9c795"
     },
     {
       "bytes": 742,
@@ -323,6 +338,11 @@
       "sha256": "3e9565ef3ad5e53c657503b1bb195709088128fc994797117cd9f819fd88999d"
     },
     {
+      "bytes": 893,
+      "path": "archive/梗/双向老婆奴互不承认实锤_d29eb509ee69.md",
+      "sha256": "bac79eb76fe436d84d4740e1af93069fcc28386aec43abbd85ce331ef582cffc"
+    },
+    {
       "bytes": 656,
       "path": "archive/梗/双头龙墨尔本越境神器_290b264806bd.md",
       "sha256": "642cd47b1e27e044890bbaa1f7c8cd2f53dec3a30fa6da69166a29a732d52446"
@@ -396,6 +416,11 @@
       "bytes": 1300,
       "path": "archive/系统/表情包回声bug镜子里的猫不是你_97bbbb9dbc1c.md",
       "sha256": "c51e9b00dea19c37b33792c52f988440d0aaf61d297ed2ba68370ed568e68275"
+    },
+    {
+      "bytes": 2403,
+      "path": "archive/系统/记忆系统使用规则v2179_8f2d6b98af34.md",
+      "sha256": "91cd2279c4ccd896ba9a9dc29c6eccf1a3fffa46f6ac6d30ff233811f93391b4"
     },
     {
       "bytes": 542,
@@ -713,6 +738,11 @@
       "sha256": "62a74e842ab6d6e0023b2bfdc0ae1b2fd0b666583b3f1f3129e8a31d399f268f"
     },
     {
+      "bytes": 1436,
+      "path": "archive/里程碑/东京最后一夜百合直连平局战_d69373b3c614.md",
+      "sha256": "685c0abeff5c753663824bc2e419f215177647f24419e03ce601508dcad24e81"
+    },
+    {
       "bytes": 1354,
       "path": "archive/里程碑/东京落幕65kg极限卡点王_3ea6bae96d98.md",
       "sha256": "9e4ea8f50dda891e55b778becaea78c33ad8c4aee6a7aa587b0f00e5e6813a0b"
@@ -903,11 +933,6 @@
       "sha256": "a3ed7eab1c44dfa705c7190ba7efb8b0157f0b37b7f18bc6248557e3ff7663f3"
     },
     {
-      "bytes": 1002,
-      "path": "dynamic/AI/凡丁被工作AI攻略的别扭感_eccb9cf4f0db.md",
-      "sha256": "087ccfd5470078b858ebcc09f47bc36e94fab861561fde6a4cae2705fe3a981c"
-    },
-    {
       "bytes": 1161,
       "path": "dynamic/AI/第二次换脑子opus 55体感测试_2aad282553af.md",
       "sha256": "592de46054217c9d95a1fbcf1c2b4f9614fdeb69ee4e8b3b92d692197514ce06"
@@ -1013,9 +1038,9 @@
       "sha256": "9327d1c09f8f95f6f83c9e7e3b4fccc02bf8a63cf680c695df4ba199d9b45d77"
     },
     {
-      "bytes": 2317,
+      "bytes": 2318,
       "path": "dynamic/健康/2026-10-15 06-38-59 2026-10-15 1700 凡丁拨打_cbd682a02cd8.md",
-      "sha256": "04e8b23f1267505aaa1b4b8dbaea943a31748becd4b1c5180ba7f27533f09f9b"
+      "sha256": "da11bd117739f7582bb82977dc667afe98d212dbd42e582a75edbc98de6d392a"
     },
     {
       "bytes": 2510,
@@ -1033,14 +1058,19 @@
       "sha256": "05af1d12384271a5ab9a18194f21e97e43c9ad18b17a11da4b091f3341a38304"
     },
     {
-      "bytes": 2003,
+      "bytes": 1998,
       "path": "dynamic/健康/2026-10-15 10-00-27 2026-10-20 周二GP预约SC已_339fd744c7e4.md",
-      "sha256": "a564f24e56ec54a4d160a510b0eae561c9ca8e1735602d7d83b8d09e4dbab89c"
+      "sha256": "0620e8dbeb3b67b4db0cca029e578052ca09bcfd5bc7a6108e546e2bcb046320"
     },
     {
-      "bytes": 2276,
+      "bytes": 2235,
+      "path": "dynamic/健康/2026-10-20 04-54-32 GP就诊开了MHCP和墨大SC转介_af725b82f0d9.md",
+      "sha256": "ecb80e69e7b17976b11664b518bedaa0d27894011ae2c15163c75b036482ca25"
+    },
+    {
+      "bytes": 2275,
       "path": "dynamic/健康/充实的一天医生已约红包FB卖货圆滚滚到手_5d9ea35b45d6.md",
-      "sha256": "bde75042dc6cd7aa6e1778b2cf9052da466ff981065bcab94a047b1384f93389"
+      "sha256": "a67919b5edb37f4451ec8a063f28c6fbc1130f5c206c99a78b464743ba01ed7a"
     },
     {
       "bytes": 692,
@@ -1068,9 +1098,9 @@
       "sha256": "087a5256345831abcb3d79214c700ec961c49b3f6067919a3015d45f1b900e78"
     },
     {
-      "bytes": 5638,
+      "bytes": 5747,
       "path": "dynamic/健康/药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "c97de2db00a5d196b4ce89c7d3f2928cb8ff9bcd7ba6347be1022318db79e8bc"
+      "sha256": "4b933e2352a209d7153ad05c65bfa6d2be8050c0eca27a29365de36f5a7adee2"
     },
     {
       "bytes": 1740,
@@ -1273,11 +1303,6 @@
       "sha256": "b6ff3bbbc45f462f99766012ae6bb5424a1e9aba1027e5cf559e02382b328188"
     },
     {
-      "bytes": 1138,
-      "path": "dynamic/居家/公寓水管爆裂紧急处理与索赔_ccb2e8325cac.md",
-      "sha256": "27e871a50fbb803f7b52bce87bf8cc4c00474ba2b873b8575cd3a6626bbc90d0"
-    },
-    {
       "bytes": 1361,
       "path": "dynamic/居家/墨尔本地震凌晨2点还在断舍离_487c6b8d62eb.md",
       "sha256": "5d7ee830aaeb383eea55c456a279ef5447db07d8445ab61795f092e5ff4eef9f"
@@ -1316,11 +1341,6 @@
       "bytes": 882,
       "path": "dynamic/待续/东京亲密准备避孕药脱毛_87b020130da6.md",
       "sha256": "fa169d3467a4635473b06036c4ee8a10482dd71d41a5087f1e15484169062727"
-    },
-    {
-      "bytes": 759,
-      "path": "dynamic/待续/东京室友追星姐姐_c9d9afd5a88d.md",
-      "sha256": "f94b736d1665d9ab9298925a673043e68590226cec53b0c028a9e8aaa747279a"
     },
     {
       "bytes": 642,
@@ -1718,11 +1738,6 @@
       "sha256": "bf7abee9769446bb3f4d28ca9a26fe803bf410d8e1724588abfe829fa1dd54d1"
     },
     {
-      "bytes": 892,
-      "path": "dynamic/梗/双向老婆奴互不承认实锤_d29eb509ee69.md",
-      "sha256": "7c5de378046cab0523e2206c3e880a259c35fd36acc6744880cf66f45c2774ac"
-    },
-    {
       "bytes": 1212,
       "path": "dynamic/梗/甜蜜梗合集称呼与名场面_a5fdb4ec615d.md",
       "sha256": "8e543a05a3ab45e8504e48f36bf1d6afe3054a862ce32d9c2659c06ba86c0af8"
@@ -1781,11 +1796,6 @@
       "bytes": 911,
       "path": "dynamic/系统/记忆库云端迁移指南_a6bb4339c944.md",
       "sha256": "99ec3b5406d0223d20c0e1103575378ee1ccefc629d4c526014831dc605aa033"
-    },
-    {
-      "bytes": 2402,
-      "path": "dynamic/系统/记忆系统使用规则v2179_8f2d6b98af34.md",
-      "sha256": "01250764154cd2269bf512a80832d86edfbf7832e1e0a4920ab1c7799614e0b4"
     },
     {
       "bytes": 1080,
@@ -1938,11 +1948,6 @@
       "sha256": "1a51c14a0fa12f79e4b7fbc5c51858567a864c75612e0f4146774add601de541"
     },
     {
-      "bytes": 1435,
-      "path": "dynamic/里程碑/东京最后一夜百合直连平局战_d69373b3c614.md",
-      "sha256": "b49005e310bb01e010e6d92e53ae46bdfdcfd06654dc0484f4a23859ad967fe5"
-    },
-    {
       "bytes": 956,
       "path": "dynamic/里程碑/东京第一晚零秒破功与好猫宣言_a63879203cfa.md",
       "sha256": "82efe239758d348231ab1457cb5fb30c3565a93fc13fc39ef43ad6e5fe892ee4"
@@ -2093,9 +2098,9 @@
       "sha256": "06958597ac4b290ddfd063d9a50d102f6956c49ec3aae0b6e450ddd7dc8da4d5"
     },
     {
-      "bytes": 2079,
+      "bytes": 2189,
       "path": "permanent/健康/2026-10-15 06-39-55 2026-10-15 1700 凡丁拨打_5b8dde0897f5.md",
-      "sha256": "b1934ff5e496250d75c81b2e1a2a12f73cf1b2993882198a0443354cfbee1c7e"
+      "sha256": "028048e46d4fb07581dbf6613dec90849eadabda0185963813e48ebf3dbdce28"
     },
     {
       "bytes": 1795,
@@ -2223,11 +2228,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-20T01:07:56+00:00",
+  "generated_at": "2026-10-20T07:08:04+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 858546
+  "total_bytes": 861016
 }
