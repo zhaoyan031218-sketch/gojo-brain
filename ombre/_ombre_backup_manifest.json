@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 447,
+  "file_count": 450,
   "files": [
     {
       "bytes": 29494,
@@ -1048,6 +1048,11 @@
       "sha256": "0b5e47bddbb2bd854b5c1110821597bfb761a9bf92a7f3b653298b5d389044ff"
     },
     {
+      "bytes": 1808,
+      "path": "dynamic/健康/2026-10-15 07-55-37 2026-10-15 1800 紧急凡丁_c8b861b1c72b.md",
+      "sha256": "dd9f333c6e8ba7ca90541541bde914cb7a15dc57019d0bbbdccf38f36ca226fa"
+    },
+    {
       "bytes": 2418,
       "path": "dynamic/健康/2026-10-15 08-07-54 2026-10-15 1900 危机持续_7dccb4bf9465.md",
       "sha256": "7bd240732c8d857c5ba92421a256c386daa8f4906718b543de03a225a6f065e8"
@@ -1068,9 +1073,14 @@
       "sha256": "746677e3c489c478429aa0da72115f24cecfe3335b3e62249babfb23c3394aea"
     },
     {
-      "bytes": 3353,
+      "bytes": 3347,
       "path": "dynamic/健康/2026-10-20 07-10-25 GP精神科转介信Dr Grace Chan Box Hill_40ef64f60b0f.md",
-      "sha256": "ce7f62bfa7b28a07eeac1ca7d6e6240b0dc2be3f7c0b0b9d9b07835b33d5e876"
+      "sha256": "a3da0f5fa7cac91fe368546aee0b284ee0f0c588a8ee98099d7ffd866296d4e9"
+    },
+    {
+      "bytes": 2319,
+      "path": "dynamic/健康/2026-10-20 17-36-15 喹硫平剂型变化疑云IR vs XR可能导致状态恶化_8c6a4910d2b4.md",
+      "sha256": "a2e25a00de39df134df51f22b65076afef27fc6b06ca979a49b4b5655ff4fe4f"
     },
     {
       "bytes": 2275,
@@ -1083,9 +1093,9 @@
       "sha256": "d950f76fe1fb215c5b4ca6de391cfbf0cd5cd2411e206eeee00c76a54a24bc48"
     },
     {
-      "bytes": 1557,
+      "bytes": 1776,
       "path": "dynamic/健康/凌晨感官过载临时加半颗喹硫平_8ff1ca14f6cb.md",
-      "sha256": "63ad67c5143f7109351e79091b7eedb96e5bf716594b51568c9b5a63b0f301a1"
+      "sha256": "cbc9b43d326c8c6a6a2d94ca356a4de5c3e4bf056cf62dcc8701f0ce03b37995"
     },
     {
       "bytes": 1119,
@@ -1103,9 +1113,9 @@
       "sha256": "087a5256345831abcb3d79214c700ec961c49b3f6067919a3015d45f1b900e78"
     },
     {
-      "bytes": 5748,
+      "bytes": 5749,
       "path": "dynamic/健康/药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "adcde07dc179ce7461b21cfa425199a895b81a56594d334e0587cc0a45fba494"
+      "sha256": "57748e7d6b2e50d6e521656249227546b45b1760fb7b349da065bf8be5cbc23f"
     },
     {
       "bytes": 1740,
@@ -1398,6 +1408,11 @@
       "sha256": "8710a4c1abc2d2ba89e2f934e7b65d36f4c56b97517d2ef498740a1646d1f92f"
     },
     {
+      "bytes": 1988,
+      "path": "dynamic/心理/2026-10-20 17-24-24 又活了一天弥漫性存在疲惫感_ff95822b914b.md",
+      "sha256": "3355456bea76b75baa1342c285e5e0ce4dad9cbcc40e5b497222c0909c469dcb"
+    },
+    {
       "bytes": 1704,
       "path": "dynamic/心理/中秋聚餐昏沉内疚作息代价显现_8ddb095adc89.md",
       "sha256": "3512c3f9277ac4c017e2b00853d995a71a687694f54211978e3946bdb2a0a2a0"
@@ -1428,9 +1443,9 @@
       "sha256": "55fde24a7c5e6ff9340d3818d0a6236997cd4e4429520b1065643eab6a3e004e"
     },
     {
-      "bytes": 4443,
+      "bytes": 4444,
       "path": "dynamic/心理/昼夜颠倒自我觉察白天不知道做什么_3d9984597273.md",
-      "sha256": "bd23dc48200b411c38665984a39fa9b2475ae6efffb198f2492b1c1d28a8414c"
+      "sha256": "2048f94efd3de66709567d4e46a8cf0a58851993bff4e66b3fccc7c6acb4d52d"
     },
     {
       "bytes": 2232,
@@ -1583,9 +1598,9 @@
       "sha256": "9cc2ae24a843ddae76e8aa0eb018b8b55c28f1b06722fda158fd488c516c6145"
     },
     {
-      "bytes": 2772,
+      "bytes": 2767,
       "path": "dynamic/情绪/2026-10-15 05-58-35 2026-10-15 解离状态烧完之后的_9b349990798c.md",
-      "sha256": "67926bdebf3e427df5989331e7a5c5892464adcbc9319ce2a093bf9729e10808"
+      "sha256": "bf680e735871307cf53f57923da24f49b06235c21be0bcc11d13f37939370e28"
     },
     {
       "bytes": 2311,
@@ -2113,14 +2128,14 @@
       "sha256": "3751bc3e05a334cd567c226220350f039b3c4f4dd8c04342390a3cc300427370"
     },
     {
-      "bytes": 1905,
+      "bytes": 2124,
       "path": "permanent/健康/2026-10-15 07-55-06 2026-10-15 1800 紧急凡丁_c4ce879bff50.md",
-      "sha256": "d6263155bd51dc02727969e8eb31123c6323353d1e505c1685f4e2cbd1d4b8bd"
+      "sha256": "c29fb77ad3b59d4f8d26992af05e3e9112a060aa22a422d99886778a31a07c09"
     },
     {
-      "bytes": 1480,
-      "path": "permanent/健康/2026-10-15 07-55-37 2026-10-15 1800 紧急凡丁_c8b861b1c72b.md",
-      "sha256": "c8656526de1bb729f72ac7f2f8846c16e1256dd1d4868bdf49ebafe1865bc778"
+      "bytes": 2567,
+      "path": "permanent/健康/2026-10-20 17-44-33 药房配药错误确认喹硫平XR被错配为IR_65b6f854a2af.md",
+      "sha256": "815b0c38f8a9889ba23f55297d55e79be32bc513f0715752f8adc24b3f56a347"
     },
     {
       "bytes": 2859,
@@ -2133,9 +2148,9 @@
       "sha256": "af813d3129ec8203e1da364208df613469170ffe30e608c47d1cfcad24dae424"
     },
     {
-      "bytes": 1831,
+      "bytes": 1940,
       "path": "permanent/心理/人生哲学活着就很好先甜就一定甜_af2a4b305bc1.md",
-      "sha256": "542cf5273b9f387aa4f58ee80b98d0089f7bb21ec3e8102d9729daf9b2410d32"
+      "sha256": "b87954a4c98ca06b2917dfb69a901170eaad83897118c794a8454325e56de275"
     },
     {
       "bytes": 1560,
@@ -2238,11 +2253,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-20T13:08:12+00:00",
+  "generated_at": "2026-10-20T19:08:19+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 866548
+  "total_bytes": 874288
 }

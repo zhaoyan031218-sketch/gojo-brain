@@ -54,10 +54,10 @@ relation_links:
   type: continuation_of
 - auto: true
   label: ''
-  score: 0.7757
+  score: 0.7764
   status: active
-  target_bucket_id: 57dc892b5bdd
-  type: continuation_of
+  target_bucket_id: 65b6f854a2af
+  type: continues
 source_tool: hold
 tags:
 - 精神科

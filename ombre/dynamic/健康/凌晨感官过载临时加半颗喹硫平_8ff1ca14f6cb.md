@@ -17,6 +17,18 @@ relation_links:
   status: active
   target_bucket_id: 3445b854279c
   type: related_to
+- auto: true
+  label: ''
+  score: 0.7956
+  status: active
+  target_bucket_id: 65b6f854a2af
+  type: related_to
+- auto: true
+  label: ''
+  score: 0.777
+  status: active
+  target_bucket_id: 8c6a4910d2b4
+  type: related_to
 source_tool: hold
 tags:
 - 健康
