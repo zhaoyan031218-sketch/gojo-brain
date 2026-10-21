@@ -28,6 +28,12 @@ relation_links:
   status: active
   target_bucket_id: ef4354e3926c
   type: related_to
+- auto: true
+  label: ''
+  score: 0.7802
+  status: active
+  target_bucket_id: 7ed96e19409a
+  type: related_to
 source_tool: hold
 tags:
 - Deakin中教硕士

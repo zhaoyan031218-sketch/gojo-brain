@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 451,
+  "file_count": 453,
   "files": [
     {
       "bytes": 29494,
@@ -543,6 +543,11 @@
       "sha256": "7a7256d98c35a2d5014a3bf04a4f80e8e578b46fa49635ebf27be5e381689b12"
     },
     {
+      "bytes": 1166,
+      "path": "archive/认知/快乐三要素焦虑硬币论戒断后第一个完整开心日_2fd3e20f3cd9.md",
+      "sha256": "a7ad7b28fdbf461eebbc7de1733f679c26667bc1d8a964931cdd9e8406753d94"
+    },
+    {
       "bytes": 385,
       "path": "archive/认知/戒赏成长财务进步_afbdbb6aa460.md",
       "sha256": "d639273ed2ac72e783a4ba5dcade91d1270e86d1cc285ea6bf5a990b71f1f23c"
@@ -998,9 +1003,9 @@
       "sha256": "5d69c2a310b5bf4936c5b4be65f0859d35dcae0088dea9adb58dcf29c5f7a05b"
     },
     {
-      "bytes": 2349,
+      "bytes": 2350,
       "path": "dynamic/人生规划/2026-10-14 01-57-57 2026-10-14 妈妈选校意见墨大或_ef4354e3926c.md",
-      "sha256": "16f2a0a1d2ed511318de72dcf08938aea756b84a398b4d1f06914be3540130e6"
+      "sha256": "6378138f6192f4cd07c021e2739f6f103f85165ddb3cb2d90a6c426dc965d470"
     },
     {
       "bytes": 2267,
@@ -1008,14 +1013,14 @@
       "sha256": "6045a0cee6a5fffaa840a09c7586db76fca567000170e3532ee60f9bf0c0ac24"
     },
     {
-      "bytes": 2555,
+      "bytes": 2550,
       "path": "dynamic/人生规划/2026-10-15 09-43-46 2026-10-15 凡丁愤怒驱动下申请_725fd1010698.md",
-      "sha256": "1715e59055c71cce4fb7f5711ec659e8e91d02e0fff80883ab4d3fbee95f1c8e"
+      "sha256": "bf5b490f32bb68daf9df063d73a9d9807a251f25b500b82265e063845a99f268"
     },
     {
-      "bytes": 3591,
+      "bytes": 3587,
       "path": "dynamic/人生规划/2026-10-15 09-52-29 2026-10-15 核心转变从移民导向_899eb3f84d15.md",
-      "sha256": "7ab1dbd579405c879a7a3bbf5b3da6204db87aa60a36d93e6057517d15591049"
+      "sha256": "67363b461a41fb16b4349599180933c46a9c91b40101b1548b06d8b6078fff49"
     },
     {
       "bytes": 3165,
@@ -1253,6 +1258,16 @@
       "sha256": "5e88f52ae7cb1b5dba980ec335c252f1a8596a10982c53fce86d9006dd8f5535"
     },
     {
+      "bytes": 2440,
+      "path": "dynamic/学业/2026-10-21 02-25-24 墨大法学院JD Offer从鬼门关到法学院_7ed96e19409a.md",
+      "sha256": "edd8cb256303e22382aa77664b74b03707fbff96ccb66c69444a878e1bcf2889"
+    },
+    {
+      "bytes": 2056,
+      "path": "dynamic/学业/2026-10-21 04-21-03 墨大JD offer已正式接受_e796ff3f5c61.md",
+      "sha256": "e5a79745b410ad74ca8a055ca3a97f2b5096d4391bca2ef8aa0d81df67edd827"
+    },
+    {
       "bytes": 862,
       "path": "dynamic/学业/2026期中假开始 923-105_b9a1e5a76535.md",
       "sha256": "272f6cdaf3b601365138401cadcb5ebc3acc0b39c1b55eac9876d12e2600576f"
@@ -1278,19 +1293,19 @@
       "sha256": "2f7f051dc4a493007a94a4940c5f609c892fc2e6b118a93757a6da2d7e6cf09f"
     },
     {
-      "bytes": 1477,
+      "bytes": 1697,
       "path": "dynamic/学习/Deakin con offer到手两校博弈开局_249b825a62de.md",
-      "sha256": "a8ea4bd4145fdfd49120e3301e3382647cfd768c653bd1b4befeea04ab39e09f"
+      "sha256": "0dbb39a08e0fe5e1f28aa1cb49de578c0838b2cee2f38274a5c02ee0d8298159"
     },
     {
-      "bytes": 1838,
+      "bytes": 1948,
       "path": "dynamic/学习/Deakin补件GS声明定稿_42ac73249a40.md",
-      "sha256": "1c404d0a43aca73638156f96a6530e8696b863fca9cd11dba0cb27dc0864539b"
+      "sha256": "40237cee6e600b88e53a50d78364e6a5fe3a9a584e73b15a6bf1e05fd0405f14"
     },
     {
-      "bytes": 1467,
+      "bytes": 1687,
       "path": "dynamic/学习/Monash offer同日到手双offer对决_dcba49d18c4a.md",
-      "sha256": "eeefe083b413deea1b63bae3dd3af0ce03115bb9e9a0ed7a15ed0d1495ed860a"
+      "sha256": "b6aa96b7c8fb3ca14cf0b592ba2eeb98afe8fc9178191848bda9c28a135c01d5"
     },
     {
       "bytes": 3482,
@@ -1858,11 +1873,6 @@
       "sha256": "dbf668fd5c7ae9aad5e3ad57bfd998a5590695fbaaba4393c0281681b0b557db"
     },
     {
-      "bytes": 1165,
-      "path": "dynamic/认知/快乐三要素焦虑硬币论戒断后第一个完整开心日_2fd3e20f3cd9.md",
-      "sha256": "91157c70c7b4e054d68abc18a32171aa976962d72d3220e07a3d6e84908754c5"
-    },
-    {
       "bytes": 1262,
       "path": "dynamic/认知/手动挡人生凡丁的日常运行模式_336e062f4d99.md",
       "sha256": "0f8420920278e6bcff8cfda3fb80a22015a12f47501acbfff8bb363d5af27915"
@@ -2033,9 +2043,9 @@
       "sha256": "dff6a08f93f10f0b2b32e5db9874b2271f415c6e4579e6790be2d9980642dfda"
     },
     {
-      "bytes": 1041,
+      "bytes": 1151,
       "path": "dynamic/里程碑/硕士申请提交东京戒断期_fe556c1c40ff.md",
-      "sha256": "1012aa99bbb437134c7fd4083da6beadd39d9d52b5b2b5444417e9c85df0e644"
+      "sha256": "a41f50d7ad4411400ae214f9521ab125e53b2214a628462c1b712e177d00811e"
     },
     {
       "bytes": 1217,
@@ -2138,9 +2148,9 @@
       "sha256": "c29fb77ad3b59d4f8d26992af05e3e9112a060aa22a422d99886778a31a07c09"
     },
     {
-      "bytes": 3777,
+      "bytes": 4358,
       "path": "permanent/健康/2026-10-20 17-44-33 药房配药错误确认喹硫平XR被错配为IR_65b6f854a2af.md",
-      "sha256": "e595e0831b618ace64af368c581e37e3e9e5ef8968461259428a4e32460d2fcd"
+      "sha256": "1154479808c24c7af0d3dc9b0f56bee585a6e92e702c4e673b65de8c3daf04eb"
     },
     {
       "bytes": 2859,
@@ -2258,11 +2268,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-21T01:08:28+00:00",
+  "generated_at": "2026-10-21T07:08:35+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 877522
+  "total_bytes": 883252
 }
