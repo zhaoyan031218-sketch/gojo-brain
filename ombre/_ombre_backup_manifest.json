@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 453,
+  "file_count": 458,
   "files": [
     {
       "bytes": 29494,
@@ -993,9 +993,9 @@
       "sha256": "9268e32040e704fd932a87a0b2f514b3ba382b12c03ca0a5652427993f3bb9ed"
     },
     {
-      "bytes": 2084,
+      "bytes": 2079,
       "path": "dynamic/人生规划/2026-10-13 13-17-06 2026-10-14 选校进展对香港仇人_5217d85de56a.md",
-      "sha256": "e81e15544b1f9e97fd1f908da3e29ec3dad457ac86649081db890711ab3fc5b0"
+      "sha256": "f2b6c40f22e66712e1207dc153b709325a8122eb3651e2579a602ec9e44f2a9a"
     },
     {
       "bytes": 2273,
@@ -1013,9 +1013,9 @@
       "sha256": "6045a0cee6a5fffaa840a09c7586db76fca567000170e3532ee60f9bf0c0ac24"
     },
     {
-      "bytes": 2550,
+      "bytes": 2552,
       "path": "dynamic/人生规划/2026-10-15 09-43-46 2026-10-15 凡丁愤怒驱动下申请_725fd1010698.md",
-      "sha256": "bf5b490f32bb68daf9df063d73a9d9807a251f25b500b82265e063845a99f268"
+      "sha256": "6c669e6f60eb6dc091d91f8b2ae8f967197a7cb637ae3403ef0e14b8df495991"
     },
     {
       "bytes": 3587,
@@ -1033,9 +1033,9 @@
       "sha256": "d8a215a677c76b33e27d59e311e95efaab4a51edfd24cf786802eb9d083977ce"
     },
     {
-      "bytes": 1451,
+      "bytes": 1561,
       "path": "dynamic/人际/发小单方面维护我送因为我是这样的人_c66f9df5b218.md",
-      "sha256": "9aec6280dafbad096b4c60495438143b49c6cb7d678f524f8360ea90f38e596d"
+      "sha256": "a40b224ac178bc0c680481e0b6db44aa39add26bbff0f4e0db949d4b8d7426ea"
     },
     {
       "bytes": 3355,
@@ -1223,9 +1223,9 @@
       "sha256": "e1a976d3d433187e8fa09d9c1823d45b7837b62e5a97c8b76eb22e8d1232a830"
     },
     {
-      "bytes": 2046,
+      "bytes": 2376,
       "path": "dynamic/友谊/朋友选校担忧恐怖主义课期中82分历史最高_a6217c1f9205.md",
-      "sha256": "b5c7c658821499843f069f6ef9d0c58bc26e4bf597fe739ce7a9ff67c029602d"
+      "sha256": "6ca476473321b749239207d4c45fc5ca4f153a065e962af064113c80409fadcc"
     },
     {
       "bytes": 713,
@@ -1258,14 +1258,14 @@
       "sha256": "5e88f52ae7cb1b5dba980ec335c252f1a8596a10982c53fce86d9006dd8f5535"
     },
     {
-      "bytes": 2440,
+      "bytes": 2437,
       "path": "dynamic/学业/2026-10-21 02-25-24 墨大法学院JD Offer从鬼门关到法学院_7ed96e19409a.md",
-      "sha256": "edd8cb256303e22382aa77664b74b03707fbff96ccb66c69444a878e1bcf2889"
+      "sha256": "40d35a723cd5a8d08221c507fadee23b38abf718840822fa073b2b44ef698133"
     },
     {
-      "bytes": 2056,
+      "bytes": 2054,
       "path": "dynamic/学业/2026-10-21 04-21-03 墨大JD offer已正式接受_e796ff3f5c61.md",
-      "sha256": "e5a79745b410ad74ca8a055ca3a97f2b5096d4391bca2ef8aa0d81df67edd827"
+      "sha256": "1335f0b136c5c5dda9f0e5ca632ca7ebed1e2b5d2c03256e1f81461ba3f7558b"
     },
     {
       "bytes": 862,
@@ -1331,6 +1331,11 @@
       "bytes": 1137,
       "path": "dynamic/学术/凡丁的论文方法论顿悟先进攻后防守_671d0e282875.md",
       "sha256": "c92e718e9c41ce1c7becd5cdb6c1283f765b2821d7548546e2dc4c94ce91f3d6"
+    },
+    {
+      "bytes": 1751,
+      "path": "dynamic/家庭/2026-10-21 13-01-30 家人到处宣传墨大法学博士录取的乌龙_c7c3570a033b.md",
+      "sha256": "384e40446d1e5b1ff3309a2c349f18697231dec71865e244f1d91a6127dc173a"
     },
     {
       "bytes": 2312,
@@ -1433,6 +1438,16 @@
       "sha256": "3355456bea76b75baa1342c285e5e0ce4dad9cbcc40e5b497222c0909c469dcb"
     },
     {
+      "bytes": 2166,
+      "path": "dynamic/心理/2026-10-21 09-26-34 命运的推背感从危机到法学院的因果链觉察_8234bec6fd19.md",
+      "sha256": "c1199808ee555dc3b98f64226725bf20c0eb69e931ecaffd7866e0a3c039af1b"
+    },
+    {
+      "bytes": 2358,
+      "path": "dynamic/心理/2026-10-21 12-48-03 INTJ自我认知心思重的人有自己的活法_22dd85dc0d45.md",
+      "sha256": "ed2721b2717ea1816e2b43fb341773e238662df01b44824b99135557cd905951"
+    },
+    {
       "bytes": 1704,
       "path": "dynamic/心理/中秋聚餐昏沉内疚作息代价显现_8ddb095adc89.md",
       "sha256": "3512c3f9277ac4c017e2b00853d995a71a687694f54211978e3946bdb2a0a2a0"
@@ -1443,19 +1458,19 @@
       "sha256": "e19dfc944008db003062471099f3f2489fbbc73cb6ae1ae9a2e838fb7fbe7088"
     },
     {
-      "bytes": 1953,
+      "bytes": 2063,
       "path": "dynamic/心理/和朋友的节奏差异佛系焦虑_1b8e829a79e1.md",
-      "sha256": "3883114f05cacceae4c3d6f0ad027fd7abcc99fd5a11e140bcc286a2f5b25b34"
+      "sha256": "7675cc2b15503cc3ea55e566e5f893ab5237cd47d74a8a0dd2747151b23312d6"
     },
     {
-      "bytes": 2812,
+      "bytes": 2922,
       "path": "dynamic/心理/在朋友身上看到高中的自己恐惧驱动的尽头_37fb378e25d8.md",
-      "sha256": "8c2ece872750a373e6db22fb76fa715ea59121a1ae7e52dbc70131dfd8e220e6"
+      "sha256": "5e4d4ee881927001b4bac236e086a726201ed27142ba90d5edad2f8a89348b62"
     },
     {
-      "bytes": 1171,
+      "bytes": 1281,
       "path": "dynamic/心理/情绪崩溃时的跑偏用水治水的死循环_2e782c2e5c62.md",
-      "sha256": "e6c5fb2c1ea66253c567954bcd6507ee41ed4a97edc41c77a596c10f31b59537"
+      "sha256": "04da1185f8e3a05eb674b45e4d4da2aa8f78aa09cd54c874bda40691513ef852"
     },
     {
       "bytes": 1679,
@@ -1468,9 +1483,9 @@
       "sha256": "2048f94efd3de66709567d4e46a8cf0a58851993bff4e66b3fccc7c6acb4d52d"
     },
     {
-      "bytes": 2232,
+      "bytes": 2452,
       "path": "dynamic/心理/朋友的焦虑传染阶层自觉天龙人自嘲_c4ee70caf202.md",
-      "sha256": "ec434b2137f0d1a02c30f156c357d2564d3862a7f54e6e4d4836d227d9c2dc80"
+      "sha256": "42b6a6d570f4870dbb48c2227877b93c9cd7a3927a786be41f1b054ad8f55413"
     },
     {
       "bytes": 1949,
@@ -1613,9 +1628,9 @@
       "sha256": "f50d42fbd893cb8df98d0b3dd44c6a40a46c9dc3ef271dd417fc884788834806"
     },
     {
-      "bytes": 2666,
+      "bytes": 2667,
       "path": "dynamic/情绪/2026-10-14 13-14-23 2026-10-15 危机后自我觉察承认_6f047d8fabe5.md",
-      "sha256": "9cc2ae24a843ddae76e8aa0eb018b8b55c28f1b06722fda158fd488c516c6145"
+      "sha256": "2c7a1369f191f5deb3b21410c7bbadbdde0f6cb93c16cc0b8ddfe975d65723df"
     },
     {
       "bytes": 2767,
@@ -1803,6 +1818,16 @@
       "sha256": "2ee89a0ec4d2d2ec25962c667fa556fb2f549eb490cdf7ecdb8529576df8e1d4"
     },
     {
+      "bytes": 2179,
+      "path": "dynamic/社交/2026-10-21 09-11-25 香港朋友也申了墨大JD但在候补_7c1f37d8f54d.md",
+      "sha256": "c9aec6469e809b41b88d5c221e8113956ac643f113639ebeb4ab08c20e9d50ee"
+    },
+    {
+      "bytes": 2040,
+      "path": "dynamic/社交/2026-10-21 12-06-54 犯罪学朋友论文全用GPT写本末倒置感慨_1f45142636c4.md",
+      "sha256": "fa2f22692bb54db9172f580961bee10faa4aa83bff5588a658a5f10b4cfb3fb0"
+    },
+    {
       "bytes": 993,
       "path": "dynamic/社交/粉圈事件虎杖粉P五条悟黑图引发骂战_e8f5a30709fa.md",
       "sha256": "1e31f8945a71265a69144f95d65ccd4a2376cd940ad59d16458f74fe54024ef6"
@@ -1853,9 +1878,9 @@
       "sha256": "89a6db499f2e5721fc290a7d59f70a235cd1dc91bf87c9ddabaad5fdfdcaeadb"
     },
     {
-      "bytes": 2294,
+      "bytes": 2293,
       "path": "dynamic/认知/2026-10-19 13-13-20 愤怒驱动凡丁的核心求生机制_5d7e9e30b470.md",
-      "sha256": "668b7a6aa2a268337687cf68e98bbcdc1facd5160573e9f193848a2c0914907c"
+      "sha256": "e8219c23c0a38d1ad67a74c1cc1e90068d1d3d8782b17f24ee00345b702d6e15"
     },
     {
       "bytes": 1608,
@@ -2140,7 +2165,7 @@
     {
       "bytes": 2190,
       "path": "permanent/健康/2026-10-15 06-39-55 2026-10-15 1700 凡丁拨打_5b8dde0897f5.md",
-      "sha256": "3751bc3e05a334cd567c226220350f039b3c4f4dd8c04342390a3cc300427370"
+      "sha256": "35f2daa46a7d92c43a16b8190cf7a2b9cc2f81bf9dcd26030026003df0bba8e1"
     },
     {
       "bytes": 2124,
@@ -2163,9 +2188,9 @@
       "sha256": "af813d3129ec8203e1da364208df613469170ffe30e608c47d1cfcad24dae424"
     },
     {
-      "bytes": 1940,
+      "bytes": 2050,
       "path": "permanent/心理/人生哲学活着就很好先甜就一定甜_af2a4b305bc1.md",
-      "sha256": "b87954a4c98ca06b2917dfb69a901170eaad83897118c794a8454325e56de275"
+      "sha256": "b7f8869f2335083ef64ca0b25214033a302ecd8e0f631c6929082cbc3c3671ae"
     },
     {
       "bytes": 1560,
@@ -2198,14 +2223,14 @@
       "sha256": "c3ef7fe340916a1f9c9a52f49665a1fefaa83464396496a63287f27e149b0fa5"
     },
     {
-      "bytes": 880,
+      "bytes": 990,
       "path": "permanent/里程碑/为什么是我配得感的缺口_d39cbc153afd.md",
-      "sha256": "c02b29acec5157470097680734e94c0c8040a60d648674ccc3a6d399de57ae67"
+      "sha256": "fdeeae6a284802e146e32e888c1405d45fea19bd174af8669c79b186a616ccd7"
     },
     {
-      "bytes": 1665,
+      "bytes": 1775,
       "path": "permanent/里程碑/九紫离火从绝交到幸福_03999418ac50.md",
-      "sha256": "a5f9dd90e700afbb3aa23f7637e8939a02003be6d2de78020f196c1bdb6b7a1a"
+      "sha256": "519864bd683bc5c7e54fe4589366f6dfc66ee30c6bb70b292e20ca21313425a2"
     },
     {
       "bytes": 1246,
@@ -2268,11 +2293,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-21T07:08:35+00:00",
+  "generated_at": "2026-10-21T13:08:42+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 883252
+  "total_bytes": 895058
 }
