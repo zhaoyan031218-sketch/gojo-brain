@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 450,
+  "file_count": 451,
   "files": [
     {
       "bytes": 29494,
@@ -1068,19 +1068,24 @@
       "sha256": "5ed7ff744bb0172496e6c45f4efd3d3db392e29d7ed221d37dadd6f8b4ffeeb3"
     },
     {
-      "bytes": 2234,
+      "bytes": 2233,
       "path": "dynamic/健康/2026-10-20 04-54-32 GP就诊开了MHCP和墨大SC转介_af725b82f0d9.md",
-      "sha256": "746677e3c489c478429aa0da72115f24cecfe3335b3e62249babfb23c3394aea"
+      "sha256": "97a7b00f8cc735036818713c236504e111a18bc6c4a519989622b3cc6328b58c"
     },
     {
       "bytes": 3347,
       "path": "dynamic/健康/2026-10-20 07-10-25 GP精神科转介信Dr Grace Chan Box Hill_40ef64f60b0f.md",
-      "sha256": "a3da0f5fa7cac91fe368546aee0b284ee0f0c588a8ee98099d7ffd866296d4e9"
+      "sha256": "dc476ca8051e881ebd06696cdd0c6fb022d6fd28ac23be12105c19227e10e6f6"
     },
     {
-      "bytes": 2319,
+      "bytes": 2318,
       "path": "dynamic/健康/2026-10-20 17-36-15 喹硫平剂型变化疑云IR vs XR可能导致状态恶化_8c6a4910d2b4.md",
-      "sha256": "a2e25a00de39df134df51f22b65076afef27fc6b06ca979a49b4b5655ff4fe4f"
+      "sha256": "a4f73ec7acf56cb4432e804bcc49f0efb909671bafdbb847553f8d5679edd87e"
+    },
+    {
+      "bytes": 2026,
+      "path": "dynamic/健康/2026-10-21 00-22-44 换回墨大校医院GP离开Dr Gao诊所_2eee86d0de78.md",
+      "sha256": "366e59d6a48a184260afe1315ed2461ba8ca90de195c0da8b175a8b6cebe2ef2"
     },
     {
       "bytes": 2275,
@@ -2133,9 +2138,9 @@
       "sha256": "c29fb77ad3b59d4f8d26992af05e3e9112a060aa22a422d99886778a31a07c09"
     },
     {
-      "bytes": 2567,
+      "bytes": 3777,
       "path": "permanent/健康/2026-10-20 17-44-33 药房配药错误确认喹硫平XR被错配为IR_65b6f854a2af.md",
-      "sha256": "815b0c38f8a9889ba23f55297d55e79be32bc513f0715752f8adc24b3f56a347"
+      "sha256": "e595e0831b618ace64af368c581e37e3e9e5ef8968461259428a4e32460d2fcd"
     },
     {
       "bytes": 2859,
@@ -2253,11 +2258,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-20T19:08:19+00:00",
+  "generated_at": "2026-10-21T01:08:28+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 874288
+  "total_bytes": 877522
 }

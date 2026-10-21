@@ -12,6 +12,12 @@ name: 2026-10-20 07-10-25 GP精神科转介信Dr Grace Chan Box Hill
 relation_links:
 - auto: true
   label: ''
+  score: 0.8482
+  status: active
+  target_bucket_id: 2eee86d0de78
+  type: continues
+- auto: true
+  label: ''
   score: 0.8346
   status: active
   target_bucket_id: af725b82f0d9
@@ -52,12 +58,6 @@ relation_links:
   status: active
   target_bucket_id: bce84d92126e
   type: continuation_of
-- auto: true
-  label: ''
-  score: 0.7764
-  status: active
-  target_bucket_id: 65b6f854a2af
-  type: continues
 source_tool: hold
 tags:
 - 精神科
