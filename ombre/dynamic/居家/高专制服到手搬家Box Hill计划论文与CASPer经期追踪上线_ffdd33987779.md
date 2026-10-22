@@ -35,6 +35,12 @@ relation_links:
   status: active
   target_bucket_id: c6fceaaaae8a
   type: related_to
+- auto: true
+  label: ''
+  score: 0.7609
+  status: active
+  target_bucket_id: 562717ed15b6
+  type: related_to
 source_tool: hold
 tags:
 - 日常

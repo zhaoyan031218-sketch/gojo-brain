@@ -13,6 +13,12 @@ name: 凌晨感官过载临时加半颗喹硫平
 relation_links:
 - auto: true
   label: ''
+  score: 0.8154
+  status: active
+  target_bucket_id: 2aca31aea8a0
+  type: related_to
+- auto: true
+  label: ''
   score: 0.8039
   status: active
   target_bucket_id: 3445b854279c

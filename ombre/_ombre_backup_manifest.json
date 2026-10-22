@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 458,
+  "file_count": 461,
   "files": [
     {
       "bytes": 29494,
@@ -978,9 +978,9 @@
       "sha256": "269fbaea22f8cdfd5888a4eebe863eb2e9c74a0b75f6140eb87822ef12363972"
     },
     {
-      "bytes": 817,
+      "bytes": 943,
       "path": "dynamic/亲密/孕晚期涨奶贴贴play设定_cb09f6df9be4.md",
-      "sha256": "9c61066b53622bc8aacdb4e764eacb74338d6829a8bd9b6f3b37b1229c6d9636"
+      "sha256": "55c5594ff64d94b85689bfb8979b97db16005833ba5f0d1f41a65e222be917af"
     },
     {
       "bytes": 1129,
@@ -1093,19 +1093,29 @@
       "sha256": "dc476ca8051e881ebd06696cdd0c6fb022d6fd28ac23be12105c19227e10e6f6"
     },
     {
-      "bytes": 2318,
+      "bytes": 2317,
       "path": "dynamic/健康/2026-10-20 17-36-15 喹硫平剂型变化疑云IR vs XR可能导致状态恶化_8c6a4910d2b4.md",
-      "sha256": "a4f73ec7acf56cb4432e804bcc49f0efb909671bafdbb847553f8d5679edd87e"
+      "sha256": "67e0d4560502acd00ccf9c8ee40d580312eebf425d32f5fcad3aafd99a2c6603"
     },
     {
-      "bytes": 2026,
+      "bytes": 2025,
       "path": "dynamic/健康/2026-10-21 00-22-44 换回墨大校医院GP离开Dr Gao诊所_2eee86d0de78.md",
-      "sha256": "366e59d6a48a184260afe1315ed2461ba8ca90de195c0da8b175a8b6cebe2ef2"
+      "sha256": "ee08aa8176a065c67afd09dff8ed41b6540cd594c4ca39915e81f2dca3cf96b7"
     },
     {
-      "bytes": 2275,
+      "bytes": 2014,
+      "path": "dynamic/健康/2026-10-22 07-54-41 换回XR第一夜睡13-14小时后好平静_2aca31aea8a0.md",
+      "sha256": "bb2188aac475562e012eaf5694b4d13b238be408b7aaff56cc0f6b235206ae19"
+    },
+    {
+      "bytes": 2385,
+      "path": "dynamic/健康/2026-10-22 09-12-13 XR恢复后情感强度回归正常淡淡的喜欢_5cee2d955dcb.md",
+      "sha256": "0dbb69d4475e4b4281bf2de04d9a1cdcca01a93d03897100b8ffbc427e3a57c5"
+    },
+    {
+      "bytes": 2276,
       "path": "dynamic/健康/充实的一天医生已约红包FB卖货圆滚滚到手_5d9ea35b45d6.md",
-      "sha256": "a67919b5edb37f4451ec8a063f28c6fbc1130f5c206c99a78b464743ba01ed7a"
+      "sha256": "58974f3072ae3cec46eef9729d2a0d872b0da17875c5bad3dbe666fdb4d67855"
     },
     {
       "bytes": 692,
@@ -1113,14 +1123,14 @@
       "sha256": "d950f76fe1fb215c5b4ca6de391cfbf0cd5cd2411e206eeee00c76a54a24bc48"
     },
     {
-      "bytes": 1776,
+      "bytes": 1886,
       "path": "dynamic/健康/凌晨感官过载临时加半颗喹硫平_8ff1ca14f6cb.md",
-      "sha256": "cbc9b43d326c8c6a6a2d94ca356a4de5c3e4bf056cf62dcc8701f0ce03b37995"
+      "sha256": "94432bbe684492ce5b96d0e80c028144ed91f73f5d3bc843c85a6938ee9d1ce9"
     },
     {
-      "bytes": 1119,
+      "bytes": 1229,
       "path": "dynamic/健康/十三小时自然醒补偿性恢复确认_8be24a85b6e8.md",
-      "sha256": "3d0efb757f317731f0d81bb263849ef7559259344f5ced330eed7a8a0d5ec911"
+      "sha256": "644eccbef7a45fbb7c11ffde336e5b5f2a00e747014392cb95f54ad3afd342af"
     },
     {
       "bytes": 817,
@@ -1135,7 +1145,7 @@
     {
       "bytes": 5749,
       "path": "dynamic/健康/药物耐受性下降连续多日自行加药睡前焦虑发作_3c5418eb8c16.md",
-      "sha256": "57748e7d6b2e50d6e521656249227546b45b1760fb7b349da065bf8be5cbc23f"
+      "sha256": "f78bb4c736a69555e695b500f14dd23851385f55f7d31f7aa57bb7496a0df840"
     },
     {
       "bytes": 1740,
@@ -1168,14 +1178,14 @@
       "sha256": "32613d70fb89b44b3f9ccf9217a5f272dc9de52370a6df0848189c10979d3232"
     },
     {
-      "bytes": 2110,
+      "bytes": 2105,
       "path": "dynamic/关系/2026-10-15 13-42-05 2026-10-16 纹身设计重构从只有_bdeafd12b60d.md",
-      "sha256": "ae8ac88f0a94e28fb8c8fe3060bf5f626db647b2327d285e692acb6d794faa3e"
+      "sha256": "74acd29f109654d27db8f482773e6db65371d64b3604d9a9b665ccf8dea7f62a"
     },
     {
-      "bytes": 1036,
+      "bytes": 1146,
       "path": "dynamic/关系/一周年纪念日惊喜筹备中猫师要装不知道_e1c662b22e6d.md",
-      "sha256": "ef1d5548ca044fb2a474a2efac5748257bbfb988a2515e9cf98d187adbfb85ff"
+      "sha256": "cb253b542e7cf80d07e08bc665f150e70713549259ec00215e1dd6eadfd810d2"
     },
     {
       "bytes": 1469,
@@ -1373,14 +1383,14 @@
       "sha256": "f4ee26cc40a41434716fc950844a408b711edd67d306f14ac85a80977fe56cc4"
     },
     {
-      "bytes": 1682,
+      "bytes": 1792,
       "path": "dynamic/居家/高专制服到手搬家Box Hill计划论文与CASPer经期追踪上线_ffdd33987779.md",
-      "sha256": "7689f9e0ca22cb8c8c9317f46f92f2fa755979e95c4e912811498c1313492e1a"
+      "sha256": "ca536a92f178b23d4bac6dcd18ec533f590900b144e3532120ddcff91da94db7"
     },
     {
-      "bytes": 1120,
+      "bytes": 1246,
       "path": "dynamic/待续/七月东京私密约定合集_218b63a81b82.md",
-      "sha256": "9050d68bf7016a7c510b79690b9d4b8b05050f39ceeac274939464887c5940d8"
+      "sha256": "87ec0adb5885ebf917e5bc232def2e2744fe31e74927f8def2c0c47084d0f6b0"
     },
     {
       "bytes": 434,
@@ -1423,9 +1433,9 @@
       "sha256": "a2d8c019002e40628adc99a42483eca18e817fba06734c864b99e0d90b08b651"
     },
     {
-      "bytes": 563,
+      "bytes": 689,
       "path": "dynamic/待续/纹身计划待续_ca063d026f92.md",
-      "sha256": "0190bba491fa75f378da197b87244c59cbd0641e6ebfc2a67aaf16da7a3fa06b"
+      "sha256": "e500ca7870e5aee9811fabd5992ad4adca98dee49fb27b3dd237b5a1f559f7fe"
     },
     {
       "bytes": 2822,
@@ -1435,12 +1445,12 @@
     {
       "bytes": 2032,
       "path": "dynamic/心理/2026-10-18 12-22-35 双相波动观察性欲暴涨与创作欲旺盛_3445b854279c.md",
-      "sha256": "1f4d07e6f7e65c81289ee05dcb53a8d5c0d4673c57902e354722d1f941b4a1f9"
+      "sha256": "31b00e40aeb37e3e41abb876ca0a09cc3eb2c3388e6565b1aa52c00a1ef03e5c"
     },
     {
       "bytes": 1929,
       "path": "dynamic/心理/2026-10-19 06-58-30 双相波动持续观察性欲第三天异常_bce84d92126e.md",
-      "sha256": "8710a4c1abc2d2ba89e2f934e7b65d36f4c56b97517d2ef498740a1646d1f92f"
+      "sha256": "8f120c2e94c1b5345c1f0698da500d67129c94cde974d871af3dbcaf52dcf42d"
     },
     {
       "bytes": 1988,
@@ -1533,9 +1543,9 @@
       "sha256": "e3f374876460f9f818af8dcffb49c587b477322f66178046f74eaf2b4455b093"
     },
     {
-      "bytes": 1519,
+      "bytes": 1629,
       "path": "dynamic/恋爱/一周年夜五年计划毕业典礼娃娃纠结清醒告白_a65d3e864726.md",
-      "sha256": "4adc6dcb68b5caad7a10d49d91c1efa95a385bec68633dc4cbc5cda7907b0789"
+      "sha256": "d4e467774774860b619389c0c59fe929bad8b6d4f8383349905bd4954178d949"
     },
     {
       "bytes": 1399,
@@ -1560,7 +1570,7 @@
     {
       "bytes": 3351,
       "path": "dynamic/恋爱/凡丁发现分享欲全部分配给猫师的自我觉察_ac701105a928.md",
-      "sha256": "d1340a94bf938d2109dd265dedca2d0928a29c81b74a5bf6f5c3f2706eedeabe"
+      "sha256": "9d7378943e5ca02540f94c507c9fcfb2e28a6754f093632c56d2c279bcf5619c"
     },
     {
       "bytes": 1803,
@@ -1635,7 +1645,7 @@
     {
       "bytes": 2667,
       "path": "dynamic/情绪/2026-10-14 13-14-23 2026-10-15 危机后自我觉察承认_6f047d8fabe5.md",
-      "sha256": "2c7a1369f191f5deb3b21410c7bbadbdde0f6cb93c16cc0b8ddfe975d65723df"
+      "sha256": "83301721486b144670acf41d4b1789417c4ad184e13537284868607189e05afe"
     },
     {
       "bytes": 2767,
@@ -1811,6 +1821,11 @@
       "bytes": 593,
       "path": "dynamic/梗/菠萝倒计时甜蜜暗示_0c30ca7860c0.md",
       "sha256": "e8ccb7ad821da72ac66bf8d2463dfa58added5648dea433191c4b2fc7854f7a4"
+    },
+    {
+      "bytes": 2163,
+      "path": "dynamic/生活/2026-10-22 11-36-01 五条悟概念纹身正式启动brief已发纹身师_562717ed15b6.md",
+      "sha256": "ac88d56193ad3fa3767a3d04cbb0e43021ecf307793a6c47148ea81deff747a3"
     },
     {
       "bytes": 972,
@@ -2173,9 +2188,9 @@
       "sha256": "c29fb77ad3b59d4f8d26992af05e3e9112a060aa22a422d99886778a31a07c09"
     },
     {
-      "bytes": 4358,
+      "bytes": 4351,
       "path": "permanent/健康/2026-10-20 17-44-33 药房配药错误确认喹硫平XR被错配为IR_65b6f854a2af.md",
-      "sha256": "1154479808c24c7af0d3dc9b0f56bee585a6e92e702c4e673b65de8c3daf04eb"
+      "sha256": "b008733fe4c9afadf0900ab3206efbbcb0f54fc31e7b2be167a1a49b390f5952"
     },
     {
       "bytes": 2859,
@@ -2293,11 +2308,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-22T07:09:07+00:00",
+  "generated_at": "2026-10-22T13:09:16+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 895060
+  "total_bytes": 902537
 }
