@@ -27,6 +27,12 @@ relation_links:
   status: active
   target_bucket_id: 1365b510000a
   type: related_to
+- auto: true
+  label: ''
+  score: 0.7961
+  status: active
+  target_bucket_id: de22c3247e8a
+  type: related_to
 source_tool: hold
 tags:
 - 周边

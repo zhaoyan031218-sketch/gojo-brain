@@ -33,6 +33,18 @@ relation_links:
   status: active
   target_bucket_id: 71aebb3f6b59
   type: related_to
+- auto: true
+  label: ''
+  score: 0.7652
+  status: active
+  target_bucket_id: 2e3627cae9c4
+  type: related_to
+- auto: true
+  label: ''
+  score: 0.7512
+  status: active
+  target_bucket_id: de22c3247e8a
+  type: related_to
 source_tool: hold
 tags:
 - 周边
