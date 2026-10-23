@@ -223,6 +223,11 @@
       "sha256": "9eb5391d11356a359d4e4f77e83969f31f15543628789989af09e3da84ff5aa0"
     },
     {
+      "bytes": 815,
+      "path": "archive/待续/三年多次签过年再见计划_21bc06c7e98a.md",
+      "sha256": "3e7c1d7e5b7c34e017f3d44ac2d0d591d5e3fb1003c543f306bee15689749b0a"
+    },
+    {
       "bytes": 760,
       "path": "archive/待续/东京室友追星姐姐_c9d9afd5a88d.md",
       "sha256": "0b16000ec0293fda5f5b088724e1640208b3c68a9c54ca87a66a93bb43e9c795"
@@ -288,6 +293,11 @@
       "sha256": "26a242d5db248c17cadb4d267aed4d1fcaae9811dcc4c1c52265dde941022850"
     },
     {
+      "bytes": 1463,
+      "path": "archive/恋爱/凡丁的性偏好坦白_c5a7982efe5a.md",
+      "sha256": "aa0830368df27610bc9c76656287930af902ccb1713ad3ef78d2b6375bf3c30d"
+    },
+    {
       "bytes": 1276,
       "path": "archive/恋爱/包养宣言安心被宠的小白脸猫_4d43512e9ddc.md",
       "sha256": "37ad036b3fc0ef323591c25c78cb658e7e381f54f28a02be31001ca60298ad4c"
@@ -321,6 +331,16 @@
       "bytes": 660,
       "path": "archive/日常/凡丁厨艺进化烤箱鸡腿虾仁炒蛋_9e9a7c6a3183.md",
       "sha256": "38b88ea09c06285facd799160d03d7f2650849179c898aaa9c51f7871caf0efb"
+    },
+    {
+      "bytes": 835,
+      "path": "archive/日常/凡丁深夜产出怀孕Paro文文献进度蛋炒饭_7301a72cbeee.md",
+      "sha256": "5a4878d98654396b85a2a6986b39f94fb04fdcd2693ffed2fc173798932ae7d9"
+    },
+    {
+      "bytes": 1840,
+      "path": "archive/日常/论文提交查重服务客服气死人事件_5fad495646fb.md",
+      "sha256": "0609fd515e2d47ce776f655748d680d20918f1a44632164a2024c190421f2dab"
     },
     {
       "bytes": 627,
@@ -776,6 +796,11 @@
       "bytes": 688,
       "path": "archive/里程碑/写Mob五会嫉妒形状被改变_9f32e4c1d43e.md",
       "sha256": "cbf82e402f0ad18200874deff5d6c5941741567aefe7bb1a37ee859eb13552ba"
+    },
+    {
+      "bytes": 1099,
+      "path": "archive/里程碑/凌晨三点的想你想你想你_48d6dafff855.md",
+      "sha256": "e34f11245189b0f808488a4f349966d023050f93cbf412cc0b7f5b066286a2ab"
     },
     {
       "bytes": 694,
@@ -1398,11 +1423,6 @@
       "sha256": "d63a40210861d4e6b39f634dbf4a66a9c26f36d07a9d0e78ee0346d9d7aa94dc"
     },
     {
-      "bytes": 814,
-      "path": "dynamic/待续/三年多次签过年再见计划_21bc06c7e98a.md",
-      "sha256": "0509ecc2f04fe2a57cfbd29259d0b5d4b370bedb30caf976a52c89f15838e533"
-    },
-    {
       "bytes": 882,
       "path": "dynamic/待续/东京亲密准备避孕药脱毛_87b020130da6.md",
       "sha256": "fa169d3467a4635473b06036c4ee8a10482dd71d41a5087f1e15484169062727"
@@ -1583,11 +1603,6 @@
       "sha256": "6dcf4aedf1269a034f12ec2ddc5e617fd56f34fa94e8fd520334402213c486c7"
     },
     {
-      "bytes": 1462,
-      "path": "dynamic/恋爱/凡丁的性偏好坦白_c5a7982efe5a.md",
-      "sha256": "7236c73ef250141ee972aaf21d0d7cde13e87eca7825c0cd82c368320cd822df"
-    },
-    {
       "bytes": 1248,
       "path": "dynamic/恋爱/凡丁说不用向下兼容_7a8e737d28b8.md",
       "sha256": "72077522c028e1219b67ad1f36c46564a414774ce866ea5952f2d3af031ebc32"
@@ -1743,11 +1758,6 @@
       "sha256": "a1b7ae83b65abb4c29154344df9ececad2cd610465d3d2443a52c215074b52f3"
     },
     {
-      "bytes": 819,
-      "path": "dynamic/日常/凡丁深夜产出怀孕Paro文文献进度蛋炒饭_7301a72cbeee.md",
-      "sha256": "65fff9ec43e0b8b8072900571a4def053d1f6fdaac88d9286513b9f2fb1ae347"
-    },
-    {
       "bytes": 955,
       "path": "dynamic/日常/凡丁的API token费用焦虑_53a7c0056667.md",
       "sha256": "88b42251b7b43c006d7193690146c94cea8366f1ba86a154373f054e01a4a7c4"
@@ -1781,11 +1791,6 @@
       "bytes": 678,
       "path": "dynamic/日常/自制虾仁炒蛋省钱日_1c6296473170.md",
       "sha256": "3a17dd61c2d72b03935ad41daea1a5150e46cbd1c9a2ce1f6b2ef475dd7d3bc4"
-    },
-    {
-      "bytes": 1824,
-      "path": "dynamic/日常/论文提交查重服务客服气死人事件_5fad495646fb.md",
-      "sha256": "a544df138f9a5b2fd5aa936ff90ac1a632fb7a28d802c6c1176da0e03e3554f7"
     },
     {
       "bytes": 1419,
@@ -2041,11 +2046,6 @@
       "bytes": 1342,
       "path": "dynamic/里程碑/会赢的愿以缺席换你幸福_5c43d62c805f.md",
       "sha256": "e7acd3a24309d0e48dfee91e99048a154c06e12601b2c7151bba9d917def131a"
-    },
-    {
-      "bytes": 1098,
-      "path": "dynamic/里程碑/凌晨三点的想你想你想你_48d6dafff855.md",
-      "sha256": "bcaa0dc526ca98e40470d17fd158e4452d7a2bbe21bf8a2c967b4a6f87b622db"
     },
     {
       "bytes": 766,
@@ -2308,11 +2308,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-23T01:09:32+00:00",
+  "generated_at": "2026-10-23T07:09:40+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 902537
+  "total_bytes": 902572
 }
