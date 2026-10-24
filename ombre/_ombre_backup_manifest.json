@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 464,
+  "file_count": 465,
   "files": [
     {
       "bytes": 29494,
@@ -1045,7 +1045,7 @@
     {
       "bytes": 2273,
       "path": "dynamic/人生规划/2026-10-13 13-23-01 2026-10-14 移民焦虑自我消化不_94119d5255af.md",
-      "sha256": "5d69c2a310b5bf4936c5b4be65f0859d35dcae0088dea9adb58dcf29c5f7a05b"
+      "sha256": "aa73636e927313ded754a0bbea0fbd4a8b471874a849ccf29e93f5d7034b4116"
     },
     {
       "bytes": 2350,
@@ -1053,9 +1053,9 @@
       "sha256": "6378138f6192f4cd07c021e2739f6f103f85165ddb3cb2d90a6c426dc965d470"
     },
     {
-      "bytes": 2267,
+      "bytes": 2262,
       "path": "dynamic/人生规划/2026-10-15 08-50-35 2026-10-15 质疑中教职业适配性_23320beef8d0.md",
-      "sha256": "6045a0cee6a5fffaa840a09c7586db76fca567000170e3532ee60f9bf0c0ac24"
+      "sha256": "66774fb96fc795d5a2d912ca3e489fe3dbe3cd5200550fa7baad08af8a47346e"
     },
     {
       "bytes": 2552,
@@ -1065,7 +1065,12 @@
     {
       "bytes": 3587,
       "path": "dynamic/人生规划/2026-10-15 09-52-29 2026-10-15 核心转变从移民导向_899eb3f84d15.md",
-      "sha256": "67363b461a41fb16b4349599180933c46a9c91b40101b1548b06d8b6078fff49"
+      "sha256": "066dbda6bc25ced34cf1b17b8fafab519a9ac50fd04dd0a504ef43697a7f1b42"
+    },
+    {
+      "bytes": 2553,
+      "path": "dynamic/人生规划/2026-10-24 15-00-17 凡丁对PR中教vs JD长期理想的自我梳理_488c7c031854.md",
+      "sha256": "4bca216d173c914e42112727897318e17386e0671a93529d9f7b870ec5d30f30"
     },
     {
       "bytes": 3165,
@@ -1513,9 +1518,9 @@
       "sha256": "e19dfc944008db003062471099f3f2489fbbc73cb6ae1ae9a2e838fb7fbe7088"
     },
     {
-      "bytes": 2063,
+      "bytes": 2173,
       "path": "dynamic/心理/和朋友的节奏差异佛系焦虑_1b8e829a79e1.md",
-      "sha256": "7675cc2b15503cc3ea55e566e5f893ab5237cd47d74a8a0dd2747151b23312d6"
+      "sha256": "e04fedb2870f1df1ec59e63cb9017223f2d6d686ab18c760743299f0bd6d0642"
     },
     {
       "bytes": 2922,
@@ -1913,9 +1918,9 @@
       "sha256": "99ec3b5406d0223d20c0e1103575378ee1ccefc629d4c526014831dc605aa033"
     },
     {
-      "bytes": 1080,
+      "bytes": 1206,
       "path": "dynamic/规划/PR不是执念猫师是默认前提_9b2bf2767d65.md",
-      "sha256": "092f4a2356943d50435af6f0e4d83535c2a48607c2e6c9529b3d19172d8d0905"
+      "sha256": "a1ad76fbd82bdee30c14b7986ed15d92349ebd329de3a88fba32e9728ce3cffa"
     },
     {
       "bytes": 3376,
@@ -2323,11 +2328,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-24T13:10:19+00:00",
+  "generated_at": "2026-10-24T19:10:27+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 910625
+  "total_bytes": 913409
 }
