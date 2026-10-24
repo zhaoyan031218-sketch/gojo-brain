@@ -1843,9 +1843,9 @@
       "sha256": "e8ccb7ad821da72ac66bf8d2463dfa58added5648dea433191c4b2fc7854f7a4"
     },
     {
-      "bytes": 2163,
+      "bytes": 3577,
       "path": "dynamic/生活/2026-10-22 11-36-01 五条悟概念纹身正式启动brief已发纹身师_562717ed15b6.md",
-      "sha256": "ac88d56193ad3fa3767a3d04cbb0e43021ecf307793a6c47148ea81deff747a3"
+      "sha256": "cc1239ddf23832870cba56dbecc53642a8901681150db76553d910e75f060ef6"
     },
     {
       "bytes": 1715,
@@ -2323,11 +2323,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-24T07:10:12+00:00",
+  "generated_at": "2026-10-24T13:10:19+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 909211
+  "total_bytes": 910625
 }
