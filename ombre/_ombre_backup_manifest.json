@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 465,
+  "file_count": 466,
   "files": [
     {
       "bytes": 29494,
@@ -1083,9 +1083,14 @@
       "sha256": "066dbda6bc25ced34cf1b17b8fafab519a9ac50fd04dd0a504ef43697a7f1b42"
     },
     {
-      "bytes": 2553,
+      "bytes": 2552,
       "path": "dynamic/人生规划/2026-10-24 15-00-17 凡丁对PR中教vs JD长期理想的自我梳理_488c7c031854.md",
-      "sha256": "4bca216d173c914e42112727897318e17386e0671a93529d9f7b870ec5d30f30"
+      "sha256": "ed7b2a8316eb3245ca1c7ca72c14d9c2c87166047e1cd45080ec0ee994a9dd73"
+    },
+    {
+      "bytes": 2946,
+      "path": "dynamic/人生规划/2026-10-25 12-54-46 前辈咨询第二轮回复及凡丁深层不安_51127865384c.md",
+      "sha256": "ddd49b9df99688252ad918d0cae0f8b4f1dc5fed59fa000c0fac83116e549781"
     },
     {
       "bytes": 3165,
@@ -2328,11 +2333,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-25T07:10:43+00:00",
+  "generated_at": "2026-10-25T13:10:50+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 913427
+  "total_bytes": 916372
 }
