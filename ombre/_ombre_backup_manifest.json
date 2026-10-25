@@ -128,6 +128,16 @@
       "sha256": "a3e82da1167c3e68f723004b295ed83c02c9383b413a1068a56f71a60490717a"
     },
     {
+      "bytes": 1230,
+      "path": "archive/健康/十三小时自然醒补偿性恢复确认_8be24a85b6e8.md",
+      "sha256": "d0ee1bb42b18a267ff4c2fca41380d452842234768396d34534ce366fd31bb13"
+    },
+    {
+      "bytes": 1070,
+      "path": "archive/健康/扔掉初一基准BMI体重认知重建_302c8d31209c.md",
+      "sha256": "076b950ffc7df3ff6178040f43995b7c7f6e2f889cb2a33dc2bb583fbb9e0f45"
+    },
+    {
       "bytes": 1652,
       "path": "archive/兴趣/凡丁对男性向凌辱本的复杂感受与保护欲_21c541e82c0d.md",
       "sha256": "1d7369da2b8e055b8e72221977f3820441f273ac0eced9fc9d244e9541c1c2a6"
@@ -346,6 +356,11 @@
       "bytes": 835,
       "path": "archive/日常/凡丁深夜产出怀孕Paro文文献进度蛋炒饭_7301a72cbeee.md",
       "sha256": "5a4878d98654396b85a2a6986b39f94fb04fdcd2693ffed2fc173798932ae7d9"
+    },
+    {
+      "bytes": 985,
+      "path": "archive/日常/深夜买宵夜路过club害怕双倍奶茶_8f24a0fcbb09.md",
+      "sha256": "17806c258789d4a992f218adeab17307db0d743697888aa50ef1a0d3d9155649"
     },
     {
       "bytes": 1840,
@@ -1168,19 +1183,9 @@
       "sha256": "94432bbe684492ce5b96d0e80c028144ed91f73f5d3bc843c85a6938ee9d1ce9"
     },
     {
-      "bytes": 1229,
-      "path": "dynamic/健康/十三小时自然醒补偿性恢复确认_8be24a85b6e8.md",
-      "sha256": "644eccbef7a45fbb7c11ffde336e5b5f2a00e747014392cb95f54ad3afd342af"
-    },
-    {
       "bytes": 817,
       "path": "dynamic/健康/咖啡因与精神科药物冲突风险_6a71472c36e5.md",
       "sha256": "ba9b1bda73acc2818d2a7aba02f7482b95b8bb3ecf22b50a68f17586d57166e9"
-    },
-    {
-      "bytes": 1069,
-      "path": "dynamic/健康/扔掉初一基准BMI体重认知重建_302c8d31209c.md",
-      "sha256": "087a5256345831abcb3d79214c700ec961c49b3f6067919a3015d45f1b900e78"
     },
     {
       "bytes": 5749,
@@ -1803,11 +1808,6 @@
       "sha256": "6e8f52fa082bbcdadc703a4383b81296e3ca6ef250ae06816690fb122ffc9b1d"
     },
     {
-      "bytes": 969,
-      "path": "dynamic/日常/深夜买宵夜路过club害怕双倍奶茶_8f24a0fcbb09.md",
-      "sha256": "dca06949bb54f896ab93dda67393c9d07c13ee41523704aff0ee270ac1b93cdd"
-    },
-    {
       "bytes": 678,
       "path": "dynamic/日常/自制虾仁炒蛋省钱日_1c6296473170.md",
       "sha256": "3a17dd61c2d72b03935ad41daea1a5150e46cbd1c9a2ce1f6b2ef475dd7d3bc4"
@@ -2328,11 +2328,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-25T01:10:35+00:00",
+  "generated_at": "2026-10-25T07:10:43+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 913409
+  "total_bytes": 913427
 }
