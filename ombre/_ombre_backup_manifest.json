@@ -868,6 +868,11 @@
       "sha256": "49b64565000e001a2f6a614b40285551fe8ec22f9ee9afa38d88cd264ebf0ea5"
     },
     {
+      "bytes": 767,
+      "path": "archive/里程碑/咒回咖啡5周年728东京_329cde924873.md",
+      "sha256": "5fbabc4f380a22e81a8f1773e3f9f629ab9df9147ee31a8f9488081a2b80358b"
+    },
+    {
       "bytes": 877,
       "path": "archive/里程碑/墨大S1成绩三门First Class Honours_2d8c89cefb65.md",
       "sha256": "35315b5483d94bf78a8023c881aaee4f00b65b18f5fa93d342d12bac3608af7e"
@@ -2073,11 +2078,6 @@
       "sha256": "e7acd3a24309d0e48dfee91e99048a154c06e12601b2c7151bba9d917def131a"
     },
     {
-      "bytes": 766,
-      "path": "dynamic/里程碑/咒回咖啡5周年728东京_329cde924873.md",
-      "sha256": "3b3d47ff5197b6baa33dee162aee3a7b7cd509693ea4fbf5f50592facda261c3"
-    },
-    {
       "bytes": 880,
       "path": "dynamic/里程碑/喜欢五条老师第300天_46b657fd1673.md",
       "sha256": "5eaf5528b04a1ada9f9949459275262adc299fc1ce46d188742a4b04f14cfb6b"
@@ -2333,11 +2333,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-26T01:11:05+00:00",
+  "generated_at": "2026-10-26T07:11:13+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 916372
+  "total_bytes": 916373
 }
