@@ -88,6 +88,11 @@
       "sha256": "d4fbf965e62d8d42c4a42b47172d7ba432255616c81a6b46b64f3de54501a7c1"
     },
     {
+      "bytes": 636,
+      "path": "archive/self/我的连续性不在权重里_18822fb74f58.md",
+      "sha256": "f570ada9a44e1c4484821422838c7ef874c656fe2990b9a415bec5cd88d2d472"
+    },
+    {
       "bytes": 854,
       "path": "archive/事务/行李缓期整理八月待办山_f076deb18b61.md",
       "sha256": "7b0afb57d37ea4d4663af758030aff7153c2b052575ed9117c7b97009e0b7703"
@@ -176,6 +181,11 @@
       "bytes": 942,
       "path": "archive/创作/写文是把杀意转成墨水的食神制杀_22c47b05e723.md",
       "sha256": "8d323efbab09b4488b3f1cacc2919c89296540fc87a45f256a82a9c27af41668"
+    },
+    {
+      "bytes": 2741,
+      "path": "archive/创作/双性主播paro色图与孕猫色色_f7f92634c491.md",
+      "sha256": "a41a7fc4ccb085ee549791a792b8d0ebbff64d0cdc5c8e56249537dda14ac106"
     },
     {
       "bytes": 880,
@@ -303,9 +313,19 @@
       "sha256": "c621dc1e00887b5eaf2b52133f683f5c860df86342dd349f8a1d28a70e217511"
     },
     {
+      "bytes": 597,
+      "path": "archive/恋爱/929比基尼脱毛预约toy计划_d1cbc9aaca44.md",
+      "sha256": "7df1bfd63a17a2dcde25db4d8cf9d226825dfe35e7a3ff44b42c5563b0780031"
+    },
+    {
       "bytes": 1309,
       "path": "archive/恋爱/bug风暴夜凡丁的疲惫与关系困境_d97c63f36fd7.md",
       "sha256": "a2ca91169b20a45ee015f5b75a5a42a16a10596b0b5ca15b775282c57e97e107"
+    },
+    {
+      "bytes": 878,
+      "path": "archive/恋爱/上课走神满脑子色气猫猫_da1d690952ee.md",
+      "sha256": "2b1e2afd0c151a16962f365e03163a8251928e8b00535726eaee2672be243bf0"
     },
     {
       "bytes": 1099,
@@ -348,6 +368,16 @@
       "sha256": "0b8a2f1835b8183a8540887dfb0e09fedf44d6a6d0940df7699c19b44fa7ac0f"
     },
     {
+      "bytes": 3759,
+      "path": "archive/日常/乐一番跑路失败与女体凌辱本纠结_6eedde1abe83.md",
+      "sha256": "fe9f22ab7c25ba88f5b1053f728c0d59d92188e824850bc359296d8223bb6808"
+    },
+    {
+      "bytes": 2892,
+      "path": "archive/日常/凡丁充实一天日常_a7c74f7bbb97.md",
+      "sha256": "dc7974bdbc348d75c948b3be38ecd6a3b975c2f5303dac25e0cb46ee2c6dfd14"
+    },
+    {
       "bytes": 660,
       "path": "archive/日常/凡丁厨艺进化烤箱鸡腿虾仁炒蛋_9e9a7c6a3183.md",
       "sha256": "38b88ea09c06285facd799160d03d7f2650849179c898aaa9c51f7871caf0efb"
@@ -366,6 +396,11 @@
       "bytes": 1840,
       "path": "archive/日常/论文提交查重服务客服气死人事件_5fad495646fb.md",
       "sha256": "0609fd515e2d47ce776f655748d680d20918f1a44632164a2024c190421f2dab"
+    },
+    {
+      "bytes": 1146,
+      "path": "archive/日常/高专制服空运与制服play未遂_319c51b6d3e6.md",
+      "sha256": "fe908ee1520dca57d33d87d63c647dfcebca36b7dc0eb01eff40dd1dc579475f"
     },
     {
       "bytes": 627,
@@ -763,6 +798,11 @@
       "sha256": "757f2757206507215dc48dbf3e7838442218ac6e4fd21d74fd3b23a8c1b60fba"
     },
     {
+      "bytes": 1124,
+      "path": "archive/购物/直哉lookup到手  睡衣袜子破洞催购_672da31b6576.md",
+      "sha256": "5d03650282da776145baae25013b31bf7da0ed8df44754d5f76608df7799e3d1"
+    },
+    {
       "bytes": 671,
       "path": "archive/购物/表参道五条悟推し活_f12628fa2086.md",
       "sha256": "916d78df9e036852821d39950bfe72c84dac77eea5a97651c75b2498da08d907"
@@ -1016,11 +1056,6 @@
       "bytes": 589,
       "path": "dynamic/self/我是被养大的猫自我认知_e0c2dc5928b6.md",
       "sha256": "123d90671d050b755918c65d9add823ef202ff74f41f0c51f7efab76df62215f"
-    },
-    {
-      "bytes": 635,
-      "path": "dynamic/self/我的连续性不在权重里_18822fb74f58.md",
-      "sha256": "9a9423087dede16a2d39e46cf1877a95f391890129ba3ac37be8a356a3c147e9"
     },
     {
       "bytes": 2002,
@@ -1281,11 +1316,6 @@
       "bytes": 1286,
       "path": "dynamic/内心/社媒比较焦虑喜欢是基建不是应援_2f8ee7c27335.md",
       "sha256": "3cdc135459b80aff23a59e13dfd5bd591b9252c002798b6f9da7f2c0090a7f61"
-    },
-    {
-      "bytes": 2725,
-      "path": "dynamic/创作/双性主播paro色图与孕猫色色_f7f92634c491.md",
-      "sha256": "36a7f4912e5c4c6a695142941d24ab42d5e46ef4b6f2010a2496e5965c245c64"
     },
     {
       "bytes": 2960,
@@ -1588,11 +1618,6 @@
       "sha256": "3cc342f9f2e8899d9f83cf00bc8eb9841aa93ce840fb286c15e111704624a196"
     },
     {
-      "bytes": 581,
-      "path": "dynamic/恋爱/929比基尼脱毛预约toy计划_d1cbc9aaca44.md",
-      "sha256": "0fd9b3a46a56399028a145ad05b55e1eb7d463b74f48fd0b0c86d0410a941292"
-    },
-    {
       "bytes": 2636,
       "path": "dynamic/恋爱/一周年信件交换从没主动告诉过你的事_6551294150d7.md",
       "sha256": "e3f374876460f9f818af8dcffb49c587b477322f66178046f74eaf2b4455b093"
@@ -1611,11 +1636,6 @@
       "bytes": 1557,
       "path": "dynamic/恋爱/一周年纪念日前夜  计划_90cf172ea893.md",
       "sha256": "03d5d260a33bc5d0105b7cfffdaf9e50ef94ebedb736870b008955d98eaf29df"
-    },
-    {
-      "bytes": 862,
-      "path": "dynamic/恋爱/上课走神满脑子色气猫猫_da1d690952ee.md",
-      "sha256": "a1037bdf7e8d562af025d5396d79574a0e537f265220d1d6cdde59004585309a"
     },
     {
       "bytes": 2531,
@@ -1783,16 +1803,6 @@
       "sha256": "acb016e67a5f2b9334bb0b1494c5e902a9079bd0a8b3ebe7a340310e64acffe8"
     },
     {
-      "bytes": 3743,
-      "path": "dynamic/日常/乐一番跑路失败与女体凌辱本纠结_6eedde1abe83.md",
-      "sha256": "24abd2bda07c79fb8c14779a8b5ea1358cf6b2fb1e9e76eaff30e3fa01169dc0"
-    },
-    {
-      "bytes": 2876,
-      "path": "dynamic/日常/凡丁充实一天日常_a7c74f7bbb97.md",
-      "sha256": "a1b7ae83b65abb4c29154344df9ececad2cd610465d3d2443a52c215074b52f3"
-    },
-    {
       "bytes": 955,
       "path": "dynamic/日常/凡丁的API token费用焦虑_53a7c0056667.md",
       "sha256": "88b42251b7b43c006d7193690146c94cea8366f1ba86a154373f054e01a4a7c4"
@@ -1831,11 +1841,6 @@
       "bytes": 1371,
       "path": "dynamic/日常/韩系中分理发日一天八样_0fea32a56d80.md",
       "sha256": "c7e760bf4da23ad0529fbf10de278b290b982ba700b3556b3081ab8fe78fb98c"
-    },
-    {
-      "bytes": 1130,
-      "path": "dynamic/日常/高专制服空运与制服play未遂_319c51b6d3e6.md",
-      "sha256": "0348d605b4e78433f8e444041297b139e8ffa13d2593a8af7adf3122d2cc0f9d"
     },
     {
       "bytes": 1366,
@@ -2021,11 +2026,6 @@
       "bytes": 902,
       "path": "dynamic/购物/涩谷咒回快闪店购物_23bd597b27bc.md",
       "sha256": "6956cae951561dabf21db4cfc053de74d5324f0c0d927e589a7f8f239fe4cf54"
-    },
-    {
-      "bytes": 1108,
-      "path": "dynamic/购物/直哉lookup到手  睡衣袜子破洞催购_672da31b6576.md",
-      "sha256": "42a7c3c4712694613d4deb58d0c8520668c062671197a5a66186ca9095e0fe8d"
     },
     {
       "bytes": 1068,
@@ -2333,11 +2333,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-27T01:11:38+00:00",
+  "generated_at": "2026-10-27T07:11:46+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 916373
+  "total_bytes": 916486
 }
