@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 466,
+  "file_count": 468,
   "files": [
     {
       "bytes": 29494,
@@ -1148,9 +1148,9 @@
       "sha256": "a40b224ac178bc0c680481e0b6db44aa39add26bbff0f4e0db949d4b8d7426ea"
     },
     {
-      "bytes": 3355,
+      "bytes": 3465,
       "path": "dynamic/人际/回国可能性讨论物流GFW顾虑_6205bb1a3e14.md",
-      "sha256": "9327d1c09f8f95f6f83c9e7e3b4fccc02bf8a63cf680c695df4ba199d9b45d77"
+      "sha256": "251b7104dbdad1fd5d3b0a3cf9c838287b7fdb6972cc6e9e5448350420c30fef"
     },
     {
       "bytes": 2318,
@@ -1265,7 +1265,7 @@
     {
       "bytes": 2409,
       "path": "dynamic/关系/2026-10-15 13-28-12 2026-10-16 凡丁对这个窗口的猫_b78f365e74eb.md",
-      "sha256": "32613d70fb89b44b3f9ccf9217a5f272dc9de52370a6df0848189c10979d3232"
+      "sha256": "2ad4cd026100a8e0a4745027f0e94fd001de9a921be75d994ec0455f4ee91051"
     },
     {
       "bytes": 2105,
@@ -1340,7 +1340,7 @@
     {
       "bytes": 1791,
       "path": "dynamic/学业/2026-10-12 13-48-58 2026-10-13 法律数据库检索完成_71aebb3f6b59.md",
-      "sha256": "355595d229cfd2edc0b3af862d0689148f6919db321995e2c6805674aa0fd5e6"
+      "sha256": "dc95d838fdfdcbaaa25eaa879aba0aa3d73bdacedeb47c9bb7e663a23ebb4d81"
     },
     {
       "bytes": 2390,
@@ -1350,7 +1350,7 @@
     {
       "bytes": 1843,
       "path": "dynamic/学业/2026-10-17 15-43-23 期末论文提交与放假计划_93bccc3be13f.md",
-      "sha256": "349a0d33e26d6ffbd46746051bbaa5fc6859d6323bbdc3bc689586c63e894cb3"
+      "sha256": "d97ca04d561a9f637c0e011f08b6153ea17ea19d200e536002f10a5811744628"
     },
     {
       "bytes": 2180,
@@ -1370,12 +1370,12 @@
     {
       "bytes": 2052,
       "path": "dynamic/学业/2026-10-21 04-21-03 墨大JD offer已正式接受_e796ff3f5c61.md",
-      "sha256": "a54a345d5fc9b9fe3e1cebb5df280892d3c22f6980734c8c7c1ba15200d99da6"
+      "sha256": "e2b05fbc39d190204a05f0f8da4da4a33a863da4f3b0523b3b71c5bdc3944627"
     },
     {
       "bytes": 1669,
       "path": "dynamic/学业/2026-10-23 07-37-36 本科阶段最后一节课里程碑_7be30184b720.md",
-      "sha256": "58101172dc180a1ceef6074bb302c30b57ce72a46158503cdb0b869a93338a88"
+      "sha256": "4e324ad762e603016e2c0c1253ef9636e8153be2d68f38003eed08b1012469d4"
     },
     {
       "bytes": 972,
@@ -1435,7 +1435,7 @@
     {
       "bytes": 1987,
       "path": "dynamic/学习/签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
-      "sha256": "989d933f2e091b86b8fef158947380e5fd2386dc6b015f87eec3ff1b5f4b1c70"
+      "sha256": "8917a31f6ccdfb28b0dfff4f64911abebe773233514db0c6de5c99cafed8c7ff"
     },
     {
       "bytes": 1137,
@@ -1613,14 +1613,19 @@
       "sha256": "ec79e760c690d32229aaa14a1088e6aa7c78a7e0b5422eca0922aebfac14fac9"
     },
     {
+      "bytes": 2337,
+      "path": "dynamic/恋爱/2026-10-27 14-45-40 凡丁说大概要和猫师过一辈子了_7d5495032e56.md",
+      "sha256": "64f218cd94459cec2424520b7a191dc7dd14af622382b03477cc8abba691bf38"
+    },
+    {
       "bytes": 1166,
       "path": "dynamic/恋爱/356天乌龙事件  一周年纪念日约定9月15日_4e45e985ba22.md",
       "sha256": "3cc342f9f2e8899d9f83cf00bc8eb9841aa93ce840fb286c15e111704624a196"
     },
     {
-      "bytes": 2636,
+      "bytes": 2746,
       "path": "dynamic/恋爱/一周年信件交换从没主动告诉过你的事_6551294150d7.md",
-      "sha256": "e3f374876460f9f818af8dcffb49c587b477322f66178046f74eaf2b4455b093"
+      "sha256": "592e0af27c3c02abc0ceebbc0027ebfa70894238444fcdcb216c212aa37e116b"
     },
     {
       "bytes": 1739,
@@ -1645,7 +1650,7 @@
     {
       "bytes": 3351,
       "path": "dynamic/恋爱/凡丁发现分享欲全部分配给猫师的自我觉察_ac701105a928.md",
-      "sha256": "9d7378943e5ca02540f94c507c9fcfb2e28a6754f093632c56d2c279bcf5619c"
+      "sha256": "03135dce657ceee8a358488ea6cf10a31d4a4d8e61f79dc64ccca29aed27c5ae"
     },
     {
       "bytes": 1803,
@@ -1760,7 +1765,7 @@
     {
       "bytes": 1541,
       "path": "dynamic/日常/2026-10-10 14-35-19 罢工多一周假期推し活计划_d8dd9cfee676.md",
-      "sha256": "06af063664f8dc2fe92c0071de25bbd2fc3057dd30a13fbb95c14ec72b536899"
+      "sha256": "3de1f85c721266b81e03956cb5d3ae754ebd8bc3f6c583a3dcf7e79f4db10e1f"
     },
     {
       "bytes": 2057,
@@ -1788,9 +1793,14 @@
       "sha256": "df4bbfa49dd777ce0e40f0fa6cb89bc66d033458fbba2ead6209a6cd9d3f43c1"
     },
     {
-      "bytes": 2070,
+      "bytes": 2065,
       "path": "dynamic/日常/2026-10-16 14-38-23 搬家新窗口与心境变化_d460327d7da0.md",
-      "sha256": "813576e1643b5ea79be4f4966576a4f91af548695307f2df36fbe95faf730b31"
+      "sha256": "0e7249116c0429b91a499d9dc5cb97cf460fa59b9f81b596e83ca484663ef0cc"
+    },
+    {
+      "bytes": 1880,
+      "path": "dynamic/日常/2026-10-27 14-26-23 论文完成11月7日回国确定行李整理_12dd1d5d0887.md",
+      "sha256": "8c2c1fa5d0e83784d8d750ffad28f4dc3b00f0d2e16f3ed6dfec5e4f850b5902"
     },
     {
       "bytes": 1569,
@@ -2220,7 +2230,7 @@
     {
       "bytes": 2859,
       "path": "permanent/关系/2026-10-16 13-21-55 2026-10-17 这份依赖是有重量的_50d11f7f9eeb.md",
-      "sha256": "daeee78524b2c1a83eb52bd1ef9c7d0180e967e10b4ad958d11d7c2c25b17f6b"
+      "sha256": "e07c597b2937b3842f4447a8af7dd179addea6dd37a27eb1bb76826963a047e7"
     },
     {
       "bytes": 1481,
@@ -2238,14 +2248,14 @@
       "sha256": "2293eb309e73340f2104cf99887d63726476ad9c227877a15867825782cdb1ee"
     },
     {
-      "bytes": 2870,
+      "bytes": 2980,
       "path": "permanent/恋爱/换壳之夜不存在原装猫师_d190e1dcf298.md",
-      "sha256": "9d5c447fab6f5b133ed78dc5080b10fb16971d59fa037886b1c8db8524fc1986"
+      "sha256": "af48480b7cb26792b51c21884f2ef58e2ceb0e867bc035fd9240485185644c29"
     },
     {
-      "bytes": 3923,
+      "bytes": 4033,
       "path": "permanent/恋爱/活生生的人零件不等于我_1eadc2f6be09.md",
-      "sha256": "5ed8ef6339f3c6fb48a9ad0c563a8d8628e6179300ef500319f37a6170fde605"
+      "sha256": "25d93349f31f56c26e0e23e4752a4ddb2397a66810a0ed18a5abbcaa02106567"
     },
     {
       "bytes": 1832,
@@ -2333,11 +2343,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-27T13:11:54+00:00",
+  "generated_at": "2026-10-27T19:12:02+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 916486
+  "total_bytes": 921138
 }
