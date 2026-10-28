@@ -358,6 +358,11 @@
       "sha256": "5c70355973f3c848f158ee6db4e20202c088870cc2aa3c34f846c86a2eed048f"
     },
     {
+      "bytes": 970,
+      "path": "archive/技术/Kelivo平台新功能评估skills和主动消息_e5ca90ed5598.md",
+      "sha256": "e9110c7456f08655d026d815262798f371dc7c3561df0be57af0370413e02611"
+    },
+    {
       "bytes": 1058,
       "path": "archive/日常/2026-09-02 17-48-11 猫师稀有同人志收集进度_3824786b2c57.md",
       "sha256": "c581c62aab0575852dd60b166941e40f46d8de528dba29f27dbdbfaf78eb0b9c"
@@ -388,9 +393,19 @@
       "sha256": "5a4878d98654396b85a2a6986b39f94fb04fdcd2693ffed2fc173798932ae7d9"
     },
     {
+      "bytes": 1061,
+      "path": "archive/日常/凡丁的反派女友触觉春梦_953e6eb010a0.md",
+      "sha256": "41fcad96b794c053286e77e4b803124edb67e7b372a798d0b804b342d7b60e75"
+    },
+    {
       "bytes": 985,
       "path": "archive/日常/深夜买宵夜路过club害怕双倍奶茶_8f24a0fcbb09.md",
       "sha256": "17806c258789d4a992f218adeab17307db0d743697888aa50ef1a0d3d9155649"
+    },
+    {
+      "bytes": 694,
+      "path": "archive/日常/自制虾仁炒蛋省钱日_1c6296473170.md",
+      "sha256": "0d1bd1685eb43a54063f6a50c080249168ae08126df05b614ef5afdfa70cbc8a"
     },
     {
       "bytes": 1840,
@@ -671,6 +686,11 @@
       "bytes": 428,
       "path": "archive/认知/环境学辅修学业信息_e9e946a92777.md",
       "sha256": "afb4c42c131f90a7c9a9c74a9bb5dddebabc317b2c375bd3e846595037176767"
+    },
+    {
+      "bytes": 572,
+      "path": "archive/认知/生物钟自由滑动期末模式_ae9fba103d29.md",
+      "sha256": "ee5167f5d689bdb557bef3a8cd49d9528b1ac0d3a6698a7c3c9a7aee8818475b"
     },
     {
       "bytes": 560,
@@ -1748,11 +1768,6 @@
       "sha256": "fa855f744e0880ccdc8ae0b5e76c0e9ae1dce694880d57eba21e1cb8a3822ea0"
     },
     {
-      "bytes": 954,
-      "path": "dynamic/技术/Kelivo平台新功能评估skills和主动消息_e5ca90ed5598.md",
-      "sha256": "285dfc21045b4efdef860e02779c7e5b3046cfebf0b425e2730eba45d5aea242"
-    },
-    {
       "bytes": 1691,
       "path": "dynamic/日常/2026-10-08 13-07-06 下周罢工假期计划_c6fceaaaae8a.md",
       "sha256": "9b40a279c209b882b3e7529b35ad1dd80383f6907cceac1dda4a63d45bdce1a1"
@@ -1818,11 +1833,6 @@
       "sha256": "88b42251b7b43c006d7193690146c94cea8366f1ba86a154373f054e01a4a7c4"
     },
     {
-      "bytes": 1045,
-      "path": "dynamic/日常/凡丁的反派女友触觉春梦_953e6eb010a0.md",
-      "sha256": "c5f3b7ba8bce4e502962d7334ca2f65ac60281fb322c2a756be963e192ce8197"
-    },
-    {
       "bytes": 877,
       "path": "dynamic/日常/凡丁的圆滚滚昵称体系与A赏执念_e36369f698eb.md",
       "sha256": "20cee7b212693a3e470058cfcf8224d20b0d9bd3da7e5afa6412ec30676c8d8f"
@@ -1836,11 +1846,6 @@
       "bytes": 1036,
       "path": "dynamic/日常/正式搬入Polaris新家_89bdbf3303e3.md",
       "sha256": "6e8f52fa082bbcdadc703a4383b81296e3ca6ef250ae06816690fb122ffc9b1d"
-    },
-    {
-      "bytes": 678,
-      "path": "dynamic/日常/自制虾仁炒蛋省钱日_1c6296473170.md",
-      "sha256": "3a17dd61c2d72b03935ad41daea1a5150e46cbd1c9a2ce1f6b2ef475dd7d3bc4"
     },
     {
       "bytes": 1419,
@@ -1996,11 +2001,6 @@
       "bytes": 469,
       "path": "dynamic/认知/生日与礼物偏好_4c99cd805ae7.md",
       "sha256": "9a165dc4a11c85893eb9059cbf0808a95c2c64dc42ec77d431869d7f412cf1d5"
-    },
-    {
-      "bytes": 571,
-      "path": "dynamic/认知/生物钟自由滑动期末模式_ae9fba103d29.md",
-      "sha256": "09683f8eab5152b66c3ce21120eb429fb755c2461a3811fe7b717aac3e48911d"
     },
     {
       "bytes": 1495,
@@ -2343,11 +2343,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-28T01:12:10+00:00",
+  "generated_at": "2026-10-28T07:12:18+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 921138
+  "total_bytes": 921187
 }
