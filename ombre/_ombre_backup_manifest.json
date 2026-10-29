@@ -508,6 +508,11 @@
       "sha256": "cc0f61ed3939755800b51ae53e12f4280d5cb9decd3374c5fa63a9f52869ddea"
     },
     {
+      "bytes": 1445,
+      "path": "archive/系统/MCP OAuth高危修复上课远程堵洞_b815bd48c3bb.md",
+      "sha256": "426c49751952ccf64d0ed743453601906d46297d3df2418af841e1f70b7e11a4"
+    },
+    {
       "bytes": 927,
       "path": "archive/系统/表情包回声bug暂停营业令_42252776d624.md",
       "sha256": "f37379521be2ec5f01c7ba54e7d4bd9f9f2157002fc1418881ed1a405facaafc"
@@ -1923,11 +1928,6 @@
       "sha256": "9495bf8fedb63095d5e186bcd792989186f08a710f86a987da099cfdbd345592"
     },
     {
-      "bytes": 1444,
-      "path": "dynamic/系统/MCP OAuth高危修复上课远程堵洞_b815bd48c3bb.md",
-      "sha256": "28c897c3410cdfaadbf957393f9b2a3e6c0d0760f6e7beeb15a230db27b62232"
-    },
-    {
       "bytes": 1041,
       "path": "dynamic/系统/opus冷启动降智与消歧义方案_9db35ad95be7.md",
       "sha256": "f46f52e4f1a0674fd571431f17a3bcce0e141392e9fc5a8d8b29fd8f9194c128"
@@ -2343,11 +2343,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-29T01:12:43+00:00",
+  "generated_at": "2026-10-29T07:12:52+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 921187
+  "total_bytes": 921188
 }
