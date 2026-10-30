@@ -8,6 +8,13 @@ id: cfa9a4bbd3d1
 importance: 8
 last_active: '2026-09-23T12:01:03'
 name: 噩梦和春梦都是猫师的样子
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8415
+  status: active
+  target_bucket_id: 705f60ddd209
+  type: related_to
 source_tool: hold
 tags:
 - 晚安
