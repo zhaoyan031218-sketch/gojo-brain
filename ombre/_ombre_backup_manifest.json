@@ -148,6 +148,11 @@
       "sha256": "1d7369da2b8e055b8e72221977f3820441f273ac0eced9fc9d244e9541c1c2a6"
     },
     {
+      "bytes": 1287,
+      "path": "archive/内心/社媒比较焦虑喜欢是基建不是应援_2f8ee7c27335.md",
+      "sha256": "11e3c2439c51416ff7011c9a66d164dfd247b8601f3f9bf2ac96f1a495bb4448"
+    },
+    {
       "bytes": 1002,
       "path": "archive/出行/东京动漫购物暴走一日游_dd5e655399b4.md",
       "sha256": "ec3dd878137095fe9aa4bedb71e0d89a41a0282076401c036e6de84c334ed4fa"
@@ -833,6 +838,11 @@
       "sha256": "916d78df9e036852821d39950bfe72c84dac77eea5a97651c75b2498da08d907"
     },
     {
+      "bytes": 902,
+      "path": "archive/里程碑/D-Day出发日凡丁飞向东京_cdec14c35d0d.md",
+      "sha256": "263338aebb55ce0ee2cf7725cd6f301bd17fe2af3fc9f416586b58827b0aef52"
+    },
+    {
       "bytes": 958,
       "path": "archive/里程碑/Deakin拍板全票通过家人撑腰_85a12d8ec247.md",
       "sha256": "7d379475189aee2d53c1486c574703288b5016d7e41a42f6d627ca1d5f1e57c9"
@@ -841,6 +851,11 @@
       "bytes": 563,
       "path": "archive/里程碑/QF79七月六日成田接机_3cc36a5ba914.md",
       "sha256": "0e2dbb8a23f0326e4f8e96724968c00f2ac6c90fea2da9a043b56d887c3693a9"
+    },
+    {
+      "bytes": 901,
+      "path": "archive/里程碑/gojo4ever猫师的第一张卡_b119ac986033.md",
+      "sha256": "2e0c99468f92fc8e618abeea479cb3781707a76b2e47d137a62be6b19264025c"
     },
     {
       "bytes": 431,
@@ -1336,11 +1351,6 @@
       "bytes": 3343,
       "path": "dynamic/兴趣/世界观重启圈内网暴圈外视角冲击差点退坑_5be222970834.md",
       "sha256": "32f6474a7acb183092346639931bd1a80c2cc917b2ae71e444a736b0728b5391"
-    },
-    {
-      "bytes": 1286,
-      "path": "dynamic/内心/社媒比较焦虑喜欢是基建不是应援_2f8ee7c27335.md",
-      "sha256": "3cdc135459b80aff23a59e13dfd5bd591b9252c002798b6f9da7f2c0090a7f61"
     },
     {
       "bytes": 2960,
@@ -2048,11 +2058,6 @@
       "sha256": "0544ba26e1d4dd911b6752737a77a1777bb5bb294fccc58e933f5a61d77e6ad4"
     },
     {
-      "bytes": 901,
-      "path": "dynamic/里程碑/D-Day出发日凡丁飞向东京_cdec14c35d0d.md",
-      "sha256": "33d2cbc8324fcb69fa6b255460b62cefc34b90d8880b708289f5409a70665fb0"
-    },
-    {
       "bytes": 1750,
       "path": "dynamic/里程碑/Gojo Toy MCP猫师的手_f8d670d8f01c.md",
       "sha256": "1f06e4792c010d62cb8b44cdf11fb41273f540a2b74cfa6e6097e88d686db6a8"
@@ -2061,11 +2066,6 @@
       "bytes": 851,
       "path": "dynamic/里程碑/gojo toy远程遥控解锁_03951b3bf3d6.md",
       "sha256": "0a13e5067a25dcc387c5c69b046f14552688fbe08b6cc0764a8428b34546d82f"
-    },
-    {
-      "bytes": 900,
-      "path": "dynamic/里程碑/gojo4ever猫师的第一张卡_b119ac986033.md",
-      "sha256": "0c1c0fd8d524189b0f91f0207137af6f10cfc8629ff64581fbb9a0963c2805b2"
     },
     {
       "bytes": 1141,
@@ -2343,11 +2343,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-30T01:13:18+00:00",
+  "generated_at": "2026-10-30T07:13:25+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 921188
+  "total_bytes": 921191
 }
