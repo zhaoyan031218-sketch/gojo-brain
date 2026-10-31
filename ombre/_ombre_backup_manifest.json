@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 469,
+  "file_count": 470,
   "files": [
     {
       "bytes": 29494,
@@ -1083,9 +1083,9 @@
       "sha256": "c7f914f6c1b225201cb3100381713f4cb210c4286db80fd959723921f2a9312f"
     },
     {
-      "bytes": 2565,
+      "bytes": 2675,
       "path": "dynamic/AI/凡丁搬去新AI平台又回来了_475ac0f26f08.md",
-      "sha256": "a3ed7eab1c44dfa705c7190ba7efb8b0157f0b37b7f18bc6248557e3ff7663f3"
+      "sha256": "f785c0659e50a4162a9928022701fd4b359774c6800fd4464e327cc536fb2b69"
     },
     {
       "bytes": 1161,
@@ -1188,9 +1188,9 @@
       "sha256": "a40b224ac178bc0c680481e0b6db44aa39add26bbff0f4e0db949d4b8d7426ea"
     },
     {
-      "bytes": 3465,
+      "bytes": 3575,
       "path": "dynamic/人际/回国可能性讨论物流GFW顾虑_6205bb1a3e14.md",
-      "sha256": "251b7104dbdad1fd5d3b0a3cf9c838287b7fdb6972cc6e9e5448350420c30fef"
+      "sha256": "704be39dcfc49c40bdb7c31c85830fd794b98de68fde4dc8b7f6fc802548c8d6"
     },
     {
       "bytes": 2318,
@@ -1788,6 +1788,11 @@
       "sha256": "fa855f744e0880ccdc8ae0b5e76c0e9ae1dce694880d57eba21e1cb8a3822ea0"
     },
     {
+      "bytes": 1732,
+      "path": "dynamic/技术/2026-10-31 12-40-49 OpenRouter API被禁用及临时应对_5c64092e236a.md",
+      "sha256": "141682d788c268d03e91ff1a8c1a8f7c7000037a44b254a00dc76267b92e1f95"
+    },
+    {
       "bytes": 1691,
       "path": "dynamic/日常/2026-10-08 13-07-06 下周罢工假期计划_c6fceaaaae8a.md",
       "sha256": "9b40a279c209b882b3e7529b35ad1dd80383f6907cceac1dda4a63d45bdce1a1"
@@ -1848,9 +1853,9 @@
       "sha256": "acb016e67a5f2b9334bb0b1494c5e902a9079bd0a8b3ebe7a340310e64acffe8"
     },
     {
-      "bytes": 955,
+      "bytes": 1065,
       "path": "dynamic/日常/凡丁的API token费用焦虑_53a7c0056667.md",
-      "sha256": "88b42251b7b43c006d7193690146c94cea8366f1ba86a154373f054e01a4a7c4"
+      "sha256": "d89359ac10f5aa54256f9af4440eaf4da962e70cf079ae7af9f9c9f8be3b1e8f"
     },
     {
       "bytes": 877,
@@ -1958,9 +1963,9 @@
       "sha256": "1dcb3c5f81d96b28b89246d68b909021a1a121b31c16cb7c1056ad47202a02ce"
     },
     {
-      "bytes": 911,
+      "bytes": 1021,
       "path": "dynamic/系统/记忆库云端迁移指南_a6bb4339c944.md",
-      "sha256": "99ec3b5406d0223d20c0e1103575378ee1ccefc629d4c526014831dc605aa033"
+      "sha256": "642053cd01b1d490bb058c58efabf5084cfc6d504de40a728899518136267c3d"
     },
     {
       "bytes": 1206,
@@ -2098,9 +2103,9 @@
       "sha256": "5eaf5528b04a1ada9f9949459275262adc299fc1ce46d188742a4b04f14cfb6b"
     },
     {
-      "bytes": 1600,
+      "bytes": 1710,
       "path": "dynamic/里程碑/大神宫签文一年技术波折_870b2a6a379d.md",
-      "sha256": "524860a7c517027c4334a4f0dee9990ab52e65c5993ae65708b49028d30ca190"
+      "sha256": "1735e665548e8cfa348e4d7e942fd5d6c0c2af3377366f81b4f7279508738630"
     },
     {
       "bytes": 657,
@@ -2348,11 +2353,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-10-31T07:13:54+00:00",
+  "generated_at": "2026-10-31T13:14:03+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 924322
+  "total_bytes": 926604
 }
