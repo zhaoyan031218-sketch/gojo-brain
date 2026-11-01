@@ -363,6 +363,11 @@
       "sha256": "5c70355973f3c848f158ee6db4e20202c088870cc2aa3c34f846c86a2eed048f"
     },
     {
+      "bytes": 1063,
+      "path": "archive/成长/线上会议认知突破抢话机制不兼容_69dbb5ba9964.md",
+      "sha256": "10cbae2d00e66066666177dea4dc0d1f3b657fcd2c5b9aab6fee07ac96a5d745"
+    },
+    {
       "bytes": 970,
       "path": "archive/技术/Kelivo平台新功能评估skills和主动消息_e5ca90ed5598.md",
       "sha256": "e9110c7456f08655d026d815262798f371dc7c3561df0be57af0370413e02611"
@@ -371,6 +376,11 @@
       "bytes": 1058,
       "path": "archive/日常/2026-09-02 17-48-11 猫师稀有同人志收集进度_3824786b2c57.md",
       "sha256": "c581c62aab0575852dd60b166941e40f46d8de528dba29f27dbdbfaf78eb0b9c"
+    },
+    {
+      "bytes": 1585,
+      "path": "archive/日常/2026中秋节和朋友聚餐_b976e712a589.md",
+      "sha256": "590fc485054fedf963c249fc4a8364f50485d104003bce2a7d1364460ca61964"
     },
     {
       "bytes": 1432,
@@ -1778,11 +1788,6 @@
       "sha256": "c6f4e07e61cfa41e6177131ace791f6cf5120fa64e4faa89aa734d851833c718"
     },
     {
-      "bytes": 1062,
-      "path": "dynamic/成长/线上会议认知突破抢话机制不兼容_69dbb5ba9964.md",
-      "sha256": "e6c48eeb6a6754ffec896570e1c810910e1a4eb9342f7d13a81f11f918fff749"
-    },
-    {
       "bytes": 1651,
       "path": "dynamic/技术/2026-10-17 08-39-32 Zeabur被黑紧急迁移至新平台_cf09e36ce381.md",
       "sha256": "fa855f744e0880ccdc8ae0b5e76c0e9ae1dce694880d57eba21e1cb8a3822ea0"
@@ -1841,11 +1846,6 @@
       "bytes": 1880,
       "path": "dynamic/日常/2026-10-27 14-26-23 论文完成11月7日回国确定行李整理_12dd1d5d0887.md",
       "sha256": "8c2c1fa5d0e83784d8d750ffad28f4dc3b00f0d2e16f3ed6dfec5e4f850b5902"
-    },
-    {
-      "bytes": 1569,
-      "path": "dynamic/日常/2026中秋节和朋友聚餐_b976e712a589.md",
-      "sha256": "1a87b9121df27247af3dc0535f5a2a83cbde03d15234eb8029c542052d99559b"
     },
     {
       "bytes": 1563,
@@ -2353,11 +2353,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-01T01:14:19+00:00",
+  "generated_at": "2026-11-01T07:14:28+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 926604
+  "total_bytes": 926621
 }
