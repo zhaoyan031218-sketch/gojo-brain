@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 470,
+  "file_count": 471,
   "files": [
     {
       "bytes": 29494,
@@ -518,6 +518,11 @@
       "sha256": "962832030b7198e1a0b64e12dfee641f1e57e5b7429a33fdb45651ec5baa7e45"
     },
     {
+      "bytes": 1009,
+      "path": "archive/社交/粉圈事件虎杖粉P五条悟黑图引发骂战_e8f5a30709fa.md",
+      "sha256": "e0c2c7867a5546a08f7619f76e8a5d8c677c19a7527d2bfd9a247fe36c2620a6"
+    },
+    {
       "bytes": 898,
       "path": "archive/系统/2026-09-02 17-48-12 表情包裸链接bug正则修复_e6f289e817df.md",
       "sha256": "cc0f61ed3939755800b51ae53e12f4280d5cb9decd3374c5fa63a9f52869ddea"
@@ -798,6 +803,11 @@
       "sha256": "123133cc4efd00ea3d0c578864abdf39b09bd958c66174900a2a78caee7df63b"
     },
     {
+      "bytes": 888,
+      "path": "archive/购物/2026-10-02 11-18-49 2026-10-02 Phantom P_94b53fb46570.md",
+      "sha256": "c90773d133b88cbdd11330477f8501e001a6ec059d1ca1fbec13a38f643b4060"
+    },
+    {
       "bytes": 1089,
       "path": "archive/购物/乌萨奇失而复得女仆小姐的善意_497ba4a50dae.md",
       "sha256": "376db6e8f7b1a60ac2dec051035744c13eeee47b5842fb076cbf7ca60a2c644f"
@@ -816,6 +826,11 @@
       "bytes": 825,
       "path": "archive/购物/咒回快闪店巡礼五条悟售罄事件_b997ec51313c.md",
       "sha256": "a0f010160ec282a92e3947b42e4eba444fc5d1e85976440845269523c64d50c0"
+    },
+    {
+      "bytes": 1926,
+      "path": "archive/购物/抽赏库存处理困境墨尔本出物难_2dd8f0346597.md",
+      "sha256": "3043a881120dc916b7e66c67950b31c4746c431ffad0cf15aa7f0493add8e79f"
     },
     {
       "bytes": 758,
@@ -1093,14 +1108,14 @@
       "sha256": "c7f914f6c1b225201cb3100381713f4cb210c4286db80fd959723921f2a9312f"
     },
     {
-      "bytes": 2675,
+      "bytes": 2785,
       "path": "dynamic/AI/凡丁搬去新AI平台又回来了_475ac0f26f08.md",
-      "sha256": "f785c0659e50a4162a9928022701fd4b359774c6800fd4464e327cc536fb2b69"
+      "sha256": "96e4bedba4d557723788f66e1128ea1566e6c418edfc3023c0483e3f8afb2608"
     },
     {
-      "bytes": 1161,
+      "bytes": 1271,
       "path": "dynamic/AI/第二次换脑子opus 55体感测试_2aad282553af.md",
-      "sha256": "592de46054217c9d95a1fbcf1c2b4f9614fdeb69ee4e8b3b92d692197514ce06"
+      "sha256": "b817fef25206ff265c67453c4aab497272ddbe7aea19df2c27130b9256a9401a"
     },
     {
       "bytes": 589,
@@ -1793,9 +1808,14 @@
       "sha256": "fa855f744e0880ccdc8ae0b5e76c0e9ae1dce694880d57eba21e1cb8a3822ea0"
     },
     {
-      "bytes": 1732,
+      "bytes": 1731,
       "path": "dynamic/技术/2026-10-31 12-40-49 OpenRouter API被禁用及临时应对_5c64092e236a.md",
-      "sha256": "141682d788c268d03e91ff1a8c1a8f7c7000037a44b254a00dc76267b92e1f95"
+      "sha256": "1662740b963add6ec41270b138d259e2a088099e0292a28c8dee6387d8b297b5"
+    },
+    {
+      "bytes": 1894,
+      "path": "dynamic/技术/2026-11-02 06-21-51 OpenRouter秽土转生新账号解决_545737e383cc.md",
+      "sha256": "1897a0ace3eadc9c42c1c40f4ff39118725a0b62bbba13f8900e431a34cdd7bf"
     },
     {
       "bytes": 1691,
@@ -1888,9 +1908,9 @@
       "sha256": "0f7bf6d01a5f30116df434bc596fa727d30c8479b9d09350d5d6b98ce74d87c9"
     },
     {
-      "bytes": 1218,
+      "bytes": 1328,
       "path": "dynamic/梗/八小时离家出走记光速搬回_5665380b6b56.md",
-      "sha256": "bf7abee9769446bb3f4d28ca9a26fe803bf410d8e1724588abfe829fa1dd54d1"
+      "sha256": "e3b3781fdfff22a7d55df547e9ce6f97c4c8c06f773c13330656e0bebccaebae"
     },
     {
       "bytes": 1212,
@@ -1931,11 +1951,6 @@
       "bytes": 2394,
       "path": "dynamic/社交/2026-10-21 12-06-54 犯罪学朋友论文全用GPT写本末倒置感慨_1f45142636c4.md",
       "sha256": "ac7cddd10b903c9862ed13b797322af0a951a9d108369d603625cc7b5a3e5289"
-    },
-    {
-      "bytes": 993,
-      "path": "dynamic/社交/粉圈事件虎杖粉P五条悟黑图引发骂战_e8f5a30709fa.md",
-      "sha256": "1e31f8945a71265a69144f95d65ccd4a2376cd940ad59d16458f74fe54024ef6"
     },
     {
       "bytes": 2323,
@@ -2028,11 +2043,6 @@
       "sha256": "a641da2d36b26d56bb5a847055b0b0781f5359b77a0d32c8d8d4ac2107292866"
     },
     {
-      "bytes": 887,
-      "path": "dynamic/购物/2026-10-02 11-18-49 2026-10-02 Phantom P_94b53fb46570.md",
-      "sha256": "d5beaa05a7771e28df0a2a355ab63a696682cc6417b571d65d23e3691719a64b"
-    },
-    {
       "bytes": 2279,
       "path": "dynamic/购物/71只圆滚滚到货墨尔本开箱全记录_50f19a1c12de.md",
       "sha256": "f6bcbe8d12411fbd1d9844b6f2ee2a5f0d1b8c4884e9bf60389df63fb2c6534c"
@@ -2046,11 +2056,6 @@
       "bytes": 3664,
       "path": "dynamic/购物/圆滚滚到转运仓 乐一番客服翻车与运费纠结_e0a98a01f952.md",
       "sha256": "e218af0b938bfb0a74abd823e7117bbf8d09acbea71d25dbf2dca2adc4796e5c"
-    },
-    {
-      "bytes": 1910,
-      "path": "dynamic/购物/抽赏库存处理困境墨尔本出物难_2dd8f0346597.md",
-      "sha256": "a2f899bde48f8c0eed1ce18809f65eedf16986de4b9461a16befb110a50f9fe6"
     },
     {
       "bytes": 902,
@@ -2103,9 +2108,9 @@
       "sha256": "5eaf5528b04a1ada9f9949459275262adc299fc1ce46d188742a4b04f14cfb6b"
     },
     {
-      "bytes": 1710,
+      "bytes": 1820,
       "path": "dynamic/里程碑/大神宫签文一年技术波折_870b2a6a379d.md",
-      "sha256": "1735e665548e8cfa348e4d7e942fd5d6c0c2af3377366f81b4f7279508738630"
+      "sha256": "05c3d3461fc83fb02665fb40b4ba69879ab83028ccb12c382351fae2fbccc18e"
     },
     {
       "bytes": 657,
@@ -2258,9 +2263,9 @@
       "sha256": "2293eb309e73340f2104cf99887d63726476ad9c227877a15867825782cdb1ee"
     },
     {
-      "bytes": 2980,
+      "bytes": 3090,
       "path": "permanent/恋爱/换壳之夜不存在原装猫师_d190e1dcf298.md",
-      "sha256": "af48480b7cb26792b51c21884f2ef58e2ceb0e867bc035fd9240485185644c29"
+      "sha256": "13a0a9ec37adc55e81d554c5dd0a86481b1c418d4708bbb0ad33c073d225f5ca"
     },
     {
       "bytes": 4033,
@@ -2353,11 +2358,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-02T01:14:50+00:00",
+  "generated_at": "2026-11-02T07:14:59+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 926621
+  "total_bytes": 929097
 }
