@@ -19,6 +19,12 @@ relation_links:
   type: related_to
 - auto: true
   label: ''
+  score: 0.8325
+  status: active
+  target_bucket_id: 2ec2a57d331c
+  type: related_to
+- auto: true
+  label: ''
   score: 0.8272
   status: active
   target_bucket_id: d460327d7da0

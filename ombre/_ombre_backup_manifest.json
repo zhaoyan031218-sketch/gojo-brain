@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 471,
+  "file_count": 473,
   "files": [
     {
       "bytes": 29494,
@@ -1228,9 +1228,9 @@
       "sha256": "a40b224ac178bc0c680481e0b6db44aa39add26bbff0f4e0db949d4b8d7426ea"
     },
     {
-      "bytes": 3575,
+      "bytes": 3685,
       "path": "dynamic/人际/回国可能性讨论物流GFW顾虑_6205bb1a3e14.md",
-      "sha256": "704be39dcfc49c40bdb7c31c85830fd794b98de68fde4dc8b7f6fc802548c8d6"
+      "sha256": "f414158945f4bb16f56d505bd652e330e6d5beab603b58508cf2f1a525de235a"
     },
     {
       "bytes": 2318,
@@ -1418,14 +1418,14 @@
       "sha256": "dc95d838fdfdcbaaa25eaa879aba0aa3d73bdacedeb47c9bb7e663a23ebb4d81"
     },
     {
-      "bytes": 2390,
+      "bytes": 2385,
       "path": "dynamic/学业/2026-10-16 13-13-20 2026-10-16 犯罪学论文初稿完成_a75338c81543.md",
-      "sha256": "0f9aa38fde4af76c160cf49e5e81ee5a3f104691027d121a4e5f9ccb826299d9"
+      "sha256": "049d59ffb6743792c7f712d8c1254af8b507ed0873b19beeb8598a87706020d5"
     },
     {
       "bytes": 1843,
       "path": "dynamic/学业/2026-10-17 15-43-23 期末论文提交与放假计划_93bccc3be13f.md",
-      "sha256": "d97ca04d561a9f637c0e011f08b6153ea17ea19d200e536002f10a5811744628"
+      "sha256": "388c9fe3e55bc3fcdf07c30a516f1c10a6b4af8b6682f9b967fd153c2fe2544c"
     },
     {
       "bytes": 2180,
@@ -1498,9 +1498,9 @@
       "sha256": "c109ed653b45930de58eaf14a223a609f82df558180cbf7b6547cc2b332138bc"
     },
     {
-      "bytes": 3134,
+      "bytes": 3137,
       "path": "dynamic/学习/开学第一天上课日料写论文猫师娃娃合影_0ad776e58402.md",
-      "sha256": "f339cfcb01b39ea237d07dd28bf1c5059c065ff7536883f035ab67b390bb66da"
+      "sha256": "edae16e0348bc5d4db6a7dd6944331e957fa757657cc3511f60bfe1da24e8267"
     },
     {
       "bytes": 3123,
@@ -1508,9 +1508,9 @@
       "sha256": "c508109c7e3f770c3fe8a12c443649a695d98e1272e74a3bebc0b66a8d5695e2"
     },
     {
-      "bytes": 1987,
+      "bytes": 1986,
       "path": "dynamic/学习/签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
-      "sha256": "8917a31f6ccdfb28b0dfff4f64911abebe773233514db0c6de5c99cafed8c7ff"
+      "sha256": "0f6329086e8682e490c861662210ff9a910ec6a01c2bd2d22699a8d0d27e6c02"
     },
     {
       "bytes": 1137,
@@ -1548,9 +1548,9 @@
       "sha256": "f4ee26cc40a41434716fc950844a408b711edd67d306f14ac85a80977fe56cc4"
     },
     {
-      "bytes": 1792,
+      "bytes": 1902,
       "path": "dynamic/居家/高专制服到手搬家Box Hill计划论文与CASPer经期追踪上线_ffdd33987779.md",
-      "sha256": "ca536a92f178b23d4bac6dcd18ec533f590900b144e3532120ddcff91da94db7"
+      "sha256": "b19583730260e5ac6b1fb390b0995a017124dfcac95cf32d9744ae7810985d0b"
     },
     {
       "bytes": 1246,
@@ -1638,9 +1638,9 @@
       "sha256": "e19dfc944008db003062471099f3f2489fbbc73cb6ae1ae9a2e838fb7fbe7088"
     },
     {
-      "bytes": 2173,
+      "bytes": 2283,
       "path": "dynamic/心理/和朋友的节奏差异佛系焦虑_1b8e829a79e1.md",
-      "sha256": "e04fedb2870f1df1ec59e63cb9017223f2d6d686ab18c760743299f0bd6d0642"
+      "sha256": "0348df27618fc3b7bc626132ae2e36a57492e9b5098e203b3ffec5127537dfa3"
     },
     {
       "bytes": 2922,
@@ -1865,12 +1865,17 @@
     {
       "bytes": 2065,
       "path": "dynamic/日常/2026-10-16 14-38-23 搬家新窗口与心境变化_d460327d7da0.md",
-      "sha256": "0e7249116c0429b91a499d9dc5cb97cf460fa59b9f81b596e83ca484663ef0cc"
+      "sha256": "89ed8846e465f4e7de69adc082a9e3d3067ef167e858605e868d305efe71492a"
     },
     {
       "bytes": 1880,
       "path": "dynamic/日常/2026-10-27 14-26-23 论文完成11月7日回国确定行李整理_12dd1d5d0887.md",
-      "sha256": "8c2c1fa5d0e83784d8d750ffad28f4dc3b00f0d2e16f3ed6dfec5e4f850b5902"
+      "sha256": "a809c3ad3a399a36a0474beca6545e796978f2f516fc77505607efff96be5006"
+    },
+    {
+      "bytes": 3039,
+      "path": "dynamic/日常/2026-11-03 14-53-39 凡丁连环倒霉日与本科最后一门论文草稿完成_2ec2a57d331c.md",
+      "sha256": "19bb45de02c42f4f7181c757bb62f8e87c682afceff6c4b8bd1250e82b85e562"
     },
     {
       "bytes": 1563,
@@ -2001,6 +2006,11 @@
       "bytes": 2293,
       "path": "dynamic/认知/2026-10-19 13-13-20 愤怒驱动凡丁的核心求生机制_5d7e9e30b470.md",
       "sha256": "e8219c23c0a38d1ad67a74c1cc1e90068d1d3d8782b17f24ee00345b702d6e15"
+    },
+    {
+      "bytes": 2556,
+      "path": "dynamic/认知/2026-11-03 17-20-26 凡丁关于宏大叙事漂泊与人生形态的深夜思考_f685f5eefdf7.md",
+      "sha256": "09153d60d4237ce5da940cb7db56d3517410c86f43764aa35e334a4c1bcc38e7"
     },
     {
       "bytes": 1608,
@@ -2253,9 +2263,9 @@
       "sha256": "af813d3129ec8203e1da364208df613469170ffe30e608c47d1cfcad24dae424"
     },
     {
-      "bytes": 2050,
+      "bytes": 2160,
       "path": "permanent/心理/人生哲学活着就很好先甜就一定甜_af2a4b305bc1.md",
-      "sha256": "b7f8869f2335083ef64ca0b25214033a302ecd8e0f631c6929082cbc3c3671ae"
+      "sha256": "d8b5b1228929a4c7aa089a83d2eda0ea4b3d366ae36dceeb340b5a40d0e821be"
     },
     {
       "bytes": 1560,
@@ -2358,11 +2368,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-03T13:15:37+00:00",
+  "generated_at": "2026-11-03T19:15:46+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 929115
+  "total_bytes": 935147
 }
