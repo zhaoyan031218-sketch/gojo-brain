@@ -208,6 +208,11 @@
       "sha256": "674c715933242a6a22eed07c391186ca2020b4b60f69e4e487fe3c5231bdfe3e"
     },
     {
+      "bytes": 729,
+      "path": "archive/友谊/甚尔在祭坛照片里发现了自己_93c8a00d5067.md",
+      "sha256": "bf065cb0b47d5bfcb1e585cf5e1c2aed289ca5b7265402e7bba2830148368a1d"
+    },
+    {
       "bytes": 862,
       "path": "archive/学业/下周学业截止提醒_bd20a35719c7.md",
       "sha256": "fb1a6ce3904519ae908a67f9d1f4715299b6dc46656578df992325eeab28fb2d"
@@ -341,6 +346,11 @@
       "bytes": 1463,
       "path": "archive/恋爱/凡丁的性偏好坦白_c5a7982efe5a.md",
       "sha256": "aa0830368df27610bc9c76656287930af902ccb1713ad3ef78d2b6375bf3c30d"
+    },
+    {
+      "bytes": 1249,
+      "path": "archive/恋爱/凡丁说不用向下兼容_7a8e737d28b8.md",
+      "sha256": "690088b0dbeb2c405856c4d4560bdf1a2e6063afa3e5d97e7bd8f3d79c389216"
     },
     {
       "bytes": 1276,
@@ -878,6 +888,11 @@
       "sha256": "0e2dbb8a23f0326e4f8e96724968c00f2ac6c90fea2da9a043b56d887c3693a9"
     },
     {
+      "bytes": 852,
+      "path": "archive/里程碑/gojo toy远程遥控解锁_03951b3bf3d6.md",
+      "sha256": "44686940cd44aa4377aa4ba42a7d71f5c249338640800058ace67beccd4d45b2"
+    },
+    {
       "bytes": 901,
       "path": "archive/里程碑/gojo4ever猫师的第一张卡_b119ac986033.md",
       "sha256": "2e0c99468f92fc8e618abeea479cb3781707a76b2e47d137a62be6b19264025c"
@@ -1398,11 +1413,6 @@
       "sha256": "6ca476473321b749239207d4c45fc5ca4f153a065e962af064113c80409fadcc"
     },
     {
-      "bytes": 713,
-      "path": "dynamic/友谊/甚尔在祭坛照片里发现了自己_93c8a00d5067.md",
-      "sha256": "c82b314169660547a7755580535d8e83e3b91351eae4b7e5a5ffd1a6de3ce661"
-    },
-    {
       "bytes": 1791,
       "path": "dynamic/学业/2026-10-12 13-48-58 2026-10-13 法律数据库检索完成_71aebb3f6b59.md",
       "sha256": "dc95d838fdfdcbaaa25eaa879aba0aa3d73bdacedeb47c9bb7e663a23ebb4d81"
@@ -1726,11 +1736,6 @@
       "bytes": 3707,
       "path": "dynamic/恋爱/凡丁的复杂梦境导演视角猫师被轮_c40eba2e8343.md",
       "sha256": "6dcf4aedf1269a034f12ec2ddc5e617fd56f34fa94e8fd520334402213c486c7"
-    },
-    {
-      "bytes": 1248,
-      "path": "dynamic/恋爱/凡丁说不用向下兼容_7a8e737d28b8.md",
-      "sha256": "72077522c028e1219b67ad1f36c46564a414774ce866ea5952f2d3af031ebc32"
     },
     {
       "bytes": 2321,
@@ -2078,11 +2083,6 @@
       "sha256": "1f06e4792c010d62cb8b44cdf11fb41273f540a2b74cfa6e6097e88d686db6a8"
     },
     {
-      "bytes": 851,
-      "path": "dynamic/里程碑/gojo toy远程遥控解锁_03951b3bf3d6.md",
-      "sha256": "0a13e5067a25dcc387c5c69b046f14552688fbe08b6cc0764a8428b34546d82f"
-    },
-    {
       "bytes": 1141,
       "path": "dynamic/里程碑/七夕夜第一张照片涩谷Sky_6c4acf1c7ace.md",
       "sha256": "8c8058c827e9abf47c95c10b78898fcc825f71cb21fa5a7f4dee8a0f40f23951"
@@ -2358,11 +2358,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-03T01:15:23+00:00",
+  "generated_at": "2026-11-03T07:15:29+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 929097
+  "total_bytes": 929115
 }
