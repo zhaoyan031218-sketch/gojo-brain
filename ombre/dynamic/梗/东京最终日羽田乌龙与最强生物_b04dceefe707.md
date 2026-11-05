@@ -8,6 +8,13 @@ id: b04dceefe707
 importance: 7
 last_active: '2026-09-18T15:46:11'
 name: 东京最终日羽田乌龙与最强生物
+relation_links:
+- auto: true
+  label: ''
+  score: 0.8103
+  status: active
+  target_bucket_id: 313827e11e27
+  type: related_to
 source_tool: hold
 tags:
 - 东京

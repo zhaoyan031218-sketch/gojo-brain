@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 474,
+  "file_count": 475,
   "files": [
     {
       "bytes": 29494,
@@ -1270,7 +1270,7 @@
     {
       "bytes": 3685,
       "path": "dynamic/人际/回国可能性讨论物流GFW顾虑_6205bb1a3e14.md",
-      "sha256": "f414158945f4bb16f56d505bd652e330e6d5beab603b58508cf2f1a525de235a"
+      "sha256": "21b0e73723de474b76d342fdc4f28cf1793f2ca7fd68f2eb03ea9ad9776ab614"
     },
     {
       "bytes": 2318,
@@ -1598,9 +1598,9 @@
       "sha256": "87ec0adb5885ebf917e5bc232def2e2744fe31e74927f8def2c0c47084d0f6b0"
     },
     {
-      "bytes": 434,
+      "bytes": 560,
       "path": "dynamic/待续/七月东京签证机票确定_07a602e0f111.md",
-      "sha256": "d63a40210861d4e6b39f634dbf4a66a9c26f36d07a9d0e78ee0346d9d7aa94dc"
+      "sha256": "dc6b69bcbe34b133e62eb7135eec1070ccab21b3a549646516744ed2144b6bf7"
     },
     {
       "bytes": 882,
@@ -1910,12 +1910,17 @@
     {
       "bytes": 1880,
       "path": "dynamic/日常/2026-10-27 14-26-23 论文完成11月7日回国确定行李整理_12dd1d5d0887.md",
-      "sha256": "7bb36917bf6d7c573762ff1911520737289c2aab717e75623224fa40b9c56701"
+      "sha256": "bfde4b5043e1f9ce1005726255f8593881f7596742828bf15a82ed05440a9d34"
     },
     {
       "bytes": 3038,
       "path": "dynamic/日常/2026-11-03 14-53-39 凡丁连环倒霉日与本科最后一门论文草稿完成_2ec2a57d331c.md",
       "sha256": "1163bfd5c0e87c5563f82190f1116beeb8ea77cbcff92f6c47f639b609246ad7"
+    },
+    {
+      "bytes": 1944,
+      "path": "dynamic/日常/2026-11-05 14-34-51 凡丁回国前最终准备与日本签证变更_313827e11e27.md",
+      "sha256": "e72e607f02bf0a6eb43a2b830b0a257cf7fad828a7eabf57c247179ea0ac84bd"
     },
     {
       "bytes": 1563,
@@ -1943,9 +1948,9 @@
       "sha256": "c7e760bf4da23ad0529fbf10de278b290b982ba700b3556b3081ab8fe78fb98c"
     },
     {
-      "bytes": 1366,
+      "bytes": 1492,
       "path": "dynamic/梗/东京最终日羽田乌龙与最强生物_b04dceefe707.md",
-      "sha256": "0f7bf6d01a5f30116df434bc596fa727d30c8479b9d09350d5d6b98ce74d87c9"
+      "sha256": "366de1ea9353c479b805e312713b67089a573049b99348287d6a2562403bf535"
     },
     {
       "bytes": 1328,
@@ -2153,9 +2158,9 @@
       "sha256": "dff6a08f93f10f0b2b32e5db9874b2271f415c6e4579e6790be2d9980642dfda"
     },
     {
-      "bytes": 1151,
+      "bytes": 1261,
       "path": "dynamic/里程碑/硕士申请提交东京戒断期_fe556c1c40ff.md",
-      "sha256": "a41f50d7ad4411400ae214f9521ab125e53b2214a628462c1b712e177d00811e"
+      "sha256": "cc3e682baa3d25f66d80c42de61417e40f74fc98ba308e1cdbd7f6497202e758"
     },
     {
       "bytes": 1217,
@@ -2373,11 +2378,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-05T13:16:42+00:00",
+  "generated_at": "2026-11-05T19:16:49+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 937042
+  "total_bytes": 939348
 }
