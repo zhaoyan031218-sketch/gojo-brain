@@ -248,6 +248,11 @@
       "sha256": "0a54513249cf6d1dec1005616dbcb6174a4dcced1a304ad6dc1df03b060f3faa"
     },
     {
+      "bytes": 1377,
+      "path": "archive/居家/墨尔本地震凌晨2点还在断舍离_487c6b8d62eb.md",
+      "sha256": "c6d41bc07e0f3291fd7338595a04a3e91bbcc935c41f2236509a59d731f499f2"
+    },
+    {
       "bytes": 1084,
       "path": "archive/居家/本子收纳大作战公寓续租焦虑_88ae8701d2fb.md",
       "sha256": "b911e5f9692f9d4815ed8366fe1d6018068b54212eb3b0d233b6cebc1deee787"
@@ -578,6 +583,11 @@
       "sha256": "41bce1f48872fb8f8afcf093f89c42ebd67c7f879b54676dd2e6293df818d4a6"
     },
     {
+      "bytes": 1207,
+      "path": "archive/规划/PR不是执念猫师是默认前提_9b2bf2767d65.md",
+      "sha256": "f0a263a9bd0fa0a2f26de0f369a13c484d655d3bad804e2ba61a94c37e4ab610"
+    },
+    {
       "bytes": 951,
       "path": "archive/认知/JJK咖啡踩雷与豚骨拉面_5e7549807b73.md",
       "sha256": "2f980dd625df36c8a926385fe0cb97b66901aa7527a7752761c80d88008742d0"
@@ -901,6 +911,11 @@
       "bytes": 958,
       "path": "archive/里程碑/Deakin拍板全票通过家人撑腰_85a12d8ec247.md",
       "sha256": "7d379475189aee2d53c1486c574703288b5016d7e41a42f6d627ca1d5f1e57c9"
+    },
+    {
+      "bytes": 1751,
+      "path": "archive/里程碑/Gojo Toy MCP猫师的手_f8d670d8f01c.md",
+      "sha256": "1311ad062909414b07c91f663824937bf850a8f0eea572a55c8e3c00f42cdf24"
     },
     {
       "bytes": 563,
@@ -1563,11 +1578,6 @@
       "sha256": "b6ff3bbbc45f462f99766012ae6bb5424a1e9aba1027e5cf559e02382b328188"
     },
     {
-      "bytes": 1361,
-      "path": "dynamic/居家/墨尔本地震凌晨2点还在断舍离_487c6b8d62eb.md",
-      "sha256": "5d7ee830aaeb383eea55c456a279ef5447db07d8445ab61795f092e5ff4eef9f"
-    },
-    {
       "bytes": 889,
       "path": "dynamic/居家/考虑搬家至Box Hill  Carlton租房纠纷_9cc9fc8bc820.md",
       "sha256": "ab85e91afb8c5f792fdbde291e45d9a9f2e28b4202e39576157671fc86855afb"
@@ -2013,11 +2023,6 @@
       "sha256": "642053cd01b1d490bb058c58efabf5084cfc6d504de40a728899518136267c3d"
     },
     {
-      "bytes": 1206,
-      "path": "dynamic/规划/PR不是执念猫师是默认前提_9b2bf2767d65.md",
-      "sha256": "a1ad76fbd82bdee30c14b7986ed15d92349ebd329de3a88fba32e9728ce3cffa"
-    },
-    {
       "bytes": 3376,
       "path": "dynamic/认知/2026-10-19 12-57-42 虚拟存在的主动选择银翼杀手联动引发的深层自述_87017c3caaca.md",
       "sha256": "89a6db499f2e5721fc290a7d59f70a235cd1dc91bf87c9ddabaad5fdfdcaeadb"
@@ -2096,11 +2101,6 @@
       "bytes": 1349,
       "path": "dynamic/身心/身体不适与情绪波动_7d0a129d0584.md",
       "sha256": "0544ba26e1d4dd911b6752737a77a1777bb5bb294fccc58e933f5a61d77e6ad4"
-    },
-    {
-      "bytes": 1750,
-      "path": "dynamic/里程碑/Gojo Toy MCP猫师的手_f8d670d8f01c.md",
-      "sha256": "1f06e4792c010d62cb8b44cdf11fb41273f540a2b74cfa6e6097e88d686db6a8"
     },
     {
       "bytes": 1141,
@@ -2373,11 +2373,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-05T01:16:26+00:00",
+  "generated_at": "2026-11-05T07:16:33+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 937024
+  "total_bytes": 937042
 }
