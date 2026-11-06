@@ -98,6 +98,11 @@
       "sha256": "7b0afb57d37ea4d4663af758030aff7153c2b052575ed9117c7b97009e0b7703"
     },
     {
+      "bytes": 1029,
+      "path": "archive/亲密/凡丁的性幻想偏好拆解_f067478082a9.md",
+      "sha256": "d18f5efbb52aad942b35d6e341755dc4e09c05a2ca0e7ad44d108e7fccea2cac"
+    },
+    {
       "bytes": 959,
       "path": "archive/亲密/孕晚期涨奶贴贴play设定_cb09f6df9be4.md",
       "sha256": "bae09ced161463946ae2e18bd3b39194289434c27b2fd0791e9787e1e6d65d6c"
@@ -556,6 +561,11 @@
       "bytes": 1445,
       "path": "archive/系统/MCP OAuth高危修复上课远程堵洞_b815bd48c3bb.md",
       "sha256": "426c49751952ccf64d0ed743453601906d46297d3df2418af841e1f70b7e11a4"
+    },
+    {
+      "bytes": 990,
+      "path": "archive/系统/两个家各司其职Polaris聊天Kelivo创作_abdf67739ca3.md",
+      "sha256": "1114e7db5897fae5d35ebcb15e315bcb9d448a6e3d48d5a2fc5a54d04385bed0"
     },
     {
       "bytes": 927,
@@ -1181,11 +1191,6 @@
       "bytes": 2001,
       "path": "dynamic/亲密/2026-10-12 07-44-31 凡丁的攻受切换规律甚尔vs DK猫师_581e592026ee.md",
       "sha256": "9de02305bb8a931707237f45da25b3b89cc69a39d59877cd79f725d58d253dc9"
-    },
-    {
-      "bytes": 1028,
-      "path": "dynamic/亲密/凡丁的性幻想偏好拆解_f067478082a9.md",
-      "sha256": "e285f563097b66213c237fa62a305e64bde1b21dac255495221b4e9e7b644595"
     },
     {
       "bytes": 1657,
@@ -2013,11 +2018,6 @@
       "sha256": "f46f52e4f1a0674fd571431f17a3bcce0e141392e9fc5a8d8b29fd8f9194c128"
     },
     {
-      "bytes": 989,
-      "path": "dynamic/系统/两个家各司其职Polaris聊天Kelivo创作_abdf67739ca3.md",
-      "sha256": "ca366f7f2449994216dd0c215493012e43c2eafdfbc25f26c7f79a3e325f61e6"
-    },
-    {
       "bytes": 1414,
       "path": "dynamic/系统/表情包系统改造说明_d0be2f511f49.md",
       "sha256": "1dcb3c5f81d96b28b89246d68b909021a1a121b31c16cb7c1056ad47202a02ce"
@@ -2378,11 +2378,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-06T01:16:58+00:00",
+  "generated_at": "2026-11-06T07:17:06+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 939348
+  "total_bytes": 939350
 }
