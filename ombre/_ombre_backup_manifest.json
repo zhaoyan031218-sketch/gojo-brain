@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 475,
+  "file_count": 477,
   "files": [
     {
       "bytes": 29494,
@@ -1275,7 +1275,7 @@
     {
       "bytes": 3685,
       "path": "dynamic/人际/回国可能性讨论物流GFW顾虑_6205bb1a3e14.md",
-      "sha256": "21b0e73723de474b76d342fdc4f28cf1793f2ca7fd68f2eb03ea9ad9776ab614"
+      "sha256": "021fe4b7034ec3d6596c8bebb2cc5c9853aabbf1d9e6093b89f68b992b22049b"
     },
     {
       "bytes": 2318,
@@ -1915,7 +1915,7 @@
     {
       "bytes": 1880,
       "path": "dynamic/日常/2026-10-27 14-26-23 论文完成11月7日回国确定行李整理_12dd1d5d0887.md",
-      "sha256": "bfde4b5043e1f9ce1005726255f8593881f7596742828bf15a82ed05440a9d34"
+      "sha256": "520f6866839d412908fe358bab10fec6fe3b50bb6e3fe90a30ffafe6668ced9b"
     },
     {
       "bytes": 3038,
@@ -1923,9 +1923,19 @@
       "sha256": "1163bfd5c0e87c5563f82190f1116beeb8ea77cbcff92f6c47f639b609246ad7"
     },
     {
-      "bytes": 1944,
+      "bytes": 1943,
       "path": "dynamic/日常/2026-11-05 14-34-51 凡丁回国前最终准备与日本签证变更_313827e11e27.md",
-      "sha256": "e72e607f02bf0a6eb43a2b830b0a257cf7fad828a7eabf57c247179ea0ac84bd"
+      "sha256": "c8990b00580a661d35c452d4e77359fd7a368ce0a968139f9a20ee28e5f23c0b"
+    },
+    {
+      "bytes": 2454,
+      "path": "dynamic/日常/2026-11-07 09-40-47 凡丁入境海关被查扣8本R18同人志_daed499034f3.md",
+      "sha256": "28185272f6a36f2bdd403a6236c62527553927b1021d80f28a49f6cb085455d2"
+    },
+    {
+      "bytes": 2171,
+      "path": "dynamic/日常/2026-11-07 13-12-01 凡丁回到德清家中及海关事件完整记录_64da767cc013.md",
+      "sha256": "95cce30af7ffb8e502fafb3d0784ced754945cff6b33ca26f0ebbc7161b41bb9"
     },
     {
       "bytes": 1563,
@@ -1953,9 +1963,9 @@
       "sha256": "c7e760bf4da23ad0529fbf10de278b290b982ba700b3556b3081ab8fe78fb98c"
     },
     {
-      "bytes": 1492,
+      "bytes": 1712,
       "path": "dynamic/梗/东京最终日羽田乌龙与最强生物_b04dceefe707.md",
-      "sha256": "366de1ea9353c479b805e312713b67089a573049b99348287d6a2562403bf535"
+      "sha256": "6612daeee10e2929049465f2c821533ebfb710b4ae195c35f113fcd3ac1b55db"
     },
     {
       "bytes": 1328,
@@ -2083,9 +2093,9 @@
       "sha256": "a641da2d36b26d56bb5a847055b0b0781f5359b77a0d32c8d8d4ac2107292866"
     },
     {
-      "bytes": 2279,
+      "bytes": 2405,
       "path": "dynamic/购物/71只圆滚滚到货墨尔本开箱全记录_50f19a1c12de.md",
-      "sha256": "f6bcbe8d12411fbd1d9844b6f2ee2a5f0d1b8c4884e9bf60389df63fb2c6534c"
+      "sha256": "01512a2fa74df15a2d128d8eba33b86a8feb9b22e4b861fbecb4c32c3a6b2629"
     },
     {
       "bytes": 1029,
@@ -2138,9 +2148,9 @@
       "sha256": "a7290dd9efbaba4becd4496689f06a860c2caafbb67fdbc75ab8daa5b6474b43"
     },
     {
-      "bytes": 846,
+      "bytes": 956,
       "path": "dynamic/里程碑/成田落地我们见面了_28978f10a1c7.md",
-      "sha256": "1f5f48fc16af713274e7ec45a887ab473b2d81473cf27455444ea2e31ae7ca24"
+      "sha256": "c9ec12650af26a0f4d3caeb98922dbed0c3dc984363baa72b8515c8d77451efe"
     },
     {
       "bytes": 1253,
@@ -2378,11 +2388,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-07T07:17:39+00:00",
+  "generated_at": "2026-11-07T13:17:46+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 939350
+  "total_bytes": 944430
 }
