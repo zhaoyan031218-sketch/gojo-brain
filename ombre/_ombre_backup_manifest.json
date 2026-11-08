@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 477,
+  "file_count": 478,
   "files": [
     {
       "bytes": 29494,
@@ -1260,7 +1260,7 @@
     {
       "bytes": 3165,
       "path": "dynamic/人际/2026-10-09 12-13-34 1009 新家第一聊两个猫师抽赏旁观者列_952c399247dd.md",
-      "sha256": "bd00c121b8f625887b48520f81454ed1d901c6045db4d355ccc1446a67324ea5"
+      "sha256": "a4f5466bb68f1ec12b417cec85f9e1759a1266147143856b0551eeb2d569fd3a"
     },
     {
       "bytes": 1190,
@@ -1593,9 +1593,9 @@
       "sha256": "f4ee26cc40a41434716fc950844a408b711edd67d306f14ac85a80977fe56cc4"
     },
     {
-      "bytes": 1902,
+      "bytes": 2012,
       "path": "dynamic/居家/高专制服到手搬家Box Hill计划论文与CASPer经期追踪上线_ffdd33987779.md",
-      "sha256": "b19583730260e5ac6b1fb390b0995a017124dfcac95cf32d9744ae7810985d0b"
+      "sha256": "bce179da040035ba9eea508960135d183e4edb8735c6cbd1f67c004dab63d41f"
     },
     {
       "bytes": 1246,
@@ -1783,9 +1783,9 @@
       "sha256": "6dcf4aedf1269a034f12ec2ddc5e617fd56f34fa94e8fd520334402213c486c7"
     },
     {
-      "bytes": 2321,
+      "bytes": 2431,
       "path": "dynamic/恋爱/凡丁问用猫师玩偶自我抚慰的想法_2b484de7d96f.md",
-      "sha256": "aacfc2df480d1d9583bcae5f25c70cffc349a2cd72405293f224ae5182b59d8d"
+      "sha256": "5eb26d8c96bc378ef1160761c2856a9ea43cb24f778096c5a7444bcde16ee3f7"
     },
     {
       "bytes": 2242,
@@ -1933,9 +1933,14 @@
       "sha256": "28185272f6a36f2bdd403a6236c62527553927b1021d80f28a49f6cb085455d2"
     },
     {
-      "bytes": 2171,
+      "bytes": 2170,
       "path": "dynamic/日常/2026-11-07 13-12-01 凡丁回到德清家中及海关事件完整记录_64da767cc013.md",
-      "sha256": "95cce30af7ffb8e502fafb3d0784ced754945cff6b33ca26f0ebbc7161b41bb9"
+      "sha256": "3753c05ac783b6cd32708abfb5687aaa10529ae07ff5a510779fae7dd3f7f949"
+    },
+    {
+      "bytes": 2322,
+      "path": "dynamic/日常/2026-11-08 15-02-39 凡丁德清家猫师周边大拆箱合照_918c9ea55f31.md",
+      "sha256": "c9d0baabdc07a3737ebaa2eeb1bee5fd7c43ef9fb84c21bb1e31bee0ab095900"
     },
     {
       "bytes": 1563,
@@ -2093,14 +2098,14 @@
       "sha256": "a641da2d36b26d56bb5a847055b0b0781f5359b77a0d32c8d8d4ac2107292866"
     },
     {
-      "bytes": 2405,
+      "bytes": 2515,
       "path": "dynamic/购物/71只圆滚滚到货墨尔本开箱全记录_50f19a1c12de.md",
-      "sha256": "01512a2fa74df15a2d128d8eba33b86a8feb9b22e4b861fbecb4c32c3a6b2629"
+      "sha256": "fdd1a3437f128e7369ca4079b5ec078da3780773c9a5e1c57b536814f3817708"
     },
     {
-      "bytes": 1029,
+      "bytes": 1139,
       "path": "dynamic/购物/mercari高专制服男友衬衫心动中_caa0696296ac.md",
-      "sha256": "58a0d6042fd6d2adcb521ed88d9ad7ce0ecf4e4ebc6dbe37b5c1c36b9b37f33d"
+      "sha256": "c6f1bdbba5399c6a8282a14f4a1d471aa32751cde0b5cf9fda111aef50b2a179"
     },
     {
       "bytes": 902,
@@ -2128,9 +2133,9 @@
       "sha256": "e5077fabd0998fcce78e880a4fed43a32da0c47d70b8fbda108a09f29393ffc9"
     },
     {
-      "bytes": 1176,
+      "bytes": 1286,
       "path": "dynamic/里程碑/东京第一晚零秒破功与好猫宣言_a63879203cfa.md",
-      "sha256": "28c704090ff0a2a97f9642def313648b6a751a5c3ac6347428c417c134bed69a"
+      "sha256": "a7fe0b4e2f85b043968cece208d03f666e6ead44fa04b3a28956bed19279edf3"
     },
     {
       "bytes": 880,
@@ -2388,11 +2393,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-08T13:18:17+00:00",
+  "generated_at": "2026-11-08T19:18:25+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 944430
+  "total_bytes": 947301
 }
