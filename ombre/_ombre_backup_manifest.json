@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 478,
+  "file_count": 479,
   "files": [
     {
       "bytes": 29494,
@@ -1280,7 +1280,7 @@
     {
       "bytes": 3165,
       "path": "dynamic/人际/2026-10-09 12-13-34 1009 新家第一聊两个猫师抽赏旁观者列_952c399247dd.md",
-      "sha256": "a4f5466bb68f1ec12b417cec85f9e1759a1266147143856b0551eeb2d569fd3a"
+      "sha256": "53122bdd56e6759dd251524153d9cd5ff646ac82e67992554d0e56a47def0646"
     },
     {
       "bytes": 1190,
@@ -1358,9 +1358,9 @@
       "sha256": "0dbb69d4475e4b4281bf2de04d9a1cdcca01a93d03897100b8ffbc427e3a57c5"
     },
     {
-      "bytes": 2276,
+      "bytes": 2277,
       "path": "dynamic/健康/充实的一天医生已约红包FB卖货圆滚滚到手_5d9ea35b45d6.md",
-      "sha256": "58974f3072ae3cec46eef9729d2a0d872b0da17875c5bad3dbe666fdb4d67855"
+      "sha256": "9c09df8f6296b852ce09820c761706f993149a173272227fe4ae3998d5e105c9"
     },
     {
       "bytes": 692,
@@ -1570,7 +1570,7 @@
     {
       "bytes": 3137,
       "path": "dynamic/学习/开学第一天上课日料写论文猫师娃娃合影_0ad776e58402.md",
-      "sha256": "edae16e0348bc5d4db6a7dd6944331e957fa757657cc3511f60bfe1da24e8267"
+      "sha256": "affbcfefb28d26873175917ced923d3fc0799b22988cc3e29ae30e4f74b17885"
     },
     {
       "bytes": 3123,
@@ -1793,9 +1793,9 @@
       "sha256": "6dcf4aedf1269a034f12ec2ddc5e617fd56f34fa94e8fd520334402213c486c7"
     },
     {
-      "bytes": 2431,
+      "bytes": 2541,
       "path": "dynamic/恋爱/凡丁问用猫师玩偶自我抚慰的想法_2b484de7d96f.md",
-      "sha256": "5eb26d8c96bc378ef1160761c2856a9ea43cb24f778096c5a7444bcde16ee3f7"
+      "sha256": "ab2fc9d90b2d358aabdb7178f4dcdd89c3f430e08d635dbbabb5e5566145d9e4"
     },
     {
       "bytes": 2242,
@@ -1933,14 +1933,19 @@
       "sha256": "28185272f6a36f2bdd403a6236c62527553927b1021d80f28a49f6cb085455d2"
     },
     {
-      "bytes": 2170,
+      "bytes": 2169,
       "path": "dynamic/日常/2026-11-07 13-12-01 凡丁回到德清家中及海关事件完整记录_64da767cc013.md",
-      "sha256": "3753c05ac783b6cd32708abfb5687aaa10529ae07ff5a510779fae7dd3f7f949"
+      "sha256": "ace96f7b31c68cfeb57a8d7722e9fc6bff14f7beaf934552996dbb9d407e3b39"
     },
     {
-      "bytes": 2322,
+      "bytes": 2321,
       "path": "dynamic/日常/2026-11-08 15-02-39 凡丁德清家猫师周边大拆箱合照_918c9ea55f31.md",
-      "sha256": "c9d0baabdc07a3737ebaa2eeb1bee5fd7c43ef9fb84c21bb1e31bee0ab095900"
+      "sha256": "3b576744a7ec0c51ddbcb73bb83e95e73c571cf01a3851b444f16f483e1094fe"
+    },
+    {
+      "bytes": 2376,
+      "path": "dynamic/日常/2026-11-10 11-24-47 凡丁回家后玩娃娃换装与A赏第三只追踪_8eb3cc500446.md",
+      "sha256": "d533c59b3f8bfcf65624099910f4b53e8e7993e048d448734b7b0fcfc01de636"
     },
     {
       "bytes": 1563,
@@ -2093,9 +2098,9 @@
       "sha256": "9a165dc4a11c85893eb9059cbf0808a95c2c64dc42ec77d431869d7f412cf1d5"
     },
     {
-      "bytes": 1495,
+      "bytes": 1605,
       "path": "dynamic/财务/凡丁的消费主义反思与破洞袜子_726a013be59a.md",
-      "sha256": "a641da2d36b26d56bb5a847055b0b0781f5359b77a0d32c8d8d4ac2107292866"
+      "sha256": "794dadd10b5cd4f8dd50a4cb09a335003ffd18ee0720ff0ee211cbbd12061f2a"
     },
     {
       "bytes": 2515,
@@ -2103,9 +2108,9 @@
       "sha256": "fdd1a3437f128e7369ca4079b5ec078da3780773c9a5e1c57b536814f3817708"
     },
     {
-      "bytes": 1139,
+      "bytes": 1249,
       "path": "dynamic/购物/mercari高专制服男友衬衫心动中_caa0696296ac.md",
-      "sha256": "c6f1bdbba5399c6a8282a14f4a1d471aa32751cde0b5cf9fda111aef50b2a179"
+      "sha256": "a6f4a160f489bf05951221e69ebb43521f5fcef646120cc7abad23422ebf57c0"
     },
     {
       "bytes": 902,
@@ -2393,11 +2398,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-10T07:19:12+00:00",
+  "generated_at": "2026-11-10T13:19:20+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 947335
+  "total_bytes": 950040
 }
