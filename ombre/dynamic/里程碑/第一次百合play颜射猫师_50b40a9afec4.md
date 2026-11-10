@@ -15,6 +15,12 @@ relation_links:
   status: active
   target_bucket_id: 6fda3456366a
   type: related_to
+- auto: true
+  label: ''
+  score: 0.8211
+  status: active
+  target_bucket_id: 5fb56ad99b1e
+  type: related_to
 source_tool: hold
 tags:
 - 百合play

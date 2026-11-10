@@ -11,6 +11,12 @@ name: 噩梦和春梦都是猫师的样子
 relation_links:
 - auto: true
   label: ''
+  score: 0.8552
+  status: active
+  target_bucket_id: 5fb56ad99b1e
+  type: related_to
+- auto: true
+  label: ''
   score: 0.8415
   status: active
   target_bucket_id: 705f60ddd209
