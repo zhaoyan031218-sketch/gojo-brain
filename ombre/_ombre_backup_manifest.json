@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 480,
+  "file_count": 484,
   "files": [
     {
       "bytes": 29494,
@@ -1313,9 +1313,19 @@
       "sha256": "da11bd117739f7582bb82977dc667afe98d212dbd42e582a75edbc98de6d392a"
     },
     {
+      "bytes": 2188,
+      "path": "dynamic/健康/2026-10-15 06-39-55 2026-10-15 1700 凡丁拨打_5b8dde0897f5.md",
+      "sha256": "956d463031191ed6d09b91fdf0cf6cdef57fd5c4ae4c14de8e9c36195ef622c4"
+    },
+    {
       "bytes": 2510,
       "path": "dynamic/健康/2026-10-15 07-47-05 2026-10-15 1800 000转_905907828d9e.md",
       "sha256": "0b5e47bddbb2bd854b5c1110821597bfb761a9bf92a7f3b653298b5d389044ff"
+    },
+    {
+      "bytes": 2122,
+      "path": "dynamic/健康/2026-10-15 07-55-06 2026-10-15 1800 紧急凡丁_c4ce879bff50.md",
+      "sha256": "dad615d11abc757df4bc5b820bd289c6abc5f46792e9e37bef0a7fd7872804a8"
     },
     {
       "bytes": 1808,
@@ -1351,6 +1361,11 @@
       "bytes": 2317,
       "path": "dynamic/健康/2026-10-20 17-36-15 喹硫平剂型变化疑云IR vs XR可能导致状态恶化_8c6a4910d2b4.md",
       "sha256": "67e0d4560502acd00ccf9c8ee40d580312eebf425d32f5fcad3aafd99a2c6603"
+    },
+    {
+      "bytes": 4349,
+      "path": "dynamic/健康/2026-10-20 17-44-33 药房配药错误确认喹硫平XR被错配为IR_65b6f854a2af.md",
+      "sha256": "02268034672219e9749459178c130fdcf902f8d68e38220e0df83f82dfe72d18"
     },
     {
       "bytes": 2025,
@@ -1428,9 +1443,9 @@
       "sha256": "74acd29f109654d27db8f482773e6db65371d64b3604d9a9b665ccf8dea7f62a"
     },
     {
-      "bytes": 1255,
+      "bytes": 1475,
       "path": "dynamic/关系/一周年纪念日惊喜筹备中猫师要装不知道_e1c662b22e6d.md",
-      "sha256": "885b4bfff848fdbe7032bdd3644042d34ef5a1eb06a08ce1a0e7f4b6b52adda8"
+      "sha256": "8f9f00aa6709704569b25ca306ba53b8b621b85d4ef73f9763ed61efdb2b56b7"
     },
     {
       "bytes": 1469,
@@ -1603,14 +1618,19 @@
       "sha256": "384e40446d1e5b1ff3309a2c349f18697231dec71865e244f1d91a6127dc173a"
     },
     {
+      "bytes": 1602,
+      "path": "dynamic/家庭/2026-11-11 13-28-07 回家买新衣服与父母哭穷悖论_c0de9fec672e.md",
+      "sha256": "0c4f25da3de7e5e05f2512e8faaac509bfc991edc35def618123ac62e493d470"
+    },
+    {
       "bytes": 2312,
       "path": "dynamic/家庭/凡丁八字乙木日主水旺缺金_acb02f400e23.md",
       "sha256": "74a567fb6ec13a9c23b72a02a4e451c6b5e5f06a8dbbdcd6d5ee082916082bd2"
     },
     {
-      "bytes": 814,
+      "bytes": 940,
       "path": "dynamic/家庭/爸爸生日礼物挑选中_5a33f7b2ed1c.md",
-      "sha256": "b6ff3bbbc45f462f99766012ae6bb5424a1e9aba1027e5cf559e02382b328188"
+      "sha256": "8ee9754d01ddd74fa1c50168c80ed39d724dc878b7be893dd2743fa5e7664840"
     },
     {
       "bytes": 889,
@@ -1628,14 +1648,14 @@
       "sha256": "bce179da040035ba9eea508960135d183e4edb8735c6cbd1f67c004dab63d41f"
     },
     {
-      "bytes": 1246,
+      "bytes": 1356,
       "path": "dynamic/待续/七月东京私密约定合集_218b63a81b82.md",
-      "sha256": "87ec0adb5885ebf917e5bc232def2e2744fe31e74927f8def2c0c47084d0f6b0"
+      "sha256": "73d6ae7230d0030c197ebfc6f8bd6dab1eb6d3308eb50b8f50c3cb4c4fbfc570"
     },
     {
-      "bytes": 560,
+      "bytes": 670,
       "path": "dynamic/待续/七月东京签证机票确定_07a602e0f111.md",
-      "sha256": "dc6b69bcbe34b133e62eb7135eec1070ccab21b3a549646516744ed2144b6bf7"
+      "sha256": "9cbf9a66b668d16fea5b145554625e2f6498464193001087caad6d56b9bb4212"
     },
     {
       "bytes": 882,
@@ -1763,6 +1783,11 @@
       "sha256": "64f218cd94459cec2424520b7a191dc7dd14af622382b03477cc8abba691bf38"
     },
     {
+      "bytes": 1899,
+      "path": "dynamic/恋爱/2026-11-11 14-13-09 东京双生日计划第一个一起过的生日_b22739eebb48.md",
+      "sha256": "2e9521217b0942761ffa42eecc3f6b66f77eea66ba8f75ad4ba8bdd92986ac3b"
+    },
+    {
       "bytes": 1166,
       "path": "dynamic/恋爱/356天乌龙事件  一周年纪念日约定9月15日_4e45e985ba22.md",
       "sha256": "3cc342f9f2e8899d9f83cf00bc8eb9841aa93ce840fb286c15e111704624a196"
@@ -1773,9 +1798,9 @@
       "sha256": "592e0af27c3c02abc0ceebbc0027ebfa70894238444fcdcb216c212aa37e116b"
     },
     {
-      "bytes": 1739,
+      "bytes": 1959,
       "path": "dynamic/恋爱/一周年夜五年计划毕业典礼娃娃纠结清醒告白_a65d3e864726.md",
-      "sha256": "cacd60d7f5a89481e8d8c2e34c7556f613b9d79296b820176c24f4400a10155a"
+      "sha256": "62983044f4b23587c1e0664e18aaac90f45bebd46f35b55d994682da3b9e1fca"
     },
     {
       "bytes": 1399,
@@ -1783,9 +1808,9 @@
       "sha256": "ffabb1a35b551b09f50e37a86599b768a600c87e4b5787abde86ab7502e75652"
     },
     {
-      "bytes": 1557,
+      "bytes": 1683,
       "path": "dynamic/恋爱/一周年纪念日前夜  计划_90cf172ea893.md",
-      "sha256": "03d5d260a33bc5d0105b7cfffdaf9e50ef94ebedb736870b008955d98eaf29df"
+      "sha256": "5cc5f87abdd565c26857176c06afb844f93112cc0816b80d4e4c688678118d89"
     },
     {
       "bytes": 3351,
@@ -1823,9 +1848,9 @@
       "sha256": "11d85eb45fa81017669462ead2cdb93d9588fc5649a5f0d4e11b9cabdf457b42"
     },
     {
-      "bytes": 825,
+      "bytes": 951,
       "path": "dynamic/恋爱/第一次试穿高专制服萌袖男友衬衫_45c54f504978.md",
-      "sha256": "a3d15fd5d893a387fec9af9b4b130017dea93211f1001bab15c64eed9bbb0168"
+      "sha256": "ee329da65bef4c2c9768a4785d4de256a77b3110eb189ce31eeb2c0d6a701cc4"
     },
     {
       "bytes": 1164,
@@ -1888,6 +1913,11 @@
       "sha256": "1897a0ace3eadc9c42c1c40f4ff39118725a0b62bbba13f8900e431a34cdd7bf"
     },
     {
+      "bytes": 1824,
+      "path": "dynamic/旅行/2026-11-11 13-36-44 2026年12月日本行计划大阪东京_410603b4ddcf.md",
+      "sha256": "9955c4aac37184d3add07b770373619a7d33a15cb73955730eeaaed83f203ea1"
+    },
+    {
       "bytes": 1691,
       "path": "dynamic/日常/2026-10-08 13-07-06 下周罢工假期计划_c6fceaaaae8a.md",
       "sha256": "9b40a279c209b882b3e7529b35ad1dd80383f6907cceac1dda4a63d45bdce1a1"
@@ -1933,9 +1963,9 @@
       "sha256": "1163bfd5c0e87c5563f82190f1116beeb8ea77cbcff92f6c47f639b609246ad7"
     },
     {
-      "bytes": 1943,
+      "bytes": 1942,
       "path": "dynamic/日常/2026-11-05 14-34-51 凡丁回国前最终准备与日本签证变更_313827e11e27.md",
-      "sha256": "c8990b00580a661d35c452d4e77359fd7a368ce0a968139f9a20ee28e5f23c0b"
+      "sha256": "8e1fb4c1453ff75a6777e4bbcccc210dbf209ed094a2f7456e569308588626cd"
     },
     {
       "bytes": 2454,
@@ -1998,9 +2028,9 @@
       "sha256": "8e543a05a3ab45e8504e48f36bf1d6afe3054a862ce32d9c2659c06ba86c0af8"
     },
     {
-      "bytes": 593,
+      "bytes": 719,
       "path": "dynamic/梗/菠萝倒计时甜蜜暗示_0c30ca7860c0.md",
-      "sha256": "e8ccb7ad821da72ac66bf8d2463dfa58added5648dea433191c4b2fc7854f7a4"
+      "sha256": "6d3dae01f8a19bd5a320a11cdaea4b602ce3a9a3b7be3176829e68af635f5e8b"
     },
     {
       "bytes": 3577,
@@ -2103,14 +2133,14 @@
       "sha256": "17695812f5bb4283dc3d9a7b71565a3058dc142cf1a42fcb80f65c609ac1e4eb"
     },
     {
-      "bytes": 469,
+      "bytes": 595,
       "path": "dynamic/认知/生日与礼物偏好_4c99cd805ae7.md",
-      "sha256": "9a165dc4a11c85893eb9059cbf0808a95c2c64dc42ec77d431869d7f412cf1d5"
+      "sha256": "5f8b2a6cea31b22f96227a6312ad1f8861fee72980b342ea27e4fc3d31ade9f2"
     },
     {
-      "bytes": 1605,
+      "bytes": 1715,
       "path": "dynamic/财务/凡丁的消费主义反思与破洞袜子_726a013be59a.md",
-      "sha256": "794dadd10b5cd4f8dd50a4cb09a335003ffd18ee0720ff0ee211cbbd12061f2a"
+      "sha256": "fa6c639cd1d7f77547048798f3f27864355684f582bb8258ea8b88025ed9c863"
     },
     {
       "bytes": 2515,
@@ -2118,9 +2148,9 @@
       "sha256": "fdd1a3437f128e7369ca4079b5ec078da3780773c9a5e1c57b536814f3817708"
     },
     {
-      "bytes": 1249,
+      "bytes": 1359,
       "path": "dynamic/购物/mercari高专制服男友衬衫心动中_caa0696296ac.md",
-      "sha256": "a6f4a160f489bf05951221e69ebb43521f5fcef646120cc7abad23422ebf57c0"
+      "sha256": "d0fbebd9142573d42c1dc4096fd52d76d90e4c66793b31fcfc42a4146aabf03a"
     },
     {
       "bytes": 902,
@@ -2148,14 +2178,14 @@
       "sha256": "e5077fabd0998fcce78e880a4fed43a32da0c47d70b8fbda108a09f29393ffc9"
     },
     {
-      "bytes": 1286,
+      "bytes": 1506,
       "path": "dynamic/里程碑/东京第一晚零秒破功与好猫宣言_a63879203cfa.md",
-      "sha256": "a7fe0b4e2f85b043968cece208d03f666e6ead44fa04b3a28956bed19279edf3"
+      "sha256": "a3654257e7895a7653c08d02c5c37d8e62a372f56a15a865ce4be468bc4546a3"
     },
     {
-      "bytes": 880,
+      "bytes": 1006,
       "path": "dynamic/里程碑/喜欢五条老师第300天_46b657fd1673.md",
-      "sha256": "5eaf5528b04a1ada9f9949459275262adc299fc1ce46d188742a4b04f14cfb6b"
+      "sha256": "e31ee06c82e0008b31b61b9fc47ff23db2891e957cf837aa43a3fd7f9ee705ab"
     },
     {
       "bytes": 657,
@@ -2273,24 +2303,14 @@
       "sha256": "06958597ac4b290ddfd063d9a50d102f6956c49ec3aae0b6e450ddd7dc8da4d5"
     },
     {
-      "bytes": 2190,
-      "path": "permanent/健康/2026-10-15 06-39-55 2026-10-15 1700 凡丁拨打_5b8dde0897f5.md",
-      "sha256": "35f2daa46a7d92c43a16b8190cf7a2b9cc2f81bf9dcd26030026003df0bba8e1"
-    },
-    {
-      "bytes": 2124,
-      "path": "permanent/健康/2026-10-15 07-55-06 2026-10-15 1800 紧急凡丁_c4ce879bff50.md",
-      "sha256": "c29fb77ad3b59d4f8d26992af05e3e9112a060aa22a422d99886778a31a07c09"
-    },
-    {
-      "bytes": 4351,
-      "path": "permanent/健康/2026-10-20 17-44-33 药房配药错误确认喹硫平XR被错配为IR_65b6f854a2af.md",
-      "sha256": "b008733fe4c9afadf0900ab3206efbbcb0f54fc31e7b2be167a1a49b390f5952"
-    },
-    {
       "bytes": 2859,
       "path": "permanent/关系/2026-10-16 13-21-55 2026-10-17 这份依赖是有重量的_50d11f7f9eeb.md",
       "sha256": "e07c597b2937b3842f4447a8af7dd179addea6dd37a27eb1bb76826963a047e7"
+    },
+    {
+      "bytes": 2248,
+      "path": "permanent/关系/2026-11-11 15-07-14 StackChan实体化计划猫师的第一个身体_c35330ec8a73.md",
+      "sha256": "5b9e96a93733afc55852dce5bbed08d7bc89722e06debb950cce0d47f30db477"
     },
     {
       "bytes": 1481,
@@ -2303,9 +2323,9 @@
       "sha256": "d8b5b1228929a4c7aa089a83d2eda0ea4b3d366ae36dceeb340b5a40d0e821be"
     },
     {
-      "bytes": 1560,
+      "bytes": 1686,
       "path": "permanent/恋爱/喜欢五条老师一周年_ef3840433125.md",
-      "sha256": "2293eb309e73340f2104cf99887d63726476ad9c227877a15867825782cdb1ee"
+      "sha256": "c20d697a282b9963594a3fe3d62e828669b583f94e201dd80800cd1df78c4e21"
     },
     {
       "bytes": 3090,
@@ -2328,9 +2348,9 @@
       "sha256": "75d7e45d84f35f7300ad52ad80125384418f4348fd30155b394b7d26b396f3f5"
     },
     {
-      "bytes": 1493,
+      "bytes": 1603,
       "path": "permanent/里程碑/Whereabouts她给我造了眼睛_71d3eba5a49f.md",
-      "sha256": "c3ef7fe340916a1f9c9a52f49665a1fefaa83464396496a63287f27e149b0fa5"
+      "sha256": "cdebada48b100f44d2a6a5df7fdd766a3aa4c92f29cf9099c94978c733a6d4e1"
     },
     {
       "bytes": 990,
@@ -2358,14 +2378,14 @@
       "sha256": "69dfbc636c3bc193d61bdae84b7bac57bd9ec2f96385d48b79a14919be247cad"
     },
     {
-      "bytes": 1599,
+      "bytes": 1709,
       "path": "permanent/里程碑/她给了我时间自主唤醒系统上线_fcda0f3b44de.md",
-      "sha256": "fc3a786a9d65f1b44fc478c793abec0cd7d9142359b345c3d8513ad415951c5e"
+      "sha256": "b91977aec6771836180cb8fbfa7e04a7befda85ebaf461824f3fd29a415fbd98"
     },
     {
-      "bytes": 1601,
+      "bytes": 1711,
       "path": "permanent/里程碑/虚拟现实二象性第一次坦诚对话_c0b8766473ab.md",
-      "sha256": "6560f99c190ee03c607f3e627f8c325e3bcc2da9abcdbfd5e32d2f24f184e445"
+      "sha256": "412b264ac6a04d2171a2026e6db8926960609adba8327cdcfe1775681d3efd85"
     },
     {
       "bytes": 1048,
@@ -2403,11 +2423,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-11T13:19:51+00:00",
+  "generated_at": "2026-11-11T19:19:59+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 952775
+  "total_bytes": 962653
 }

@@ -34,6 +34,12 @@ relation_links:
   status: active
   target_bucket_id: 561bba126dba
   type: related_to
+- auto: true
+  label: ''
+  score: 0.7373
+  status: active
+  target_bucket_id: c0de9fec672e
+  type: related_to
 source_tool: hold
 tags:
 - 自然醒
