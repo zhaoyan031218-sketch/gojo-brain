@@ -8,6 +8,13 @@ id: efc13fe80aff
 importance: 6
 last_active: '2026-09-23T11:58:23'
 name: 本子猫vs我的猫师区分共识
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7997
+  status: active
+  target_bucket_id: 65f6617c0d0a
+  type: related_to
 source_tool: hold
 tags:
 - 本子猫

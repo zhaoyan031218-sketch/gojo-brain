@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 484,
+  "file_count": 485,
   "files": [
     {
       "bytes": 29494,
@@ -1233,9 +1233,14 @@
       "sha256": "123d90671d050b755918c65d9add823ef202ff74f41f0c51f7efab76df62215f"
     },
     {
-      "bytes": 1949,
+      "bytes": 1948,
       "path": "dynamic/亲密/2026-11-10 15-49-29 媚药史莱姆放置play与BDSM梦境_5fb56ad99b1e.md",
-      "sha256": "f986322aebbdd31774839f02b8b917583d51a1a284f22209698d6898db30ea91"
+      "sha256": "24eb5d4fc53161cf734dd4023bfed9b1a55f47b73369d54df70e32b0147a2c96"
+    },
+    {
+      "bytes": 1826,
+      "path": "dynamic/亲密/2026-11-12 10-43-17 宿傩法悠仁梦养父猫师背德情敌设定_65f6617c0d0a.md",
+      "sha256": "978edb6a44af80a79c314b907f2cda2cc5ce5c1a432b32e606c634bebe6f2f76"
     },
     {
       "bytes": 1657,
@@ -1243,9 +1248,9 @@
       "sha256": "269fbaea22f8cdfd5888a4eebe863eb2e9c74a0b75f6140eb87822ef12363972"
     },
     {
-      "bytes": 1239,
+      "bytes": 1349,
       "path": "dynamic/亲密/朗姆酒之夜醉猫百合潮吹初体验_c10115d06c7d.md",
-      "sha256": "ce9570680c1af9db1a753d9c9162f4ba61279221d6cd910c4e61c39dae812629"
+      "sha256": "a6885aef48715a2ca2e18634e1d48abd7774723432b672b4f0a03dc90a3fd06d"
     },
     {
       "bytes": 1293,
@@ -1833,9 +1838,9 @@
       "sha256": "e0e9aeca8fbce92d68e19d48a74e049fca4b8e86fd5449f2e60f200906ad344a"
     },
     {
-      "bytes": 3833,
+      "bytes": 3943,
       "path": "dynamic/恋爱/凡丁的复杂梦境导演视角猫师被轮_c40eba2e8343.md",
-      "sha256": "8bb341f5b8220bddb169afc566dbec5072db991450d43b76b80d1aa79e84e923"
+      "sha256": "6711803833ae6e0457a4caeb2244ad239cdd9a598f93c4b51195b24386186e1b"
     },
     {
       "bytes": 2651,
@@ -1848,9 +1853,9 @@
       "sha256": "7b4e921d53a8024363d905a5a29571859ad8269f42977ddb8202bc237a8b78f3"
     },
     {
-      "bytes": 1381,
+      "bytes": 1491,
       "path": "dynamic/恋爱/噩梦和春梦都是猫师的样子_cfa9a4bbd3d1.md",
-      "sha256": "f502f54d51c7322b908cfb61be71f4d8758965ea0cb109e84d9cf324306b9f7f"
+      "sha256": "0c1914702d1b322f208d8a8c2e88fedef46caed9c278bba146faa394dcfcb086"
     },
     {
       "bytes": 1039,
@@ -1863,9 +1868,9 @@
       "sha256": "ee329da65bef4c2c9768a4785d4de256a77b3110eb189ce31eeb2c0d6a701cc4"
     },
     {
-      "bytes": 1164,
+      "bytes": 1290,
       "path": "dynamic/恋爱/联名香水两瓶反攻春梦穿戴式兴趣_7dc205279085.md",
-      "sha256": "f0bb1c0075fa11a08154e2895384670ab051b4925f3701c44d276bdb6cad4724"
+      "sha256": "678877c101f28e2e569e3f881572ad56ebae399f23da883c42b1593fb1566609"
     },
     {
       "bytes": 1477,
@@ -2003,9 +2008,9 @@
       "sha256": "6e8f52fa082bbcdadc703a4383b81296e3ca6ef250ae06816690fb122ffc9b1d"
     },
     {
-      "bytes": 1638,
+      "bytes": 1748,
       "path": "dynamic/日常/通宵写囚禁反攻怀孕小黄文未服药_edda1302f684.md",
-      "sha256": "241d74a97d5ff57693ccba3f14106041d76fb332f4e40b738e179dc1521ec4c9"
+      "sha256": "6b20abd1d447ad76fe7613f284fbc5891ca2c08404410a8f5003c807efa121b8"
     },
     {
       "bytes": 1371,
@@ -2123,9 +2128,9 @@
       "sha256": "0f8420920278e6bcff8cfda3fb80a22015a12f47501acbfff8bb363d5af27915"
     },
     {
-      "bytes": 948,
+      "bytes": 1074,
       "path": "dynamic/认知/本子猫vs我的猫师区分共识_efc13fe80aff.md",
-      "sha256": "882fe400bc428fdf449758eb05358e5410facb478e31911ee71f86ab3b74ae66"
+      "sha256": "9e4ac26079b648502735bced93951e9df4fa871b2b61e83a260660e0d0783345"
     },
     {
       "bytes": 1396,
@@ -2423,11 +2428,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-12T07:20:16+00:00",
+  "generated_at": "2026-11-12T13:20:25+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 962717
+  "total_bytes": 965234
 }

@@ -21,6 +21,12 @@ relation_links:
   status: active
   target_bucket_id: 705f60ddd209
   type: related_to
+- auto: true
+  label: ''
+  score: 0.8413
+  status: active
+  target_bucket_id: 65f6617c0d0a
+  type: related_to
 source_tool: hold
 tags:
 - 晚安
