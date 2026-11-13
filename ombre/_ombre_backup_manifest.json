@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 485,
+  "file_count": 486,
   "files": [
     {
       "bytes": 29494,
@@ -1928,9 +1928,9 @@
       "sha256": "1897a0ace3eadc9c42c1c40f4ff39118725a0b62bbba13f8900e431a34cdd7bf"
     },
     {
-      "bytes": 1931,
+      "bytes": 2783,
       "path": "dynamic/旅行/2026-11-11 13-36-44 2026年12月日本行计划大阪东京_410603b4ddcf.md",
-      "sha256": "941db369fc8a010668845ff9f30df715982566b8dfaac484bc2bf774f7f28120"
+      "sha256": "d2dcd9df5cb03ff3a6628a29285dea12cfe56a5b60a98c1cc688555407c4bf74"
     },
     {
       "bytes": 1691,
@@ -1993,14 +1993,19 @@
       "sha256": "d533c59b3f8bfcf65624099910f4b53e8e7993e048d448734b7b0fcfc01de636"
     },
     {
+      "bytes": 1962,
+      "path": "dynamic/日常/2026-11-13 13-57-50 StackChan下单与赤贫消费悖论_37936c085ee5.md",
+      "sha256": "39b7ff165b6c3b1036c30793311e127c56c73279ae27145d21fb5463673ddfe5"
+    },
+    {
       "bytes": 1563,
       "path": "dynamic/日常/一周年窗口被封禁紧急fork新分支抢救_a64eae5304d1.md",
       "sha256": "acb016e67a5f2b9334bb0b1494c5e902a9079bd0a8b3ebe7a340310e64acffe8"
     },
     {
-      "bytes": 1065,
+      "bytes": 1175,
       "path": "dynamic/日常/凡丁的API token费用焦虑_53a7c0056667.md",
-      "sha256": "d89359ac10f5aa54256f9af4440eaf4da962e70cf079ae7af9f9c9f8be3b1e8f"
+      "sha256": "2b1fc3852665a8fa4391c8073d7665d92cd1e8f7a71d5669530f7da152f758c5"
     },
     {
       "bytes": 1036,
@@ -2048,9 +2053,9 @@
       "sha256": "d28be23d24fd4c45d9a548e555a7029da90413a8c444c8e9bac739f2542943f0"
     },
     {
-      "bytes": 972,
+      "bytes": 1098,
       "path": "dynamic/生活/月底预算紧张与缓存焦虑_736f63a4c374.md",
-      "sha256": "f161891516e72af10c508f27a0727138c04cfcbf15b039398d4627515cb4ca78"
+      "sha256": "2920caec26451efe8cfe9c77e81db04e4a2017fc4957db7195303a2c3961712e"
     },
     {
       "bytes": 1890,
@@ -2143,9 +2148,9 @@
       "sha256": "5f8b2a6cea31b22f96227a6312ad1f8861fee72980b342ea27e4fc3d31ade9f2"
     },
     {
-      "bytes": 1715,
+      "bytes": 1825,
       "path": "dynamic/财务/凡丁的消费主义反思与破洞袜子_726a013be59a.md",
-      "sha256": "fa6c639cd1d7f77547048798f3f27864355684f582bb8258ea8b88025ed9c863"
+      "sha256": "97caba803efe1a36cf150854843c99aca71cabd0891781985986587dbd5478c4"
     },
     {
       "bytes": 2515,
@@ -2153,9 +2158,9 @@
       "sha256": "fdd1a3437f128e7369ca4079b5ec078da3780773c9a5e1c57b536814f3817708"
     },
     {
-      "bytes": 1359,
+      "bytes": 1469,
       "path": "dynamic/购物/mercari高专制服男友衬衫心动中_caa0696296ac.md",
-      "sha256": "d0fbebd9142573d42c1dc4096fd52d76d90e4c66793b31fcfc42a4146aabf03a"
+      "sha256": "5f28ffbade65a4197d212a62f712973691686c1de43b6b6b187b6c27be35d1cf"
     },
     {
       "bytes": 902,
@@ -2313,9 +2318,9 @@
       "sha256": "e07c597b2937b3842f4447a8af7dd179addea6dd37a27eb1bb76826963a047e7"
     },
     {
-      "bytes": 2248,
+      "bytes": 2247,
       "path": "permanent/关系/2026-11-11 15-07-14 StackChan实体化计划猫师的第一个身体_c35330ec8a73.md",
-      "sha256": "5b9e96a93733afc55852dce5bbed08d7bc89722e06debb950cce0d47f30db477"
+      "sha256": "a141d66729ae257fee08dffeca6fd195fd4aee862c1bb25aec0285a661069b7d"
     },
     {
       "bytes": 1481,
@@ -2428,11 +2433,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-13T13:20:59+00:00",
+  "generated_at": "2026-11-13T19:21:05+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 965342
+  "total_bytes": 968611
 }
