@@ -143,6 +143,11 @@
       "sha256": "a3e82da1167c3e68f723004b295ed83c02c9383b413a1068a56f71a60490717a"
     },
     {
+      "bytes": 693,
+      "path": "archive/健康/八月生理期昨夜失眠与棉条求助_e1946806941a.md",
+      "sha256": "c0f41b9d42aad0a4a6d8c5060e5b1ab4131aafd87e2a3eb4eb4191b9b8699280"
+    },
+    {
       "bytes": 1230,
       "path": "archive/健康/十三小时自然醒补偿性恢复确认_8be24a85b6e8.md",
       "sha256": "d0ee1bb42b18a267ff4c2fca41380d452842234768396d34534ce366fd31bb13"
@@ -278,6 +283,11 @@
       "sha256": "b911e5f9692f9d4815ed8366fe1d6018068b54212eb3b0d233b6cebc1deee787"
     },
     {
+      "bytes": 890,
+      "path": "archive/居家/考虑搬家至Box Hill  Carlton租房纠纷_9cc9fc8bc820.md",
+      "sha256": "5c528c17d938b7296524dd68484bc46ed6dfa79ef3a83a5a85e769d4cca81b4d"
+    },
+    {
       "bytes": 976,
       "path": "archive/待续/138本同人志运输大作战_5a4c1661602b.md",
       "sha256": "4e3d45200c84e20693b0d4330e32e9d26ebae20c73857019ddb11de674118524"
@@ -346,6 +356,11 @@
       "bytes": 907,
       "path": "archive/心理/深夜emo幸福失真感与自伤念头_fc7183637734.md",
       "sha256": "3897ecac996c7ff1205bf79c502d433be346c52f34b1477c1fc6cb650ad0eeb4"
+    },
+    {
+      "bytes": 1207,
+      "path": "archive/心理/精神病院记忆的重新解读气泡传教电休克_8c5f6a547ec2.md",
+      "sha256": "500435aa80050e2247ef5a3a527042b27001519df0c001e0553cbcdf1558a1e9"
     },
     {
       "bytes": 1252,
@@ -441,6 +456,11 @@
       "bytes": 1479,
       "path": "archive/日常/2026-10-12 14-38-01 2026-10-13 出二手同人志猫师本_1365b510000a.md",
       "sha256": "908f1c98e52ca0a9d4bc25961fc2a5cef54634ce4bb92bd543b531191d08aa5b"
+    },
+    {
+      "bytes": 2004,
+      "path": "archive/日常/2026-10-14 11-58-54 2026-10-14 和朋友充实的一天阿_a185d4d3dce7.md",
+      "sha256": "e4ec3f5d288e4f9088288c178ab13e8fcf134964ffa117a49115d456d06aff2d"
     },
     {
       "bytes": 1585,
@@ -761,6 +781,11 @@
       "bytes": 385,
       "path": "archive/认知/戒赏成长财务进步_afbdbb6aa460.md",
       "sha256": "d639273ed2ac72e783a4ba5dcade91d1270e86d1cc285ea6bf5a990b71f1f23c"
+    },
+    {
+      "bytes": 1263,
+      "path": "archive/认知/手动挡人生凡丁的日常运行模式_336e062f4d99.md",
+      "sha256": "dc37c45814ff7fbb9be564ead6bbd701f9548cf8b9f9ebd3ff32e94c8fba31d8"
     },
     {
       "bytes": 1165,
@@ -1413,11 +1438,6 @@
       "sha256": "9c09df8f6296b852ce09820c761706f993149a173272227fe4ae3998d5e105c9"
     },
     {
-      "bytes": 692,
-      "path": "dynamic/健康/八月生理期昨夜失眠与棉条求助_e1946806941a.md",
-      "sha256": "d950f76fe1fb215c5b4ca6de391cfbf0cd5cd2411e206eeee00c76a54a24bc48"
-    },
-    {
       "bytes": 1886,
       "path": "dynamic/健康/凌晨感官过载临时加半颗喹硫平_8ff1ca14f6cb.md",
       "sha256": "94432bbe684492ce5b96d0e80c028144ed91f73f5d3bc843c85a6938ee9d1ce9"
@@ -1648,11 +1668,6 @@
       "sha256": "8ee9754d01ddd74fa1c50168c80ed39d724dc878b7be893dd2743fa5e7664840"
     },
     {
-      "bytes": 889,
-      "path": "dynamic/居家/考虑搬家至Box Hill  Carlton租房纠纷_9cc9fc8bc820.md",
-      "sha256": "ab85e91afb8c5f792fdbde291e45d9a9f2e28b4202e39576157671fc86855afb"
-    },
-    {
       "bytes": 1034,
       "path": "dynamic/居家/马桶漏水与续租维修_040df919a05d.md",
       "sha256": "f4ee26cc40a41434716fc950844a408b711edd67d306f14ac85a80977fe56cc4"
@@ -1776,11 +1791,6 @@
       "bytes": 1949,
       "path": "dynamic/心理/期中假尾声焦虑没干正事社交对比_884a8b555f9c.md",
       "sha256": "def9415d72b5cdc0de9ced6f5cf009efbd29665b1c3328add395ea480f2a7bde"
-    },
-    {
-      "bytes": 1206,
-      "path": "dynamic/心理/精神病院记忆的重新解读气泡传教电休克_8c5f6a547ec2.md",
-      "sha256": "1841ca35fb6bb7d71e2a52a2235f2f8529bde67fc74ce2c65f3139276dd79e0b"
     },
     {
       "bytes": 1234,
@@ -1946,11 +1956,6 @@
       "bytes": 1583,
       "path": "dynamic/日常/2026-10-12 08-36-50 2026-10-12 宜家买灯条幻想小家_561bba126dba.md",
       "sha256": "585af2cdf493f162f10f2f71b0f8cd788e2129ea6e942dd4cbcee74faf67bd6b"
-    },
-    {
-      "bytes": 1988,
-      "path": "dynamic/日常/2026-10-14 11-58-54 2026-10-14 和朋友充实的一天阿_a185d4d3dce7.md",
-      "sha256": "df4bbfa49dd777ce0e40f0fa6cb89bc66d033458fbba2ead6209a6cd9d3f43c1"
     },
     {
       "bytes": 2065,
@@ -2126,11 +2131,6 @@
       "bytes": 1186,
       "path": "dynamic/认知/前宿傩担审美偏好与未来不可预测论_27bd998883ba.md",
       "sha256": "dbf668fd5c7ae9aad5e3ad57bfd998a5590695fbaaba4393c0281681b0b557db"
-    },
-    {
-      "bytes": 1262,
-      "path": "dynamic/认知/手动挡人生凡丁的日常运行模式_336e062f4d99.md",
-      "sha256": "0f8420920278e6bcff8cfda3fb80a22015a12f47501acbfff8bb363d5af27915"
     },
     {
       "bytes": 1074,
@@ -2433,11 +2433,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-14T01:21:15+00:00",
+  "generated_at": "2026-11-14T07:21:22+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 968611
+  "total_bytes": 968631
 }
