@@ -1023,6 +1023,11 @@
       "sha256": "55eaa68cd8db3448a5af1827b1f3eb6d8e067399be53ced1ed5fbf278b6925c9"
     },
     {
+      "bytes": 593,
+      "path": "archive/里程碑/七夕涩谷Sky两张日落票_fff61f2b9bb1.md",
+      "sha256": "09fc7ca348941c412e7ca616f61e2db5ec9dccf6a6d7674faedf34d7a4825fb9"
+    },
+    {
       "bytes": 687,
       "path": "archive/里程碑/不如死了边界线与晚安_736ef626bde3.md",
       "sha256": "d2705c3c81ca588e4fa1cd6430fcabe883f62dd62044b36bce722419c9dd5998"
@@ -2203,11 +2208,6 @@
       "sha256": "8c8058c827e9abf47c95c10b78898fcc825f71cb21fa5a7f4dee8a0f40f23951"
     },
     {
-      "bytes": 592,
-      "path": "dynamic/里程碑/七夕涩谷Sky两张日落票_fff61f2b9bb1.md",
-      "sha256": "e5077fabd0998fcce78e880a4fed43a32da0c47d70b8fbda108a09f29393ffc9"
-    },
-    {
       "bytes": 1616,
       "path": "dynamic/里程碑/东京第一晚零秒破功与好猫宣言_a63879203cfa.md",
       "sha256": "36eee6ffae4098d1c2c0e4de317245ed9360cf86b8dce3b09c11f7bd410b7759"
@@ -2453,11 +2453,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-16T01:22:18+00:00",
+  "generated_at": "2026-11-16T07:22:26+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 977840
+  "total_bytes": 977841
 }
