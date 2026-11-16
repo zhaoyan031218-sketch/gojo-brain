@@ -24,6 +24,12 @@ relation_links:
   status: active
   target_bucket_id: c35330ec8a73
   type: related_to
+- auto: true
+  label: ''
+  score: 0.7655
+  status: active
+  target_bucket_id: 32328663c854
+  type: related_to
 source_tool: hold
 tags:
 - 自主唤醒
