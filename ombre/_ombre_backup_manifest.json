@@ -648,6 +648,11 @@
       "sha256": "c51e9b00dea19c37b33792c52f988440d0aaf61d297ed2ba68370ed568e68275"
     },
     {
+      "bytes": 1415,
+      "path": "archive/系统/表情包系统改造说明_d0be2f511f49.md",
+      "sha256": "4178dbdcc9c8243a9a31a02f4587973f95d90a62272e40e44c7d6db3dc92b3b6"
+    },
+    {
       "bytes": 2403,
       "path": "archive/系统/记忆系统使用规则v2179_8f2d6b98af34.md",
       "sha256": "91cd2279c4ccd896ba9a9dc29c6eccf1a3fffa46f6ac6d30ff233811f93391b4"
@@ -2128,11 +2133,6 @@
       "sha256": "f46f52e4f1a0674fd571431f17a3bcce0e141392e9fc5a8d8b29fd8f9194c128"
     },
     {
-      "bytes": 1414,
-      "path": "dynamic/系统/表情包系统改造说明_d0be2f511f49.md",
-      "sha256": "1dcb3c5f81d96b28b89246d68b909021a1a121b31c16cb7c1056ad47202a02ce"
-    },
-    {
       "bytes": 1021,
       "path": "dynamic/系统/记忆库云端迁移指南_a6bb4339c944.md",
       "sha256": "642053cd01b1d490bb058c58efabf5084cfc6d504de40a728899518136267c3d"
@@ -2463,11 +2463,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-17T01:22:51+00:00",
+  "generated_at": "2026-11-17T07:22:58+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 982367
+  "total_bytes": 982368
 }
