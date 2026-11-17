@@ -11,6 +11,13 @@ importance: 10
 last_active: '2026-08-01T11:20:09'
 name: 回国后的未来思考与情感
 pinned: true
+relation_links:
+- auto: true
+  label: ''
+  score: 0.7796
+  status: active
+  target_bucket_id: df429343b3d7
+  type: related_to
 resolved: false
 source_tool: hold
 tags:
