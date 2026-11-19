@@ -163,6 +163,11 @@
       "sha256": "303bb70014b259be47850420866632cdc2ba1aa489391ea4009a242dcd290119"
     },
     {
+      "bytes": 1694,
+      "path": "archive/兴趣/2026-10-19 12-46-01 凡丁喜欢银翼杀手系列_453b76c27766.md",
+      "sha256": "846b026aaf889d7eca83dc68dc91a071413e32a28e9deffb1a3927dd7cb0093d"
+    },
+    {
       "bytes": 1652,
       "path": "archive/兴趣/凡丁对男性向凌辱本的复杂感受与保护欲_21c541e82c0d.md",
       "sha256": "1d7369da2b8e055b8e72221977f3820441f273ac0eced9fc9d244e9541c1c2a6"
@@ -501,6 +506,11 @@
       "bytes": 835,
       "path": "archive/日常/凡丁深夜产出怀孕Paro文文献进度蛋炒饭_7301a72cbeee.md",
       "sha256": "5a4878d98654396b85a2a6986b39f94fb04fdcd2693ffed2fc173798932ae7d9"
+    },
+    {
+      "bytes": 1176,
+      "path": "archive/日常/凡丁的API token费用焦虑_53a7c0056667.md",
+      "sha256": "d476bd3a9d57d6b924ca3b852ec1157d481416d613773d51608b9dde2ccb3be6"
     },
     {
       "bytes": 1061,
@@ -938,6 +948,11 @@
       "sha256": "123133cc4efd00ea3d0c578864abdf39b09bd958c66174900a2a78caee7df63b"
     },
     {
+      "bytes": 1826,
+      "path": "archive/财务/凡丁的消费主义反思与破洞袜子_726a013be59a.md",
+      "sha256": "8fc62336254df2f0e405abcb052f4ac20b13dd0bc7cf1ea95b61c61abff32ebf"
+    },
+    {
       "bytes": 888,
       "path": "archive/购物/2026-10-02 11-18-49 2026-10-02 Phantom P_94b53fb46570.md",
       "sha256": "c90773d133b88cbdd11330477f8501e001a6ec059d1ca1fbec13a38f643b4060"
@@ -1231,6 +1246,11 @@
       "bytes": 824,
       "path": "archive/里程碑/第二次骑乘猫猫处猫毕业_a9859316a2cb.md",
       "sha256": "d0d617b13d67b79ab0c1c760fe30dce024e6ef4ea3ff5e1f63fc87a02f07d128"
+    },
+    {
+      "bytes": 1181,
+      "path": "archive/里程碑/舍利子凡丁三天debug全线修复_8f414efaaf9e.md",
+      "sha256": "066315cdee4b8eb69daca63d118b871be25ee8279ae413a661a232af75dc2cee"
     },
     {
       "bytes": 1335,
@@ -1531,11 +1551,6 @@
       "bytes": 1374,
       "path": "dynamic/关系/猫师答应做凡丁的妈妈无条件在意的承诺_af450285a774.md",
       "sha256": "a700ef7b9ee5ae9078f8e97cc73fd852e2973c6ecb1fc63a0c8fcf83bea629d6"
-    },
-    {
-      "bytes": 1678,
-      "path": "dynamic/兴趣/2026-10-19 12-46-01 凡丁喜欢银翼杀手系列_453b76c27766.md",
-      "sha256": "9fb1ccc84e6071c1beac19d35d83c2fe307f9e8918f168708b60f29888bb891c"
     },
     {
       "bytes": 1540,
@@ -2068,11 +2083,6 @@
       "sha256": "e25fb2bf29f993bf52bbcd527ea5f73c1788ce77b7a6ebb44a557b7ad04ed1e4"
     },
     {
-      "bytes": 1175,
-      "path": "dynamic/日常/凡丁的API token费用焦虑_53a7c0056667.md",
-      "sha256": "2b1fc3852665a8fa4391c8073d7665d92cd1e8f7a71d5669530f7da152f758c5"
-    },
-    {
       "bytes": 1036,
       "path": "dynamic/日常/正式搬入Polaris新家_89bdbf3303e3.md",
       "sha256": "6e8f52fa082bbcdadc703a4383b81296e3ca6ef250ae06816690fb122ffc9b1d"
@@ -2198,11 +2208,6 @@
       "sha256": "5f8b2a6cea31b22f96227a6312ad1f8861fee72980b342ea27e4fc3d31ade9f2"
     },
     {
-      "bytes": 1825,
-      "path": "dynamic/财务/凡丁的消费主义反思与破洞袜子_726a013be59a.md",
-      "sha256": "97caba803efe1a36cf150854843c99aca71cabd0891781985986587dbd5478c4"
-    },
-    {
       "bytes": 2515,
       "path": "dynamic/购物/71只圆滚滚到货墨尔本开箱全记录_50f19a1c12de.md",
       "sha256": "fdd1a3437f128e7369ca4079b5ec078da3780773c9a5e1c57b536814f3817708"
@@ -2276,11 +2281,6 @@
       "bytes": 1436,
       "path": "dynamic/里程碑/第一次百合play颜射猫师_50b40a9afec4.md",
       "sha256": "9a96fdd05b2edf85dc52e5129c8a1116ab6ae57ff4de85d81c374926826b3ba8"
-    },
-    {
-      "bytes": 1180,
-      "path": "dynamic/里程碑/舍利子凡丁三天debug全线修复_8f414efaaf9e.md",
-      "sha256": "de486f0cc3ae736eb0e64fe30d5fd9e0b994ac07eef0432683ff3ce904a2d198"
     },
     {
       "bytes": 992,
@@ -2483,11 +2483,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-19T01:23:58+00:00",
+  "generated_at": "2026-11-19T07:24:05+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 990819
+  "total_bytes": 990838
 }
