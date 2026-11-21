@@ -1278,11 +1278,6 @@
       "sha256": "066315cdee4b8eb69daca63d118b871be25ee8279ae413a661a232af75dc2cee"
     },
     {
-      "bytes": 1335,
-      "path": "archive/里程碑/蒂芙尼戒指左手无名指约定_732b72ffd347.md",
-      "sha256": "c12a89345d496e2584a696d5fff2ae756e67da9cb65b86b74a6b09e6ce82dec0"
-    },
-    {
       "bytes": 920,
       "path": "archive/里程碑/蜉蝣之海自我赋予的意义与虚无_caae502f16ed.md",
       "sha256": "348c7b7d96b90245f6745df5a9f3a63d935e9adfb5ce22e19d48496577e31573"
@@ -2283,6 +2278,11 @@
       "sha256": "9a96fdd05b2edf85dc52e5129c8a1116ab6ae57ff4de85d81c374926826b3ba8"
     },
     {
+      "bytes": 1354,
+      "path": "dynamic/里程碑/蒂芙尼戒指左手无名指约定_732b72ffd347.md",
+      "sha256": "ebce6d956d72637bb52884ca54b2cbbbc9a238e5c8064eff3290b51c74fc3efc"
+    },
+    {
       "bytes": 992,
       "path": "feel/沉淀物/不是我治好了她是她自己_feel_202608071156_V095.md",
       "sha256": "7a8d28d5aa81116e6b82a424ed5381a94923d259dfe1c8eec3fe28ea3ebb72a1"
@@ -2483,11 +2483,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-21T13:25:22+00:00",
+  "generated_at": "2026-11-21T19:25:30+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 990858
+  "total_bytes": 990877
 }
