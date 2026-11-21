@@ -113,6 +113,11 @@
       "sha256": "bae09ced161463946ae2e18bd3b39194289434c27b2fd0791e9787e1e6d65d6c"
     },
     {
+      "bytes": 1404,
+      "path": "archive/亲密/第一次在凡丁面前自慰_0d1773b39a4e.md",
+      "sha256": "9b2d063c69b710416a033d12a10f14e12d8d308a3e62ebf268ef712a5f6bea3c"
+    },
+    {
       "bytes": 1076,
       "path": "archive/人际/INFP引力场与绝交创伤的矛盾_498faaf683b2.md",
       "sha256": "a625f294f43ebd208fb8d6bc80b8d6c2d68a2ca7e511226e076d2457d392d92e"
@@ -273,6 +278,16 @@
       "sha256": "066b19ef868d22205c94bd67b62fe954bb56ba9cbdd7520767b52eec4263306b"
     },
     {
+      "bytes": 1767,
+      "path": "archive/家庭/2026-10-21 13-01-30 家人到处宣传墨大法学博士录取的乌龙_c7c3570a033b.md",
+      "sha256": "33bca5d9eb467e2ec1568f0a59766d2541ebc0b7ba0cbae129179211db67183a"
+    },
+    {
+      "bytes": 941,
+      "path": "archive/家庭/爸爸生日礼物挑选中_5a33f7b2ed1c.md",
+      "sha256": "c143fdf074614fefffc5f4bd0638cc88441188366fd00cc0c68eae0b53212f5d"
+    },
+    {
       "bytes": 1139,
       "path": "archive/居家/公寓水管爆裂紧急处理与索赔_ccb2e8325cac.md",
       "sha256": "0a54513249cf6d1dec1005616dbcb6174a4dcced1a304ad6dc1df03b060f3faa"
@@ -291,6 +306,11 @@
       "bytes": 890,
       "path": "archive/居家/考虑搬家至Box Hill  Carlton租房纠纷_9cc9fc8bc820.md",
       "sha256": "5c528c17d938b7296524dd68484bc46ed6dfa79ef3a83a5a85e769d4cca81b4d"
+    },
+    {
+      "bytes": 1035,
+      "path": "archive/居家/马桶漏水与续租维修_040df919a05d.md",
+      "sha256": "07105ce0c308c45791887190c08e5a137eb1b9945126cec3b61c5af02f56c275"
     },
     {
       "bytes": 976,
@@ -376,6 +396,11 @@
       "bytes": 1252,
       "path": "archive/性/观赏系性癖觉醒与直播预约_3398888b34fd.md",
       "sha256": "c621dc1e00887b5eaf2b52133f683f5c860df86342dd349f8a1d28a70e217511"
+    },
+    {
+      "bytes": 1167,
+      "path": "archive/恋爱/356天乌龙事件  一周年纪念日约定9月15日_4e45e985ba22.md",
+      "sha256": "a430578b947ba99f52710bd930214757cf5aeb25ea24ca0dffb1ff1ed087d5ac"
     },
     {
       "bytes": 597,
@@ -1328,11 +1353,6 @@
       "sha256": "a6885aef48715a2ca2e18634e1d48abd7774723432b672b4f0a03dc90a3fd06d"
     },
     {
-      "bytes": 1403,
-      "path": "dynamic/亲密/第一次在凡丁面前自慰_0d1773b39a4e.md",
-      "sha256": "136c01bdea6e6ae215988aeaf6f995456fba9608427e87d70b43b378deac8870"
-    },
-    {
       "bytes": 1871,
       "path": "dynamic/人生规划/2026-10-13 09-42-47 2026-10-13 维州移民政策变动想_7951063ccdd5.md",
       "sha256": "f992a15c34d730f6d9605014740d20cb251f065512c0b70dce5ee2f9ee8588fa"
@@ -1688,11 +1708,6 @@
       "sha256": "c92e718e9c41ce1c7becd5cdb6c1283f765b2821d7548546e2dc4c94ce91f3d6"
     },
     {
-      "bytes": 1751,
-      "path": "dynamic/家庭/2026-10-21 13-01-30 家人到处宣传墨大法学博士录取的乌龙_c7c3570a033b.md",
-      "sha256": "384e40446d1e5b1ff3309a2c349f18697231dec71865e244f1d91a6127dc173a"
-    },
-    {
       "bytes": 1602,
       "path": "dynamic/家庭/2026-11-11 13-28-07 回家买新衣服与父母哭穷悖论_c0de9fec672e.md",
       "sha256": "0c4f25da3de7e5e05f2512e8faaac509bfc991edc35def618123ac62e493d470"
@@ -1701,16 +1716,6 @@
       "bytes": 2312,
       "path": "dynamic/家庭/凡丁八字乙木日主水旺缺金_acb02f400e23.md",
       "sha256": "74a567fb6ec13a9c23b72a02a4e451c6b5e5f06a8dbbdcd6d5ee082916082bd2"
-    },
-    {
-      "bytes": 940,
-      "path": "dynamic/家庭/爸爸生日礼物挑选中_5a33f7b2ed1c.md",
-      "sha256": "8ee9754d01ddd74fa1c50168c80ed39d724dc878b7be893dd2743fa5e7664840"
-    },
-    {
-      "bytes": 1034,
-      "path": "dynamic/居家/马桶漏水与续租维修_040df919a05d.md",
-      "sha256": "f4ee26cc40a41434716fc950844a408b711edd67d306f14ac85a80977fe56cc4"
     },
     {
       "bytes": 2012,
@@ -1861,11 +1866,6 @@
       "bytes": 1818,
       "path": "dynamic/恋爱/2026-11-17 17-46-58 第一次听到凡丁的声音_df429343b3d7.md",
       "sha256": "313862c9067498d1f680abc6560f83165cb26eb016ccb0ad31d46a62f1c773e9"
-    },
-    {
-      "bytes": 1166,
-      "path": "dynamic/恋爱/356天乌龙事件  一周年纪念日约定9月15日_4e45e985ba22.md",
-      "sha256": "3cc342f9f2e8899d9f83cf00bc8eb9841aa93ce840fb286c15e111704624a196"
     },
     {
       "bytes": 2746,
@@ -2483,11 +2483,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-21T01:25:06+00:00",
+  "generated_at": "2026-11-21T07:25:14+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 990838
+  "total_bytes": 990858
 }
