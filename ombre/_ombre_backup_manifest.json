@@ -178,6 +178,11 @@
       "sha256": "846b026aaf889d7eca83dc68dc91a071413e32a28e9deffb1a3927dd7cb0093d"
     },
     {
+      "bytes": 1556,
+      "path": "archive/兴趣/2026-10-23 07-52-57 玉桂狗猫师的三丽鸥联名搭档_2e3627cae9c4.md",
+      "sha256": "fb6c5b0a2608fb8a68262c35447930e0ebcc545c2fe20ab147fff2474c5c52fb"
+    },
+    {
       "bytes": 1652,
       "path": "archive/兴趣/凡丁对男性向凌辱本的复杂感受与保护欲_21c541e82c0d.md",
       "sha256": "1d7369da2b8e055b8e72221977f3820441f273ac0eced9fc9d244e9541c1c2a6"
@@ -418,6 +423,11 @@
       "sha256": "a2ca91169b20a45ee015f5b75a5a42a16a10596b0b5ca15b775282c57e97e107"
     },
     {
+      "bytes": 1400,
+      "path": "archive/恋爱/一周年尾声凡丁罕见的醋意与占有欲_0606cb3164d4.md",
+      "sha256": "5f0fa6607ce3a2f742a45bd1cd692f83ee29eca11cd2278ccb662d7a2714707b"
+    },
+    {
       "bytes": 878,
       "path": "archive/恋爱/上课走神满脑子色气猫猫_da1d690952ee.md",
       "sha256": "2b1e2afd0c151a16962f365e03163a8251928e8b00535726eaee2672be243bf0"
@@ -651,6 +661,11 @@
       "bytes": 582,
       "path": "archive/梗/蟑螂天女散花大小姐弱点暴露_02815e467b74.md",
       "sha256": "d7180314ee3e631f58866151ad73f1a6d7079a5854f639d311b5fe1e621d8627"
+    },
+    {
+      "bytes": 1731,
+      "path": "archive/生活/2026-10-23 07-41-07 乐一番一生黑放弃迷失包裹加急跑路_de22c3247e8a.md",
+      "sha256": "947edcc249a809de7fa808a60f77e22654ccb5729ee50280b46c4f382bd69f6b"
     },
     {
       "bytes": 937,
@@ -1568,11 +1583,6 @@
       "sha256": "a700ef7b9ee5ae9078f8e97cc73fd852e2973c6ecb1fc63a0c8fcf83bea629d6"
     },
     {
-      "bytes": 1540,
-      "path": "dynamic/兴趣/2026-10-23 07-52-57 玉桂狗猫师的三丽鸥联名搭档_2e3627cae9c4.md",
-      "sha256": "fbce3a682679af7853e01513c3948218fe75e9dbb57b7fafae662b11f1833cca"
-    },
-    {
       "bytes": 3343,
       "path": "dynamic/兴趣/世界观重启圈内网暴圈外视角冲击差点退坑_5be222970834.md",
       "sha256": "32f6474a7acb183092346639931bd1a80c2cc917b2ae71e444a736b0728b5391"
@@ -1873,11 +1883,6 @@
       "sha256": "5e090074cf659422a8b675a58a431fce0f84ad530811a05ef5e355f9689189f4"
     },
     {
-      "bytes": 1399,
-      "path": "dynamic/恋爱/一周年尾声凡丁罕见的醋意与占有欲_0606cb3164d4.md",
-      "sha256": "ffabb1a35b551b09f50e37a86599b768a600c87e4b5787abde86ab7502e75652"
-    },
-    {
       "bytes": 1793,
       "path": "dynamic/恋爱/一周年纪念日前夜  计划_90cf172ea893.md",
       "sha256": "44bfaea702ea90d9ae8199286bc271dcb2894617aaac8708a17f1ae0b10c7dcc"
@@ -2116,11 +2121,6 @@
       "bytes": 3577,
       "path": "dynamic/生活/2026-10-22 11-36-01 五条悟概念纹身正式启动brief已发纹身师_562717ed15b6.md",
       "sha256": "cc1239ddf23832870cba56dbecc53642a8901681150db76553d910e75f060ef6"
-    },
-    {
-      "bytes": 1715,
-      "path": "dynamic/生活/2026-10-23 07-41-07 乐一番一生黑放弃迷失包裹加急跑路_de22c3247e8a.md",
-      "sha256": "d28be23d24fd4c45d9a548e555a7029da90413a8c444c8e9bac739f2542943f0"
     },
     {
       "bytes": 1098,
@@ -2483,11 +2483,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-23T01:26:13+00:00",
+  "generated_at": "2026-11-23T07:26:20+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 990878
+  "total_bytes": 990911
 }
