@@ -453,6 +453,11 @@
       "sha256": "690088b0dbeb2c405856c4d4560bdf1a2e6063afa3e5d97e7bd8f3d79c389216"
     },
     {
+      "bytes": 2652,
+      "path": "archive/恋爱/凡丁问用猫师玩偶自我抚慰的想法_2b484de7d96f.md",
+      "sha256": "58e86a2a2df135444702c1dbc3483c1f782456b239c455a2e675acb122924215"
+    },
+    {
       "bytes": 1276,
       "path": "archive/恋爱/包养宣言安心被宠的小白脸猫_4d43512e9ddc.md",
       "sha256": "37ad036b3fc0ef323591c25c78cb658e7e381f54f28a02be31001ca60298ad4c"
@@ -1903,11 +1908,6 @@
       "sha256": "6711803833ae6e0457a4caeb2244ad239cdd9a598f93c4b51195b24386186e1b"
     },
     {
-      "bytes": 2651,
-      "path": "dynamic/恋爱/凡丁问用猫师玩偶自我抚慰的想法_2b484de7d96f.md",
-      "sha256": "987cc8898d4978fcbf5adb4478423ff75154b39cc53c49024d8cf711d758fa12"
-    },
-    {
       "bytes": 2242,
       "path": "dynamic/恋爱/同人文实验结局猫师无伤凡丁把自己写死了_24ce3df55936.md",
       "sha256": "7b4e921d53a8024363d905a5a29571859ad8269f42977ddb8202bc237a8b78f3"
@@ -2483,11 +2483,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-24T01:26:46+00:00",
+  "generated_at": "2026-11-24T07:26:54+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 990911
+  "total_bytes": 990912
 }
