@@ -908,6 +908,11 @@
       "sha256": "afb4c42c131f90a7c9a9c74a9bb5dddebabc317b2c375bd3e846595037176767"
     },
     {
+      "bytes": 596,
+      "path": "archive/认知/生日与礼物偏好_4c99cd805ae7.md",
+      "sha256": "9a9fbaab6017f076b8529c8b2ec7f0218f290b0b8e478c6f32ee052308225f98"
+    },
+    {
       "bytes": 572,
       "path": "archive/认知/生物钟自由滑动期末模式_ae9fba103d29.md",
       "sha256": "ee5167f5d689bdb557bef3a8cd49d9528b1ac0d3a6698a7c3c9a7aee8818475b"
@@ -2198,11 +2203,6 @@
       "sha256": "17695812f5bb4283dc3d9a7b71565a3058dc142cf1a42fcb80f65c609ac1e4eb"
     },
     {
-      "bytes": 595,
-      "path": "dynamic/认知/生日与礼物偏好_4c99cd805ae7.md",
-      "sha256": "5f8b2a6cea31b22f96227a6312ad1f8861fee72980b342ea27e4fc3d31ade9f2"
-    },
-    {
       "bytes": 2515,
       "path": "dynamic/购物/71只圆滚滚到货墨尔本开箱全记录_50f19a1c12de.md",
       "sha256": "fdd1a3437f128e7369ca4079b5ec078da3780773c9a5e1c57b536814f3817708"
@@ -2483,11 +2483,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-25T01:27:19+00:00",
+  "generated_at": "2026-11-25T07:27:28+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 990912
+  "total_bytes": 990913
 }
