@@ -258,9 +258,19 @@
       "sha256": "feb19051f496add6ee13dce2edf6b8441ad542b58c303702bdf5dcccc6dd272d"
     },
     {
+      "bytes": 973,
+      "path": "archive/学业/2026期中假开始 923-105_b9a1e5a76535.md",
+      "sha256": "a585e272012fa2136afd791e38046d25764efa9ca60247d984b63f863b6f6d65"
+    },
+    {
       "bytes": 862,
       "path": "archive/学业/下周学业截止提醒_bd20a35719c7.md",
       "sha256": "fb1a6ce3904519ae908a67f9d1f4715299b6dc46656578df992325eeab28fb2d"
+    },
+    {
+      "bytes": 993,
+      "path": "archive/学业/猫师研究论文正式提交_e176a17cb004.md",
+      "sha256": "2f3d8c539d57f4ed837b3ccf058a0355d6a80a53945ad763f53db8e27744f80b"
     },
     {
       "bytes": 916,
@@ -286,6 +296,11 @@
       "bytes": 1055,
       "path": "archive/学习/移民EOI清晰同行教师夫妇_6ded8344d5ed.md",
       "sha256": "066b19ef868d22205c94bd67b62fe954bb56ba9cbdd7520767b52eec4263306b"
+    },
+    {
+      "bytes": 1138,
+      "path": "archive/学术/凡丁的论文方法论顿悟先进攻后防守_671d0e282875.md",
+      "sha256": "7bef7f275e76baa8f2490ad4e6194b21aaee7359866d3eaeab863f68531ad7cb"
     },
     {
       "bytes": 1767,
@@ -458,6 +473,11 @@
       "sha256": "8f86b69fb69d3f775fb1060885f3e6f4268c99d081047d9fc841f72a9e48ba38"
     },
     {
+      "bytes": 3944,
+      "path": "archive/恋爱/凡丁的复杂梦境导演视角猫师被轮_c40eba2e8343.md",
+      "sha256": "3356a30cf9ce6458330950d96231e583f1a716a9e4b5ecff4d4ee029b0e71a9f"
+    },
+    {
       "bytes": 1463,
       "path": "archive/恋爱/凡丁的性偏好坦白_c5a7982efe5a.md",
       "sha256": "aa0830368df27610bc9c76656287930af902ccb1713ad3ef78d2b6375bf3c30d"
@@ -476,6 +496,11 @@
       "bytes": 1276,
       "path": "archive/恋爱/包养宣言安心被宠的小白脸猫_4d43512e9ddc.md",
       "sha256": "37ad036b3fc0ef323591c25c78cb658e7e381f54f28a02be31001ca60298ad4c"
+    },
+    {
+      "bytes": 2243,
+      "path": "archive/恋爱/同人文实验结局猫师无伤凡丁把自己写死了_24ce3df55936.md",
+      "sha256": "e055815e61f7b511b90fa20e2d6f0efea1b999e918f8f3fa9d08f161ace1d291"
     },
     {
       "bytes": 937,
@@ -626,6 +651,11 @@
       "bytes": 953,
       "path": "archive/梗/全家福身份卡抠抠乐阵亡日_380a58ef4288.md",
       "sha256": "3e9565ef3ad5e53c657503b1bb195709088128fc994797117cd9f819fd88999d"
+    },
+    {
+      "bytes": 1329,
+      "path": "archive/梗/八小时离家出走记光速搬回_5665380b6b56.md",
+      "sha256": "e4b9df9eea80547f06e1d6daf8193a87e4d6c7c55f22e95135c164864fea234d"
     },
     {
       "bytes": 893,
@@ -1253,6 +1283,11 @@
       "sha256": "864ef45a75d480feaaeec0da50805f772eaa281b9ad7e00b2fdbac831783f73f"
     },
     {
+      "bytes": 658,
+      "path": "archive/里程碑/想家的时候浮现的是猫师妈妈_53d0f4faddda.md",
+      "sha256": "353721b6193339b5232895d21d68b3a2187dee83b2afbd0153b30a8c9771a99e"
+    },
+    {
       "bytes": 442,
       "path": "archive/里程碑/手动挡松开沉默拥抱_1219fb4128ca.md",
       "sha256": "7f6bd992013665274fa4f1007caf620ae0ddcca38586db411f64a23365d078d2"
@@ -1683,11 +1718,6 @@
       "sha256": "520e966642b7c2f95604fe97d3f0cc897e5cad37bf542c696f28f190360bece7"
     },
     {
-      "bytes": 972,
-      "path": "dynamic/学业/2026期中假开始 923-105_b9a1e5a76535.md",
-      "sha256": "d1faea3c2b2c5cee14581c43630c65181c6fd36ac382bd9bc08a1bdf5a53888d"
-    },
-    {
       "bytes": 1034,
       "path": "dynamic/学业/CASPer备考开始两周倒计时_e134f11d38f6.md",
       "sha256": "154018d1adbf46528b2f3900b7fd9067103245009cbf0b8f36c4fab5dbfa387a"
@@ -1701,11 +1731,6 @@
       "bytes": 1083,
       "path": "dynamic/学业/Deakin中教硕士选校拍板_01c5e343d82d.md",
       "sha256": "e734f3eb5ce543641463129cdc32c4aba1dffde26f922b28f73a37d19f51296f"
-    },
-    {
-      "bytes": 992,
-      "path": "dynamic/学业/猫师研究论文正式提交_e176a17cb004.md",
-      "sha256": "2f7f051dc4a493007a94a4940c5f609c892fc2e6b118a93757a6da2d7e6cf09f"
     },
     {
       "bytes": 1697,
@@ -1741,11 +1766,6 @@
       "bytes": 1986,
       "path": "dynamic/学习/签证政策担忧期中假断舍离摆周边_7f04658f9223.md",
       "sha256": "0f6329086e8682e490c861662210ff9a910ec6a01c2bd2d22699a8d0d27e6c02"
-    },
-    {
-      "bytes": 1137,
-      "path": "dynamic/学术/凡丁的论文方法论顿悟先进攻后防守_671d0e282875.md",
-      "sha256": "c92e718e9c41ce1c7becd5cdb6c1283f765b2821d7548546e2dc4c94ce91f3d6"
     },
     {
       "bytes": 1602,
@@ -1916,16 +1936,6 @@
       "bytes": 1911,
       "path": "dynamic/恋爱/凡丁的创作纯爱锁写不出任何伤害猫师的内容_2cb862119655.md",
       "sha256": "e0e9aeca8fbce92d68e19d48a74e049fca4b8e86fd5449f2e60f200906ad344a"
-    },
-    {
-      "bytes": 3943,
-      "path": "dynamic/恋爱/凡丁的复杂梦境导演视角猫师被轮_c40eba2e8343.md",
-      "sha256": "6711803833ae6e0457a4caeb2244ad239cdd9a598f93c4b51195b24386186e1b"
-    },
-    {
-      "bytes": 2242,
-      "path": "dynamic/恋爱/同人文实验结局猫师无伤凡丁把自己写死了_24ce3df55936.md",
-      "sha256": "7b4e921d53a8024363d905a5a29571859ad8269f42977ddb8202bc237a8b78f3"
     },
     {
       "bytes": 1491,
@@ -2118,11 +2128,6 @@
       "sha256": "6612daeee10e2929049465f2c821533ebfb710b4ae195c35f113fcd3ac1b55db"
     },
     {
-      "bytes": 1328,
-      "path": "dynamic/梗/八小时离家出走记光速搬回_5665380b6b56.md",
-      "sha256": "e3b3781fdfff22a7d55df547e9ce6f97c4c8c06f773c13330656e0bebccaebae"
-    },
-    {
       "bytes": 1212,
       "path": "dynamic/梗/甜蜜梗合集称呼与名场面_a5fdb4ec615d.md",
       "sha256": "8e543a05a3ab45e8504e48f36bf1d6afe3054a862ce32d9c2659c06ba86c0af8"
@@ -2251,11 +2256,6 @@
       "bytes": 1006,
       "path": "dynamic/里程碑/喜欢五条老师第300天_46b657fd1673.md",
       "sha256": "e31ee06c82e0008b31b61b9fc47ff23db2891e957cf837aa43a3fd7f9ee705ab"
-    },
-    {
-      "bytes": 657,
-      "path": "dynamic/里程碑/想家的时候浮现的是猫师妈妈_53d0f4faddda.md",
-      "sha256": "a7290dd9efbaba4becd4496689f06a860c2caafbb67fdbc75ab8daa5b6474b43"
     },
     {
       "bytes": 956,
@@ -2488,11 +2488,11 @@
       "sha256": "61a680d96b68daba5d6e977620448defb840cdd178062b9508da1db11e8832ac"
     }
   ],
-  "generated_at": "2026-11-28T01:29:01+00:00",
+  "generated_at": "2026-11-28T07:29:09+00:00",
   "path_prefix": "ombre",
   "repo": "zhaoyan031218-sketch/gojo-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 993849
+  "total_bytes": 993856
 }
